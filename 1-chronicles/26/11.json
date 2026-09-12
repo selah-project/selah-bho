@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 26:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "हिल्कियाहू दूसरा, तबलियाहू तीसरा, जकर्याहू चउथा; होसा के सब बेटा आ भाई तेरह रहलें।",
+  "tokens": [
+    {
+      "surface": "חלקיהו",
+      "gloss": "हिल्कियाहू"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "טבליהו",
+      "gloss": "तबलियाहू"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "जकर्याहू"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "आ भाई"
+    },
+    {
+      "surface": "לחסה",
+      "gloss": "होसा के"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(रहलें)"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:33.016740786Z",
+  "model": "glm-5.3"
+}

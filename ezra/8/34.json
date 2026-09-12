@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 8:34",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "सब के गिनती आ तौल से; आ ओही समय पूरा तौल लिख लिहाइल गइल।",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "गिनती से"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "तौल से"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "आ लिख लिहाइल गइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "המשקל",
+      "gloss": "तौल"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-09-11T22:45:27.882585544Z",
+  "model": "glm-5.3"
+}

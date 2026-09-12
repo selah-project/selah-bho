@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "रउआ आपन दहिन्ना हाथ फैलाला, धरती ओकरा निगल लिहलस।",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "रउआ फैलाला"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "आपन दहिन्ना हाथ"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "निगल लिहलस"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:13.880233513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "गवाही के बान्हऽ, मोर सिखावल लोगन में तोरा के सील करऽ।",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "बान्हऽ"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "गवाही के"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "सील करऽ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोरा के"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "मोर सिखावल लोगन में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:01:08.482352401Z",
+  "model": "glm-5.3"
+}

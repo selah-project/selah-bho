@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ मनस्सेह के हिस्सा दस गिरल, गिलाद के धरती आ बाशान के अलावा, जे यर्दन के ओ पार बा।",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "आ ... गिरल"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनस्सेह के"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "के अलावा"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "के धरती"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "आ बाशान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ओ पार"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "यर्दन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:55.812029998Z",
+  "model": "glm-5.3"
+}

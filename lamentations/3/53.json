@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ लोग गड़हा में हमर जिनगी काट दिहलन आ हमरे ऊपर पत्थर फेंकलन।",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "काट दिहलन"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "गड़हा में"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "हमर जिनगी"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "फेंकलन"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरे ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.486243832Z",
+  "model": "glm-5.3"
+}

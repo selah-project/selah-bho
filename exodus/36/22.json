@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "एक तख्ता खातिर दू हाथ-जोड़ ⟨बाड़ें⟩, एक दूसरा से जुड़ल; एहनेच ओ मिसकान के सब तख्ता सभ खातिर कइलन।",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "हाथ-जोड़"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "तख्ता खातिर"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "जुड़ल"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहनेच"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब खातिर"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "तख्ता सभ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिसकान के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:41.261262524Z",
+  "model": "glm-5.3"
+}

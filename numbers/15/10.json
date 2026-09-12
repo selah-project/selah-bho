@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 15:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ चढ़ावा खातिर आधा हिन दाखरस परोसऽ — यहवे खातिर अग्नि-भेंट, मन भावे सुगंध।",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "आ दाखरस"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "परोसऽ"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "चढ़ावा खातिर"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "हिन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अग्नि-भेंट"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "सुगंध"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "मन भावे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:19.754486334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 11:23",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ओकरे संग जुड़ाव के बाद ऊ धोखा करत; ऊ उठत आ कम लोग के जत्था ले बलवान होत।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "संग"
+    },
+    {
+      "surface": "התחברות",
+      "gloss": "जुड़ाव के बाद"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरे"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करत"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "उठत"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "बलवान होत"
+    },
+    {
+      "surface": "במעט",
+      "gloss": "कम"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "लोग के जत्था"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:20.831947338Z",
+  "model": "glm-5.3"
+}

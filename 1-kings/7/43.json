@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ⟨את⟩ दस ठाँचा, आ ⟨את⟩ दस हौड़ी ओ ठाँचा सभे के ऊपर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दस ठाँचा"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "दस ठाँचा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दस हौड़ी"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "दस हौड़ी"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ठाँचा सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:33.697420596Z",
+  "model": "glm-5.3"
+}

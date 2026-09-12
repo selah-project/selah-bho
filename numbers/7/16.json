@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरा सभ मा से एक, पाप-भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "सभ मा से"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:09.749912316Z",
+  "model": "glm-5.3"
+}

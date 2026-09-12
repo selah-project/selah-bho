@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ अवराहाम धरती के जनता के आगे दंडवत कइलन।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "दंडवत कइलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:31.882041123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "काट दिहल गइल बा मोआब के सीँग, आ ओकर बाँह तूट गइल बा — यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "काट दिहल गइल बा"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "सीँग"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "आ ओकर बाँह"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "तूट गइल बा"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:18.859603600Z",
+  "model": "glm-5.3"
+}

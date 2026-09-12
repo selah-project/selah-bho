@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तूँ आपन गोरल हमनी के बीच डाल दे, हमनी सभे खातिर एके थैली रहे।",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "तूँ आपन गोरल"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "डाल दे"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "हमनी के बीच"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "थैली"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एके"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "हमनी सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:03.057982918Z",
+  "model": "glm-5.3"
+}

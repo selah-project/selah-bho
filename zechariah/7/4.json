@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे त्सेबाओत के सबद हमरा ला आवल, कहेला:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भवा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "सबद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सेबाओत"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ला"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:56.658533384Z",
+  "model": "glm-5.3"
+}

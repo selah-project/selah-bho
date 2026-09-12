@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ कोत्स ⟨את⟩ अनूब के जनम दिहलन, आ ⟨את⟩ हत्सोबेबाह के; आ हारूम के बेटा अहारहेल के कुल सभे।",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "आ कोत्स"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अनूब"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "अनूब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हत्सोबेबाह"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "हत्सोबेबाह"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "आ कुल सभे"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "अहारहेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "हारूम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:29.896436595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "उठऽ यहवे! एल, हाथ उठाअ! दुखिन लोगन के बिसरऽ ना।",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठाअ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसरऽ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दुखिन लोगन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:30.602508027Z",
+  "model": "glm-5.3"
+}

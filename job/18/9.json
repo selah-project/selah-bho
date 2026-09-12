@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "जाल एड़ी के पकड़ेला, फंदा ओकरा पर जकड़ेला।",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "पकड़ेला"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "एड़ी के"
+    },
+    {
+      "surface": "פח",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "जकड़ेला"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "फंदा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:57.329292394Z",
+  "model": "glm-5.3"
+}

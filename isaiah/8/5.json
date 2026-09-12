@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ यहवे फेर हमरा लगे बोललन, कहलन —",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "फेर (जोड़ के)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लगे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:01:41.626603781Z",
+  "model": "glm-5.3"
+}

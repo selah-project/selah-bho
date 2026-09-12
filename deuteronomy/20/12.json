@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ अगर ऊ रउआ के संगे शांति ना करे, बलुक रउआ के संगे लड़ाई करे, त रउआ ओकरा घेर लेब।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "शांति करे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के संगे"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "बलुक…करे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के संगे"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "घेर लेब"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:50.516941973Z",
+  "model": "glm-5.3"
+}

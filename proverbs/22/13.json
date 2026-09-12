@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आलसी कहेला — “बाहरे सिंह बा; चौक-गली सभ के बीच में हम मारल जाब।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहरे"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "चौक-गली सभ"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "मारल जाब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:52.860078498Z",
+  "model": "glm-5.3"
+}

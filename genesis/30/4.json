@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ ओ ओकरा ⟨את⟩ बिल्हा — आपन दासी — घरवाही खातिर देली, आ याकोब ओकरा लग गइलें।",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "देली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिल्हा"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "आपन दासी"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "घरवाही खातिर"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ओकरा लग गइलें"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:08.446613274Z",
+  "model": "glm-5.3"
+}

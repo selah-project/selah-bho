@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ नफ्ताली से — सरदार ए हजार, आ उनियन के साथे ढाल आ भाला ले छत्तीस आ सात हजार।",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "आ नफ्ताली से"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ए हजार"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "आ उनियन के साथे"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "ढाल ले"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "आ भाला"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "छत्तीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:28.512354147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ऊ आपन जनता से कहलन: “देखऽ, यिसराएल के बेटा सभे के जनता ढेर बा आ हमनी का से ताकतवर बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "आपन जनता"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभे के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसराएल"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर बा"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "आ ताकतवर"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "हमनी का से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:13.369308501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "“जवनो जगह जहाँ रउआ के पाँव के तलवा औरी, ओकरा हम रउआ सभे के दे देले बानी, जइसन हम मोशे से कहले रहनी।”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जवनो"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "औरी"
+    },
+    {
+      "surface": "כף",
+      "gloss": "तलवा"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "रउआ के पाँव के"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे के"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "दे देले बानी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "कहले रहनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:48:08.268970544Z",
+  "model": "glm-5.3"
+}

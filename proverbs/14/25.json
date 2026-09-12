@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "सच्चा गवाह प्राणन के बचावेला, बाकिर झूठ फूँकेवाला धोखे से भरल बा।",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "बचावेला"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "प्राणन के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच्चा"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "आ फूँकेला"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:34.109795198Z",
+  "model": "glm-5.3"
+}

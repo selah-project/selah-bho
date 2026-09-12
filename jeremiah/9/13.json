@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "ऊ आपन हिया के जिद के पाछे गइलें आ ओह बालिम के पाछे जवन इनहन के पुरखा इनहन के सिखवले रहलें।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "गइलें"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "जिद"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "हिया के"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "आ के पाछे"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "बालिम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "सिखवले रहलें"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "पुरखा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:26:48.647051034Z",
+  "model": "glm-5.3"
+}

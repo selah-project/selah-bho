@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 132,
+  "translation": "“अगर हम अपना घर के टेंट भीतर घुसली, अगर हम अपना बिछौना पर चढ़ली —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "घुसली"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "टेंट भीतर"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "अपना घर के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "चढ़ली"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "बिछौना"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "अपना बिछौना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:02.620684961Z",
+  "model": "glm-5.3"
+}

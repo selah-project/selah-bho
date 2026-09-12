@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "बाकिर अबहिनो लोग ऊँच जगहन पर बलि देत रहल — खाली अपने एलोहीम यहवे खातिर।",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहिनो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "बलि देत रहल"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ऊँच जगहन पर"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "अपने एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:13:25.541737730Z",
+  "model": "glm-5.3"
+}

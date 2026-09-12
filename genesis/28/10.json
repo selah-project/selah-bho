@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ याकोब बेर-शेबा से निकललन आ हारान के ओर चल दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "बेर-शेबा से"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "बेर-शेबा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चल दिहलन"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "हारान के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:22.479938911Z",
+  "model": "glm-5.3"
+}

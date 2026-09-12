@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ ओही से मोशे, अहरोन आ ओकर बेटा सभे धोवलें — ⟨את⟩ आपन हाथ आ ⟨את⟩ आपन गोड़।",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "धोवलें"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आ ओकर बेटा सभे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हाथ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन गोड़"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "आपन गोड़"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:29.115100117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ ई बात पाप बन गइल, आ लोगन के एक के आगे-आगे चलत रहल, दान ले।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... बन गइल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप बन गइल"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "चलत रहल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगन के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे-आगे"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:29:55.436309425Z",
+  "model": "glm-5.3"
+}

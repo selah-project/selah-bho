@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "शोक-घर में जाए बढ़िया बा, भोज-घर में जाए से; काहें कि ईहे सब मनुख के अंत बा, आ जियत मनुख एकरा आपन मन में बइठावेला।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया बा"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "शोक के"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "जाए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "भोज-मेहमानी के"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "काहें कि जहाँ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ईहे"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "आ जियत"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "बइठावेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "आपन मन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:55.270262103Z",
+  "model": "glm-5.3"
+}

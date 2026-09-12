@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आदमी के मन आपन रस्ता बिचारेला, बाकिर यहवे ओकर कदम सिधारेला।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "बिचारेला"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "आपन रस्ता"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "बाकिर यहवे"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "सिधारेला"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "ओकर कदम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:16.562826538Z",
+  "model": "glm-5.3"
+}

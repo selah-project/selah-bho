@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ कोरह के बेटा ना मरलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरलें"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:08.099015906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 21:28",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "ओही समय, यबूसी अरनान के गार में यहवे के ओकर जवाब दिहला के देखते, दाविद ओहिजा बलि कइलन।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "בראות",
+      "gloss": "देखते"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "जवाब दिहला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "के गार में"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अरनान"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "यबूसी"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "बलि कइलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:57.488614943Z",
+  "model": "glm-5.3"
+}

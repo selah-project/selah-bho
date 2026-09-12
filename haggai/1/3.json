@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "फेर यहवे के बचन हाग्गई नबी के हाथे आइल, कहेला:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "फेर आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथे"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "हाग्गई"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:23:26.692795145Z",
+  "model": "glm-5.3"
+}

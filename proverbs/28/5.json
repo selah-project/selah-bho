@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "बुरा मनई इन्साफ़ ना समझेला, बाकिर यहवे के खोज करेवाला सभे बात समझेला।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "इन्साफ़"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "बाकिर खोज करेवाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे बात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:28.230839373Z",
+  "model": "glm-5.3"
+}

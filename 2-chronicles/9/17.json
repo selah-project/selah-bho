@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ राजा हाथी दाँत के एगो बड़ सिंहासन बनवलें, आ ओकरा खरा सोना से मढ़लन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलें"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "שן",
+      "gloss": "हाथी दाँत"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "आ ओकरा मढ़लन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:03.936256664Z",
+  "model": "glm-5.3"
+}

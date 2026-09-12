@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "आ हमनी के पिता कहलन, लौट जाउ आ हमनी के खातिर तनी खाना खरीद के ल्याउ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "हमनी के पिता"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "लौट जाउ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "खरीद के ल्याउ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के खातिर"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "तनी"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:45.344902916Z",
+  "model": "glm-5.3"
+}

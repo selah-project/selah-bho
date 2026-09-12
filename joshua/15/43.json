@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ यिप्ताह, आ अश्ना, आ नत्सिव।",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "आ यिप्ताह"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "आ अश्ना"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "आ नत्सिब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:02.347411258Z",
+  "model": "glm-5.3"
+}

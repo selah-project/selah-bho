@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ओकर बेटा शिमा, ओकर बेटा हग्गिय्या, ओकर बेटा असाय्या।",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "शिमा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "हग्गिय्या"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असाय्या"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:59.000149068Z",
+  "model": "glm-5.3"
+}

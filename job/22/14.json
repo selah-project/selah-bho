@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 22:14",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "बादल ओकर ⟨ए⟩ परदा बाड़ें, तऽ ऊ देखेला ना; आ अकास के चक्कर में ऊ टहलेला।",
+  "tokens": [
+    {
+      "surface": "עבים",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखेला"
+    },
+    {
+      "surface": "וחוג",
+      "gloss": "आ चक्कर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "टहलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:43:01.912646819Z",
+  "model": "glm-5.3"
+}

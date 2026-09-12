@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ यहवे के बात हमरा ले आइल, कहेले:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ले"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेले"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:05.001720930Z",
+  "model": "glm-5.3"
+}

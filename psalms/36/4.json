@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "ओकर मुँह के बात अधर्म आ छल बाड़ी; ऊ समझदारी आ भलाई करे से रुक गइल।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ओकर मुँह के"
+    },
+    {
+      "surface": "און",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "आ छल"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "रुक गइल"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "समझदारी करे से"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "भलाई करे से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:47.372499420Z",
+  "model": "glm-5.3"
+}

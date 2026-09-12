@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एकरा ऊपर यहवे मन बदललन; “ईउ ना होखी”, अदोनाय यहवे कहलन।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "मन बदललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "एकरा ऊपर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ईउ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:15:46.408188438Z",
+  "model": "glm-5.3"
+}

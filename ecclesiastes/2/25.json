@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "काहे कि कौन खावई, आ कौन लालसा करी — हमारा से बाहर?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खावई"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ कौन"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "लालसा करी"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमारा से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:22.646270079Z",
+  "model": "glm-5.3"
+}

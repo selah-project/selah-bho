@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 45:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "आ ऊ मिस्रयिम से ऊपर गइलें आ कनान के धरती में आपन पिता याकोब के पास आइलें।",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ऊपर गइलें"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आइलें"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "आपन पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:56:42.594927522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "केहू भाई के बिलकुल छुड़ा ना सकेला, एलोहीम के ओकर फिरौती ना दे सकेला,",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "भाई के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "बिलकुल छुड़ावे"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "छुड़ा सकेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "केहू मनुख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दे सकेला"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ओकर फिरौती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:17.555999202Z",
+  "model": "glm-5.3"
+}

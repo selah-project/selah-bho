@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ऊ सब हवा-हवा बाड़ें, छल के काम; ओकर दंड-घड़ी में ऊ नष्ट हो जाहीं।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "हवा-हवा"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ सब"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "छल के"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "घड़ी में"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ओकर दंड के"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "नष्ट हो जाहीं"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:58.137247355Z",
+  "model": "glm-5.3"
+}

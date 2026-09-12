@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "काहेकि मोर तालू सच बोलेला, आ मोर होठन खातिर अधर्म घिन के चीज बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "बोलेला"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "मोर तालू"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "आ घिन के चीज"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "मोर होठन खातिर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "अधर्म"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:15.640995581Z",
+  "model": "glm-5.3"
+}

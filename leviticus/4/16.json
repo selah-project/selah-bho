@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ अभिषिक्त कोहेन बछिया के खून मिलन-तम्बू में लावेला।",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "आ लावेला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "अभिषिक्त"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछिया के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:52.381416186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ नोह सब कइलन जवन यहवे ओकरा आज्ञा दइलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोह"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "आज्ञा दइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:56:42.950521252Z",
+  "model": "glm-5.3"
+}

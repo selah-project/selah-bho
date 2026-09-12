@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "का पानी-बरसाव के केहू पिता बा, अथवा ओसा के बूँद केकरो जनमल बा?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "का ... बा"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "पानी-बरसाव के"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "केकरो"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "बूँद"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओसा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:56.120339661Z",
+  "model": "glm-5.3"
+}

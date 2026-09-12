@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "रउआ जइसन केहू नइखे, हे यहवे; रउआ महान बानी, आ बल में रउआ के नाम महान बा।",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "केहू नइखे"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "रउआ जइसन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ बानी"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "आ महान"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "रउआ के नाम"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "बल में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:32.611838596Z",
+  "model": "glm-5.3"
+}

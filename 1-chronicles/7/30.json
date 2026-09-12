@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आशेर के बेटा: यिमना, यिशवा, यिशवी, बेरिया, आ ओकर बहिन सेरा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "यिमना"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "यिशवा"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "यिशवी"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "बेरिया"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "सेरा"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ओकर बहिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:42.712329486Z",
+  "model": "glm-5.3"
+}

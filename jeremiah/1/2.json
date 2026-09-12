@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 1:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "जेकरा ला यहवे के बात आइल, योशियाहू के दिन में — आमोन के बेटा, यहूदा के राजा — ओकर राज के तेरहवाँ बरिस में।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा ला"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा ला"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "आमोन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ओकर राज के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:17.596108762Z",
+  "model": "glm-5.3"
+}

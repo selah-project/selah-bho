@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ अय्यूब आपन मसाल उठावे के बढ़ावलन आ कहलन:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "बढ़ावलन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठावे के"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "आपन मसाल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:32.983725278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "यहवे के भजन में बलिया सहारा बा, आ ओकर लइकन खातिर शरण बनी।",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "के भजन में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "सहारा"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बलिया"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "आ ओकर लइकन खातिर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "शरण"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:34.110018876Z",
+  "model": "glm-5.3"
+}

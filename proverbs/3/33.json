@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रसात के घर में यहवे के फटकार ⟨बा⟩; बाकिर सज्जन लोग के घर के ऊ आशीष देलें।",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "फटकार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "के घर में"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "रसात के"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "बाकिर ... के घर"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "सज्जन लोग"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "आशीष देलें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:02.324657510Z",
+  "model": "glm-5.3"
+}

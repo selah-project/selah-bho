@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रउर बचन पर हम खुश बानी, जइसन कवनो बहुत बड़ लूट के माल पावे वाला।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "खुश बानी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "रउर बचन"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "जइसन पावे वाला"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट के माल"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:15.765373621Z",
+  "model": "glm-5.3"
+}

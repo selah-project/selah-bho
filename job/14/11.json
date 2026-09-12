@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "समुंदर से पानी जा जाला, आ नदी सूख के सूख जाला।",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "जा जाला"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "आ नदी"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "सूख के"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "सूख जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:14.146826394Z",
+  "model": "glm-5.3"
+}

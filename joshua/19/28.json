@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ एबरोन, आ रहोब, आ हम्मोन आ काना — सदे बड़हक सीदोन ले।",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "आ एबरोन"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ रहोब"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "आ हम्मोन"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "आ काना"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदे — ले"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "सीदोन"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़हक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:30.191422628Z",
+  "model": "glm-5.3"
+}

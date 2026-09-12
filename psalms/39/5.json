@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "यहवे, हमार अंत बताईं आ हमार दिनन के माप का ⟨बा⟩; ताकि हम जान सकिनी कि हम कतना तुच्छ बनी।",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "बताईं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "हमार अंत"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "आ माप"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "हमार दिनन के"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨बा⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "जान सकिनी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कतना"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "तुच्छ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:29.584648073Z",
+  "model": "glm-5.3"
+}

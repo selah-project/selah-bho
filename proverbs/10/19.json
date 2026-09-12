@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ढेर बातन में पाप बंचेला ना; बाकिर जे आपन ओठ रोकेला ऊ समझदार ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ढेर में"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "बंचेला"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "बाकिर जे रोकेला"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "आपन ओठ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "समझदार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:18.291031044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ ऊ ⟨את⟩ पाँच परदा सभे के एक के दूसरा से जोड़लन, आ पाँच परदा सभे के जोड़लन एक के दूसरा से।",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "आ जोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाँच परदा सभे के"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "परदा सभे"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "दूसरा से"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "परदा सभे"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "जोड़लन"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "दूसरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:56.551235581Z",
+  "model": "glm-5.3"
+}

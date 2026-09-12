@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "गत में ना बतावऽ, रोवऽ ना; बेइत-ल-अफरा में धूर में लोटऽ।",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "बतावऽ"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "रोवऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "रोवऽ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेइत-...-में"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ल-अफरा"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूर"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "लोटऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:20.428005208Z",
+  "model": "glm-5.3"
+}

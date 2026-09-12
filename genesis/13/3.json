@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ ऊ आपन डेरा-डेरा चलत रहलन, दक्खिन से लेके बेत एल ले, ओहि जगह ले जहाँ ओकर टेंट सुरु में ओहिजे रहल — बेत एल आ हाअई (आई के बीच।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आ ऊ चलत रहलन"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "आपन डेरा-डेरा"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "दक्खिन से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "लेके"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ओहि जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ओकर टेंट"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "सुरु में"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाअई (आई"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:06.924999368Z",
+  "model": "glm-5.3"
+}

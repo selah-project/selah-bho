@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ यिफदेयाह आ पनुएल — शाशाक के बेटा लोग रहलें।",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "आ यिफदेयाह"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "आ पनुएल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "शाशाक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:25.950071458Z",
+  "model": "glm-5.3"
+}

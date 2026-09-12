@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ एपरैम के लड़कन के गोत्र के सरदार कमुएल, शिफ्तान के बेटा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "आ … के गोत्र के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़कन के"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एपरैम"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "कमुएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "शिफ्तान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:19.114328040Z",
+  "model": "glm-5.3"
+}

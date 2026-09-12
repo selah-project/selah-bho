@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ शलोमो ⟨את⟩ गेजेर आ ⟨את⟩ बेत-चोरोन ⟨नीचे वाला⟩ बनवलन।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गेजेर"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "गेजेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "बेत-चोरोन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "चोरोन"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "नीचे वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T19:38:12.894600526Z",
+  "model": "glm-5.3"
+}

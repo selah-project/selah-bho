@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "जब रउआ में सभे में कवनो मनई होखे जे रात के घटना से शुद्ध ना रहे, त ऊ मछान से बाहर निकले; मछान के भीतर ना आवे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "रउआ में"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "घटना से"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से बाहर"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "मछान"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "मछान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:19.606511737Z",
+  "model": "glm-5.3"
+}

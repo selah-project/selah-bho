@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 61,
+  "translation": "राजा के दिनन के ऊपर दिन जोड़ब; ओकर साल पीढ़ी-पीढ़ी नियर रहे।",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "जोड़ब"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "ओकर साल"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "דר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:36.913434381Z",
+  "model": "glm-5.3"
+}

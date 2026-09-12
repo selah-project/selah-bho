@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ दान खातिर कहलन: दान बघिया के बच्चा, ओ बाशान से उछाल मारेला।",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "आ दान खातिर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "גור",
+      "gloss": "बच्चा"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "बघिया"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "उछाल मारेला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:29.659379020Z",
+  "model": "glm-5.3"
+}

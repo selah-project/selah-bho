@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ यहवे के दूत ओकरा कहलन, “एकरा तूँ हमर नाम काहे पूछऽ? आ ऊ त अद्भुत बा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "तूँ…पूछऽ"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "हमर नाम"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "अद्भुत"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:07.867344954Z",
+  "model": "glm-5.3"
+}

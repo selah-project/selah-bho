@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमार दोद चमकीला ⟨बा⟩ आ लालिम वाला; दस हजार में झंडा नियर उभरल ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "हमार दोद"
+    },
+    {
+      "surface": "צח",
+      "gloss": "चमकीला"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "आ लालिम वाला"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "झंडा नियर उभरल"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "दस हजार में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:09.825413971Z",
+  "model": "glm-5.3"
+}

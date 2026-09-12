@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एक करूब के ऊँचाई दस हाथ रहल, आ अइसहीं दूसरा करूब रहल।",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूब के"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "आ अइसहीं"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:27.529548165Z",
+  "model": "glm-5.3"
+}

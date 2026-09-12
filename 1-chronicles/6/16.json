@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ई ओ लोग हवें जिनका दाऊद यहवे के घर में गीत के सेवा पर खड़ा कइलन, जब सन्दूक ⟨के⟩ आराम भइल।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनका"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "खड़ा कइलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "आराम से"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दूक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:59.000292769Z",
+  "model": "glm-5.3"
+}

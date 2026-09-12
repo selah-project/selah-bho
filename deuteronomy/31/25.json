@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ मूसा हुकुम दइलन ⟨את⟩ लेवी के — जे यहवे के बरिस के सन्दूक उठावेलें — कहिके:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "आ हुकुम दइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेवी के"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "उठावेलें"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "बरिस के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:32.254178610Z",
+  "model": "glm-5.3"
+}

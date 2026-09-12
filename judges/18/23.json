@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 18:23",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ दान के लरिकन के पुकारलें; आ ऊ आपन मुँह फेरले आ मिखा से कहलन, “तोहार का भइल कि तूँ चीखल?”",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "पुकारलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लरिका"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "फेरले"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "למיכה",
+      "gloss": "मिखा से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נזעקת",
+      "gloss": "चीखल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:02.839481467Z",
+  "model": "glm-5.3"
+}

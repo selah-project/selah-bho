@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ओकरा लगे जाए वाला सभे लौके के नइखें, आ जिनगी के रस्ता ले ओना पावे के नइखें",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "ओकरा लगे जाए वाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखें"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "लौके के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नइखें"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ओना पावे के"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:09.001996932Z",
+  "model": "glm-5.3"
+}

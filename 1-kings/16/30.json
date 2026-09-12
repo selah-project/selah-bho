@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "अहाब उमरी के बेटा यहवे के आँखि में ओ सब से बेसी बुराई कइलन जे ओकर पहिले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "उमरी"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के आँखि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब से बेसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर पहिले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:42:49.964825938Z",
+  "model": "glm-5.3"
+}

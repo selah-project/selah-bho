@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ सब सरदार आ सब प्रजा खुश भइलें, आ ऊ ले आके सन्दूक में ढारले, तक कि पूरा भ गइल।",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "खुश भइलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ले आके"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "ढारले"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "सन्दूक में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक कि"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "पूरा भ गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:10:07.358932297Z",
+  "model": "glm-5.3"
+}

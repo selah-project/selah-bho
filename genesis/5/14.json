@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ केनान के सगरी दिन के बरिस दस बरिस आ नौ सौ बरिस भइल, आ ऊ मर गइलन।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आ नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आ मर गइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:43.793576355Z",
+  "model": "glm-5.3"
+}

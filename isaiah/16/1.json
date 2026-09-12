@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "धरती के शासक खातिर मेढ़ा भेजवा, सेला (चट्टान) से बनजारा ले, हे बेटी त्सियोन के पहाड़ ले।",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "भेजवा"
+    },
+    {
+      "surface": "כר",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "משל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "सेला से"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "बनजारा ले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले (तक)"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:05:33.060423384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ एलोहीम के रूह शाऊल के ऊपर जोर से उतरल जब ऊ ई बात ⟨את⟩ सुनलन, आ ओकर क्रोध बड़ी भड़क गइल।",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "जोर से उतरल"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "जब सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "आ भड़क गइल"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर क्रोध"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T19:10:30.914301882Z",
+  "model": "glm-5.3"
+}

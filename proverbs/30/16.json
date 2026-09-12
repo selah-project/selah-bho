@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "शेओल, आ बंद रहल गर्भ, पानी से कबो ना भरे वाली धरती, आ आगी जे कहेले ना — “बहुत भ गइल।”",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "आ बंद रहल"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "गर्भ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "भरे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी से"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "आ आगी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहेले"
+    },
+    {
+      "surface": "הון",
+      "gloss": "बहुत भ गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:35.875016715Z",
+  "model": "glm-5.3"
+}

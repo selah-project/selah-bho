@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ ऊ लोग से कहलन: सुनीं ना ई सुपना जवन हम देखनी अहे।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ऊ लोग से"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनीं"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ई सुपना"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "हम देखनी अहे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:50.439501504Z",
+  "model": "glm-5.3"
+}

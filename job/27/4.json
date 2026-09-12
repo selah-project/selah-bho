@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "हमरों होंठ अन्याय ना बोलिहें, आ हमर जीभ कपट ना बोलिहे।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "बोलिहें"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "हमरों होंठ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "आ हमर जीभ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "बोलिहे"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कपट"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:23.835089592Z",
+  "model": "glm-5.3"
+}

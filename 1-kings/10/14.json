@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ एक साल में शलोमोह के पहुँचल सोना के ओजन भइल छह सौ छइसठ किक्कर सोना।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ओजन"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "पहुँचल"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह के"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "एक साल में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "छइसठ में साठ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    }
+  ],
+  "timestamp": "2026-09-11T19:38:24.161529023Z",
+  "model": "glm-5.3"
+}

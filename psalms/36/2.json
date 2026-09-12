@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "राहू के बगावत के अंदाज़, हमारा मन के भीतर: ओकर आँखी के सामने एलोहीम के धमक नइखे।",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "अंदाज़"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "बगावत"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "राहू के सामने"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमारा मन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "धमक"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ओकर आँखी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:47.372219673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 18:22",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ओकर सबहन बगावत जवन ऊ कइलन, ओकरा याद ना आवहिं; ओकर धर्म में जवन ऊ कइलन, ऊ जिई।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबहन"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "बगावत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "याद आवहिं"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "ओकर धर्म में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जिई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:33.135504994Z",
+  "model": "glm-5.3"
+}

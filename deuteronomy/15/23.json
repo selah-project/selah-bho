@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "बस, ओकर ⟨את⟩ खून तूँ ना खाब; धरती पर ओकरा पानी नियर ढारब।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खून"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "खून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ढारब"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पानी नियर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:12.660254031Z",
+  "model": "glm-5.3"
+}

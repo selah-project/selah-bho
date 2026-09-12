@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "सभे भटक गइल बाड़ें, एक साथ गिल्ट गइल बाड़ें; नीकी करे वाला कवनो नइखे, एको नइखे।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "סר",
+      "gloss": "भटक गइल बाड़ें"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक साथ"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "गिल्ट गइल बाड़ें"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करे वाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीकी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:16.686923492Z",
+  "model": "glm-5.3"
+}

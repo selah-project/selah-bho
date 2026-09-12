@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ मनश्शे के बेटालोग के गोत्र के सेना पर गम्लीएल, पदह-त्सूर के बेटा, रहलें।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटालोग"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "गम्लीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "पदह-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सूर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:13.417263779Z",
+  "model": "glm-5.3"
+}

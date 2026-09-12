@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ रउआ सभे मान के रखबऽ, करे खातिर ⟨את⟩ सब विधान सभे आ ⟨את⟩ नियम सभे के, जऊन हम आज रउआ के आगे रखत बानी।",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "आ मान के रखबऽ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब विधान सभे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "विधान सभे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "नियम सभे"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "नियम सभे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखत बानी"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "रउआ के आगे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:35:58.788553771Z",
+  "model": "glm-5.3"
+}

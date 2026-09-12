@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "एलकानाह, आ यिश्शियाहू, आ अज़रएल, आ योएज़ेर, आ याशोवाम — कोरही;",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकानाह"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "आ यिश्शियाहू"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "आ अज़रएल"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "आ योएज़ेर"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "आ याशोवाम"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "कोरही"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:39.546488790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "एलोहीम राज कइलन गोयिम पर, एलोहीम आपन पबितर सिंहासन पर बइठल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयिम"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बइठल बाड़ें"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "आपन पबितर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:49.760691882Z",
+  "model": "glm-5.3"
+}

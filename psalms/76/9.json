@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 76,
+  "translation": "अकास से तूँ न्याय सुनवालू; धरती डर गइल आ चुप भ गइल।",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "अकास से"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "तूँ सुनवालू"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "डर गइल"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "आ चुप भ गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:51.088159656Z",
+  "model": "glm-5.3"
+}

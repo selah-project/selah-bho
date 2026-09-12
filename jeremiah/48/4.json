@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "मोआब टूट गइल; ओकर नन्हका लोग अपना चीख सुनाव दीन लगे।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "टूट गइल"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "सुनाव दीन लगे"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "अपना चीख"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "ओकर नन्हका लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:50.142287648Z",
+  "model": "glm-5.3"
+}

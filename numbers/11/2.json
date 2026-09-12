@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ऊ लोग मोशे के ओर चिचियावल, आ मोशे यहवे से प्रार्थना कइलन, आ ऊ आगी बुत गइल।",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "चिचियावल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "प्रार्थना कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "बुत गइल"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ऊ आगी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:11.139605439Z",
+  "model": "glm-5.3"
+}

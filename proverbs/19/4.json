@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "धन ढेर साथी जोड़ेला, आ गरीब ओकर साथी से अलग हो जाला।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "जोड़ेला"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "साथी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "आ गरीब"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ओकर साथी से"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "अलग हो जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:27.796453484Z",
+  "model": "glm-5.3"
+}

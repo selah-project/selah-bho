@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "ऊ ओकरा ना देखी — नदी के धारा सभ के, शहद आ माखन के झरना सभ के।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ऊ देखी"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "धारा सभ के"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "नदी के"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "झरना सभ के"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "शहद"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "आ माखन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:58.354971721Z",
+  "model": "glm-5.3"
+}

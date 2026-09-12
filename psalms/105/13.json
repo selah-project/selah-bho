@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "ऊ लोग एक जाति से दूसर जाति ले घूमलें, एक राज्य से दूसर संतान ले घूमलें।",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "घूमलें"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "जाति से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "राज्य से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:49.195528463Z",
+  "model": "glm-5.3"
+}

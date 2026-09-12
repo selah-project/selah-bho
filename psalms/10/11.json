@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ऊ आपन मन में कहेला: “एल बिसर गेला; ऊ मुह लुकावले बा, सदा ले कबो ना देखेला।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "आपन मन में"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "बिसर गेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "लुकावले बा"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "בל",
+      "gloss": "कबो ना"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेला"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:30.602375227Z",
+  "model": "glm-5.3"
+}

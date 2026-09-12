@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "हम हमार दोद के बानी, आ ओकर तरस हमरा ऊपर बा।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "हमार दोद के"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "आ हमरा ऊपर"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ओकर तरस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:24:19.139913095Z",
+  "model": "glm-5.3"
+}

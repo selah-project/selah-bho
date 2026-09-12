@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "ऊ नगर के भीड़ पर हँसेला, दवाब डाले वाला के चीख ना सुनेला।",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "हँसेला"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "के भीड़ पर"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "चीख"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "दवाब डाले वाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:37.628087934Z",
+  "model": "glm-5.3"
+}

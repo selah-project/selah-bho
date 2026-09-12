@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ कइसे ई दास — मोर अदोनाय के — ए अदोनाय से बोल सकेला? आ हम, एहिजा से हमरा में ताकत ना ठहरेले, आ साँस हमरा में ना बचल बा।",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "आ कइसे"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकेला"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोले खातिर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "एहिजा से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ठहरेले"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा में"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "आ साँस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "बचल बा"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:59.324526873Z",
+  "model": "glm-5.3"
+}

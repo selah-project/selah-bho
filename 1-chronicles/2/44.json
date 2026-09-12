@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ शमा ⟨את⟩ रहम के जनम दिहलन — योरकेअम के पिता; आ रेकेम ⟨את⟩ शम्माय के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "आ शमा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रहम"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "रहम के"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "योरकेअम के"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "आ रेकेम"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शम्माय"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:42.396908721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ अउर सात दिन बाकी दिनन के रुकलन, आ फेर परा के ⟨את⟩ फेर से पेटा से भेजलन।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "आ ऊ रुकलन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "बाकी दिनन के"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "आ फेर"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परा के"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "परा के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "पेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:47.427004730Z",
+  "model": "glm-5.3"
+}

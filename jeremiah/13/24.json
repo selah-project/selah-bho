@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ हम इनहन के तिनका नियर बिखेर दिही, जे उड़ि जाला जंगल के हवा से।",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "आ हम इनहन के बिखेर दिही"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "तिनका नियर"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "उड़ि जाला"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "हवा से"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:27:05.374138653Z",
+  "model": "glm-5.3"
+}

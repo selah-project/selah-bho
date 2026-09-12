@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ ऊ फेर गर्भवती भइली आ एक बेटा के जन्म दीली; आ ऊ ⟨את⟩ ओकर नाम ओनान रखली।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भइली"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दीली"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "रखली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ओनान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:46.546492342Z",
+  "model": "glm-5.3"
+}

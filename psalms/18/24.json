@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ हम ओकर साथ निष्पाप रहनी, आ आपन अधर्म से आपने के बचावली।",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "आ हम रहनी"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "निष्पाप"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर साथ"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "आ आपने के बचावली"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "आपन अधर्म से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:49.073380273Z",
+  "model": "glm-5.3"
+}

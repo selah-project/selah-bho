@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "सुरसुरावे वाली ऊ, आ ज़िद्दी; आपन घर में ओकर गोड़ टिकल नइखे —",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "सुरसुरावे वाली"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "आ ज़िद्दी"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "आपन घर में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "टिकल"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ओकर गोड़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:00.983852021Z",
+  "model": "glm-5.3"
+}

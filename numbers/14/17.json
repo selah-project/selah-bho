@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ अब बिनती बा कि अदोनाय के बल परगट होख, जइसन रउआ कहले रहले —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "परगट होख"
+    },
+    {
+      "surface": "נא",
+      "gloss": "बिनती बा कि"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बल"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कहले रहले"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:00.690493082Z",
+  "model": "glm-5.3"
+}

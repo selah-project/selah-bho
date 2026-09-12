@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ यिसराएल में ओकर नाम पुकारल जावेला — चप्पल-उतरावल घर।",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "आ पुकारल जावेला"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिसराएल में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "उतरावल"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "चप्पल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:58.793538298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "काहेकि जे हमके पावेला, ओ जिनगी पावेला, आ यहवे ले राजी भाव निकालेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "जे ... पावेला"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "पावेला"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "आ ... निकालेला"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "राजी भाव"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे ले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:35.315172544Z",
+  "model": "glm-5.3"
+}

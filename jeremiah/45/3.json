@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "तू कहलऽ — “हाय, अब हमरा खातिर! काहें कि यहवे हमर दुख के ऊपर गम जोड़लन; हम अपना आह से थक गइली आ आराम हमके ना मिलल।”",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "तू कहलऽ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "जोड़लन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "गम"
+    },
+    {
+      "surface": "על",
+      "gloss": "…के ऊपर"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "हमर दुख"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "थक गइली"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "अपना आह से"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "मिलल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:20.813278773Z",
+  "model": "glm-5.3"
+}

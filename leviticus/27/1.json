@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ यहवे मोशे के ओर बोललन, कहेला —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:45.479113078Z",
+  "model": "glm-5.3"
+}

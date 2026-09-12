@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "एही से हमो इनहन के अइसन हुक्म देलन जे नीक नइखन, आ अइसन नियम जे उनहन में केहू ना जिअ सकेला।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ हमो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनहन के"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "आ नियम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "जिअ सकेला"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनहन में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:55:47.781147390Z",
+  "model": "glm-5.3"
+}

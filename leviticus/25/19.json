@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ धरती आपन फल देई, आ रउआ सभे पेट भर के खाब, आ ओकरा पर निश्चिन्त रहिही।",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "आ ... देई"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "आपन फल"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "आ रउआ सभे खाब"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "पेट भर के"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "आ रउआ सभे रहिही"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्त"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:46.889088800Z",
+  "model": "glm-5.3"
+}

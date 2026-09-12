@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "धइल जावऽ यहवे के, ओकर सब सेना; ओकर सेवक, जे ओकर रज़ी के काम करेला।",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "धइल जावऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "ओकर सेना"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ओकर सेवक"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ओकर रज़ी के काम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:13.866313942Z",
+  "model": "glm-5.3"
+}

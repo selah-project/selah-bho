@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "यहवे के शब्द से अकास बनाल गइलें, आ ऊहकर मुँह के साँस से ओ सभे के सेना।",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "शब्द से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "बनाल गइलें"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "आ साँस से"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ऊहकर मुँह के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ओ सभे के"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "सेना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:18.342347368Z",
+  "model": "glm-5.3"
+}

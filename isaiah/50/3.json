@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "हम अकास के कराहट से ओढ़ावेनी, आ ओनहन के ओढ़ावा बोरा बनावेनी।",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "ओढ़ावेनी"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "कराहट से"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "आ बोरा"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "बनावेनी"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "ओनहन के ओढ़ावा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:18:08.900326523Z",
+  "model": "glm-5.3"
+}

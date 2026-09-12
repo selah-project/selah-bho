@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "गहिरा पानी जइसन मनुख के मुँह के बात; बहावल नाला, गियान के झरना।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "गहिरा"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "बहावल"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "गियान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:43.098452104Z",
+  "model": "glm-5.3"
+}

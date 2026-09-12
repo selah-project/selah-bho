@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "रउआ आपन मुँह के बात से फँस गइल बानी, रउआ आपन मुँह के बात से परत गइल बानी।",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "फँस गइल बानी"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "बात से"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "आपन मुँह के"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "परत गइल बानी"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "बात से"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "आपन मुँह के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:43.754002282Z",
+  "model": "glm-5.3"
+}

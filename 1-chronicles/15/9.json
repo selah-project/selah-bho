@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 15:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "खेबरोन के बेटान में से: एलिएल सरदार, आ ओकर भाई अस्सी।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटान में से"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेबरोन"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "एलिएल"
+    },
+    {
+      "surface": "השר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "अस्सी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:45.811595300Z",
+  "model": "glm-5.3"
+}

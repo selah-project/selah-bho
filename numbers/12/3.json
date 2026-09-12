@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ ओ मनुख मोशे सबसे ढेर नम्र रहलें — धरती के ऊपर के सारे मनुखन में से।",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "आ ओ मनुख"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "नम्र"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "सबसे ढेर"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सारे… में से"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुखन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर के"
+    },
+    {
+      "surface": "פני",
+      "gloss": "—"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:21.234542109Z",
+  "model": "glm-5.3"
+}

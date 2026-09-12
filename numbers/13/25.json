@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ ऊ चालीस दिन के अंत में धरती के जासूसी से लवटल रहलें।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "आ ऊ लवटल रहलें"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "जासूसी से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अंत में"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:54.950706500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ⟨את⟩ घर के फर्श के सोना से मढ़लन — भीतरे आ बाहिरे।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "फर्श"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "फर्श"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़लन (तहबा-लालन)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "भीतरे"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "आ बाहिरे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:29.443748735Z",
+  "model": "glm-5.3"
+}

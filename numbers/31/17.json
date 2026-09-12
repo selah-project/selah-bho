@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 31:17",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ अब हुआ के बाद लड़कन में हर नर के मार डालऽ, आ मरद के साथे मिलन करनिहार हर औरत के मार डालऽ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "मार डालऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "בטף",
+      "gloss": "लड़कन में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "मिलन करनिहार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद के साथे"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "सयने में"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "मार डालऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:26:14.602960686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ इसराएल खातिर बहुत दिन बिना सच्चा एलोहीम के, आ बिना सिखावे वाला पुरोहित के, आ बिना तोरा के रहल।",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "आ दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इसराएल खातिर"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच्चा"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "आ बिना"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "सिखावे वाला"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "आ बिना"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:59.364000317Z",
+  "model": "glm-5.3"
+}

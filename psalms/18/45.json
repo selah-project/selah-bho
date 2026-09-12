@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "कान के सुनला भर पर ऊ लोग हमरा तआरें; परदेसी लोग हमरा आगे नम्र भेस धारेलें।",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "के सुनला भर पर"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "तआरें"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "नम्र भेस धारेलें"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा आगे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:23.507982927Z",
+  "model": "glm-5.3"
+}

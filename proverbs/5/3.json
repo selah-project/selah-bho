@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काबर कि पराई औरत के होंठ मधु नियर टपकत रही, आ ओकर मुँह तेल से एकदम चिकना बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "मधु के टपकाव"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "टपकत रही"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "के होंठ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "पराई औरत"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "आ चिकना"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "तेल से"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "ओकर मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:35.951110162Z",
+  "model": "glm-5.3"
+}

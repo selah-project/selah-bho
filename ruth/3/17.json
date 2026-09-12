@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ कहली: “ई छह माप जऊ हमनी का दिहलन, काहेकि ऊ कहलन — खाली हाथ अपन सासू के पास ना जाहू।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "माप"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "जाहू"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "खाली हाथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "अपन सासू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:24:14.725957102Z",
+  "model": "glm-5.3"
+}

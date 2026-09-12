@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक सोना के करछुल, दस शेकेल के, धूप से भरल।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "करछुल"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस शेकेल के"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:57.753390798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "धर्मीन के आस खुशी ⟨ह⟩, बाकिर दुष्टन के आस नष्ट हो जाई।",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "आस"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मीन के"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुशी"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "बाकिर आस"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टन के"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "नष्ट हो जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:09.409763451Z",
+  "model": "glm-5.3"
+}

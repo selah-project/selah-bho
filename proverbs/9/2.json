@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "ऊ आपन जानवर काटले; आपन दारू मिलवले; हाँ, आपन मेज लगवले।",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "काटले"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "आपन जानवर"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "मिलवले"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "आपन दारू"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "लगवले"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "आपन मेज"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:39.211043800Z",
+  "model": "glm-5.3"
+}

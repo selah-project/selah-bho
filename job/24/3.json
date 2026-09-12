@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 24:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "अनाथन के गधा ला हाँकेला, बिधवा के गोरु गिरवी रखेला।",
+  "tokens": [
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथन के"
+    },
+    {
+      "surface": "ינהגו",
+      "gloss": "हाँकेला"
+    },
+    {
+      "surface": "יחבלו",
+      "gloss": "गिरवी रखेला"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गोरु"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "बिधवा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:46.022774431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "बेसी फटकार सुनिके गर्दन काठिल करै वाला मरद अचानक टूट जाला, आ कवनो इलाज नइखे।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "बेसी फटकार"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "काठिल करै वाला"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "गर्दन"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "टूट जाला"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ कवनो नइखे"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "इलाज"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:33.618645020Z",
+  "model": "glm-5.3"
+}

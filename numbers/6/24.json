@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "यहवे तोहार आशीष देहे, आ तोहार रखवाली करे।",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "आशीष देहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "आ रखवाली करे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:49.426208587Z",
+  "model": "glm-5.3"
+}

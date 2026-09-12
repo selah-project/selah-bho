@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 5:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ मनश्शे के आधा गोत्र के बेटा लोग धरती में रहल — बाशान से बाल-हेरमोन आ सनीर आ हेरमोन पहाड़ ले; ऊ लोग बहुत बढ़ल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा लोग"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "बाशान से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "हेरमोन"
+    },
+    {
+      "surface": "ושניר",
+      "gloss": "आ सनीर"
+    },
+    {
+      "surface": "והר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "हेरमोन"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "बहुत बढ़ल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:28.274340882Z",
+  "model": "glm-5.3"
+}

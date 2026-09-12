@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ यित्सचाक के नोकर लोग नाल में खोदल आ उहिजे एगो जिउत पानी के कुँआ पावले।",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "खोदल"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नोकर लोग के"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सचाक"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाल में"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "पावले"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहिजे"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुँआ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिउत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:31.076025028Z",
+  "model": "glm-5.3"
+}

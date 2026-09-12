@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ मूशा पहाड़ से लोगन लग उतरलन, आ ऊ ⟨את⟩ लोगन के पबित्र कइलन, आ ऊ लोग आपन कपड़ा धोले।",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूशा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लग"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगन"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "पबित्र कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोगन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगन"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "धोले"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "आपन कपड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:19:07.975059816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ रेमेत, आ एन-गन्निम (गाछ-झरना), आ एन-चद्दा, आ बेत-पत्सेत्स।",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "आ रेमेत"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आ एन"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-गन्निम"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आ एन"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "-चद्दा"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ बेत"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "-पत्सेत्स"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:19.230449509Z",
+  "model": "glm-5.3"
+}

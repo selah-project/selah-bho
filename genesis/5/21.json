@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ हनोख जियल पाँच आ साठ बरिस, आ ⟨את⟩ मतूशेलाख के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जियल"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "हनोख"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मतूशेलाख"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "मतूशेलाख"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:36.913389376Z",
+  "model": "glm-5.3"
+}

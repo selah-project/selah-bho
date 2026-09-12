@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहवे मोशे से सीनै के जंगल में बतइलन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बतइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनै"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:03.366711427Z",
+  "model": "glm-5.3"
+}

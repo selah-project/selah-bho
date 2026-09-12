@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "बहुत आदमी आपन हेसेद के बखान करेला, बाकिर भरोसेमंद आदमी के कौन मिलेला?",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "बखान करेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "आपन हेसेद के"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकिर आदमी"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "मिलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:45.778561288Z",
+  "model": "glm-5.3"
+}

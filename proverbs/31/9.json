@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "रउआ के मुँह खोलऽ, न्याय के फैसला करऽ, आ दुखिया आ गरीब के न्याय करऽ।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोलऽ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "रउआ के मुँह"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "फैसला करऽ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्याय के"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "आ न्याय करऽ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखिया के"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आ गरीब के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:56.745808693Z",
+  "model": "glm-5.3"
+}

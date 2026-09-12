@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 38:33",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "का रउआ अकास के विधान के जानऽ, कि रउआ ओकर राज धरती पर लगाब?",
+  "tokens": [
+    {
+      "surface": "הידעת",
+      "gloss": "का रउआ जानऽ"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "विधान के"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "रउआ लगाब"
+    },
+    {
+      "surface": "משטרו",
+      "gloss": "ओकर राज"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती पर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:10.620490816Z",
+  "model": "glm-5.3"
+}

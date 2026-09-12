@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "अलुफ कोरह, अलुफ गाताम, अलुफ अमालेक; ई अलुफ एदोम देश में एलिफाज़ के रहलें; ई अदा के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "गाताम"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाज़ के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:37.194616924Z",
+  "model": "glm-5.3"
+}

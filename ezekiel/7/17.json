@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "सब हाथ ढील पड़िहें आ सब घुटना पानी बन जाहीं।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ढील पड़िहें"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "घुटना"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "जाहीं"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:48:18.441719020Z",
+  "model": "glm-5.3"
+}

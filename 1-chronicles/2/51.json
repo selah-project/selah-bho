@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "सालमा, बेत-लेखेम के पिता; हारेफ, बेत-गादेर के पिता।",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "सालमा"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "हारेफ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "गादेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:00.979938123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "मनुख ओकर दिन घास नियर बाड़ें; खेत के फूल नियर, तइसे ऊ फूलेला।",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "घास नियर"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ओकर दिन"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "फूल नियर"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसे"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "फूलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:57.439472500Z",
+  "model": "glm-5.3"
+}

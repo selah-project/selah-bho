@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ ⟨את⟩ सब एह बातन के ना कइलन — काहे कि ऊ पहाड़न पर खइलन आ ⟨את⟩ आपन संगी के घरवाही के गंदा कइलन।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब एह बातन के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एह बातन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़न"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खइलन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन संगी के घरवाही के"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाही"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी के"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "गंदा कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:22.116104415Z",
+  "model": "glm-5.3"
+}

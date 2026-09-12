@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 5:21",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "किशोन नदी इनहन के घसीट ले गइली, ओ पुरान नदी, किशोन नदी — हमार जिया, तूँ बल से लुकढ़ू।",
+  "tokens": [
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "किशोन"
+    },
+    {
+      "surface": "גרפם",
+      "gloss": "घसीट ले गइली"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "קדומים",
+      "gloss": "पुरान"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "किशोन"
+    },
+    {
+      "surface": "תדרכי",
+      "gloss": "तूँ लुकढ़ू"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार जिया"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:16.819669354Z",
+  "model": "glm-5.3"
+}

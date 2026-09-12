@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ कवनो खून ना खावा — पंछी के चाहे बेहेमा के — रउआ सभे के कवनो बसल जगह में।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ कवनो"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खावा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कवनो…में"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "रउआ सभे के बसल जगह"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "पंछी के"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "चाहे बेहेमा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:07.555513541Z",
+  "model": "glm-5.3"
+}

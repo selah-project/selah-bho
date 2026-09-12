@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ एह प्रजा खातिर बागी आ बिद्रोही हिया बनल बानी; ऊ मुड़ गइल आ चलि गइल।",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "आ एह प्रजा खातिर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनल बानी"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "बागी"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "आ बिद्रोही"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ऊ मुड़ गइल"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "आ चलि गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:56.611023769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ मूसा सुनलन, आ ई ओकर आँख में भला लागल।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "भला लागल"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँख में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:44.979515143Z",
+  "model": "glm-5.3"
+}

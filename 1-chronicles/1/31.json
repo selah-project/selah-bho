@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "येतूर, नाफीश आ केदेमाह — ई लोग यिश्माएल के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "येतूर"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "नाफीश"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "आ केदेमाह"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:26.660060670Z",
+  "model": "glm-5.3"
+}

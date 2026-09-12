@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 13:5",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आऊ फिर कहल, “हम नबी नइखी; धरती जोतै वाला मरद हम बानी, काहेकि आदमी हमनी के बचपनेसे खरिस लेले।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आऊ फिर कहल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखी"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "जोतै वाला"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "הקנני",
+      "gloss": "खरिस लेले"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "बचपनेसे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:22.573768349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ यहवे मोशेसे बात कइलन सीनै पहाड़ पर, कहेलान —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बात कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनै"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:50.908051432Z",
+  "model": "glm-5.3"
+}

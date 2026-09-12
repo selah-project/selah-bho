@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "यहवे के हेसेद — काहे कि हमनी का खतम नइखी; काहे कि ओकर दया-रहम के छलकाव खतम नइखे।",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखी"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "खतम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "खतम"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "दया-रहम के छलकाव"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:15.001817289Z",
+  "model": "glm-5.3"
+}

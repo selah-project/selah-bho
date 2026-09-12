@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ बिना जानकारी के जिया ना बढ़िया बा, आ जे पाँव में हड़बड़ी करेला ऊ पाप करेला।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना…के"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जिया"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया बा"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "आ जे हड़बड़ी करेला"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "पाँव में"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "पाप करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:27.796220559Z",
+  "model": "glm-5.3"
+}

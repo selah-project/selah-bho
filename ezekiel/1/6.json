@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ एक एक के चारेक मुँह रहलें, आ एक एक के चारेक परख रहलें।",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चारेक"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "एक एक के"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चारेक"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "परख"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "एक एक के"
+    },
+    {
+      "surface": "להם",
+      "gloss": "रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T20:46:04.131341563Z",
+  "model": "glm-5.3"
+}

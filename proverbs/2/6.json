@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "काहे कि यहवे बुद्धि देवेलन; ओकर मुँह से जानकारी आ समझ निकरेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवेलन"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ओकर मुँह से"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "आ समझ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:33.001479208Z",
+  "model": "glm-5.3"
+}

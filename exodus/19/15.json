@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आऊ ऊ जनता से कहिलन: तीन दिन ले तैयार रहऽ, कवनो औरत के नजदीक ना जाब।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहिलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहऽ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "तैयार"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन ले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "जाब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:19:21.341865148Z",
+  "model": "glm-5.3"
+}

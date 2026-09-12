@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ ओही दिन यहवे के गुस्सा भड़क गइल, आ ऊ सौंस खाइलन के कहत होइहे —",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "भड़क गइल"
+    },
+    {
+      "surface": "אף",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "सौंस खाइलन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत होइहे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:42.513993921Z",
+  "model": "glm-5.3"
+}

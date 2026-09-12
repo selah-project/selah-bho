@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "हर शुचि चिरई खाएल जा सकेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चिरई"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "शुचि"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाएल जा सकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:16.103092418Z",
+  "model": "glm-5.3"
+}

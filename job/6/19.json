@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 6:19",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तेमा के काफिला ताकले, शेबा के टोली ओकर बाट जोहले।",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ताकले"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "काफिला"
+    },
+    {
+      "surface": "תמא",
+      "gloss": "तेमा के"
+    },
+    {
+      "surface": "הליכת",
+      "gloss": "टोली"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबा के"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "बाट जोहले"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:10.903480896Z",
+  "model": "glm-5.3"
+}

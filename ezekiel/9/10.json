@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ हम भी — हमर आँख दया ना करेला आ हम बखसेस ना करब; ऊ लोग के रास्ता ऊ लोग के माथे पर हम रखलिए।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया करेला"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "बखसेस करब"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "माथे पर"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "रखलिए"
+    }
+  ],
+  "timestamp": "2026-09-11T20:49:45.018656821Z",
+  "model": "glm-5.3"
+}

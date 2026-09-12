@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "दाऊद के। रउआ के ओर, हे यहवे, हम आपन प्राण उठावेली।",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "आपन प्राण"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठावेली"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:12.745867109Z",
+  "model": "glm-5.3"
+}

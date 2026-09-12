@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 101,
+  "translation": "दाऊद के गीत। हेसेद आ न्याय के गावा हम तोहरे खातिर, हे यहवे, तार बजावा।",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आ न्याय के"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "गावा हम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहरे खातिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "तार बजावा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:53.662925622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 144,
+  "translation": "मनुख्य हवा के तुल्य बा; ओकर दिन गुजरत छाँह नियर बाड़ें।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मनुख्य"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "हवा के तुल्य"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "बा (तुल्य)"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ओकर दिन"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "छाँह नियर"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "गुजरत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:46.611174594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 29:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "एही से अदोनाय यहवे ए कहेला: देखऽ, हम तोहार ऊपर तलवार ले आवत बानी, आ तोहार मन मनई आ पशु काट डिहल जाई।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ले आवत बानी"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "काट डिहल जाई"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहार मन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "आ पशु"
+    }
+  ],
+  "timestamp": "2026-09-11T20:58:54.645321846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "बाकिर हमार हेसेद ओकरा से ना तोड़ब, आ ना हम आपन सच्चाई में ठगी करब।",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "बाकिर हमार हेसेद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "तोड़ब"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "ठगी करब"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "आपन सच्चाई में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:03.769414543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ हम सुनली बाकिर ना समझली; आ हम कहलीं: “हमर अदोनाय, एहन बात के आखिरी का होखी?”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "सुनली"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "समझली"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "आ हम कहलीं"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हमर अदोनाय"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "आखिरी"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एहन बात के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:39.365703745Z",
+  "model": "glm-5.3"
+}

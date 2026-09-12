@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ योनातन के बेटा रहलें पेलेत आ ज़ाज़ा; ई लोग यरहमएल के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा रहलें"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "पेलेत"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "आ ज़ाज़ा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमएल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:06.503912098Z",
+  "model": "glm-5.3"
+}

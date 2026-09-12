@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एगो बैल, गोरु के संतान, एगो मेढ़ा, एगो मेमना, एगो बरिस के, दाह-बलि खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गोरु"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एगो बरिस के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "दाह-बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:52.280267818Z",
+  "model": "glm-5.3"
+}

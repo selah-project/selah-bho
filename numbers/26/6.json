@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "हेसरोन — हेसरोनी के कुनबा, कर्मी — कर्मी के कुनबा।",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "हेसरोन"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "हेसरोनी के"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "कर्मी"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "कर्मी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:48.026487139Z",
+  "model": "glm-5.3"
+}

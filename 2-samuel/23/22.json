@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "ई सब बनियाहू, यहोयादा के बेटा, कइलन; आ तीन गिर्दार में ओकर नाँव रहल।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "बनियाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "आ ओकर"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "तीन गिर्दार में"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "गिर्दार"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:07.175537839Z",
+  "model": "glm-5.3"
+}

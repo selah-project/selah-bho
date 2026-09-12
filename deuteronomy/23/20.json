@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "तूँ आपन भाई पर ब्याज ना लगावऽ — रुपिया के ब्याज, अन्न के ब्याज, हर ओ चीज के ब्याज जवना पर ब्याज लागावल जाला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ब्याज लगावऽ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "आपन भाई पर"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "रुपिया"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ब्याज लागावल जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:31.225415148Z",
+  "model": "glm-5.3"
+}

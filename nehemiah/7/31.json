@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "मिखमास के मनई — एक सौ बाइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के मनई"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "मिखमास"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:42.904372258Z",
+  "model": "glm-5.3"
+}

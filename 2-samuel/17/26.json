@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ इस्राएल आ अबशलोम गिलाद के देस में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "आ अबशलोम"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-09-11T19:27:22.252919810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "जब तक ऊ यहवे खातिर आपन नजीरी रखेला, मरल मनुष्य के लगे ऊ ना जाला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जब तक (सारा)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "आपन नजीरी रखेला"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "लगे"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:56.653169008Z",
+  "model": "glm-5.3"
+}

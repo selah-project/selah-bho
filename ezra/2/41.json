@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "गावै वाला लोग: असाफ के लड़का, सवा सौ अठाइस।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गावै वाला लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असाफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ अठे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:21.083206008Z",
+  "model": "glm-5.3"
+}

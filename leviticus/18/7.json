@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तोहार पिता के नंगारी आ तोहार माय के नंगारी तूँ ना खोलब; ऊ तोहार माय बा — तूँ ओकर नंगारी ना खोलब।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगारी"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहार पिता"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "आ नंगारी"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तोहार माय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तूँ खोलब"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तोहार माय"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तूँ खोलब"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ओकर नंगारी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:45.810406538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "देखऽ, ऊ लोग हम से कहेला, “यहवे के बचन कहाँ बा? अब ओकरा आवल देखा।”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवल"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब … देखा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:29:21.531934758Z",
+  "model": "glm-5.3"
+}

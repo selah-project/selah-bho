@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "हमरो चिन्तन ओकरा ऊपर मीठा लागे; हम त यहवे में खुश होब।",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "मीठा लागे"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "हमरो चिन्तन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम त"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "खुश होब"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:30.139295238Z",
+  "model": "glm-5.3"
+}

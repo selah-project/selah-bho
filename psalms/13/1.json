@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "मंडली के मुखिया खातिर — दाऊद के एगो मिज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मंडली के मुखिया खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:23.607206583Z",
+  "model": "glm-5.3"
+}

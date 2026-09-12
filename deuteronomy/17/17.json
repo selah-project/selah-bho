@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ ऊ आपन खातिर ढेर रन्डी सभे के बढ़ावे, ना जे ओकर मन दूसर मोड़ ले; आ चाँदी आ सोना ऊ आपन खातिर बहुते ढेर ना बढ़ावे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ़ावे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "रन्डी सभे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "दूसर मोड़ ले"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ओकर मन"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "आ चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "आ सोना"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ़ावे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:32.963168459Z",
+  "model": "glm-5.3"
+}

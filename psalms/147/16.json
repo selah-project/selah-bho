@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 147,
+  "translation": "जवन बरफ ऊन नियर देवेला — पाला के राख नियर बिखेर देवेला।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "जवन देवेला"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "बरफ"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ऊन नियर"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "पाला के"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "राख नियर"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "बिखेर देवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:38.100577640Z",
+  "model": "glm-5.3"
+}

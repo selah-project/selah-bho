@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ दान के सीमा के ऊपर, पूरबी किनारा से समुंदर-ओरी किनारा ले — आशेर, एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ ... के ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूरबी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर-ओरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:58.341114795Z",
+  "model": "glm-5.3"
+}

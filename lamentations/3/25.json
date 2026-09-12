@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "यहवे भला बा ओकर बाट जोहे वाला खातिर, ओकरा खोजे वाला नफ्श खातिर।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ओकर बाट जोहे वाला खातिर"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "नफ्श खातिर"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ओकरा खोजेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.209642203Z",
+  "model": "glm-5.3"
+}

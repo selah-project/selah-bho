@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "पहिला दिन मा पुकारल पबित्र सभा रउआ सभे खातिर होखी; हर किसिम के सेवा-काम काहे ना करीं।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "पुकारल सभा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबित्र"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर किसिम के"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-काम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करीं"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:11.950128882Z",
+  "model": "glm-5.3"
+}

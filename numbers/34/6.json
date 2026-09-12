@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ पछिम के सीमा खातिर रउआ सभे खातिर पछिमी सीमा ⟨होखी⟩ ⟨के⟩ बड़ समुंदर, ईहे रउआ सभे के पछिमी सीमा रही।",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "आ सीमा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ होखी"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "आ सीमा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ईहे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे के"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पछिमी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:34.218048995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ एलोहीम ओइ राति में तहीं कइलन, आ गड़ी पर अकेले सूखा रहल, आ पूरा धरती पर ओसर पड़ल।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तहीं"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "राति में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओइ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ … रहल"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "सूखा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… पर"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "गड़ी"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "היה",
+      "gloss": "पड़ल"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओसर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:37.878024488Z",
+  "model": "glm-5.3"
+}

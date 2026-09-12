@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "मूरख आपन पूरा मन बाहर उगल देला, बाकिर सियाना ओकरा पाछाँ तक रोक के रखेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "आपन मन"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "बाहर उगल देला"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "सियाना"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "पाछाँ तक"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "रोक के रखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:45.963209783Z",
+  "model": "glm-5.3"
+}

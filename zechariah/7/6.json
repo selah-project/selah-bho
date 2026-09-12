@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ जब रउआ सभे खालऽ आ जब पीलऽ, का रउआ सभहनेच ओ खाए वाला बानी आ रउआ सभहनेच पिए वाला?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खालऽ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "पीलऽ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभहनेच"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "खाए वाला"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आ रउआ सभहनेच"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "पिए वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:17.691632440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ मोआब ओ जनता से बहुते डर गइल, काहे कि ऊ ढेर बाड़ें; आ इस्राएल के बेटा सभे के कारण मोआब के मन कुढ़ि गइल।",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "डर गइल"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ओ जनता"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "मन कुढ़ि गइल"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सभे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:36.078958820Z",
+  "model": "glm-5.3"
+}

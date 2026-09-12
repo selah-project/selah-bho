@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "ओह समय याराबाम के बेटा अबिय्याह बीमार पड़ल।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ओह समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "तब"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "बीमार पड़ल"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिय्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "याराबाम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:41:48.327793145Z",
+  "model": "glm-5.3"
+}

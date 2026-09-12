@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "काहेकि ओकर संकट अचानक खड़ा हो जाता, आ ओ दुनों के बरबादी के कौन जानेला?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "खड़ा हो जाता"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ओकर संकट"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "आ बरबादी"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ओ दुनों के"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:38.642986630Z",
+  "model": "glm-5.3"
+}

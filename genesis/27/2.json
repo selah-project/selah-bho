@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ ऊ कहलन “देखऽ ना, हम बूढ़ हो गइनी हैँ, हम ना जानतानी हमार मरण के दिन।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "हम बूढ़ हो गइनी हैँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानतानी"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "हमार मरण के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:18.304919201Z",
+  "model": "glm-5.3"
+}

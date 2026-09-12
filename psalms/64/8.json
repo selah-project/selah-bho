@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 64,
+  "translation": "आ एलोहीम ऊ लोग पर अचानक तीर चलाही; ओकरे से ओन्हन के घाव हो जाई।",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "आ तीर चलाही"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "तीर"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "היו",
+      "gloss": "हो जाई"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ओन्हन के घाव"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:56.967738138Z",
+  "model": "glm-5.3"
+}

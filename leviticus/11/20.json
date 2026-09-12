@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "हर रेंगे वाला उड़ने वाला जे चार पाँव पर चलेला — ऊ रउआ सभे खातिर घिनौना बा।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "रेंगे वाला"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड़ने वाला पंछी"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "चलेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार पाँव"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:47.746767395Z",
+  "model": "glm-5.3"
+}

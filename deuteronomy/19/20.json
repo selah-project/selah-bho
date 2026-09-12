@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ जऊन बचेलें ऊ सुनेलें आ डरेलें, आ आगे एह बुरा काम जइसन ई आपन बीच में ना करेलें।",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "जऊन बचेलें"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनेलें"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "आ डरेलें"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "आगे (ना जोड़ेलें)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर कबो"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "जइसन एह काम"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "आपन बीच में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:13.175514775Z",
+  "model": "glm-5.3"
+}

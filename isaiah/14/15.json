@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "बाकिर तूँ तो शेओल में उतारल जाहब, गड़हा के गहिर किनारा में।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकिर तो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "उतारल जाहब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "गहिर किनारा"
+    },
+    {
+      "surface": "בור",
+      "gloss": "गड़हा के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:20.985628524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "तोहरे ऊपर हम के फेंकल गइल गर्भ से; हमार माई के पेट से तूँ हमार एल बानी।",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "तोहरे ऊपर"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "फेंकल गइल"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "गर्भ से"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "पेट से"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमार माई के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमार एल"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:12.132038572Z",
+  "model": "glm-5.3"
+}

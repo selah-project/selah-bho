@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "सियाना लोग जानकारी जमा करेला, आ मूर्ख के मुँह बरबादी के लगे बा।",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "सियाना लोग"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "जमा करेला"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "आ मुँह"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "लगे बा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:10.696405297Z",
+  "model": "glm-5.3"
+}

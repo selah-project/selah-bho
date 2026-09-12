@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक बकरा, पाप-बलि खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी सभ के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:52.058470410Z",
+  "model": "glm-5.3"
+}

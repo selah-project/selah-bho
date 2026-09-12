@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ ई अनाह के लड़का रहलें — दिशोन आ ओहोलिबामा, अनाह के बेटी।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाह"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "आ ओहोलिबामा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "के बेटी"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:06.305269704Z",
+  "model": "glm-5.3"
+}

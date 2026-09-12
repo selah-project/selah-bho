@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "नौवा येशुआ खातिर, दसवा शेखनियाहू खातिर।",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "येशुआ खातिर"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "नौवा"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "शेखनियाहू खातिर"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "दसवा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:36.953315519Z",
+  "model": "glm-5.3"
+}

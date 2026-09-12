@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ जब केहू मरद से बीज के निकासी निकले, त ऊ पानी में ⟨את⟩ आपन पूरा शरीर धोवे, आ साँझ ले अशुच्च रही।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ जब केहू मरद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकर से"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "सोवे के"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "त ऊ धोवे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन पूरा शरीर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "आपन शरीर"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "आ अशुच्च"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:34.711328365Z",
+  "model": "glm-5.3"
+}

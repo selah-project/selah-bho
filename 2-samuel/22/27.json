@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "साफ मन के संग रउआ साफ देखाला; आ टेढ़ा के संग रउआ चतुर बानी।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "साफ मन के"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "रउआ साफ देखाला"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ ... के संग"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "टेढ़ा के"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "रउआ चतुर बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:50.915689892Z",
+  "model": "glm-5.3"
+}

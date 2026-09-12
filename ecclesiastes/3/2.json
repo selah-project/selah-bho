@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "जनम लेवे के समय, आ मरे के समय; रोपे के समय, आ रोपल गइल के उखाड़े के समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "जनम लेवे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ … के समय"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "रोपे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ … के समय"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "उखाड़े के"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "रोपल गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:20.834385274Z",
+  "model": "glm-5.3"
+}

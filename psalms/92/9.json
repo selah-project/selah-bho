@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 92,
+  "translation": "आ तूँ, हे यहवे, सदा खातिर ऊँच बाबू बानी।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ऊँच बाबू"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा खातिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:05.007186106Z",
+  "model": "glm-5.3"
+}

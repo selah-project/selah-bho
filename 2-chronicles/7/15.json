@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "अब हमार आँखि खुलल रहिहीं आ हमार कान ध्यान से सुनिहीं एह जगह के प्रार्थना ला।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमार आँखि"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहिहीं"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "आ हमार कान"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ध्यान से सुनै वाला"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "प्रार्थना ला"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:34.144156844Z",
+  "model": "glm-5.3"
+}

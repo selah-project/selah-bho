@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "चौकोन रहे, दुहरा — ⟨את⟩ होशेन ऊ बनवलन; ए जेरेत ओकर लमाई आ ए जेरेत ओकर चउड़ाई, दुहरा।",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "चौकोन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "दुहरा"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "होशेन"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "होशेन"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ए जेरेत"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लमाई"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "आ ए जेरेत"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ओकर चउड़ाई"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "दुहरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:55:13.706239602Z",
+  "model": "glm-5.3"
+}

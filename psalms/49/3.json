@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "आदम के लइका भी, मनुख के लइका भी, सभे एक संगे — धनी आ गरीब।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एक संगे"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आ गरीब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:12.492014604Z",
+  "model": "glm-5.3"
+}

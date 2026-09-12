@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ देखू, सीसा के एगो गोल टुकड़ा उठावल गइल, आ ई एगो स्त्री बा जे ईफा के बीच में बइठल बाड़ी।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आ देखू"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "एगो गोल टुकड़ा"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "सीसा के"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "उठावल गइल"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एगो स्त्री"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बइठल बाड़ी"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ईफा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:47.512699966Z",
+  "model": "glm-5.3"
+}

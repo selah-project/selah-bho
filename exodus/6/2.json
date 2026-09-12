@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ एलोहीम मूसा से बतियावलन, आ ओकरा से कहलन: “हम यहवे बानी।”",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बतियावलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:39:28.443947766Z",
+  "model": "glm-5.3"
+}

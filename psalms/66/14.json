@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 66,
+  "translation": "जवना के हमारा ओंठ खोल के कहलें, आ हमारा मुँह हमार संकट में बोलल।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जवना के"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "खोल के कहलें"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "हमारा ओंठ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आ … बोलल"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमारा मुँह"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:32.905339667Z",
+  "model": "glm-5.3"
+}

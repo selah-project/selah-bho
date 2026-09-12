@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ हर जिस्म देखी कि हम यहवे ओकरा फूकल बानी; ओ बुझी ना।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "आ देखी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "जिस्म"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "ओकरा फूकल बानी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ओ बुझी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:50.314419855Z",
+  "model": "glm-5.3"
+}

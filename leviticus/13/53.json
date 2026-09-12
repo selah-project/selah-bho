@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ जब कोहेन देखेलन आ देखऽ, त कि नग कपड़ा में, चाहे तानी में, चाहे बानी में, चाहे कवनो चमड़ी के सामान में नइखे फैलल।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैलल"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नग"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "कपड़ा में"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "तानी में"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "बानी में"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कवनो… में"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "सामान"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:28.450740787Z",
+  "model": "glm-5.3"
+}

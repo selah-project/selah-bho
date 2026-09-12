@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "सदा खातिर, हे यहवे, रउआ के बचन अकास में स्थिर ठाढ़ बा।",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "सदा खातिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "रउआ के बचन"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "स्थिर ठाढ़ बा"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:18.836375037Z",
+  "model": "glm-5.3"
+}

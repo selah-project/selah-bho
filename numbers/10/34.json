@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यहवे के बादर उनियन के ऊपर रहल दिन के समय, जब ऊ डेरा से चलल गाहें।",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "आ बादर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उनियन के ऊपर"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन के समय"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "जब ऊ चलल गाहें"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:23.919379062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 3:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "पुत, ई गोड़ तोहार आँखन से ना टरेलें; तूषिय्या आ समझ के तूँ बचा-रख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ילזו",
+      "gloss": "टरेलें"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "तोहार आँखन से"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "बचा-रख"
+    },
+    {
+      "surface": "תשיה",
+      "gloss": "तूषिय्या"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "आ समझ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:37.289020867Z",
+  "model": "glm-5.3"
+}

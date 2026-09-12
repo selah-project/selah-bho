@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "हेसेद आ सच्चाई से अधर्म ढकाला जाला, आ यहवे के भय से ⟨केहू⟩ बुराई से फिरेला।",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "हेसेद से"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आ सच्चाई से"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "ढकाला जाला"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "आ भय से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "סור",
+      "gloss": "फिरेला"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:17.682592457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 5:29",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ओकर सयानी रानी सभे ओकरा जवाब देलीं; ऊहो आपने-आप ओकरा आपन बात के उत्तर देले।",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "सयानी"
+    },
+    {
+      "surface": "שרותיה",
+      "gloss": "ओकर रानी सभे"
+    },
+    {
+      "surface": "תענינה",
+      "gloss": "जवाब देलीं"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ऊहो"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "उत्तर देले"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "आपन बात"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:38.866998431Z",
+  "model": "glm-5.3"
+}

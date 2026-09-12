@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 4:21",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "अबहिने रउआ हुक्म देवऽ ई मरदान के रोके खातिर, आ ई नगर ना बने, जब ले मोरे ओर से दूसर हुक्म ना दइल जाय।",
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "अबहिने"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "देवऽ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "לבטלא",
+      "gloss": "रोके खातिर"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "मरदान के"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ई"
+    },
+    {
+      "surface": "וקריתא",
+      "gloss": "आ नगर"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתבנא",
+      "gloss": "बने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "מני",
+      "gloss": "मोरे ओर से"
+    },
+    {
+      "surface": "טעמא",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "יתשם",
+      "gloss": "दइल जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:49.831323236Z",
+  "model": "glm-5.3"
+}

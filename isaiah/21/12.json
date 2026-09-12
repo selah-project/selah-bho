@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "चौकीदार कहलन: “भोर आवत बा, आ रातो। अगर रउआ पूछब, त पूछीं; लौट जाईं, आवऽ।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "चौकीदार"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "आवत बा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ ... बो"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "रउआ पूछब"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "पूछीं"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "लौट जाईं"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "आवऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:33:27.486209389Z",
+  "model": "glm-5.3"
+}

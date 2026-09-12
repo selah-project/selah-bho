@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "काहे कि याह याकोब के आपन खातिर चुनलन, इस्राएल के आपन खास धन बनावलन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "आपन खास धन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:21.898225278Z",
+  "model": "glm-5.3"
+}

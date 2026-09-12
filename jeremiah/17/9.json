@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "मन सब चीज से धूर्त बा आ लाइलाज — कौन ओका जान सकेला?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "धूर्त"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब चीज से"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "आ लाइलाज"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "जान सकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:26.682714743Z",
+  "model": "glm-5.3"
+}

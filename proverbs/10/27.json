@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "यहवे के भय दिन बढ़ावेला, आ दुष्टन के साल छोट हो जाई।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "बढ़ावेला"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "आ साल"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टन के"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "छोट हो जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:09.409656763Z",
+  "model": "glm-5.3"
+}

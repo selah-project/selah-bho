@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "जब तक कि सूरज अँधेरा ना होखे, आ परकाश, आ चान्द, आ तारा सभे ना अँधेरा होखेले, आ बादर बरखा के बाद लवटेला।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "अँधेरा होखेला"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "आ परकाश"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "आ चान्द"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "आ तारा सभे"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "लवटेला"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "बरखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:32:18.972137232Z",
+  "model": "glm-5.3"
+}

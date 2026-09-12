@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ बसेला न्याय जंगल में, आ धर्मिता उपजाऊ खेत में बइठेला।",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "आ बसेला"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आ धर्मिता"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "उपजाऊ खेत में"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बइठेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:11.683747401Z",
+  "model": "glm-5.3"
+}

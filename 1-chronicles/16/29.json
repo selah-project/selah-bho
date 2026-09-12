@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 16:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "यहवे के नाम के धूम दीँ; मन्नत उठावऽ आ उहाँ के आगू आवऽ; पबित्र सोभा में यहवे के दण्डवत करऽ।",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "दीँ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "धूम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "नाम के"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "उठावऽ"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मन्नत"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "आ आवऽ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "उहाँ के आगू"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "दण्डवत करऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "सोभा में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबित्र"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:03.691090062Z",
+  "model": "glm-5.3"
+}

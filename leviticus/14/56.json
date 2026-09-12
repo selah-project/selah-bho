@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ सैत खातिर, आ सप्पाछत खातिर, आ बहरत खातिर —",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "आ सैत खातिर"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "आ सप्पाछत खातिर"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "आ बहरत खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:26.338303778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "हरियर सब्जी के भोजन आ प्रेम ओहिजे — ई मोटा कइल गाय आ ओकरा साथे नफरत से बेहतर बा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बेहतर बा"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "हरियर सब्जी"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "आ प्रेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "משור",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "मोटा कइल"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "आ नफरत"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:12.878177863Z",
+  "model": "glm-5.3"
+}

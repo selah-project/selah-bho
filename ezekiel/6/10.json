@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ जान जाईहें कि हम यहवे बानी; हम बिना कारण ना बोलले रहली कि ऊ लोग के ई बुराई करब।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "आ ऊ जान जाईहें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "बिना कारण"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बोलले रहली"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करब"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊ लोग के"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ई बुराई"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:47:50.029236044Z",
+  "model": "glm-5.3"
+}

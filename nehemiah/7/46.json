@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "नेतीनिम लोग: सीहा के बेटावन, हसूफा के बेटावन, तब्बाओत के बेटावन।",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "नेतीनिम लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "सीहा के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "हसूफा के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "तब्बाओत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:27.348619286Z",
+  "model": "glm-5.3"
+}

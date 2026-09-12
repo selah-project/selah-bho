@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "एही से तुमनी के ऊपर अकास ओसिया रोकले बाड़ें, आ धरती आपन फसल रोकले बा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तुमनी के ऊपर"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "रोकले बाड़ें"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "ओसिया"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "आ धरती"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "रोकले बा"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "आपन फसल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:23:28.840938307Z",
+  "model": "glm-5.3"
+}

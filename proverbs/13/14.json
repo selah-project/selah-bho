@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "होशियार के सिक्खा जिनगी के झरना बा, मौत के फंदा सभे से बचे खातिर।",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "सिक्खा"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "होशियार के"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी के"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "बचे खातिर"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "फंदा सभे से"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:04.059738865Z",
+  "model": "glm-5.3"
+}

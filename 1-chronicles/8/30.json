@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ओकर बेटा — पहिला-जनम अब्दोन, आ त्सूर, आ कीश, आ बाल, आ नादाब।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "आ ओकर बेटा"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहिला-जनम"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "अब्दोन"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "आ त्सूर"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "आ कीश"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "आ बाल"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "आ नादाब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:35.781114009Z",
+  "model": "glm-5.3"
+}

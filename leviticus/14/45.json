@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आऊ ⟨את⟩ घर के तोड़ेल — ⟨את⟩ ओकर पत्थरन, ⟨את⟩ ओकर लकड़ी आ ⟨את⟩ घर के सारा धूलि — आऊ ओकरा नगर के बाहिर गंदा जगह पर ले जाई।",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "तोड़ेल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर पत्थरन"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "ओकर पत्थरन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर लकड़ी"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "ओकर लकड़ी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "घर के सारा धूलि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूलि"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ले जाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "गंदा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:19.529231559Z",
+  "model": "glm-5.3"
+}

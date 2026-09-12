@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ ऊ यहवे के घर के दुआरन पर दरबान लोगन के टिकाइलन, ताकि जवन केहू अशुद्ध बा ऊ कवनो बात में भीतर ना आवे।",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "टिकाइलन"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "दरबान लोगन के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "दुआरन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-09-11T23:48:08.715027825Z",
+  "model": "glm-5.3"
+}

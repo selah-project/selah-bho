@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "दक्खिन के ओर जाला आ उत्तर के ओर घूमेला; घूमत-घूमत चलेला वायु आ आपन चक्करन के ओर फिर लवटेला वायु।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "जाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "आ घूमेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "घूमत"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "घूमत"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चलेला"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "वायु"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ ओर"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "आपन चक्करन"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फिर लवटेला"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "वायु"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:28.515010500Z",
+  "model": "glm-5.3"
+}

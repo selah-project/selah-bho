@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एकरे बाद देखऽ — एही हम एकले पावली बनी, कि एलोहीम ⟨את⟩ मनुख के सीधा बनवले रहलें, बाकिर ऊ सभे ढेर सारा चालाकी सभ के खोज कइलें।",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "एकले"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "हम पावली बनी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवले रहलें"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मनुख"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आ ऊ सभे"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोज कइलें"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "चालाकी सभ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर सारा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:46.534066205Z",
+  "model": "glm-5.3"
+}

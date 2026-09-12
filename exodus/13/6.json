@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "सात दिन ले तूँ मज़्ज़ोत खाब, आ सातवाँ दिन यहवे खातिर परब होय।",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तूँ खाब"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "मज़्ज़ोत"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "आ सातवाँ दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:36.612576262Z",
+  "model": "glm-5.3"
+}

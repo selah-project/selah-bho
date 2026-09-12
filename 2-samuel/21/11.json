@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ दाऊद के बतावल गेल ⟨את⟩ जे रित्स्पा, आया के बेटी, शाऊल के रखेलिया, कइले।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "बतावल गेल"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे रित्स्पा कइले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "रित्स्पा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "איה",
+      "gloss": "आया के"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "रखेलिया"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:30:10.133987381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 1:13",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "दाऊद ओ लरिका से कहलन जे ओकरा ई बतावत रहल, “तूँ कते के बाड़े?” ओ कहलस, “हम एगो परदेसी अमालेकी के बेटा बनी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ओ लरिका"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "बतावए वाला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कते"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "कहाँ से"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलस"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "अमालेकी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:21:20.535139634Z",
+  "model": "glm-5.3"
+}

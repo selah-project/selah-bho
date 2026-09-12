@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 3:16",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ऊ दवीर में जंजीर बनवलन आ खम्भा सभ के मुथ्थी पर धरलन; आ सौ अनार बनवलन आ जंजीर सभ में लगवलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "שרשרות",
+      "gloss": "जंजीर"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "दवीर में"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुथ्ठी"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "खम्भा सभ के"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "अनार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "लगवलन"
+    },
+    {
+      "surface": "בשרשרות",
+      "gloss": "जंजीर सभ में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:02:59.951250982Z",
+  "model": "glm-5.3"
+}

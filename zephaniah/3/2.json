@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ आवाज़ ना सुनलस, ताड़ना ना ग्रहण कइलस, यहवे पर भरोसा ना कइलस, आपन एलोहीम के लगे ना चलल गई।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "सुनलस"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाज़"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "ग्रहण कइलस"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ताड़ना"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "भरोसा कइलस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "आपन एलोहीम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "चलल गई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:38.114204515Z",
+  "model": "glm-5.3"
+}

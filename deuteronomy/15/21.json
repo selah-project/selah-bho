@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ जब ओहिजे कवनो दाग होखे — लंगड़ा होखे, अँधा होखे, कवनो बुरा दाग — तूँ ओकरा यहवे अपन एलोहीम के ना बलि करब।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "लंगड़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "अँधा होखे"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अँधा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "बलि करब"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपन एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:12.659836243Z",
+  "model": "glm-5.3"
+}

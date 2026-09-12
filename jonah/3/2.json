@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "उठ, निनवे के ओ ⟨सबसे⟩ बड़का नगर ला जा, आ ओकरा ला ⟨את⟩ ओ घोषणा घोषित करऽ जवन हम तोहार ला बोलत बानी।",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवे"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ओ नगर"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "आ घोषित करऽ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा ला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घोषणा"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ओ घोषणा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलत"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहार ला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:17:58.814257773Z",
+  "model": "glm-5.3"
+}

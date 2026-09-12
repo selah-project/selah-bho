@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "हम चुप रहलिए, हम मुँह ना खोललिए — काहें कि तूँही कइलऽ ⟨ई⟩।",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "हम चुप रहलिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "हम खोललिए"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँही"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:56.562954511Z",
+  "model": "glm-5.3"
+}

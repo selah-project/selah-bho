@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ यहवे इसरायेल में महामारी भेजलन, आ इसरायेल में से सत्तर हजार मनखी गिर गइल।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "आ … भेजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसरायेल में"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "आ … गिर गइल"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इसरायेल में से"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनखी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:37.797795001Z",
+  "model": "glm-5.3"
+}

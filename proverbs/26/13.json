@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आलसी कहेला — “शाचल बाट में बा, अरी चउराहा सभा के बीच में बा।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "शाचल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाट में"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "अरी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "चउराहा सभा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:13.110680492Z",
+  "model": "glm-5.3"
+}

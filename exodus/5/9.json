@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काम ऊपर भारी होखे — आदमिन पर — आ ऊ ओहमे करेलें; बाकिर ऊ झूठ के बातन मत धइल जावेलें।",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "भारी होखे"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "आदमिन पर"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "आ ऊ करेलें"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहमे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "धइल जावेलें"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:48.118596168Z",
+  "model": "glm-5.3"
+}

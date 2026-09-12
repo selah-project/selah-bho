@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "कब ले तूँ, यहवे, हमरा बिसरबऽ — सदा ले? कब ले तूँ ⟨את⟩ आपन मुँह हमरा से छुपाबऽ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "हमरा बिसरबऽ"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कब"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "छुपाबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन मुँह"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:23.607477643Z",
+  "model": "glm-5.3"
+}

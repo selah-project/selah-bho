@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "धनी गरीबन पर राज करेला, आ उधार लेवइया उधार देवइया के नोकर होखेला।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "गरीबन पर"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "राज करेला"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "आ नोकर"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "उधार लेवइया"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "के"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "उधार देवइया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:49.573259186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ यहवे के बचन हमरा लग आइल, ई कहिके:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:00.393975574Z",
+  "model": "glm-5.3"
+}

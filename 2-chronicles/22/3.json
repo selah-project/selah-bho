@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ऊहो अचाब के घर के रस्ता पर चललन, काहें से कि ओकर माता ओकर सलाहकार रहली — बेकारी करावे खातिर।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "उहो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अचाब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माता"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहली"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "ओकर सलाहकार"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "बेकारी करावे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:10:00.375648653Z",
+  "model": "glm-5.3"
+}

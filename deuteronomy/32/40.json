@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "काहे कि हम आपन हाथ अकास के ओर उठाबी आ कहबी: जिअल हम सदा ले बानी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठाबी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "आ कहबी"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअल"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:37.423501690Z",
+  "model": "glm-5.3"
+}

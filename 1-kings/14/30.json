@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ रहबाम आ याराबाम के बीच लड़ाई रहल, सब दिन ले।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "आ लड़ाई"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ के बीच"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "याराबाम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन ले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:41:43.708822989Z",
+  "model": "glm-5.3"
+}

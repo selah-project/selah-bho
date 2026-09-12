@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "अउरू एफ्रोन जवाब दिहलन ⟨את⟩ अब्राहाम के, ओकरा कहलन।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "एफ्रोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अब्राहाम के"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अब्राहाम के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:40.432009563Z",
+  "model": "glm-5.3"
+}

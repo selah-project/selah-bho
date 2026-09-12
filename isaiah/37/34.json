@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "जेहि रास्ते से ऊ आइल बा, ओही से ऊ लौट जाई, आ एहि नगर में ना आवेला — यहवे के वचन बा।",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "रास्ते से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइल बा"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौट जाई"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ…में"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:10:49.096544911Z",
+  "model": "glm-5.3"
+}

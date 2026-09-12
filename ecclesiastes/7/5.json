@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "होसियार के फटकार सुनल नीक बा, कवनो अइसन मनुष्य से जे मूरख सभे के गीत सुनेला।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुनल"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "फटकार"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "होसियार के"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "कवनो मनुष्य से"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनेला"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूरख सभे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:24.405925305Z",
+  "model": "glm-5.3"
+}

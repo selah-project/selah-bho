@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "अमरामी के, यित्सहरी के, हेब्रोनी के आ उज़्ज़िएली के —",
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "अमरामी के"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "यित्सहरी के"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "हेब्रोनी के"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "उज़्ज़िएली के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:06.266790061Z",
+  "model": "glm-5.3"
+}

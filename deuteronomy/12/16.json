@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "बस ⟨एकरा⟩ खून के ना खाब; ओकरा धरती पर पानी नियन ढार देब।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बस"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ओकरा ढार देब"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पानी नियन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:52.889933086Z",
+  "model": "glm-5.3"
+}

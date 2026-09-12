@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "लटकन आ कंगन आ घुँघट —",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "लटकन"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "आ कंगन"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "आ घुँघट"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:38.938519178Z",
+  "model": "glm-5.3"
+}

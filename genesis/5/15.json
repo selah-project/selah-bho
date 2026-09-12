@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ महललेल जिअलन पाँच बरिस आ साठ बरिस, आ ⟨את⟩ यारेद के जनम देलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिअलन"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललेल"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आ जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यारेद"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "यारेद"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:43.793875150Z",
+  "model": "glm-5.3"
+}

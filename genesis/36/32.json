@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "एदोम में बेला राज कइलन — बेओर के बेटा — आ ओकर नगर के नाम दिनहाबा रहे।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "एदोम में"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "बेला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "बेओर के"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आ ... नाम"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ओकर नगर के"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "दिनहाबा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:01.786707693Z",
+  "model": "glm-5.3"
+}

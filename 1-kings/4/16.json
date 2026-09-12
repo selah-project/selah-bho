@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "बाना, हूशै के बेटा, आशेर में आ बेआलोत में।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "बाना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हूशै"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "आशेर में"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "आ बेआलोत में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:29:22.837485818Z",
+  "model": "glm-5.3"
+}

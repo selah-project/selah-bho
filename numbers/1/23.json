@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "उनकर गिनती-वाला लोग शिमोन के शाखा खातिर नौ आ पचास हजार आ तीन सौ रहलें।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनकर गिनती-वाला लोग"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "शाखा खातिर"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:02.998308418Z",
+  "model": "glm-5.3"
+}

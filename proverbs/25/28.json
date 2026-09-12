@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "टूटल-फूटल गाँव, जेकर दीवार नइखे — ओही नियर ऊ मनुख जेकर आत्मा लगाम नइखे।",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "गाँव"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "टूटल-फूटल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "लगाम"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "आत्मा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:00.659930282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 26:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ मिसकान के ओर-सिरा खातिर, पच्छिम के ओर, तूँ छह तख्ता बनबू।",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "आ ओर-सिरा खातिर"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिसकान के"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पच्छिम के ओर"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तूँ बनबू"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "तख्ता"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:25.664768583Z",
+  "model": "glm-5.3"
+}

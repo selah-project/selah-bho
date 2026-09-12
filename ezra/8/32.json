@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ हमनी का यरूशलयिम (यरूशलेम) आइल जा, आ उहिजे तीन दिन रहल जा।",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "आ आइल जा"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "आ रहल जा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहिजे"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:45:43.864462472Z",
+  "model": "glm-5.3"
+}

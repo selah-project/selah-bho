@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 24:51",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "देखऽ, रिबका तोहरे आगू बा; ले जा आ ओ तोहर अदोनाय के बेटा के घरवाही होख, जइसने यहवे कहलन।”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "रिबका"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तोहरे आगू"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आ जा"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ओ होख"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "घरवाही"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "तोहर अदोनाय"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:56.617945879Z",
+  "model": "glm-5.3"
+}

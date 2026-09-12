@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ तूँ ⟨את⟩ सोना के दू डोरी दू छल्ला पर लगाईह, छाती-पट्टी के किनारा की ओर।",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "आ तूँ लगाईह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सोना के दू डोरी"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "डोरी"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "छल्ला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टी के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:04.741827608Z",
+  "model": "glm-5.3"
+}

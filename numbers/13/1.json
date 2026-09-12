@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ यहवे मूसा से बोललन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से (के ओर)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:12.879371613Z",
+  "model": "glm-5.3"
+}

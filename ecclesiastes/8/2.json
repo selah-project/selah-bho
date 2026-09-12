@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "हम ⟨ई⟩ कहत बानी — राजा के मुँह ⟨के आज्ञा⟩ के मानऽ, आ एलोहीम के सौगंद के खातिर।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "मानऽ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ के खातिर"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कारण में"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "सौगंद"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:01.697494185Z",
+  "model": "glm-5.3"
+}

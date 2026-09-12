@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 38:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "ऊ यहूदा के पास लौटलन आ कहलन — हमके ऊ ना मिलली; आ ओ जगह के मनई लोगो कहलें — इहवा कवनो केदेसा ना रहली।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लौटलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מצאתיה",
+      "gloss": "मिलली"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ओ जगह के"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहली"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "इहवा"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "केदेसा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:39.041639471Z",
+  "model": "glm-5.3"
+}

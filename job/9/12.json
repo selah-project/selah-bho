@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "देखऽ, ऊ झटक लेहें — का ओकरा रोकेला? का ओसे कहेला — का करत बानी?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "झटक लेहें"
+    },
+    {
+      "surface": "מי",
+      "gloss": "का (कौन)"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ओकरा रोकेला"
+    },
+    {
+      "surface": "מי",
+      "gloss": "का (कौन)"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओसे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करत बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:57.792700758Z",
+  "model": "glm-5.3"
+}

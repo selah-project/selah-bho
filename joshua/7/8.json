@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "अहा अदोनाय, का कही हम, एकर बाद कि इस्राएल आपन दुश्मनन के आगे पीठ देखा देले?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "अहा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कही हम"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "एकर बाद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "देखा देले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "पीठ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "आपन दुश्मनन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:09.150897451Z",
+  "model": "glm-5.3"
+}

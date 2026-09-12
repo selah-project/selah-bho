@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "ई तोहार कद ताड़ी के गाछ जइसन बा, आ तोहार छाती अंगूर के गुच्छा सभ जइसन बाड़ी।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "तोहार कद"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "जइसन बा"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "ताड़ी के गाछ"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "आ तोहार छाती"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "अंगूर के गुच्छा सभ जइसन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:24:26.007119202Z",
+  "model": "glm-5.3"
+}

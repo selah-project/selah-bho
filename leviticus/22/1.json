@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ यहवे मोशा से बोललन, कहत –",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:39.904435890Z",
+  "model": "glm-5.3"
+}

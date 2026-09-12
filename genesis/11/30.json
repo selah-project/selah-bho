@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ सारै बाँझ रहली — ओकरा कवनो सन्तान नइखे रहल।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "आ … रहली"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सारै"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "कवनो सन्तान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:41.418608440Z",
+  "model": "glm-5.3"
+}

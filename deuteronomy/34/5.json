@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ मोशे, यहवे के सेवक, ओहिजे मोआब के धरती में मरलन, यहवे के मुख के अनुसार।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आ … मरलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के अनुसार"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:42.967725113Z",
+  "model": "glm-5.3"
+}

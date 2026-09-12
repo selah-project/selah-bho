@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "जइसे पागल दिखावे वाला अंगार, तीर आ मउत फेंकेला —",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "जइसे पागल दिखावे वाला"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "फेंकेला"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "अंगार"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "तीर"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "आ मउत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:32.627615962Z",
+  "model": "glm-5.3"
+}

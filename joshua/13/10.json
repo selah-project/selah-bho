@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 13:10",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ सिहोन, एमोरी लोक के राजा, के सारा नगर — ऊ हेशबोन में राज कइलन — अम्मोन के लइकन के सीमा ले;",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सारा"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "सिहोन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी लोक के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "हेशबोन में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लइकन के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:52.239111233Z",
+  "model": "glm-5.3"
+}

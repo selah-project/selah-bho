@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ ऊ यहवे के आँखि में बुराई कइलन, जइसे ओकर पिता मनश्शे कइले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले रहलें"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T19:57:04.705056958Z",
+  "model": "glm-5.3"
+}

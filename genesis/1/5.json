@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ एलोहीम प्रकाश के नाम “दिन” रखलन, आ अँधियार के नाम ऊ रखलन “राति”। तऽ साँझ भइल आ तऽ भोर भइल — एक दिन।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "नाम रखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "प्रकाश के"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "आ अँधियार के"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "नाम रखलन"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "राति"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:41.543666515Z",
+  "model": "glm-5.3"
+}

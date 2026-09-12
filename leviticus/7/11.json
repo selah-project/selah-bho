@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ई शान्ति-बलि (जेबाच शेलमीम) के तोरत ह — जवन केहू यहवे के चढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरत (विधि)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शेलमीम के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "चढ़ावेला"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:02.857602152Z",
+  "model": "glm-5.3"
+}

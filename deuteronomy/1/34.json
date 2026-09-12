@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ यहवे ⟨את⟩ रउआ सभे के बातन के आवाज सुनलन, आ क्रोधित भइन, आ सौंह खइलन के कहन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आ सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ सभे के बातन के आवाज"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "रउआ सभे के बातन के"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "आ क्रोधित भइन"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "आ सौंह खइलन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:30.479564317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 37:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ ऊ, आ ओकर सेवक लोग, आ धरती के जनता — यहवे के बातन के ओर कान ना धरलें, जेब ऊ नबी यरमियाहू के हाथ से कहले रहलें।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "कान धरलें"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "आ ओकर सेवक लोग"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ जनता"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेब"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहले रहलें"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यरमियाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:39:06.532943592Z",
+  "model": "glm-5.3"
+}

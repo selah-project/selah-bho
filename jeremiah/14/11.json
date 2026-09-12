@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ यहवे हम से कहलन: एह सभा खातिर भलाई के बिनती मत करऽ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "बिनती करऽ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "העם",
+      "gloss": "एह सभा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भलाई के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:27:50.691338243Z",
+  "model": "glm-5.3"
+}

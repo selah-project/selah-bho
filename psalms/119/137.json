@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "न्यायी रउआ बानी, यहवे, आ रउआ के मिसपतिम सीधा बाड़ें।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "आ सीधा"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "रउआ के मिसपतिम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:00.752802445Z",
+  "model": "glm-5.3"
+}

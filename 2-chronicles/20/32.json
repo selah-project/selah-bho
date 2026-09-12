@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ ऊ आपन पिता आसा के रस्ता पर चलल आ ओहिजे से ना हटलन, यहवे के नीन्ह में जे सीधा बा ओकरा करत रहलन।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "סר",
+      "gloss": "हटलन"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओहिजे से"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करत रहलन"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "जे सीधा बा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "नीन्ह में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:45.489735494Z",
+  "model": "glm-5.3"
+}

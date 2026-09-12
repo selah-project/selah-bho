@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "याद करऽ, याद करऽ — आ हमार प्राण हमरे भीतर झुक जाला।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "याद करऽ"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "याद करऽ"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "आ झुक जाला"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरे ऊपर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:16.541007953Z",
+  "model": "glm-5.3"
+}

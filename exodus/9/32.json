@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "बाकिर गहूँ आ कुसमी मारल ना गइलें, काहे कि ऊ अपील (पछिला फसल) रहे।",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "बाकिर गहूँ"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "आ कुसमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "मारल गइलें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "अपील (पछिला फसल)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ऊ ... रहे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:40:42.386767313Z",
+  "model": "glm-5.3"
+}

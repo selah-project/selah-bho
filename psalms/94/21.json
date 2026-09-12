@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "ऊ लोग धर्मी के प्राण पर भीड़ बनावेला, आ निर्दोष खून के दोषी ठहरावेला।",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "भीड़ बनावेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी के"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "आ खून"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निर्दोश"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "दोषी ठहरावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:52.606446359Z",
+  "model": "glm-5.3"
+}

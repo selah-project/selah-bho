@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 6:29",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "धौंकनी तपल बा, आगी में सीसा खतम हो गइल; बेकार ढलाइ ढालल गइल, काहेंकि बुरा लोग अलग ना होले।",
+  "tokens": [
+    {
+      "surface": "נחר",
+      "gloss": "तपल बा"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "धौंकनी"
+    },
+    {
+      "surface": "מאשתם",
+      "gloss": "आगी से"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "सीसा"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "बेकार"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "ढलाइ करे"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "ढालल गइल"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "आ बुरा लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "अलग होले"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:59.883897805Z",
+  "model": "glm-5.3"
+}

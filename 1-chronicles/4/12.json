@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ एश्तोन ⟨את⟩ बेत-राफा आ ⟨את⟩ पासेयाह आ ⟨את⟩ तेहिन्ना के जनम दिहलन — इर-नाहश के पिता; ई लोग रेका के लोग बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "आ एश्तोन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेत-राफा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "राफा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पासेयाह"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पासेयाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तेहिन्ना"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "तेहिन्ना"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "इर"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाहश के"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "रेका के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:38.413730240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "सियानन के बात शांति में सुनाल जाला, मूर्खन के बीच शासक के गरजा से बेसी ⟨बढ़िया⟩।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "सियानन के"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "शांति में"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "सुनाल जाला"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "गरजा से बेसी"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "शासक के"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "मूर्खन के बीच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:54.223475926Z",
+  "model": "glm-5.3"
+}

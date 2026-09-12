@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "“आबा जाउ आ काम करउ; तुहनी के पराल ना दइल जाई, आ पर ईँटा के पूरा नाप तुहनी के देवए पड़ी।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आबा"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "जाउ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "काम करउ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "पराल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "दइल जाई"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुहनी के"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "पूरा नाप"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ईँटा के"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "देवए पड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:39:19.490632400Z",
+  "model": "glm-5.3"
+}

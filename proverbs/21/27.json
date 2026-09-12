@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "दुष्ट लोग के बलि घिनौना बा — एकरा बढ़िया कि बुरा मंसा से ओकरा ले आवेला!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घिनौना बा"
+    },
+    {
+      "surface": "אף",
+      "gloss": "एकरा बढ़िया"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "बुरा मंसा से"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ओकरा ले आवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:32.993069037Z",
+  "model": "glm-5.3"
+}

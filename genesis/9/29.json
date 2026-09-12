@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ नूह के सगरी दिन नौ सौ साल आ पचास साल भइल, आ ऊ मर गइलन।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह के"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आ ऊ मर गइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:19.966953643Z",
+  "model": "glm-5.3"
+}

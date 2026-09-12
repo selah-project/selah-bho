@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 5:16",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "तब ओही शेशबत्सर आ के यरूशलयिम में एलाहा के घर के नींव धरलन; आ ओहिजे से अबहिनो ले ऊ बनत बा आ अबहीं पूरा नइखे।",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "शेशबत्सर"
+    },
+    {
+      "surface": "דך",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אתא",
+      "gloss": "आ के"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "אשיא",
+      "gloss": "नींव"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "एलाहा"
+    },
+    {
+      "surface": "די",
+      "gloss": "में"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आ ओहिजे से"
+    },
+    {
+      "surface": "אדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "כען",
+      "gloss": "अबहिनो"
+    },
+    {
+      "surface": "מתבנא",
+      "gloss": "बनत बा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:43:19.962039906Z",
+  "model": "glm-5.3"
+}

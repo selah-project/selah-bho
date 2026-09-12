@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "मौत आ जिनगी जिभा के हाथ में बाड़ी से, आ जे ओकरा से प्रेम करेला ऊ ओकर फल खाई।",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "आ जिनगी"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "के हाथ में"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिभा"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "आ जे ओकरा से प्रेम करेला"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाई"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.673055991Z",
+  "model": "glm-5.3"
+}

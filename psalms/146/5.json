@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 146,
+  "translation": "भागिया ऊ, जेकर सहाया याकोब के एलोहीम बा, जेकर आसा आपन एलोहीम यहवे पर बा।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "भागिया"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "जेकर… बा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "सहाया"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "आपन एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:11.995628343Z",
+  "model": "glm-5.3"
+}

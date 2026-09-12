@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "हाय असूर के! ऊ हमर क्रोध के छड़ी बा, आ ऊ गुत्ती जवन ओकर हाथ में बा, हमर जुल्म के।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "असूर"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "छड़ी"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "हमर क्रोध"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "आ गुत्ती"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "हमर जुल्म के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:02:59.569087115Z",
+  "model": "glm-5.3"
+}

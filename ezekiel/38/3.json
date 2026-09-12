@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ कहबू: एहने कहेला अदोनाय यहवे — देखऽ, हम तोहार ऊपर बानी, हे गोग, मेशेक आ तुबल के मुखिया-प्रधान।",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहबू"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ हम"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "गोग"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "प्रधान"
+    },
+    {
+      "surface": "משך",
+      "gloss": "मेशेक"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "आ तुबल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:03:00.001798305Z",
+  "model": "glm-5.3"
+}

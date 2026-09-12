@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "के देवे कि हमार माँग पूरा होखे, आ एलोहा हमार आसा पूरा करे!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवे"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "पूरा होखे"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "हमार माँग"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "आ हमार आसा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "पूरा करे"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोहा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:39.353312191Z",
+  "model": "glm-5.3"
+}

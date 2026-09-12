@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "नाफ्ताली खातिर — अहीरा, एनान के बेटा।",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "नाफ्ताली खातिर"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अहीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:02.021546757Z",
+  "model": "glm-5.3"
+}

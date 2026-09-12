@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "मनुख-मनुख आपन शरीर के मांस-नाता के कवनो लगे नंगारी खोले खातिर ना आवे; हम यहवे बा।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "आपन शरीर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "रउआ सभे आवब"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "खोले खातिर"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "नंगारी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:45.810260522Z",
+  "model": "glm-5.3"
+}

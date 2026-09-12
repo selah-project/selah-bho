@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आपन बइठे के जगह से ऊ धरती के सब बसइया के गौर से निहारलन।",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "जगह से"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "आपन बइठे के"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "गौर से निहारलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बसइया"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:40:27.295885363Z",
+  "model": "glm-5.3"
+}

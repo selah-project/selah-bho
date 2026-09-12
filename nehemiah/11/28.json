@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ जिक्लाग में, आ मिखोना में आ ओकर गाँव सभ में।",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "आ जिक्लाग में"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "आ मिखोना में"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "आ ओकर गाँव सभ में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:50.238556954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ⟨את⟩ येबूसी, आ ⟨את⟩ एमोरी, आ ⟨את⟩ गिर्गशी।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "येबूसी"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "येबूसी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एमोरी"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "गिर्गशी"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "गिर्गशी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:42.864038627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जबतक एक तीर ओकर मरली ना चीर देला, जइसे चिरई फुर्रा के फंदा में जाले, आ ओकरा पता नइखे कि ओकरा अपना जिनगी बिटा देवे पर बा।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "चीर देला"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "तीर"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ओकर मरली"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "जइसे फुर्रा के"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चिरई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कस"
+    },
+    {
+      "surface": "פח",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "पता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "अपना जिनगी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:22.427805194Z",
+  "model": "glm-5.3"
+}

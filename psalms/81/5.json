@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 81,
+  "translation": "काहेकि ऊ इसराएल खातिर हुक्म ह, याकूब के एलोहीम के नियम ह।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "חק",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इसराएल खातिर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "एलोहीम खातिर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकूब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:57.576413979Z",
+  "model": "glm-5.3"
+}

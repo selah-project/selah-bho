@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "होरोनायिम से चीख के आवाज: “उजाड़ी आ बहुत बड़ बिनास!”",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "चीख के"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "होरोनायिम से"
+    },
+    {
+      "surface": "שד",
+      "gloss": "उजाड़ी"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "आ बिनास"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बहुत बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:50.142112024Z",
+  "model": "glm-5.3"
+}

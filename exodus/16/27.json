@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ भऽ गईल कि सातवाँ दिन संत के कुछ लोग बटोरे खातिर निकलल, आ ऊ लोग के कुछ ना मिलल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भऽ गईल कि"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "संत के कुछ लोग"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "बटोरे खातिर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "मिलल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:12.142785467Z",
+  "model": "glm-5.3"
+}

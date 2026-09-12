@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 115,
+  "translation": "कान उनका संगे बाड़ आ ऊ सुनेले नई; नाक उनका संगे बाड़ आ ऊ सूँघेले नई।",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "कान"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनका संगे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नई"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनेले"
+    },
+    {
+      "surface": "אף",
+      "gloss": "नाक"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनका संगे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नई"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "सूँघेले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:35.044181277Z",
+  "model": "glm-5.3"
+}

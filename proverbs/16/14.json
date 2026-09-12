@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "राजा के कोप मौत के दूत बाड़ें; बाकिर एगो समझदार मरद ओकरा शांत करेला।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "कोप"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकिर एगो मरद"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "ओकरा शांत करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:55.708628340Z",
+  "model": "glm-5.3"
+}

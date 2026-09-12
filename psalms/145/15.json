@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 145,
+  "translation": "सब जीव के आँखि रउआ उपर ताकेली, आ रउआ ओनखे अपना समय पर ⟨את⟩ खाना देवेला।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ उपर"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ताकेली"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ रउआ"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओनखे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाना"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "अपना समय पर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:26.186403612Z",
+  "model": "glm-5.3"
+}

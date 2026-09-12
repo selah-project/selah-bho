@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ⟨את⟩ पुरुष के साथे औरत के शय्या-बरताव ना करऽ — ओ घिनौनी बा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "शय्या-बरताव करऽ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "शय्या"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत (के नियर)"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घिनौनी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओ बा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:31.579958538Z",
+  "model": "glm-5.3"
+}

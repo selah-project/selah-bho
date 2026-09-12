@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ हम गियान ना सीखली, आ पबितर सभे के जानकारी — का हम जानब?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "हम सीखली"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "गियान"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आ जानकारी"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पबितर सभे के"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "हम जानब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:51.573526169Z",
+  "model": "glm-5.3"
+}

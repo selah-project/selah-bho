@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "हम मनभावन रोटी ना खाइलन, आ मांस आ दारू हमर मुँह में ना आइल, आ हम तेल से ना लपेटलन, जब ले के तीन हफ्ता — दिनन के — पूरा ना भ गइल।",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "मनभावन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "खाइलन"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "आ मांस"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आ दारू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "आ तेल से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "लपेटलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले के"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "पूरा भ गइल"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "हफ्ता"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:39:36.722154879Z",
+  "model": "glm-5.3"
+}

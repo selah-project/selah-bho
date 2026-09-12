@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ गाइ-बघाइ छत्तीस हजार,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "आ गाइ-बघाइ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:22.265406732Z",
+  "model": "glm-5.3"
+}

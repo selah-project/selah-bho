@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ कहात के बेटा के परिवार में से कुछु लोग के अपना सीमा के नगर एफरयिम के गोत्र से रहल।",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "आ परिवार में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "अपना सीमा के"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "गोत्र से"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफरयिम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:08.368203559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ एहन होखी कि जउन दस गो आदमी एक घर में बचल रहिहँ, त ऊ सभे मर जाहीं।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ एहन होखी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि जउन"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "बचल रहिहँ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "आदमी सभे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "त मर जाहीं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:15:07.443041171Z",
+  "model": "glm-5.3"
+}

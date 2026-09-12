@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "मोर मांस आ मोर चमड़ी घिस दिहलन; मोर हड्डी सभे तोड़ दिहलन।",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "घिस दिहलन"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "मोर मांस"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "आ मोर चमड़ी"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ दिहलन"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "मोर हड्डी सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.621458378Z",
+  "model": "glm-5.3"
+}

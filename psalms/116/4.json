@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "आ यहवे के नाम पर हम पुकारली: “हे यहवे, हमर परान के छुड़ा दऽ!”",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "आ के नाम पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारली"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "हे!"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "छुड़ा दऽ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर परान के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:41.833549614Z",
+  "model": "glm-5.3"
+}

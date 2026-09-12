@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अवराहाम बहुत दिन ले पलिश्ती सभे के देस में परदेसी कइलन।",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "आ परदेसी कइलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देस में"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती सभे के"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:58.188039072Z",
+  "model": "glm-5.3"
+}

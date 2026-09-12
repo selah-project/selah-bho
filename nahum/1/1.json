@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "निनवेह के बोझ; नाहूम हएलकोशी के दर्शन के किताब।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवेह"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "नाहूम"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "हएलकोशी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:21:16.090641011Z",
+  "model": "glm-5.3"
+}

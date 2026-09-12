@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 56,
+  "translation": "खेत के सब जानवर, खाए खातिर आवऽ, जंगल के सब जानवर।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "आवऽ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "खाए खातिर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "जंगल के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:34:03.247051885Z",
+  "model": "glm-5.3"
+}

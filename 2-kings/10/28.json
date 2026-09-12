@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ एह तरह से यहू इसरायल से ⟨את⟩ बाल के नष्ट करा दिहलन।",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "आ नष्ट करा दिहलन"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाल"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "बाल के"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इसरायल से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:50:18.320779454Z",
+  "model": "glm-5.3"
+}

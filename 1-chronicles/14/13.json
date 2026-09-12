@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ फिलिश्ती सभे फेर जोड़ दिहलें आ घाटी में फैल गइलें।",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "फेर जोड़ दिहलें"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "फिलिश्ती सभे"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "फैल गइलें"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:56.774335533Z",
+  "model": "glm-5.3"
+}

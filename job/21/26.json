@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "एक संगे धूल पर लेटलें, आ पतंगा ऊ लोगन के ढाकेला।",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "एक संगे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूल"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "लेटलें"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "आ पतंगा"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ढाकेला"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊ लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:00.565999995Z",
+  "model": "glm-5.3"
+}

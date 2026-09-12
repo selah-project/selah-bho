@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बाकिर हम शद्दय से बोलब आ एल से बहस करे में चाहत बानी।",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलब"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "आ बहस करे में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "चाहत बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:52.547789581Z",
+  "model": "glm-5.3"
+}

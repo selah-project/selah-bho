@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "अपराध-चाँदी आ पाप-चाँदी यहवे के घर में ना ले जाइल जाला — कोहानियन के होई।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "आ चाँदी"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "ले जाइल जाला"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "कोहानियन के"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होई"
+    }
+  ],
+  "timestamp": "2026-09-11T19:52:41.584068341Z",
+  "model": "glm-5.3"
+}

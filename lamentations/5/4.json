@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमनी के पानी रुपिया दे के पियलीं; हमनी के लकड़ी दाम दे के आवेला।",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "हमनी के पानी"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "रुपिया दे के"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "पियलीं"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "हमनी के लकड़ी"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "दाम दे के"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:45.463351611Z",
+  "model": "glm-5.3"
+}

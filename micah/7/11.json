@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "तोहार दीवार बनावे के दिन — ओही दिन सीमा बहुत दूर हट जाई।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे के"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "तोहार दीवार"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "बहुत दूर हट जाई"
+    },
+    {
+      "surface": "חק",
+      "gloss": "सीमा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:19:56.762404216Z",
+  "model": "glm-5.3"
+}

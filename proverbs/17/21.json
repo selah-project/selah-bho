@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "जवन नास्तिह जनमावेला ओकरा दुख बा, आ नास्तिह के पिता खुश ना होखे।",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "जनमावेला"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "नास्तिह"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुश होखे"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के पिता"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नास्तिह के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:49.330545892Z",
+  "model": "glm-5.3"
+}

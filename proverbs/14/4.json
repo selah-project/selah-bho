@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "जहाँ बैल नइखीं ओहिजे नाँद खाली रहेला, बाकिर बैल के ताकत से फसल ढेर सारा होला।",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "जहाँ नइखीं"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "नाँद"
+    },
+    {
+      "surface": "בר",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "बाकिर ढेर सारा"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "फसल"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "के ताकत से"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:16.198125581Z",
+  "model": "glm-5.3"
+}

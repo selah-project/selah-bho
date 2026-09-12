@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "धरती के ओकरा आपन नींव पर टिकालन — ऊ अनन्त से अनन्त ले कबो ना हिलेला।",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "टिकालन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "ओकरा आपन नींव"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "हिलेला"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनन्त से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "अनन्त ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:59.399345199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 25:36",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "ओकर गाँठ आ ओकर डाँठ ओही से होखें; पूरा एके ठप्पर से गढ़ल काम, खरा सोना के।",
+  "tokens": [
+    {
+      "surface": "כפתריהם",
+      "gloss": "ओकर गाँठ"
+    },
+    {
+      "surface": "וקנתם",
+      "gloss": "आ ओकर डाँठ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होखें"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ठप्पर से गढ़ल काम"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एके"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:38.242509050Z",
+  "model": "glm-5.3"
+}

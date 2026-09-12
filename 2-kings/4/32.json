@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ एलीशा घर के भीतर आइल, तऽ देखा कि लड़का मरल बा, ओकर खाटिया पर पड़ल बा।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलीशा"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "घर के भीतर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "तऽ देखा"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "पड़ल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ओकर खाटिया"
+    }
+  ],
+  "timestamp": "2026-09-11T19:48:54.775313155Z",
+  "model": "glm-5.3"
+}

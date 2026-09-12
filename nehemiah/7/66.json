@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "पूरा काहल एक साथे चार रिब्बो (चालीस हजार) दु हजार तीन सौ छह दस रहल।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "काहल"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक साथे"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "रिब्बो"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दु हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ छाठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:52.234351167Z",
+  "model": "glm-5.3"
+}

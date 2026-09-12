@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ लोग ⟨ऊ⟩हिजे बसिहें, आ विनाश आगू ना रहिहे; यरूशलयिम निश्चिन्त बसिहे।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "आ बसिहें"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ऊहिजे"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "आ विनाश"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहिहे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "बसिहे"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्त"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:53.045101565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आलस गहिरा निंद गिरावेला, आ सुस्ती वाला के जिया भूखा रहेला।",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "आलस"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "गिरावेला"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "गहिरा निंद"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "आ … के जिया"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "सुस्ती वाला"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "भूखा रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:11.225355008Z",
+  "model": "glm-5.3"
+}

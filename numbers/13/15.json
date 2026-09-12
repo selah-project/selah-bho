@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "गाद के गोत्र से गेऊएल, माख़ी के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र से"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद के"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "गेऊएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "माख़ी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:31.986017875Z",
+  "model": "glm-5.3"
+}

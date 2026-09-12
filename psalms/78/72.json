@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "आऊ ऊ साफ हियरा से ला चरालन, आ आपन हाथ के समझ से ला रस्ता देखावलन।",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "ला चरालन"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "जइसन साफ"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "हियरा"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "आ समझ से"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "रस्ता देखावलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:09.464788570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यित्सहार के बेटा रहलें: कोरच, नेफेग आ जिखरी।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरच"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "नेफेग"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "जिखरी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:03.707991551Z",
+  "model": "glm-5.3"
+}

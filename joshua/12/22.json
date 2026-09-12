@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "केदेश के राजा, एगो; कारमेल के योकनेआम के राजा, एगो।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "केदेश"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "योकनेआम"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "कारमेल के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:43.150053908Z",
+  "model": "glm-5.3"
+}

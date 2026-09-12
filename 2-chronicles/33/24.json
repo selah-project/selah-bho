@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 33:24",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ओकर सेवक लोग ओकर बिरुद्ध साजिश रचलन, आ ओकर आपन घर में ओकर मार डारलन।",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "साजिश रचलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर बिरुद्ध"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "सेवक लोग"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "मार डारलन"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "आपन घर में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:28.552542028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ओही दिन ओ बचल मनुख रउआ के लाग आवेला, रउआ के कानन के सुनावे खातिर।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "ओ बचल मनुख"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के लाग"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "सुनावे खातिर"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "कानन के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:56:52.568006580Z",
+  "model": "glm-5.3"
+}

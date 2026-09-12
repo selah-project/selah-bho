@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ ऊ ओकरा से कहलन: “तोहार नाम का ह?” आ ऊ कहलन: “याकोब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहार नाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:35.146010638Z",
+  "model": "glm-5.3"
+}

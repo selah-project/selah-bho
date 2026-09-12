@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "यहवे के रूह हमरा म बोलले, आ ओकर बचन हमर जीभ पर बा।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलले"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा म"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "आ ओकर बचन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "हमर जीभ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:18.522371418Z",
+  "model": "glm-5.3"
+}

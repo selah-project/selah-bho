@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ यहवे मूसा से बोललन, कहेला जा —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला जा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:11.773177188Z",
+  "model": "glm-5.3"
+}

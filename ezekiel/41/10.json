@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ कोठरी सभ के बीचे बीस अगुरु के चौड़ाई बा — घर के चारों ओर, चारों ओर, चारों ओर।",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "आ … के बीचे"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "कोठरी सभ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ाई"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अगुरु"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:39.028254117Z",
+  "model": "glm-5.3"
+}

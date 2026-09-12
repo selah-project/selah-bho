@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ शेलाह तीस साल जियलन, आ ⟨את⟩ एबर के जनम देलन।",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "आ शेलाह"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जियलन"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:37.939856829Z",
+  "model": "glm-5.3"
+}

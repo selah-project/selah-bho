@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "डरू ना जब कवनो मनई धनवान होखे, जब ओकर घर के आभा बढ़े।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "धनवान होखे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ़े"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "आभा"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:23.517796559Z",
+  "model": "glm-5.3"
+}

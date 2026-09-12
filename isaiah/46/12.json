@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "हमरा सुनऽ, दिल के अड़ियल लोगनी, जे नीति से दूर बानी।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा (के)"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "अड़ियल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "दिल के"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "नीति से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:39.924767309Z",
+  "model": "glm-5.3"
+}

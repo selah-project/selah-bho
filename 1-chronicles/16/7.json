@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "उहो दिने तब दाविद यहवे के धन्यवाद करे के खातिर पहिला बेर आसाफ आ ओकर भाई लोग के हाथे दइलन।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहो"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दइलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "पहिला बेर"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "धन्यवाद करे के खातिर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथे"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:14.965684130Z",
+  "model": "glm-5.3"
+}

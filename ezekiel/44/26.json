@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "आ ओकर शुद्ध होखे के बाद ओकरा खातिर सात दिन गिनल जाई।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "आ … के बाद"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ओकर शुद्ध होखे"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "गिनल जाई"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:06:32.898064275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 136,
+  "translation": "बपौटी अपना सेवक इस्राएल के; काहे कि सदा ला ओकर हेसेद बा।",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "बपौटी"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "अपना सेवक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:49.801040253Z",
+  "model": "glm-5.3"
+}

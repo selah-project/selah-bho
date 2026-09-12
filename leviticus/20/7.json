@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ रउआ आपना के पवित्र करब आ पवित्र बनब, काहें कि हम यहवे रउआ के एलोहीम बानी।",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "आ रउआ आपना के पवित्र करब"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "आ बनब"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:08.370660496Z",
+  "model": "glm-5.3"
+}

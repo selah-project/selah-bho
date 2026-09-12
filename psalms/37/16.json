@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "धर्मी के थोरा, ढेर दुष्ट लोग के बड़ धन से बढ़िया बा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोरा"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धर्मी के"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "धन से"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:05.728759321Z",
+  "model": "glm-5.3"
+}

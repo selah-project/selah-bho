@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अबीशूर के घरवाली के नाँव अबीहैल रहल; ऊ एकरा खातिर ⟨את⟩ अहबान आ ⟨את⟩ मोलिद के जनम दिहली।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आ … के नाँव"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाली"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "अबीशूर"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "अबीहैल"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम दिहली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "एकरा खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहबान"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "अहबान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "मोलिद"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "मोलिद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:06.629569189Z",
+  "model": "glm-5.3"
+}

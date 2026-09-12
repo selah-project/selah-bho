@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ हम जबाब दइनी आ ओकरा से कहनी — ई दू गो जैतून के डाली काहे बाड़ी, एक मनोरा के दहिने आ एक ओकर बाएँ?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "आ हम जबाब दइनी"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहनी"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिने"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "मनोरा के"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ ऊपर"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "ओकर बाएँ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:18.490115664Z",
+  "model": "glm-5.3"
+}

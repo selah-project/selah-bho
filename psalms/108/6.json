@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 108,
+  "translation": "ऊपर उठ जाउ एलोहीम, अकास के ऊपर, आ पूरा धरती के ऊपर तोहार महिमा।",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ऊपर उठ जाउ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "तोहार महिमा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:14.627282771Z",
+  "model": "glm-5.3"
+}

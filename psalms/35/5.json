@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "ऊ हवा के आगे जुड़ाव नियर बाड़ें, आ यहवे के दूत ऊ लोग के धकेलत रहे।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "बाड़ें"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "जुड़ाव नियर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "आ … दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "धकेलत रहे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:43.998345635Z",
+  "model": "glm-5.3"
+}

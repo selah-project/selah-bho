@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "बईल आ गधा दुनू के जोड़ के हल ना चलाबू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "हल चलाबू"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "बईल"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "आ गधा"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "दुनू के जोड़ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:12.833047471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "बुरा समय में उननी के सरम ना आवेला, आ अकाल के दिनन में ऊ भरपेट भर जाहीं।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "सरम आवेला"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "आ दिनन में"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "अकाल के"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "भरपेट भर जाहीं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:30.473822569Z",
+  "model": "glm-5.3"
+}

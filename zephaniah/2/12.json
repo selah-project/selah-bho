@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "रउआ सभे भी, हे कुस के लोग, हमार तलवार से मारल जाई — ऊ लोगेवे बाड़ें।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "कुस के लोग"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "मारल"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "हमार तलवार से"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोगेवे बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:19.321256877Z",
+  "model": "glm-5.3"
+}

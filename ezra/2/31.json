@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "दुसरका एलाम के बेटाबन, एगारह सौ पचानवे — अर्थात हजार दू सौ चउन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसरका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:54.168724647Z",
+  "model": "glm-5.3"
+}

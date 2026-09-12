@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अगर तूँ ओकरा चाँदी नियर खोजेला आ छिपल खजाना नियर ओकर खोज करेला —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "खोजेला"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "चाँदी नियर"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "आ छिपल खजाना नियर"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "खोज करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:28.609097393Z",
+  "model": "glm-5.3"
+}

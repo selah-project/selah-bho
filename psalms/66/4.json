@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 66,
+  "translation": "साँझ धरती रउआ के अगुआई करी, आ रउआ के ज़मीरी, रउआ के नाम के ज़मीरी। सेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "अगुआई करी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "आ ज़मीरी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ज़मीरी"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "रउआ के नाम"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:13.617781964Z",
+  "model": "glm-5.3"
+}

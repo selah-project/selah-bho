@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 12:22",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ एलोहीम के बचन शमायाह, एलोहीम के आदमी के ओर आइल, कहल:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमायाह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:41:20.306310132Z",
+  "model": "glm-5.3"
+}

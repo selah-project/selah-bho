@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 145,
+  "translation": "रउआ ⟨את⟩ अपना हाथ खोलेला आ सब जीव के इच्छा पूरा कर देवेला।",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "खोलेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "आ पूरा कर देवेला"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब...के"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "इच्छा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:26.186522204Z",
+  "model": "glm-5.3"
+}

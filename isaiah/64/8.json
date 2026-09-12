@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 64,
+  "translation": "बहुत ना क्रोध करऽ यहवे, आ सदा ले पाप याद मत रखऽ; देखऽ, ताकऽ, हमनी का सब रउआ के परजा बानी।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "क्रोध करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "עון",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "ताकऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के परजा"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "हमनी का सब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:19:33.999198044Z",
+  "model": "glm-5.3"
+}

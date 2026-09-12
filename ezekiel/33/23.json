@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ यहवे के बात हमरा लग आइल, कहऽ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:19.694359964Z",
+  "model": "glm-5.3"
+}

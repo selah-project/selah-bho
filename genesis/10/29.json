@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ⟨את⟩ ओफिर, आ ⟨את⟩ हविला, आ ⟨את⟩ योबब — ई सभे यक्तान के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आ",
+      "marks": "ओफिर"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ओफिर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आ",
+      "marks": "हविला"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "हविला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आ",
+      "marks": "योबब"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "यक्तान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:25.583764517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ हर मिट्टी के पात्र जेकर भीतर ऊ में से कवनो गिरे, जे कुछु ओकर भीतर बा ऊ अशुचि होखेला, आ रउआ ⟨את⟩ ओकरा तोड़ देब।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "पात्र"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मिट्टी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर भीतर"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ऊ में से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे कुछु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुचि होखेला"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "तोड़ देब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:01.622941972Z",
+  "model": "glm-5.3"
+}

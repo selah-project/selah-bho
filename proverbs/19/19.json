@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "कठोर गुस्सा वाला दंड उठावेला, काबर कि जे तूँ ओकरा छुड़ा देबू, फेर से करबू के पड़ी।",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठावेला"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "दंड"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "छुड़ा देबू"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "फेर से"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "करबू के पड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:31.274634002Z",
+  "model": "glm-5.3"
+}

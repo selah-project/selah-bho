@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "बस गोशेन देस में, जहाँ इस्राएल के बेटा लोग रहलें, ओहिजे ओला ना गिरल।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बस"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देस में"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "गोशेन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ना गिरल"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:05.844743161Z",
+  "model": "glm-5.3"
+}

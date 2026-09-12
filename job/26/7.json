@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ऊ उत्तर के तोहू पर तानेला, धरती के बिना कवनो चीज के टाँगेला।",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "तानेला"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "तोहू (खालीपन)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "टाँगेला"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कवनो चीज के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:14.077180577Z",
+  "model": "glm-5.3"
+}

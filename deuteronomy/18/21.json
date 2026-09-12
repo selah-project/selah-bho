@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ जब तूँ आपन मन में कहब — कइसे जानब ⟨את⟩ ओ बात जवन यहवे ना कहलन हो?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तूँ कहब"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "आपन मन में"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कइसे"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "जानब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ओ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "कहलन हो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:38.598814290Z",
+  "model": "glm-5.3"
+}

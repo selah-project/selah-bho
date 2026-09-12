@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "एही योबेल के साल में रउआ सभे वापस जावऽ — हर एक आदमी आपन अधिकार-ज़मीन के ओर।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "साल में"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "योबेल के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "रउआ सभे वापस जावऽ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "आपन अधिकार-ज़मीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:59.904933244Z",
+  "model": "glm-5.3"
+}

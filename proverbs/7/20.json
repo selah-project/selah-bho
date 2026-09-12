@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "ऊ पइसा के पोटली हाथ में लेले; पूनव (निश्चित दिन) के दिन आपन घरें आवेला।",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "पोटली"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "पइसा के"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेले"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "पूनव"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घरें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:37.757844810Z",
+  "model": "glm-5.3"
+}

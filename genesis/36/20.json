@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "ई सेइर होरी के बेटा रहलें, जे ओ धरती के रइस रहलें: लोतान, आ शोबाल, आ जिबोन, आ अनाह।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "होरी"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रइस"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती के"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "आ शोबाल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "आ जिबोन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "आ अनाह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:44.473999586Z",
+  "model": "glm-5.3"
+}

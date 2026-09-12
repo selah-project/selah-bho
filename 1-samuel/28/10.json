@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ शाउल ओकरा यहवे के सौगंध दइलन, कहलन: “जियत यहवे — ए बात में कवनो दोष तू पर ना आवी।”",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "आ सौगंध दइलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जियत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "तू पर आवी"
+    },
+    {
+      "surface": "עון",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ए बात में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-09-11T19:18:34.382448574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ⟨את⟩ चील, आ ⟨את⟩ बाज़ — आपन जाति के हिसाब से",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चील"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "चील"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "बाज़"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "बाज़"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "आपन जाति के हिसाब से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:57.285876045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ हामान राजा से कहलन, ओ मनुष्य खातिर जेकरा राजा आदर में चाहेला —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "המן",
+      "gloss": "हामान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ओ मनुष्य"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "चाहेला"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "आदर में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:33:00.208360118Z",
+  "model": "glm-5.3"
+}

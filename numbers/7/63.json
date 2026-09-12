@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक गाइ के बछवा, एक मेढ़ा, एक साल के मेमना, अगैला बलि खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछवा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…के बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाइ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…के बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "साल"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "अगैला बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:52.058301479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "पहाड़ जनता खातिर शांति उठावें, आ टीला धर्मिता से।",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "उठावें"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांति"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "जनता खातिर"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "आ टीला"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "धर्मिता से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:21.932289278Z",
+  "model": "glm-5.3"
+}

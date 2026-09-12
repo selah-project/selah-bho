@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "मुखिया खातिर — यहवे के सेवक के, दाऊद खातिर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया (संगीत-मुखिया) खातिर"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "के सेवक के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:47.371979714Z",
+  "model": "glm-5.3"
+}

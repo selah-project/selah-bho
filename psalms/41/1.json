@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "संगीत-अगुआ खातिर, दाऊद के गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-अगुआ खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:18.135094518Z",
+  "model": "glm-5.3"
+}

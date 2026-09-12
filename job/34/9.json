@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "काहे कि ऊ कहलन: गबर के कवनो लाभ नइखे, जब ऊ एलोहीम के साथे खुस होखे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गबर"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "जब ऊ ... खुस होखे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:19.410797817Z",
+  "model": "glm-5.3"
+}

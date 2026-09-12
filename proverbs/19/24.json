@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आलसी आपन हाथ थाली में छुपावेला, मुह सुद्दा ओकरा वापस ना लवटावेला।",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "छुपावेला"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "थाली में"
+    },
+    {
+      "surface": "גם",
+      "gloss": "मुह सुद्दा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ले"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ओकर मुह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "वापस ना लवटावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:44.522432983Z",
+  "model": "glm-5.3"
+}

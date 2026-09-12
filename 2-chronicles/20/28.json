@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 20:28",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ ऊ लोग नबल, किन्नर आ तुरही सभ ले के यरूशलयिम आइल — यहवे के घर में।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आ ऊ लोग आइल"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "नबल ले"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "आ किन्नर ले"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "आ तुरही ले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:08:57.544375821Z",
+  "model": "glm-5.3"
+}

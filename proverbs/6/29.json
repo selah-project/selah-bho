@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एही तरह जउन अपन घरवाला के संगे जाला, ओकर ओर छूवे वाला कवनो बेगुनाह ना रहेला।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "एही तरह"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "जउन जाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के संगे"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाला"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "बेगुनाह रहेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "छूवे वाला"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:29.113582791Z",
+  "model": "glm-5.3"
+}

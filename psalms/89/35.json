@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "ना हम आपन करार के अपवित्र करब, आ जवन हमारा होंठ से निकलल ओकरा ना बदलब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "अपवित्र करब"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "आपन करार के"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "आ जवन निकलल"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "हमारा होंठ से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "बदलब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:03.769560488Z",
+  "model": "glm-5.3"
+}

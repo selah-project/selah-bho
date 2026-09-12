@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ हम तोहार के आ ⟨את⟩ एह नगर के अस्सूर के राजा के हाथ से छुड़ाब, आ हम एह नगर के रक्खब।",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "तोहार के छुड़ाब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एह नगर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एह"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "रक्खब"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-09-11T20:10:42.465548347Z",
+  "model": "glm-5.3"
+}

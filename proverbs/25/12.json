@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "सोना के नथिया आ खरा सोना के गहना नियर ह समझदार के डांट, जब ऊ सुनैया वाला कान पर पड़ेला।",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "नथिया"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "आ गहना"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "खरा सोना के"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "डांटनिहार"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनैया वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:17.992814134Z",
+  "model": "glm-5.3"
+}

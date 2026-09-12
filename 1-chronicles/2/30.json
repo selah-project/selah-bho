@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ नादाब के लरिका रहलें सेलेद आ अप्पैम; बाकिर सेलेद के मउत भ गइल — लरिका केहू ना रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लरिका"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "सेलेद"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "आ अप्पैम"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मउत भ गइल"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "सेलेद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिका"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:06.629803137Z",
+  "model": "glm-5.3"
+}

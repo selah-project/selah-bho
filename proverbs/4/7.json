@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "बुझाइ के सुरुआत — बुझाइ के कमाई कर, आ तोहार सब्बे कमाई में समझ के कमाई कर।",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "सुरुआत"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुझाइ के"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "कमाई कर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुझाइ के"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आ सब्बे"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "तोहार कमाई में"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "कमाई कर"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:58.801522091Z",
+  "model": "glm-5.3"
+}

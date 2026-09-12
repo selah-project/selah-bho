@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 68,
+  "translation": "बल दीअऽ एलोहीम के; इसराएल के ऊपर ओकर महिमा बा, आ ओकर बल बादल सभ में बा।",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "दीअऽ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "ओकर महिमा"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "आ ओकर बल"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "बादल सभ में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:40:54.951370594Z",
+  "model": "glm-5.3"
+}

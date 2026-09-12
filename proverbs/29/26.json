@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "ढेर लोग शासक के चेहरा खोजेला, बाकिर मनुख के न्याय यहवे के ओर से ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ढेर लोग"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "खोजेला"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "शासक के"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "बाकिर यहवे के ओर से"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:05.138584291Z",
+  "model": "glm-5.3"
+}

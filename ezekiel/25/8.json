@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "अइसने कहेलन अदोनाय यहवे: काहे कि मोआब आ सेइर कहेलन, “देखऽ, यहूदा के घर सब गोर-जाति नियरे बा —”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יען",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "आ सेइर"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सब… नियरे"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "गोर-जाति"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:47.753695553Z",
+  "model": "glm-5.3"
+}

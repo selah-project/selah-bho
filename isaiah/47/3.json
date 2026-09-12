@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "तोर नंगई खुजल जाई, हाँ, तोर बेइज्जती लउकी; हम बदला लेब आ केहू आदमी से हम ना भेंटब।",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "खुजल जाई"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "तोर नंगई"
+    },
+    {
+      "surface": "גם",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "लउकी"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "तोर बेइज्जती"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "हम लेब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "भेंटब"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "केहू आदमी से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:34:08.750605435Z",
+  "model": "glm-5.3"
+}

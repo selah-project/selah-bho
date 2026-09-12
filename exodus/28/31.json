@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ रउआ एपोद के ⟨את⟩ चोगा पूरा नीला रंग के बनाब।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "बनाब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चोगा"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "चोगा"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "एपोद के"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीला रंग के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:53.446483423Z",
+  "model": "glm-5.3"
+}

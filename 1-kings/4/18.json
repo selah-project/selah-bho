@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "शिमी एला के बेटा बिन्यामीन में रहलें।",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "एला"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "बिन्यामीन में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:25.984823627Z",
+  "model": "glm-5.3"
+}

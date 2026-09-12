@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "सम्झ के रखब ⟨את⟩ सब्बत के दिन के, ओकरा पबित्र करे खातिर।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "सम्झ के रखब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब्बत के दिन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "सब्बत के"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ओकरा पबित्र करे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:24.539735899Z",
+  "model": "glm-5.3"
+}

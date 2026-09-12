@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "जवन यिर्मयाहू नबी सगरी यहूदा के मानुवन आ यरूशलयिम (यरूशलेम) के सगरी रहे वालिन के आगू कहलन, कहऽत —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "עם",
+      "gloss": "मानुवन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहे वालिन"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽत"
+    }
+  ],
+  "timestamp": "2026-09-11T20:32:52.293680996Z",
+  "model": "glm-5.3"
+}

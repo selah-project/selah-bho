@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हमार प्रिय के आवाज! देखऽ, ई आ रहल बा — पहाड़न पर छलाँग मारत, टीलन पर कूदत।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमार प्रिय के"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहल बा"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "छलाँग मारत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़न"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "कूदत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "टीलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:23:13.917447026Z",
+  "model": "glm-5.3"
+}

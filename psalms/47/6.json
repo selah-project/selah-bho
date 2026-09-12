@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "एलोहीम जय-नाद के संगे ऊपर चढ़लन, यहवे सींग के नाद के संगे।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ऊपर चढ़लन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "जय-नाद के संगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "नाद के संगे"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "सींग"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:47.951244714Z",
+  "model": "glm-5.3"
+}

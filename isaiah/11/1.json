@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ यिशै के तना से एक डाँह निकले, आ ओकर जड़न से एक डाँली फल देला।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "डाँह"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "तना से"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै के"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "आ डाँली"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ओकर जड़न से"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "फल देला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:04:09.271764921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे मूसा से कहलन, कहेला —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला —"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:09.548763204Z",
+  "model": "glm-5.3"
+}

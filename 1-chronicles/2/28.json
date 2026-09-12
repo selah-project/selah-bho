@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओनाम के बेटा रहलें शम्माय आ यादा; आ शम्माय के बेटा रहलें नादाब आ अबीशूर।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनाम"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "आ यादा"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ बेटा"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "आ अबीशूर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:07.716080582Z",
+  "model": "glm-5.3"
+}

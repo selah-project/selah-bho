@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "आ बबल खंडहरे बन जाई, सियारन के बासा, तबाही आ फुसफुसाहट, बिना कवनो बासिन्दा के।",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "आ … बन जाई"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बबल"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "खंडहरे"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "बासा"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "सियारन के"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "तबाही"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "आ फुसफुसाहट"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बासिन्दा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:45:10.610712146Z",
+  "model": "glm-5.3"
+}

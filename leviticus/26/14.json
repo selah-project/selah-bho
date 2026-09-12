@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ अगर रउआ सभे हम के ना सुनब, आ ⟨את⟩ ई सगरी आज्ञा सभे के पालन ना करब —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "सुनब"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "पालन करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सगरी आज्ञा सभे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ई सगरी"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "आज्ञा सभे"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:34.714039692Z",
+  "model": "glm-5.3"
+}

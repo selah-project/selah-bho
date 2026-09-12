@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ई तेरह के वंशावली ह — तेरह ⟨את⟩ अवराम, ⟨את⟩ नाचोर आ ⟨את⟩ हारान के जनम दिहलन; आ हारान ⟨את⟩ लोत के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह के"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराम"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाचोर"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाचोर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हारान"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "आ हारान"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोत"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:40.884517763Z",
+  "model": "glm-5.3"
+}

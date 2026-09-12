@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रेत के सारा गाँव, आ पूरा गिलाद, आ पूरा बाशान, साल्खा आ एद्रेई ले — ओ बाशान में ओग के राज्य के गाँव रहलीं।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "गाँव"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "रेत के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "साल्खा"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "आ एद्रेई"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "गाँव"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "राज्य के"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ओग के"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "बाशान में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:01.243885870Z",
+  "model": "glm-5.3"
+}

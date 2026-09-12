@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ यहोशूआ ⟨את⟩ कौम के बिदा कइलन, हर एक आपन-आपन बिरासत के ओर।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बिदा कइलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशूआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कौम"
+    },
+    {
+      "surface": "העם",
+      "gloss": "कौम"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "आपन-आपन बिरासत के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:55:13.130514169Z",
+  "model": "glm-5.3"
+}

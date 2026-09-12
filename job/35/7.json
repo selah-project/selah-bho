@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "जौँ तूँ धरमी भइलहूँ, तऽ ओकरा का दीहलू? चाहे तोहार हाथ से ऊ का लेलन?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जौँ"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "धरमी भइलहूँ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दीहलू"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "तोहार हाथ से"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:09.594382142Z",
+  "model": "glm-5.3"
+}

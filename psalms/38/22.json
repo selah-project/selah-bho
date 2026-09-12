@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "हमरा ना छोड़ऽ, हे यहवे, हमर एलोहीम; हमसे दूर ना होऽ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "हमरा छोड़ऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर ना होऽ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमसे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:32.635213759Z",
+  "model": "glm-5.3"
+}

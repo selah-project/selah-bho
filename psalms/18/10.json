@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ अकास के झुकालक आ उतरल, आ घना अँधियार ओकर गोड़ी के नीचे रहल।",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "आ झुकालक"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "आ उतरल"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "आ घना अँधियार"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़ी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:04.905409309Z",
+  "model": "glm-5.3"
+}

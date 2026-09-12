@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 4:10",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "रहमदिल औरतन के हाथ आपन लइकन के उबाल दिहलन; हमार जाति के बेटी के तबाही में ऊ ओकर खाना बन गइल।",
+  "tokens": [
+    {
+      "surface": "ידי",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "औरतन"
+    },
+    {
+      "surface": "רחמניות",
+      "gloss": "रहमदिल"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "उबाल दिहलन"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "आपन लइकन के"
+    },
+    {
+      "surface": "היו",
+      "gloss": "बन गइल"
+    },
+    {
+      "surface": "לברות",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "בשבר",
+      "gloss": "तबाही में"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमार जाति के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:27:05.359197848Z",
+  "model": "glm-5.3"
+}

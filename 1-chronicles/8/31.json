@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ गेदोर, आ अह्यो, आ ज़ेखेर।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "आ गेदोर"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ अह्यो"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "आ ज़ेखेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:35.781257520Z",
+  "model": "glm-5.3"
+}

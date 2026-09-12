@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 20:46",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ बिन्यामिन के जे सभ गिरल, ओ सब पच्चीस हजार मरद भइल, चाकू खींचए वाला — ओही दिन — ⟨את⟩ ई सब बलवान आदमी रहलें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "जे गिरल"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "बिन्यामिन के"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "खींचए वाला"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "चाकू"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सब बलवान आदमी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "आदमी सभ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-09-11T19:07:08.965903824Z",
+  "model": "glm-5.3"
+}

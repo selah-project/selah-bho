@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "⟨את⟩ दक्खिन दिशा के नापलन — पाँच सौ नाप-नरकट, नाप-नरकट से।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दक्खिन दिशा"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "दक्खिन"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "नाप-नरकट"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "नरकट से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:58.663377966Z",
+  "model": "glm-5.3"
+}

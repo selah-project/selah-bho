@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "शिगायोन, दाऊद के, जऊन यहवे खातिर गवनावलन, कूश बिन-यमीनी के बात सभ के ऊपर।",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "शिगायोन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "שר",
+      "gloss": "गवनावलन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सभ के"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिन"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "यमीनी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:21.815399695Z",
+  "model": "glm-5.3"
+}

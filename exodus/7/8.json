@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे मोशे से आ अहारोन से कहलन, कहऽ के खातिर —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ... कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:35.423700263Z",
+  "model": "glm-5.3"
+}

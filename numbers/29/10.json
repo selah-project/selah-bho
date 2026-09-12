@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "एक इस्सरी-एक इस्सरी हरेक भेला खातिर, सात ठन भेला सभ खातिर।",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "एक इस्सरी"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "एक इस्सरी"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "भेला खातिर"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात ठन सभ खातिर"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "भेला सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:03.735206038Z",
+  "model": "glm-5.3"
+}

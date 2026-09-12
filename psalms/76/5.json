@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 76,
+  "translation": "प्रकाशमय तूँ बा, अद्भुत — लूट के पहाड़न से बढ़ के।",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "प्रकाशमय"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "अद्भुत"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "पहाड़न से"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "लूट के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:11.107263921Z",
+  "model": "glm-5.3"
+}

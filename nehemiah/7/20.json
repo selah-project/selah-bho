@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "अदीन के लरिका, छह सौ पचपन्न।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लरिका"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "अदीन"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आ पाँच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:28.247050028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 11:23",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ उनुका कवनो बचल-खुचल ना रही, काबर हम अनातोत के मनई सभ के ऊपर बुराई लावत बानी — उनुका दंड के साल।",
+  "tokens": [
+    {
+      "surface": "ושארית",
+      "gloss": "आ बचल-खुचल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनुका खातिर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "लावत बानी"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनई सभ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "साल"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "उनुका दंड"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:22.061751422Z",
+  "model": "glm-5.3"
+}

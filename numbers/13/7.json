@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "इस्साखार के गोत्र से — यिगआल, योसेफ के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "के गोत्र से"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "इस्साखार"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "यिगआल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:21.538887898Z",
+  "model": "glm-5.3"
+}

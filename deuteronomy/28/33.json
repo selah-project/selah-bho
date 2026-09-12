@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 28:33",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "तोहार जमीन के फल आ तोहार सब मेहनत के फल के अइसन जाति खा जाई जेकरा तूँ ना जानऽ; आ तूँ खाली दबल आ कुचलल रहिहऽ सब दिन ले।",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "तोहार जमीन"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "तोहार मेहनत"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खा जाई"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानऽ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "आ रहिहऽ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "עשוק",
+      "gloss": "दबल"
+    },
+    {
+      "surface": "ורצוץ",
+      "gloss": "आ कुचलल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:55.287129740Z",
+  "model": "glm-5.3"
+}

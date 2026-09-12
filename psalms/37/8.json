@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "गुस्सा से रुक जाइअ आ कोप छोड़ दिअ; जाले मत — ओ खाली बुराई के ओर ले जाला।",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "रुक जाइअ"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "गुस्सा से"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "आ छोड़ दिअ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "कोप"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "जाले"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "बुराई के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:11.186589856Z",
+  "model": "glm-5.3"
+}

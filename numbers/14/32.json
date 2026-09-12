@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ जहिया कि रउआ सभे — रउआ के लाथ मूंड एही जंगल में गिरिहें।",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "आ रउआ के लाथ मूंड"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरिहें"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:05.057576729Z",
+  "model": "glm-5.3"
+}

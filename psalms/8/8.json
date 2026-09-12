@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "भेड़ आ गाय-बैल सभे, आ उजाड़ के जानवरो।",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "आ गाय-बैल"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ ... ओ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "उजाड़ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:26.111120707Z",
+  "model": "glm-5.3"
+}

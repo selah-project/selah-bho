@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ सेना के बहादुर सभ में रहलें — असाहेल, योआब के भाई; एलहानान, दोदो के बेटा, बेत-लेहेम के।",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "आ बहादुर सभ"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "असाहेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(नाम के भाग)"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "के भाई"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "एलहानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "दोदो"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "… से बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:27.472001962Z",
+  "model": "glm-5.3"
+}

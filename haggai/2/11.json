@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "एहना यहवे सेबाओत कहलन: पुछऽ तौ ⟨את⟩ काहन के ले तोरा के बारे में, एहना कहऽ:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओत"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "पुछऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "तौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "काहन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "काहन"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोरा के बारे में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "एहना कहऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:23:18.404393047Z",
+  "model": "glm-5.3"
+}

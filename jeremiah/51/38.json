@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 51:38",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "ऊ सभे मिल के बघिया नियर गरजाई, शेर के बच्चा नियर दहाड़ी।",
+  "tokens": [
+    {
+      "surface": "יחדו",
+      "gloss": "मिल के"
+    },
+    {
+      "surface": "ככפרים",
+      "gloss": "बघिया नियर"
+    },
+    {
+      "surface": "ישאגו",
+      "gloss": "गरजाई"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "दहाड़ी"
+    },
+    {
+      "surface": "כגורי",
+      "gloss": "शेर के बच्चा नियर"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "शेर के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:45:10.610980621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 147,
+  "translation": "घोड़ा के बल में ओ राजी नइखे; आदमी के गोड़ सभ में ओ पसंद नइखे।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "बल में"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "घोड़ा के"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "राजी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "गोड़ सभ में"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "पसंद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:33.146321685Z",
+  "model": "glm-5.3"
+}

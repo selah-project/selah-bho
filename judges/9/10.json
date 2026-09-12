@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "तब गाछन अंजीर के गाछ से कहले: “जा चलि, तूँ हमनी का पर राज कर।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "तब कहले"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "गाछन"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "अंजीर के गाछ से"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जा चलि"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राज कर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी का पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:59:05.229131805Z",
+  "model": "glm-5.3"
+}

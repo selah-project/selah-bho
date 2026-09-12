@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ मीका के बेटानी रहलें — पीथोन, मेलेख आ ताहरेआ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटानी"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीका"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पीथोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "आ मेलेख"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "आ ताहरेआ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:18.700156430Z",
+  "model": "glm-5.3"
+}

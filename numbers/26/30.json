@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ई गिलअद के बेटा रहलें — ईअज़र के, ह-ईअज़री के कुल; हेलेक के, ह-हेलेकी के कुल।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलअद"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "ईअज़र"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "ह-ईअज़री"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "हेलेक के"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "ह-हेलेकी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:38.680144646Z",
+  "model": "glm-5.3"
+}

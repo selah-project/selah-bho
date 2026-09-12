@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ रेपह ओकर बेटा, आ रेशेफ, आ तेलह ओकर बेटा, आ तहन ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "आ रेपह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "आ रेशेफ"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "आ तेलह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "आ तहन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:25.867717164Z",
+  "model": "glm-5.3"
+}

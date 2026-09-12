@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 31:17",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ ⟨बा⟩ तोहार अंत खातिर आस, यहवे के कहल — आ लइकन आपन सीमा पर लवट आवेलें।",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "आ ⟨बा⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आस"
+    },
+    {
+      "surface": "לאחריתך",
+      "gloss": "तोहार अंत खातिर"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के कहल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "आ लवट आवेलें"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लइकन"
+    },
+    {
+      "surface": "לגבולם",
+      "gloss": "आपन सीमा पर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:20.797327678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "हम उनके मुड़ाव के भर देब, उनके निःस्वार्थ चाहब, काहे कि हमार कोप ऊ से पलट गइल।",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "भर देब"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "उनके मुड़ाव"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "चाहब"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "निःस्वार्थ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שב",
+      "gloss": "पलट गइल"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "कोप"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ऊ से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:10:47.465240569Z",
+  "model": "glm-5.3"
+}

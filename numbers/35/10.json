@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "बनी इसरायल से बोलऽ, आ रउआ सभे से कहब: कि जब रउआ सभे ⟨את⟩ यर्देन के पार होखब, कनान देस के धरती में —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोलऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहब"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "रउआ सभे से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि जब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार होखब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्देन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान देस के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:52.823676764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ शलोमो के खाना-पानी एक दिन खातिर रहे — तीस कोर महीन आटा आ साठ कोर आटा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … रहे"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना-पानी"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो के"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "एक दिन खातिर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "महीन आटा"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "आटा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:56.134662085Z",
+  "model": "glm-5.3"
+}

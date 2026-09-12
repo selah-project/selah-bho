@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ राजा ओकरा कहलन, “तोहार का बाट जोहेला?” आ ऊ कहली, “सच्ची बात, हम एगो बिधवा औरत बानी, आ हमार मरद मर गइल।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "सच्ची बात"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "बिधवा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "हमार मरद"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:30.205272269Z",
+  "model": "glm-5.3"
+}

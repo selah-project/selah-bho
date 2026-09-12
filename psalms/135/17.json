@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "कान उनका बाड़ें, बाकिर ऊ ना सुनेलें; ओकर मुँह में कवनो साँस नइखे।",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "कान"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनका"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "सुनेलें"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨कवनो⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "मुँह में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:26.929228599Z",
+  "model": "glm-5.3"
+}

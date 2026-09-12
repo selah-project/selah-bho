@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ यहवे मोशे से बोललन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:57:18.830563781Z",
+  "model": "glm-5.3"
+}

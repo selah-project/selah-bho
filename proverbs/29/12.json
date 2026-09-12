@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "शासक जउन झूठ बात के कान धरेला, ओकर सगरी सेवक बेइन्साफ होखेलें।",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "कान धरेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बेइन्साफ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:45.963341711Z",
+  "model": "glm-5.3"
+}

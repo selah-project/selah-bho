@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ इबत्सान के मउत भइल, आ ओकर दफनावल गइल बैत-लहम में।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मउत भइल"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "इबत्सान"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "दफनावल गइल"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बैत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लहम में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:00:38.425157224Z",
+  "model": "glm-5.3"
+}

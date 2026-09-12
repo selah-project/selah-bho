@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 112,
+  "translation": "काहे कि ऊ कबो ना हलेला; धरमी मनई सदा के स्मृति में रहेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "कबो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "हलेला"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "स्मृति में"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहेला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी मनई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:10.654855051Z",
+  "model": "glm-5.3"
+}

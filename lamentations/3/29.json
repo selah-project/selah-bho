@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ आपन मुँह धूर में रखेला — कि जुर से कवनो आस बा।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "रखेला"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "धूर में"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "कि जुर से"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.475565516Z",
+  "model": "glm-5.3"
+}

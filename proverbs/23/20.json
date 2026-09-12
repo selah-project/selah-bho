@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "शराब पिए वाला लोगन में मत रहू, मांस के भोगी लोगन में — ऊ सभे के संग।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "रहू"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "पिए वाला लोगन में"
+    },
+    {
+      "surface": "יין",
+      "gloss": "शराब"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "भोगी लोगन में"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस के"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ऊ सभे के संग"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:55.898945882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 5:28",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ अगर ऊ औरत दूषित नइखे बलुक साफ बा, त ऊ निर्दोष छूट जाई आ सन्तान धारण करी।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "दूषित"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "बलुक साफ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "निर्दोष छूट जाई"
+    },
+    {
+      "surface": "ונזרעה",
+      "gloss": "सन्तान धारण करी"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "सन्तान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:03.774267560Z",
+  "model": "glm-5.3"
+}

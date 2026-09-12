@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहोयाकिम के बेटा लोग: यकन्याह ओकर बेटा, सिदकियाह ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा लोग"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "यहोयाकिम"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "यकन्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "सिदकियाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:39.876983712Z",
+  "model": "glm-5.3"
+}

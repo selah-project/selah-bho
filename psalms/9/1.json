@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "मुखिया खातिर, अलमुत लब्न (के धुन पर), दाऊद के मिज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "अलमुत"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लब्न"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:28.774947281Z",
+  "model": "glm-5.3"
+}

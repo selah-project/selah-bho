@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ⟨את⟩ खिवी, आ ⟨את⟩ अर्की, आ ⟨את⟩ सिनी।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "खिवी"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "खिवी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अर्की"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "अर्की"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सिनी"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "सिनी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:42.864162510Z",
+  "model": "glm-5.3"
+}

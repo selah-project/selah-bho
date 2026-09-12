@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "“का हम नजदीक के एलोहीम बानी? — यहवे के वचन — आ दूर के एलोहीम ना?”",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "का … एलोहीम"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "नजदीक के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:31:39.727285591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "फाड़े के समय, आ सी लेवे के समय; चुप रहे के समय, आ बोले के समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "फाड़े के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "सी लेवे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "चुप रहे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोले के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.907762289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "सन्दूक के छल्ला में बड़ी रहिहीं; ऊ ओकरा से हटावल ना जाय।",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "छल्ला में"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक के"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहिहीं"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "हटावल जाय"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:33.592600671Z",
+  "model": "glm-5.3"
+}

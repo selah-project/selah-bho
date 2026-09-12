@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "यहवे गनैल बा आ धर्मी बाड़ें, आ हमनी का एलोहीम दया करेला।",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "गनैल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "आ धर्मी"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "आ हमनी का एलोहीम"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "दया करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:24.260362560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 74,
+  "translation": "तोहार कबूतर के जीवन जानवर के हाथ मत देऽ; तोहार गरीब लोग के जीवन के हमेशा बिसरिहऽ मत।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देऽ"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "जानवर के"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "तोहार कबूतर"
+    },
+    {
+      "surface": "חית",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "तोहार गरीब लोग के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसरिहऽ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "हमेशा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:25.918270606Z",
+  "model": "glm-5.3"
+}

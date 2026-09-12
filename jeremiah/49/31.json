@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 49:31",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "उठऽ, चढ़ऽ ओ जाति के ऊपर जे चैन से बा, जे बेफिकर बसल बा — यहवे के बचन बा; ओकरा ना दुआर बा ना कुंडी, ऊ अकेले रहेला।",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "चढ़ऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओ के ओर"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "שליו",
+      "gloss": "चैन से"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बसल बा"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "बेफिकर"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन बा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "कुंडी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:44:51.252953094Z",
+  "model": "glm-5.3"
+}

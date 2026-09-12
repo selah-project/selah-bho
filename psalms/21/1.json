@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "संगीत-मुखिया खातिर, दविद के गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-मुखिया खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दविद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:05.244952135Z",
+  "model": "glm-5.3"
+}

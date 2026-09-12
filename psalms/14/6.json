@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "रउआ सभे दुखिया के सलाह लजावल बाड़े, काहें से कि यहवे ओकर शरण बाड़ें।",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखिया के"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "लजावल बाड़े"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "ओकर शरण"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:42.811243388Z",
+  "model": "glm-5.3"
+}

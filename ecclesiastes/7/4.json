@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "समझदार लोगन के मन शोक-घर में बाड़ें, आ मूरख लोगन के मन खुशी के घर में।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "समझदार लोगन के"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "शोक के"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आ मन"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूरख लोगन के"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुशी के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:55.270552566Z",
+  "model": "glm-5.3"
+}

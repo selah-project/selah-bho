@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ पुरोहित चरबी ⟨את⟩ वेदी पर धुंधारी, आ छाती अहरोन आ ओकर बेटा सभ के होई।",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "आ धुंधारी"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "वेदी पर"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ होई"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "छाती"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "आ ओकर बेटा सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:06.978424370Z",
+  "model": "glm-5.3"
+}

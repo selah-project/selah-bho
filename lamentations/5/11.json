@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "जनानी लोग के सियोन में दबा देल गइल, आ कुँआरी लउका के यहूदा के नगरन में।",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "जनानी लोग के"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "सियोन में"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "दबा देल गइल"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "कुँआरी लउका के"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "नगरन में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:29.264344545Z",
+  "model": "glm-5.3"
+}

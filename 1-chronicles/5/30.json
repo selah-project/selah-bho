@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एलाजार ⟨את⟩ पिनहस के जनम दिहलन; पिनहस ⟨את⟩ अविशुआ के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पिनहस"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिनहस"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिनहस"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अविशुआ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "अविशुआ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:06.573393871Z",
+  "model": "glm-5.3"
+}

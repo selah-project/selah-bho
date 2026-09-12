@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 2:10",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "एही ऊ लोग के अपन घमंड के बदला बा, काकर ऊ लोग यहवे सेनासभा के जनता के बेइज्जत कइलन आ ओकरे ऊपर अकड़लन।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊ लोग के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "גאונם",
+      "gloss": "अपन घमंड"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काकर"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "बेइज्जत कइलन"
+    },
+    {
+      "surface": "ויגדלו",
+      "gloss": "आ अकड़लन"
+    },
+    {
+      "surface": "על",
+      "gloss": "ओकरे ऊपर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनासभा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:19.320944959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 111,
+  "translation": "ओकर हाथ के काम सच्चाई आ न्याय बाड़ें; ओकर सब बिधान भरोसेमंद बाड़ें।",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ के"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच्चाई"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आ न्याय"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ओकर बिधान"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:18.068629288Z",
+  "model": "glm-5.3"
+}

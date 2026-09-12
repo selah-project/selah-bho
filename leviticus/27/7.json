@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अगर साठ बरिस के बेटा से आ ऊपर ले, अगर लड़का होखे तऽ रउआ के मोल पंद्रह शेकेल होखी, आ लड़की खातिर दस शेकेल।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "…के बेटा से"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आ ऊपर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तऽ … होखी"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "रउआ के मोल"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…के दस"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "आ लड़की खातिर"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "शेकेल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:35.799823745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ ⟨את⟩ पूरा नफ़्ताली, आ ⟨את⟩ एफ्रायिम आ मनश्शे के धरती, आ ⟨את⟩ पूरा यहूदा के धरती, पछिमी सागर ले।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा नफ़्ताली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ़्ताली"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एफ्रायिम के धरती"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "आ मनश्शे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा यहूदा के धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הים",
+      "gloss": "सागर"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "पछिमी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:03.033915659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "ओकर पुरखान के गुनाह यहवे के आगे याद रहे; आ ओकर माई के पाप मेटाइल ना जाव।",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "याद रहे"
+    },
+    {
+      "surface": "עון",
+      "gloss": "गुनाह"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ओकर पुरखान के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "आ पाप"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माई के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "मेटाइल जाव"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:29.004989388Z",
+  "model": "glm-5.3"
+}

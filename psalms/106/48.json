@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 106,
+  "translation": "धन्य रहे यहवे, इस्राएल के एलोहीम, अनादि से अनन्त ले, आ सब जनता कहे: आमीन। हल्लेलू-याह!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य रहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "के एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "अनादि"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "अनन्त"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "हल्लेलू"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:59.186692398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "तूँ खमीर के साथे हमार बलिदान के खून ना ढारबा, आ हमार तिहार के चरबी भोर ले ना रहत।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "ढारबा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "खमीर"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "हमार बलिदान"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "रहत"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "हमार तिहार के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:00.017423406Z",
+  "model": "glm-5.3"
+}

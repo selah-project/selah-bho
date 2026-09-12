@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ आशेर के बेटाअन के गोत्र के सेना के ऊपर पगईएल, ओकरान के बेटा, रहलें।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … ऊपर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटाअन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "पगईएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ओकरान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:11.809242219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "उहाँ के आगू पूरा धरती काँपऽ; हाँ, दुनिया टिकल बा, हिलेला ना।",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "काँपऽ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "उहाँ के आगू से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "टिकल"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "दुनिया"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "हिलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:03.691408856Z",
+  "model": "glm-5.3"
+}

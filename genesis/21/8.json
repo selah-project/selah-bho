@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ लरिका बड़ भइल आ ओकर दूध छुटल; आ अवराहाम ⟨את⟩ इसहाक के दूध छुटला के दिन एगो बड़ भोज कइलन।",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "बड़ भइल"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ओकर दूध छुटल"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "भोज"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "दूध छुटला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इसहाक"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:05.816983714Z",
+  "model": "glm-5.3"
+}

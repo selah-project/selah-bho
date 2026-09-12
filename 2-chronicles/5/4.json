@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ इसराएल के सब बुढ़वा लोग आयल; आ लेवी के लोग ⟨את⟩ संदूक के उठइलें।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आ आयल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "बुढ़वा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "आ उठइलें"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी के लोग"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "संदूक"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "संदूक"
+    }
+  ],
+  "timestamp": "2026-09-11T23:04:28.686709285Z",
+  "model": "glm-5.3"
+}

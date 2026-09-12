@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ यहत्सा, आ केदेमोत, आ मेफात।",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "आ यहत्सा"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "आ केदेमोत"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "आ मेफात"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:51.592556467Z",
+  "model": "glm-5.3"
+}

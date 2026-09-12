@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ गाद खातिर कहलन: धइत बा ऊ जे गाद के फइलावेला; ऊ शेरनी नियर बसेला आ काँह चीरेला — हाँ, कपारी ले।",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "आ गाद खातिर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धइत बा"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "फइलावेला"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद के"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "शेरनी नियर"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "बसेला"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "आ चीरेला"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "काँह"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "कपारी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:11.262675287Z",
+  "model": "glm-5.3"
+}

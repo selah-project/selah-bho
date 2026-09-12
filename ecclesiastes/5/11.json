@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "मेहनत करे वाला के नींद मीठ होखेला, ऊ चाहे थोड़ा खाला चाहे ढेर; बाकिर धनी के भरपेट ओकरा नींद ना पावे देला।",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "मीठ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "मेहनत करे वाला के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाला"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "बाकिर भरपेट"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "धनी के"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "पावे देला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "नींद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:40.553971564Z",
+  "model": "glm-5.3"
+}

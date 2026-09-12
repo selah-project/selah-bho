@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे के सबद हमरा लग आइल, ई कहित:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "सबद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहित:"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:21.934652268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "आ फिरौन कहलन: “जाऽ, ⟨את⟩ तोर पिता के दफन कर, जइसे ऊ तोसे सौगंध लिहले रहलें।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "जाऽ"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "दफन कर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोर पिता"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोर पिता"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "तोसे सौगंध लिहले रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:06.127324756Z",
+  "model": "glm-5.3"
+}

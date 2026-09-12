@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ केदेश, आ एद्रेई, आ एन-चत्सोर।",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "आ केदेश"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "आ एद्रेई"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आ एन"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "चत्सोर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:22.242532934Z",
+  "model": "glm-5.3"
+}

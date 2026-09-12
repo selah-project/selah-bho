@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ शान्ति-बलि करबू, आ ओहिजे खाइबू, आ यहवे, अपने एलोहीम के सोझा आनंद करबू।",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "आ बलि करबू"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "शान्ति-बलि"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "आ खाइबू"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "आ आनंद करबू"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सोझा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपने एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:47.816322739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ नम्र लोग धरती के बरस में लेहिहें, आ ढेर शांति में सुख पाविहें।",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "आ नम्र लोग"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "बरस में लेहिहें"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "आ सुख पाविहें"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांति"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:05.408880708Z",
+  "model": "glm-5.3"
+}

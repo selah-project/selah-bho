@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "गिबओन (गिबियोन) के बेटाबन नब्बे आ पाँच।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबओन (गिबियोन)"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आ पाँच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.200726963Z",
+  "model": "glm-5.3"
+}

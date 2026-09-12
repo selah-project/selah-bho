@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "अगर हम एह बात से खुस भइली कि हमर संपत्ति बहुत बा, आ कि हमर हाथ ढेर कुछ पावल,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "खुस भइली"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "हमर संपत्ति"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आ कि"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ढेर कुछ"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "पावल"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमर हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:43:10.122919228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ यहूदा ओहिजे एक कनानी आदमी के बेटी के देखलन — जेकर नाम शूअ रहे; आ ऊ ओकरा लिहलन आ ओकरा लग गइलन।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "कनानी"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "जेकर नाम"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "शूअ"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "ओकरा लिहलन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "गइलन"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लग"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:46.546198366Z",
+  "model": "glm-5.3"
+}

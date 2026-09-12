@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "“नइनन ऊ मरल नियर ना बने, जइसे केहू ओकर माई के गर्भ से निकलेला आ ओकर मांस के आधा खा लिहल जाला।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נא",
+      "gloss": "नइनन"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बने"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "मरल नियर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जइसे केहू"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "गर्भ से"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माई"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "खा लिहल जाला"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ओकर मांस के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:34.450651599Z",
+  "model": "glm-5.3"
+}

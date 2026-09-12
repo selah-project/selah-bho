@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ यहवे रउआ का सभे से आगि के बीच से बोललन — बात सभ के आवाज़ रउआ सुनत रहीं, बाकिर कवनो रूप रउआ ना देखत रहीं — खाली आवाज़।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "रउआ का सभे से"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आगि के"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज़"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात सभ के"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "सुनत रहीं"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "आ रूप"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "देखत रहीं"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज़"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:12.621303043Z",
+  "model": "glm-5.3"
+}

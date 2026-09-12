@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ तूँ सन्दूक में ⟨את⟩ गवाही रखबू, जवन हम रउआ के देबी।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "आ तूँ … रखबू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गवाही"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "हम … देबी"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:33.592739543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 41:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "देखऽ, ओकर आस झूठ बाटे; का फेर ओकर देखाई के आगे ⟨कवनो⟩ गिराई जाई?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "תחלתו",
+      "gloss": "ओकर आस"
+    },
+    {
+      "surface": "נכזבה",
+      "gloss": "झूठ बाटे"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "का फेर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "מראיו",
+      "gloss": "ओकर देखाई"
+    },
+    {
+      "surface": "יטל",
+      "gloss": "गिराई जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:56.765133946Z",
+  "model": "glm-5.3"
+}

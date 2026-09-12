@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "मनुष्य के सारा मेहनत ओकर मुँह खातिर बा, बाकिर जीव ना भरता।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ओकर मुँह खातिर"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भरता"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:50.759978996Z",
+  "model": "glm-5.3"
+}

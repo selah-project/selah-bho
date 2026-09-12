@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "अर्पकशद ⟨את⟩ शलाह के जनम दिहलन, आ शलाह ⟨את⟩ एबर के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "आ अर्पकशद"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शलाह"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शलाह"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "आ शलाह"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:44.040587675Z",
+  "model": "glm-5.3"
+}

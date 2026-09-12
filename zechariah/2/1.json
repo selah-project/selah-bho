@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हम ⟨את⟩ आपन आँखि उठाइनी आ देखलिनी, आ देखू, चारि सिंग।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "आ हम उठाइनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन आँखि"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आपन आँखि"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "आ देखलिनी"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखू"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "सिंग"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:48.959324120Z",
+  "model": "glm-5.3"
+}

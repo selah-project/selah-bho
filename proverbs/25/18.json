@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "मुगदार आ तलवार आ तीखा तीर — अइसन होला ऊ मनुख जे आपन संगी खातिर झूठ गवाही देला।",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "मुगदार"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "आ तलवार"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "आ तीर"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "तीखा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "गवाही देला"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "आपन संगी खातिर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:05.939115248Z",
+  "model": "glm-5.3"
+}

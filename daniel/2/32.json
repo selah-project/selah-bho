@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ओ मूरत के मुँड़ — बढ़िया सोना के; ओकर छाती आ बाँह चाँदी के, ओकर पेट आ जाँघ ताँबा के रहे।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "मूरत"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "मुँड़"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "ओकर छाती"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "आ ओकर बाँह"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "ओकर पेट"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "आ ओकर जाँघ"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ताँबा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:14.905800219Z",
+  "model": "glm-5.3"
+}

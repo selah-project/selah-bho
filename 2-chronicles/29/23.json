@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 29:23",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ ऊ ⟨את⟩ पाप-बलि के बकरा सभ के राजा आ सभा के आगू ल आनले आ ऊ लोग आपन हाथ सभ के ओ ऊपर रखलन।",
+  "tokens": [
+    {
+      "surface": "ויגישו",
+      "gloss": "आनले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाप-बलि के बकरा सभ के"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "बकरा सभ के"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "हाथ सभ के"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ओ ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:43.121957015Z",
+  "model": "glm-5.3"
+}

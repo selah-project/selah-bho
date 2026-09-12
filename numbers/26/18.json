@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ई गाद के बेटान के कुनबा रहलें, इनहन के गिनती के हिसाब से — चालीस हजार आ पाँच सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "इनहन के गिनती के हिसाब से"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:01.494755722Z",
+  "model": "glm-5.3"
+}

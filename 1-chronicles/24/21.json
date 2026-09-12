@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "रहब्याहू खातिर: रहब्याहू के बेटा सभ में मुखिया इश्शियाह रहलें।",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "रहब्याहू खातिर"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटा सभ में"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "रहब्याहू"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "इश्शियाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:39.354266281Z",
+  "model": "glm-5.3"
+}

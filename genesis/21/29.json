@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "अबीमेलेक अवराहाम से कहलन, “का ⟨बा⟩ ए सात भेड़ के मेमना जवन रउआ अलगा खड़ा कइले हाव?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबीमेलेक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨बा⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "भेड़ के मेमना"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "खड़ा कइले हाव"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "अलगा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:26.508858664Z",
+  "model": "glm-5.3"
+}

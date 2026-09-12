@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 120,
+  "translation": "“यहवे, हमरा जिआ छुड़ाऽ — बहुते साँझ कातरनी आ छल के जिभ से!”",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "छुड़ाऽ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमरा जिआ"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "बहुते साँझ कातरनी"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "कातरनी"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "जिभ से"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "छल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:02.063589825Z",
+  "model": "glm-5.3"
+}

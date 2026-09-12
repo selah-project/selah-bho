@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ रउआ के सीमा में कतहुँ सात दिन ले खमीर ना दिखेला; आ पहिला दिन साँझ के जानवर जवन रउआ काटबू ओकर मांस के सुबह ले रात ना बितावेला।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "दिखेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "खमीर"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कतहुँ"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "सीमा में"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन ले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "रात बितावेला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "रउआ काटबू"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "साँझ के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "सुबह ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:00.377230684Z",
+  "model": "glm-5.3"
+}

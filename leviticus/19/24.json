@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आऊर चउथा साल में ओकर सारा फर पबित्र होई — यहवे केर स्तुति-खुसी खातिर।",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "आऊर साल में"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ओकर फर"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबित्र"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "स्तुति-खुसी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे केर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:38.621051625Z",
+  "model": "glm-5.3"
+}

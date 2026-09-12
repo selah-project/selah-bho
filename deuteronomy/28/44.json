@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "ऊ तोहारा उधार दिहेस आ तू ओकरा उधार ना देबू; ऊ ⟨सिर⟩ बनिहेस आ तू ⟨पूँछ⟩ बनबू।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "तोहारा उधार दिहेस"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "उधार देबू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "बनिहेस"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तू"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बनबू"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "पूँछ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:54.448695310Z",
+  "model": "glm-5.3"
+}

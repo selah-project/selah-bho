@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ हर एक मेमना खातिर एक-एक दहाई, चौदह मेमना सभ खातिर।",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "आ एक दहाई"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "दहाई"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "मेमना खातिर"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "चार खातिर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस (चौदह)"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमना सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:56.141839429Z",
+  "model": "glm-5.3"
+}

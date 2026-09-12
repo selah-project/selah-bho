@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ यहवे के महिमा परगट होखी, आ सब देह एक संगे ओकरा देखी; काहे कि यहवे के मुँह एहे बात कहलन।",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "परगट होखी"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "आ ... देखी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संगे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:12:30.692695067Z",
+  "model": "glm-5.3"
+}

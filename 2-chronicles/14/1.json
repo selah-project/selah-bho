@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ सा कइलन जवन यहवे ओकर एलोहीम के निहोर में भलाम आ सीध बा।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आ सा"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भलाम"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "आ सीध"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "निहोर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ओकर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:02.134284967Z",
+  "model": "glm-5.3"
+}

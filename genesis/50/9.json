@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "आ ओकर संगे रथ बाड़ें आ घुड़सवार सभे गइलें, आ ओहिजा के पड़ाव बहुते भारी भइल।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "गइलें"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संगे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "बाड़ें"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "बाड़ें"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "घुड़सवार सभे"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "पड़ाव"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:49.220023623Z",
+  "model": "glm-5.3"
+}

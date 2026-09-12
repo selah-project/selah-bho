@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तब ऊ लोग हमरा पुकारी आ हम जवाब ना देब; ऊ लोग हमरा भोर-भोर खोजी आ हमका ना मिली।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "हमरा पुकारी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "जवाब देब"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "हमरा भोर-भोर खोजी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "हमका मिली"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:45.921181611Z",
+  "model": "glm-5.3"
+}

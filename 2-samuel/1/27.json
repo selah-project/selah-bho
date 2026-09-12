@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कइसने गिरल बलवान, आ लड़ाई के हथियार नास भ गइल!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "आ नास भ गइल"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "हथियार"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:20:43.860020477Z",
+  "model": "glm-5.3"
+}

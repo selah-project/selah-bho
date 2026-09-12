@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "तूँ हमरा खातिर तबाही ना बनऽ; बुरा दिन में तूँही हमर शरण बा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बनऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "तबाही"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "हमर शरण"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँही"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:29:15.018326301Z",
+  "model": "glm-5.3"
+}

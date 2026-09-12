@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ मोर आँखि जे-जे माँगल, हम ओकरा ऊ से ना रोकलन; कवनो खुशी से हम ⟨את⟩ मोर मन के ना रोकलन, काहें के मोर मन मोर सब मेहनत से खुश रहल, आ ईहें मोर सब मेहनत में से मोर हिस्सा रहल।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे-जे"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "माँगल"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "मोर आँखि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "रोकलन"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ऊ से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "रोकलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोर मन"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "मोर मन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुशी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें के"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "मोर मन"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "खुश रहल"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "मोर सब"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आ ईहें"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "मोर हिस्सा"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "मेहनत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:12.820808492Z",
+  "model": "glm-5.3"
+}

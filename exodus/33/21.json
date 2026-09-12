@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ यहवे कहलन: “देखऽ, हमरा संगे ⟨את⟩ एगो जगह बा, आ तूँ ओ चट्टान पर खड़ा होइहऽ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "हमरा संगे ⟨את⟩",
+      "marks": "एगो जगह"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "खड़ा होइहऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "चट्टान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:52:12.770558070Z",
+  "model": "glm-5.3"
+}

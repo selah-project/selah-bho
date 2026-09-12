@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 24:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "देखऽ, हम पानी के झरना के सोर खड़ा बानी, आ नगर के मनई लोग के बेटी पानी भरे खातिर निकलत बाड़ी।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "खड़ा बानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सोर"
+    },
+    {
+      "surface": "עין",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ बेटी"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनई लोग के"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "निकलत बाड़ी"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "भरे खातिर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:48.016521866Z",
+  "model": "glm-5.3"
+}

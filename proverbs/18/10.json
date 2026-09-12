@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "यहवे के नाउ एगो सबल बुर्ज ह; न्यायी ओकरा में दौड़ के ऊँच जगह पर पहुँच जाला।",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "बुर्ज"
+    },
+    {
+      "surface": "עז",
+      "gloss": "सबल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाउ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "दौड़ के"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ऊँच जगह पर पहुँच जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:28.790241446Z",
+  "model": "glm-5.3"
+}

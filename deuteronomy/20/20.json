@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "बाकिर जवन गाछ रउआ जानऽ कि ऊ खाए के गाछ नइखे, ⟨את⟩ ओकरे रउआ बरबाद करब आ काटब, आ ओ नगर के ऊपर घेराबो बनाब जवन ऊ रउआ से लड़ाई करत बा, जबतक के ओकर गिरन ना हो जाय।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "रउआ जानऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "खाए के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरे",
+      "marks": "ओकरे (गाछ के)"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "रउआ बरबाद करब"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "आ काटब"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "आ रउआ बनाब"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "घेराबो"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ओ नगर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत बा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबतक के"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "ओकर गिरन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:44.189924342Z",
+  "model": "glm-5.3"
+}

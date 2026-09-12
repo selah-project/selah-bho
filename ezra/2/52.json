@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "बत्सलुत के बेटा, महिदा के बेटा, हरशा के बेटा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "बत्सलुत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "महिदा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "हरशा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:19.529942942Z",
+  "model": "glm-5.3"
+}

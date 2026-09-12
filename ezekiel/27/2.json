@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ तूँ, आदम के बेटा, त्सोर (टायर) पर एगो विलाप उठाबू",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम के"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उठाबू"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर (टायर)"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "विलाप"
+    }
+  ],
+  "timestamp": "2026-09-11T20:58:59.630481549Z",
+  "model": "glm-5.3"
+}

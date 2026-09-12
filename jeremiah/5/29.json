@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एह सब बातन खातिर का हम देखब नइखी? यहवे के कहनामा बा; अइसन गोर (जाति) पर का हमरा जिय बदला नइखे लेवेलक?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "एह सब बातन खातिर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एह सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखी"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के कहनामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "गोर (जाति) पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "बदला लेवेलक"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमरा जिय"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:46.878571543Z",
+  "model": "glm-5.3"
+}

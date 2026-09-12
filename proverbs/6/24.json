@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तोरा बचावे बुरी औरत से, आ पराई जिभ के चिकनाहट से।",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "तोरा बचावे"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "औरत से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "चिकनाहट से"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिभ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "पराई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:15.208627832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 147,
+  "translation": "जवन आपन आज्ञा धरती पर भेजेला — बहुते तुरंत आपन बचन दौड़ेला।",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "जवन भेजेला"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "आपन आज्ञा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "तुरंत"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "दौड़ेला"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "आपन बचन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:38.100458807Z",
+  "model": "glm-5.3"
+}

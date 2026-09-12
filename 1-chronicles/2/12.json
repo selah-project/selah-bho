@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ बोअज़ ⟨את⟩ ओबेद के जनम दिहलन, आ ओबेद ⟨את⟩ यिशै के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "आ बोअज़"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "आ ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशै"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:58.497502873Z",
+  "model": "glm-5.3"
+}

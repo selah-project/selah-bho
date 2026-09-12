@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "का अबहिन से तूँ मोरा पुकारलीस — “हमार पिता, तूँ हमार जवानी के संगी ⟨बा⟩।”",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "का"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अबहिन से"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "पुकारलीस"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरा"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमार पिता"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "संगी"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "जवानी के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:56.722176279Z",
+  "model": "glm-5.3"
+}

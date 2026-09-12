@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ महामारी में मरनिहार चौदह हजार आ सात सौ भइल, कोरह के बात पर मरनिहारन के छोड़ के।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरनिहार"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारी में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "छोड़ के"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरनिहारन के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:52.773111215Z",
+  "model": "glm-5.3"
+}

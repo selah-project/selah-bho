@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ बात फराउन के आँखन में आ ओकर सभे नोकरन के आँखन में नीक लागल।",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "नीक लागल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "आ बात"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखन में"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फराउन"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "आ आँखन में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ओकर नोकरन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:32:29.863820153Z",
+  "model": "glm-5.3"
+}

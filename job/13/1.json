@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "देखऽ, सब मोर आँखि देखले, मोर कान सुनले आ ओकरा बुझले।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "देखले"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "मोर आँखि"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "सुनले"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "मोर कान"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "आ बुझले"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:52.547439347Z",
+  "model": "glm-5.3"
+}

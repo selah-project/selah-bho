@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "काहें से तूँ दुखिया जनता के छोड़ियाला, आ ऊँच आँखन के नीचा करेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखिया"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "छोड़ियाला"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "आ आँखन"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "नीचा करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:42.845399509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "भोला हर बात मान लेला, बाकिर चतुर आपन डगर के समझ-बूझ के चलेला।",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "भोला"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "मान लेला"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "बाकिर चतुर"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "आपन डगर के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:10.888746989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "सलाह के बिना जाति गिर जाला, आ ढेर सलाहकारन में बचाव बा।",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "के बिना"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिर जाला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "आ बचाव"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ढेर ... में"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सलाहकारन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:07.965646918Z",
+  "model": "glm-5.3"
+}

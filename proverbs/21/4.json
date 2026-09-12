@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "अकड़ भरी आँख आ फुलल मन — दुष्ट लोग के जोत भी — पाप ह।",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "अकड़"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ फुलल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "נר",
+      "gloss": "जोत"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:31.068139576Z",
+  "model": "glm-5.3"
+}

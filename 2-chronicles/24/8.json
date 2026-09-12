@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ राजा के कहला पर ऊ एगो सन्दूक बनावे, आ ओकरा यहवे के घर के दुआर पर बाहर रख दिहले।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहला पर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "बनावे"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "रख दिहले"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआर पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:56.671271510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ ऊ राहेल के ओर भी गइन, आ ऊ राहेल के भी ⟨את⟩ लिआ से बेसी पिआर कइलन, आ ओकर संग अउरा सात दूसरा साल काम कइलन।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आ ऊ गइन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "आ ऊ पिआर कइलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राहेल"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "लिआ से बेसी"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "आ काम कइलन"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउरा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:26.895927075Z",
+  "model": "glm-5.3"
+}

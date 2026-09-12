@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "धरम के रास्ते में जिनगी बा, आ ओही बाट के पगडंडी में कवनो मौत नइखे।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "रास्ते में"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धरम के"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "आ बाट के"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "पगडंडी में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कवनो ... नइखे"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:43.563115620Z",
+  "model": "glm-5.3"
+}

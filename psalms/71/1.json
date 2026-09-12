@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 71,
+  "translation": "रउआ में, हे यहवे, हम शरण लिने बानी; कबो हम ना संकोची होखीं, सदा ले।",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "रउआ में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "शरण लिने बानी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "संकोची होखीं"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:33.472690401Z",
+  "model": "glm-5.3"
+}

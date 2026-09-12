@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 13:25",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ ऊनन के सीमा बनल: याज़ेर, गिलाद के सब नगर, आ अम्मोन के लरिकन के धरती के आधा हिस्सा, अरोएर ले — जवन रब्बा के सामने बा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहल"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊनन के"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "याज़ेर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद के"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आ आधा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिकन के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "अरोएर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨बा⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "रब्बा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:51:50.114850090Z",
+  "model": "glm-5.3"
+}

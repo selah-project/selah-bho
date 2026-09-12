@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "दसवाँ शिमी, ओकर बेटा आ ओकर भाई — बारह गो रहलें।",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "दसवाँ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(गो)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:48.995362285Z",
+  "model": "glm-5.3"
+}

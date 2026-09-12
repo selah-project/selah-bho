@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "जब नातान नबी ओकरा लग आइलें — ओ समय जब ऊ बथ-शेबा के पास गइले।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "जब…आइलें"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ओ समय जब"
+    },
+    {
+      "surface": "בא",
+      "gloss": "गइले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बथ-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:32.532362725Z",
+  "model": "glm-5.3"
+}

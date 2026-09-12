@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 57,
+  "translation": "शान्ति नइखे, हमार एलोहीम कहेला, दुष्ट लोगन खातिर।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमार एलोहीम"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "दुष्ट लोगन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:18:14.122968852Z",
+  "model": "glm-5.3"
+}

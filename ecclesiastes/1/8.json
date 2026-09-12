@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "साझा बात थकाऊ बाड़ी सभ — कवनो मनखी कहल ना कर सकेला; आँखी देखला से भरेला ना, आ काना सुनला से ना भरेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "साझा"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "थकाऊ बाड़ी सभ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "कर सकेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनखी"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "भरेला"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँखी"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखला से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भरेला"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "काना"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "सुनला से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:28.515333798Z",
+  "model": "glm-5.3"
+}

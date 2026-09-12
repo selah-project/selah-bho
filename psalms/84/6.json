@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 84,
+  "translation": "कैसन सुखी बा ऊ मनखे जेकर ताकत रउआ में बा, जेकर हिया में तीर्थ-पंथ बाड़ें सन।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "कैसन सुखी"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनखे"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "לו",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "בך",
+      "gloss": "रउआ में"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "तीर्थ-पंथ"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "हिया में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:22.588641698Z",
+  "model": "glm-5.3"
+}

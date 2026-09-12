@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "ओही समय राजा अहाज अस्सूर के राजा लोगन के ओर आपन मदत खातिर संदेस भेजलन।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "संदेस भेजलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा लोगन के"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "मदत खातिर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:58.907145386Z",
+  "model": "glm-5.3"
+}

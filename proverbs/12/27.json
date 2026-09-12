@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "कुटिल आपन शिकार के सेंकेला ना, बाकिर मेहनती मनई के दौलत कीमती होला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "सेंकेला"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कुटिल"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "आपन शिकार के"
+    },
+    {
+      "surface": "והון",
+      "gloss": "बाकिर दौलत"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनई के"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "कीमती"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "मेहनती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:43.562997860Z",
+  "model": "glm-5.3"
+}

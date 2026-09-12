@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रउआ के आज्ञा सभ के रस्ता हम दौड़ब, काहेकि रउआ हमार मन खोल देब।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "रउआ के आज्ञा सभ के"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "हम दौड़ब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "खोल देब"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमार मन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:43.749842284Z",
+  "model": "glm-5.3"
+}

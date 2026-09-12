@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "काहे कि ज्ञान अहाँ के मन में आ जाई, आ जानकारी अहाँ के प्राण के मीठी लागी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आ जाई"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "अहाँ के मन में"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आ जानकारी"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "अहाँ के प्राण के"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "मीठी लागी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:37.264056443Z",
+  "model": "glm-5.3"
+}

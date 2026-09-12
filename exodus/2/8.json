@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "फिरौन के बेटी ओकरा कहली: “जा।” आ ओ कुँवारी गइल आ ⟨את⟩ लइका के माई के बोलाइल।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "आ ओ ... गइल"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "कुँवारी"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "आ ... बोलाइल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लइका के माई"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माई"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "लइका के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:19.638394386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ⟨את⟩ रेसेन — नीनवे आ कलह के बीच में; ऊ ⟨बा⟩ ओ बड़ नगर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "रेसेन"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "रेसेन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ के बीच"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "कलह"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ओ नगर"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:28.038003985Z",
+  "model": "glm-5.3"
+}

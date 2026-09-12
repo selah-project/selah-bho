@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आराम के संग भरल हथेली अच्छका बा, दूनो मुट्ठी भरल मेहनत आ रूठल हवा से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छका बा"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "…से भरल"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "दूनो मुट्ठी"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "आ रूठल"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:10.385763562Z",
+  "model": "glm-5.3"
+}

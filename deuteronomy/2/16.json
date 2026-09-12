@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ जब लड़ाई के सबे लोग पूरा ढेर होके मर गइलें, लोग के बीच से ऊ सबे चले गइलें —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ जब भला"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "पूरा ढेर हो गइलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मर गइलें"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:08.410379790Z",
+  "model": "glm-5.3"
+}

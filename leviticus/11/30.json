@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ गेको, आ मॉनिटर छिपकली, आ छिपकली, आ रेत-छिपकली, आ गिरगिट।",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "आ गेको"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "आ मॉनिटर छिपकली"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "आ छिपकली"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "आ रेत-छिपकली"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "आ गिरगिट"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:11.912637027Z",
+  "model": "glm-5.3"
+}

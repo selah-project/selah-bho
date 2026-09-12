@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बुरा संदेसवाहक बुराई में गिरेला, आ भरोसेमंद दूत ⟨बा⟩ उपचार।",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "संदेसवाहक"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरेला"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "आ दूत"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "उपचार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:59.971284556Z",
+  "model": "glm-5.3"
+}

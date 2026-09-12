@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 87,
+  "translation": "आ गावइया सभे नाचए वाला नियर कहित — “हमनी के सगरी झरना रउआ में बाड़ें।”",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "आ गावइया सभे"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "नाचए वाला नियर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "בך",
+      "gloss": "रउआ में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:33.743513554Z",
+  "model": "glm-5.3"
+}

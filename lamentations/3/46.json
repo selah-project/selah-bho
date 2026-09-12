@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमारा सारा बैरी हमनी का ऊपर आपन मुँह खोल दिहले बाड़ें।",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "खोल दिहले बाड़ें"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी का ऊपर"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "बैरी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:13.197076297Z",
+  "model": "glm-5.3"
+}

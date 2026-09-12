@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "सुनऽ, काहेकि हम ऊँच बात कहब, आ मोर होठन के खुलले से सीधाई निकलेला।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "ऊँच बात"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "कहब"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "आ खुलले से"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "मोर होठन के"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सीधाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:15.640784378Z",
+  "model": "glm-5.3"
+}

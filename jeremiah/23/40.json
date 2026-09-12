@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ हम रउआ पर सदा के बेइज्जती आ सदा के कलंक धराइब, जवन कबो बिसराव ना जाई।",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "आ हम धराइब"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "रउआ पर"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "आ कलंक"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "कबो ना"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसराव जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:32:25.097517153Z",
+  "model": "glm-5.3"
+}

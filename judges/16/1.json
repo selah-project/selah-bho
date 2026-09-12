@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ शिमशोन अज्जाता (अज्जा) गेलान, आ ओत्ते एगो वेश्या औरत के देखलन, आ ओकरा लग गेलान।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आ … गेलान"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिमशोन"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "अज्जाता"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओत्ते"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "लग गेलान"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लग"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:41.797130456Z",
+  "model": "glm-5.3"
+}

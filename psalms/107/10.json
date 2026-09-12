@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "जे लोग अँधियारा आ मौत के छाया में बइठल रहलें — दुख आ लोहा के बंदी।",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "बइठल रहलें"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँधियारा"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "आ मौत के छाया"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "बंदी"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "आ लोहा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:52.492819368Z",
+  "model": "glm-5.3"
+}

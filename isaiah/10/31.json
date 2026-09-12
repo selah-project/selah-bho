@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "मदमेना भाग गइल; गेबीम के रहे वाला लोग भाग के जोगान बनावल।",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "भाग गइल"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "मदमेना"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहे वाला लोग"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "गेबीम"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "जोगान बनावल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:33.884746269Z",
+  "model": "glm-5.3"
+}

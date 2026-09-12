@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 61,
+  "translation": "मुखिया के खातिर, तार-बाजा के संगत में — दाउद के रचना।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया के खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पऽ"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "तार-बाजा के संगत में"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउद के रचना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:35.956592780Z",
+  "model": "glm-5.3"
+}

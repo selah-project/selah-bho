@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ⟨את⟩ येउत्स, आ ⟨את⟩ सख्या, आ ⟨את⟩ मिरमा — ई सभे ओकर बेटा रहलें, घराना के मुखिया।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "येउत्स"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "येउत्स"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "सख्या"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "सख्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "मिरमा"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "मिरमा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सभे"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "घराना के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:56.389264640Z",
+  "model": "glm-5.3"
+}

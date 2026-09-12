@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "जब यिर्मयाहू कुएँ के घर में, आ कोठरी सभन में, आयलन, तब यिर्मयाहू तहाँ ढेर दिन रहलें।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयलन"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "कुएँ के"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... में"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "कोठरी सभन"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "שם",
+      "gloss": "तहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:39:16.694651214Z",
+  "model": "glm-5.3"
+}

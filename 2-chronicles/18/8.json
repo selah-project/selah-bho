@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तऽ इसराएल के राजा एक सरिस (खोजा) के बलावलन आ कहलन, मीकायाहू, यिम्ला के बेटा के जल्दी लिआ।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बलावलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लागे"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "सरिस (खोजा)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी लिआ"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "मीकायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "यिम्ला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:58.359663820Z",
+  "model": "glm-5.3"
+}

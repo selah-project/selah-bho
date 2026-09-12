@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 40:20",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ बाहरी आँगन के जे द्वार के मुहँ उत्तर के राह पर रहे, ऊ एकर लमाई आ एकर चउड़ाई नापलन।",
+  "tokens": [
+    {
+      "surface": "והשער",
+      "gloss": "आ द्वार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "के मुहँ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "राह पर"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "आँगन के"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "बाहरी"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "एकर लमाई"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "आ एकर चउड़ाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:06.597926217Z",
+  "model": "glm-5.3"
+}

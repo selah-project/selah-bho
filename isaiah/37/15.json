@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ हिज्किय्याहू यहवे से प्रार्थना कइलन, कहत —",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "प्रार्थना कइलन"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिज्किय्याहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत"
+    }
+  ],
+  "timestamp": "2026-09-11T20:11:16.903878877Z",
+  "model": "glm-5.3"
+}

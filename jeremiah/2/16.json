@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "भी नोफ आ तहपन्हेस के लरिका रउआ के मुंडिया के चोटी चर जाइल बाड़न।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लरिका"
+    },
+    {
+      "surface": "נף",
+      "gloss": "नोफ"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "आ तहपन्हेस"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "चर जाइल बाड़न"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "मुंडिया के चोटी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:21:46.631207680Z",
+  "model": "glm-5.3"
+}

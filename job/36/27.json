@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "काहेंकि ऊ पानी के बूँद घटावेलन, ओकर भाप से माटर गड़ेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेंकि"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "घटावेलन"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "बूँद"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "गड़ेला"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "माटर"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "ओकर भाप से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:44.004184473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अज़गद के बेटा लोग, एक हजार दू सौ बाईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "अज़गद"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.141029025Z",
+  "model": "glm-5.3"
+}

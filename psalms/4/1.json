@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "मंडली के मुखिया खातिर, तार-बाजा संग, दाऊद के भजन।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मंडली के मुखिया खातिर"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "तार-बाजा संग"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "भजन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:29.218884644Z",
+  "model": "glm-5.3"
+}

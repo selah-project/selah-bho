@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "आ ऊ जान लेवेला कि ई तोहार हाथ ⟨बा⟩ — तूँ, यहवे, एकरा कइलऽ बा।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "आ ऊ जान लेवेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहार हाथ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "एकरा कइलऽ बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:04.822991895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ भेल कि जबे मनखा धरती के मुह पर बहुत बढ़े लागल, तबे उनखा लड़िकी जनमली।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भेल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "החל",
+      "gloss": "लागल"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनखा"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "बहुत बढ़े"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लड़िकी"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "जनमली"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनखा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:56.588038705Z",
+  "model": "glm-5.3"
+}

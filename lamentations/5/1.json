@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "यहवे, याद करऽ का होखल हमनी के संग; गौर से ताकऽ आ देख लिअ ⟨את⟩ हमनी के बेइज्जति।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होखल"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के संग"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "गौर से ताकऽ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आ देख लिअ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी के बेइज्जति"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "हमनी के बेइज्जति"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:45.462726639Z",
+  "model": "glm-5.3"
+}

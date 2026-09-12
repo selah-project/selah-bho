@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एहसे कि रउआ आपन तेज दोसर लोगन के ना देदेह, आ आपन सालन निर्दयी के ना देदेह।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "एहसे कि ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देदेह"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "दोसर लोगन के"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "आपन तेज"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "आ आपन सालन"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "निर्दयी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:40.714711873Z",
+  "model": "glm-5.3"
+}

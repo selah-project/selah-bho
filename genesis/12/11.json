@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 12:11",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ जइसने ऊ मिस्रयिम में घुसे लगल, ऊ अपन घरवाही सारै से कहलन: “देखऽ, नाँव जानऽ कि तूँ रूपवान औरत बानी।”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भऽल"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "लगल घुसे"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "घुसे खातिर"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "मिस्रयिम में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सारै"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "अपन घरवाही"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानऽ हम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "रूपवान"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "रूप में"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:06.080444596Z",
+  "model": "glm-5.3"
+}

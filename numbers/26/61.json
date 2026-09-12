@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "numbers 26:61",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ नादाब आ अबीहू मर गइलें, काहें कि ऊ लोग यहवे के सामने पराया आगिन धरववलें।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर गइलें"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "आ अबीहू"
+    },
+    {
+      "surface": "בהקריבם",
+      "gloss": "जब ऊ लोग धरववलें"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगिन"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "पराया"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:32.947213350Z",
+  "model": "glm-5.3"
+}

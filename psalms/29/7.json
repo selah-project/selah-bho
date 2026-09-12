@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "यहवे के आवाज़ आग के लपटन के काटेले।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज़"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "काटेले"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "लपटन के"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:45.081072448Z",
+  "model": "glm-5.3"
+}

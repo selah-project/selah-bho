@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ मोशे यहवे से बात कइलन, कहलन:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:30.489653429Z",
+  "model": "glm-5.3"
+}

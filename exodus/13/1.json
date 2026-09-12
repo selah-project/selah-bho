@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ यहवे मोशे से बोललन, कहेलक —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ ... बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:43:38.590191853Z",
+  "model": "glm-5.3"
+}

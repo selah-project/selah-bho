@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ऊ सब नूह करके जहाज में आ गइल, दुई-दुई, हर ओ देह के जिनहूँ में जिअत रुह रहल।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आ आ गइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "करके"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "जहाज"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनहूँ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "में"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुह"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिअत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:58.997087241Z",
+  "model": "glm-5.3"
+}

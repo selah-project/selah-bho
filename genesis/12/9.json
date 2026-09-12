@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ अवराहाम चलल-फिरल, दक्खिन के ओर बढ़त-बढ़त जाए रहल।",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "चलल-फिरल"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "चलत-चलत"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "बढ़त-बढ़त"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "दक्खिन के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:06.079988664Z",
+  "model": "glm-5.3"
+}

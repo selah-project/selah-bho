@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "हम मसल के ओर आपन कान झुकाबी, किन्नर पर हम आपन बुझौवल गोत खोलबी।",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "झुकाबी"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "मसल के ओर"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "आपन कान"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "खोलबी"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "किन्नर पर"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "आपन बुझौवल गोत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:17.555536468Z",
+  "model": "glm-5.3"
+}

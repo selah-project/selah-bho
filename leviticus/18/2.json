@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "इस्राएल के बेटा सभ के बोलऽ आ रउआ सभे के कहबू — हम यहवे, रउआ सभे के एलोहीम, हम बानी।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोलऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहबू"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "रउआ सभे के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:17.220484304Z",
+  "model": "glm-5.3"
+}

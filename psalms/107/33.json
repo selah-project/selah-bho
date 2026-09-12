@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "ऊ नदी सभ के उजाड़ बनावेला, आ पानी के झरना सभ के प्यासल भूमि।",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "बनावेला"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "नदी सभ के"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "आ झरना सभ के"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "प्यासल भूमि"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:28.551669092Z",
+  "model": "glm-5.3"
+}

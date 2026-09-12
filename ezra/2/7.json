@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "एलाम के बेटालोग, एक सौ पचास चार।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:56.573677687Z",
+  "model": "glm-5.3"
+}

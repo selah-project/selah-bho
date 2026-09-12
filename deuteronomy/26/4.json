@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ कोहेन ओ टोकरी तोर हाथ से लेला आ ओकरा यहवे तोर एलोहीम के वेदी के आगे राख देला।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "आ लेला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "ओ टोकरी"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "तोर हाथ से"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "आ राख देला"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोर एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:25.836850029Z",
+  "model": "glm-5.3"
+}

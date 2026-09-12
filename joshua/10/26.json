@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 10:26",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "तबे के बाद यहोशुआ इनहन के मारलन आ मरा दिहलन, आ पाँच गाछ पर टाँग दिहलन; ऊ साँझ ले गाछन पर टाँगल रहले।",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तबे के"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "मरा दिहलन"
+    },
+    {
+      "surface": "ויתלם",
+      "gloss": "टाँग दिहलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "रहले"
+    },
+    {
+      "surface": "תלוים",
+      "gloss": "टाँगल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "गाछन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:56.594579803Z",
+  "model": "glm-5.3"
+}

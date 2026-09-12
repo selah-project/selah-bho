@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "बल आ सोभा ओकर पोशाक बा, आ ऊ आवाकाल के दिन पर हँसेला।",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आ सोभा"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "ओकर पोशाक बा"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "आ ऊ … हँसेला"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "के दिन पर"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "आवाकाल के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:58.230592835Z",
+  "model": "glm-5.3"
+}

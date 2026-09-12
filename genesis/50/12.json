@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "आ ओकर बेटा सभे ओकर खातिर अइसने कइलें जइसन ऊ इनका हुकुम दइले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "कइलें"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सभे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "צום",
+      "gloss": "हुकुम दइले रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:49.220640911Z",
+  "model": "glm-5.3"
+}

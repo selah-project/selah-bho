@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 60,
+  "translation": "उठऽ, चमकऽ, काहें कि तोहार उजियार आ गइल बा, आ यहवे के महिमा तोहार ऊपर उगल बा।",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "चमकऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ गइल बा"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "तोहार उजियार"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आ ... के महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "उगल बा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:19:53.351800505Z",
+  "model": "glm-5.3"
+}

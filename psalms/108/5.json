@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 108,
+  "translation": "काहें के ऊपर अकास ले तोहार हेसेद बड़ बा, आ बादरी ले तोहार सच्चाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें के"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तोहार हेसेद"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ … ले"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादरी"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "तोहार सच्चाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:14.627075195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ अवराहाम ओकर जवन कुछु रहे ओ सब ⟨את⟩ यित्सहाक के दे दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दे दिहलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर जवन कुछु रहे ओ सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन कुछु"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सहाक के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:44.665626939Z",
+  "model": "glm-5.3"
+}

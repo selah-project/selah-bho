@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "सब बात के सोपान सुनाव पड़ल बा: एलोहीम ⟨את⟩ से डरऽ आ ⟨את⟩ ओकर आज्ञा सभे के पालन करऽ, काहें से कि ईहें पुरा मनुख्ख बा।",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "सोपान"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "सुनाव पड़ल बा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरऽ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर आज्ञा सभे"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ओकर आज्ञा सभे"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "पालन करऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ईहें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पुरा"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुख्ख"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:57.276365989Z",
+  "model": "glm-5.3"
+}

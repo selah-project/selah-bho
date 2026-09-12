@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 69,
+  "translation": "आ हम साक के आपन कपड़ा बनालिएँ, आ ऊ लोगन खातिर कहावत बन गइली।",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "आ हम बनालिएँ"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "आपन कपड़ा"
+    },
+    {
+      "surface": "שק",
+      "gloss": "साक"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "आ बन गइली"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊ लोगन खातिर"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "कहावत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:21.099713550Z",
+  "model": "glm-5.3"
+}

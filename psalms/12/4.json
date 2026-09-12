@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "काट देह यहवे सब चिकना-चिकना होंठ, जीभ के जे बड़-बड़ बात बोलेले।",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "काट देह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "चिकना-चिकना"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "बोलेले"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़-बड़ बात"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:28.767037759Z",
+  "model": "glm-5.3"
+}

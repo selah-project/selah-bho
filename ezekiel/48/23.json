@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ बाकी गोत सभ के — पुरुब किनारा से पच्छिम किनारा ले — बिन्यामीन एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "आ बाकी"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "गोत सभ के"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पुरुब के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पच्छिम के"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:08:44.291388629Z",
+  "model": "glm-5.3"
+}

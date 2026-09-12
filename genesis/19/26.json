@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ ओकरा घरवाली ओकरा पाछू से ताकली, आ ऊ नमक के खम्भा बन गईल।",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "आ ताकली"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकरा घरवाली"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ओकरा पाछू से"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आ ऊ बन गईल"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "नमक के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:37.488645270Z",
+  "model": "glm-5.3"
+}

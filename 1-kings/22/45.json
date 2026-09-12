@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ यहोशाफात इस्राएल के राजा के साथ मेल-मिलाप कइलन।",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "मेल-मिलाप कइलन"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:46:44.267265723Z",
+  "model": "glm-5.3"
+}

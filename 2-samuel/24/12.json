@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "जा, आ दाऊद ला कह — एहने कहेला यहवे — तीन गो चीज हम तोहार ऊपर रखेली; एक गो के चुन ले, आ हम ओकरा तोहार खातिर करब।",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "आ कह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन गो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "रखेली"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक गो"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "इनहन में से"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "आ हम करब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:33.091470232Z",
+  "model": "glm-5.3"
+}

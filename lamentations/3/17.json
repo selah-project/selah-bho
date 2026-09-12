@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ मोर नफ्शी के शान्ति से दूर क दिहलस; हम भलाई भूल गइली।",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "दूर क दिहलस"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "शान्ति से"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मोर नफ्शी"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "हम भूल गइली"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:23.426490071Z",
+  "model": "glm-5.3"
+}

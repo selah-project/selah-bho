@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ कनान जन्म दियलन ⟨את⟩ त्सिदोन के, आपन पहिलका लरिका के, आ ⟨את⟩ खेत के।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "आ कनान"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दियलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सिदोन के"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "त्सिदोन"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "आपन पहिलका लरिका"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "खेत के"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:42.863852062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे यहोशूअ के संग रहलन ⟨את⟩; आ ओकर खबर पूरा धरती में फइल गइल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोशूअ के"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशूअ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ओकर खबर"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:48:59.886579499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ रहलें ई लेवी के बेटा, उनकरा नाम से — गेरशोन, कहात आ मरारी।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "उनकरा नाम से"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरशोन"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "आ कहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आ मरारी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:17.914056786Z",
+  "model": "glm-5.3"
+}

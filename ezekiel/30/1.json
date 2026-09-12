@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ यहवे के शब्द हमरा लग आइल, ए कहिते कि:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहिते कि"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:57.079188013Z",
+  "model": "glm-5.3"
+}

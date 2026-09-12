@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "बरकतवान तूँ तोहार आवे में, आ बरकतवान तूँ तोहार निकले में।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "बरकतवान"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "तोहार आवे में"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "आ बरकतवान"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "तोहार निकले में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:42.802151100Z",
+  "model": "glm-5.3"
+}

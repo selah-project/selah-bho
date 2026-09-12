@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 18:37",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "रउआ हमार कदम फइलाले बानी हमार नीचे, आ हमार टखना ना लड़कलें।",
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "फइलाले बानी"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "हमार कदम"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "हमार नीचे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "लड़कलें"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "हमार टखना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:44.545640149Z",
+  "model": "glm-5.3"
+}

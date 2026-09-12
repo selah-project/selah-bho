@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 108,
+  "translation": "गीत, ज़बूर, दाऊद के।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ज़बूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:54.148214534Z",
+  "model": "glm-5.3"
+}

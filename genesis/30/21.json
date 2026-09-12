@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ एकर बाद ऊ एगो बेटी जनली, आ ऊ ⟨את⟩ ओकर नाँव दीना रखली।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "आ एकर बाद"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनली"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "रखली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाँव"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "दीना"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:22.568213955Z",
+  "model": "glm-5.3"
+}

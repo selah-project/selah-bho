@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "एही ठीक दिने अवराहाम के खतना भइल, आ यिश्माएल ओकर बेटा के।",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "एही ठीक…े"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "खतना भइल"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "आ यिश्माएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:19:11.097899911Z",
+  "model": "glm-5.3"
+}

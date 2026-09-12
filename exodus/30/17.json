@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ यहवे मोशे से बोललन, कहेला:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ ... बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला:"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:53.883497426Z",
+  "model": "glm-5.3"
+}

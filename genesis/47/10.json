@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "आ याकूब ⟨את⟩ परोह के आशीर्वाद दिहलन, आ परोह के सामने से बाहर निकललन।",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "आशीर्वाद दिहलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकूब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परोह"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परोह"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकललन"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परोह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:51.996197270Z",
+  "model": "glm-5.3"
+}

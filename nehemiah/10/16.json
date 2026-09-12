@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "बुन्नी, अज़गद, बेबाय —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बुन्नी"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "अज़गद"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "बेबाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:49.532870652Z",
+  "model": "glm-5.3"
+}

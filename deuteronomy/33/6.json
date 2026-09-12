@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "रउबेन जिये, आ मरे ना; आ ओकर मरद गिनती में रहलें।",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "जिये"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउबेन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... रहलें"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ओकर मरद"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:40.551953304Z",
+  "model": "glm-5.3"
+}

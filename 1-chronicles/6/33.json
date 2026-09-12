@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ इनहन के भाई लवियम मिश्कन — एलोहीम के घर — के हरेक काम खातिर दियल गइल रहलें।",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "आ इनहन के भाई"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लवियम"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "दियल गइल रहलें"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "खातिर हरेक"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "मिश्कन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:22.343279274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 11:42",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "अदीना शीजा के बेटा रूबेनी, रूबेनी सभन के मुखिया, आ ओकरा संग तीस रहलें।",
+  "tokens": [
+    {
+      "surface": "עדינא",
+      "gloss": "अदीना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שיזא",
+      "gloss": "शीजा"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "रूबेनी"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "रूबेनी सभन के"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "आ ओकरा संग"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:59.016579035Z",
+  "model": "glm-5.3"
+}

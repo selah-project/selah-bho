@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "बिन्यामीन खातिर — अबीदान, गिदोनी के बेटा।",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "बिन्यामीन खातिर"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "अबीदान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "गिदोनी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:13.181608055Z",
+  "model": "glm-5.3"
+}

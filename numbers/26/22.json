@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ई यहूदा के कुनबा अपने गिनल लोगन के हिसाब से रहलें: छह आ सत्तर हजार आ पाँच सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "अपने गिनल लोगन के हिसाब से"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आ सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:46.167416849Z",
+  "model": "glm-5.3"
+}

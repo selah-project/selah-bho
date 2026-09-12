@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहे कि ऊ अपने हिया से केकरो के दुख ना दियेलन, ना मनुष्य के लड़का सभ के बेदना करेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "दुख दियेलन"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "अपने हिया से"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "बेदना करेला"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़का सभ के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:33.003569529Z",
+  "model": "glm-5.3"
+}

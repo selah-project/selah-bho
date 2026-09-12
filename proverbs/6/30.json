@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "चोर के लोग तिरस्कार ना करेलें, जब ऊ भूखा होकर आपन प्राण भरे खातिर चोरी करेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "तिरस्कार करेलें"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "चोर के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "चोरी करेला"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "भरे खातिर"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "आपन प्राण"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "भूखा होकर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:29.113875674Z",
+  "model": "glm-5.3"
+}

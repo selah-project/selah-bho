@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जब ऊ अकास के तैयार कइलन, तब हम ऊँहवाँ रहिनी; जब ऊ गहिरा पानी के सतह पर गोला खाँचलन।",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "तैयार करे के बखत"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ऊँहवाँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "खाँचे के बखत"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "गोला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतह"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "गहिरा पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:45.905983075Z",
+  "model": "glm-5.3"
+}

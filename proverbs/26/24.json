@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 26:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "अपना होंठ से दुश्मन दिखावा करेला, आ अपना भीतर छल राखेला।",
+  "tokens": [
+    {
+      "surface": "בשפתו",
+      "gloss": "अपना होंठ से"
+    },
+    {
+      "surface": "ינכר",
+      "gloss": "दिखावा करेला"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "दुश्मन"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "आ अपना भीतर"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "राखेला"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:27.096360356Z",
+  "model": "glm-5.3"
+}

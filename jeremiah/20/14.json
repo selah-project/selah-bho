@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "फटिक ओ दिन जवना में हम जन्मल रहीं, ओ दिन जवना में हमारी मईया हमनी के जन्म दिहली, ओ धन्य ना होखे।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "फटिक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना में"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "जन्मल रहीं"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना में"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "जन्म दिहली"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमारी मईया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    }
+  ],
+  "timestamp": "2026-09-11T20:29:24.801124600Z",
+  "model": "glm-5.3"
+}

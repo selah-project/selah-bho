@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ लावान के दू बेटी रहली: बड़की के नाँव लेआह आ छोटकी के नाँव राहेल।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "आ लावान के"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "बड़की के"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आ…नाँव"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "छोटकी के"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:30.876944029Z",
+  "model": "glm-5.3"
+}

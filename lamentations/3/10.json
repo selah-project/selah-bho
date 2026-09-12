@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ हमार खातिर घात लगावे वाला भालू बाड़ें, छिपल जगह में सिंह।",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "भालू"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "घात लगावे वाला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "छिपल जगह में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:13.309991793Z",
+  "model": "glm-5.3"
+}

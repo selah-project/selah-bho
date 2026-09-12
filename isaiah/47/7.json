@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 47:7",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "आ तूँ कहली — “सदा ला हम रानी रहब”; ए बात सभे तूँ आपन दिल में ना रखली, ओकर अंत के तूँ याद ना कइली।",
+  "tokens": [
+    {
+      "surface": "ותאמרי",
+      "gloss": "आ तूँ कहली"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "हम रहब"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ए दशा में कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "रखली"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ए बात सभे"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "आपन दिल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "याद कइली"
+    },
+    {
+      "surface": "אחריתה",
+      "gloss": "ओकर अंत के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:15:53.207427260Z",
+  "model": "glm-5.3"
+}

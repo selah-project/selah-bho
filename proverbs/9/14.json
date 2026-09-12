@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "ऊ आपन घर के दुआर प बइठेले, कस्बा के ऊँच जगह के गद्दी प।",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "ऊ ... बइठेले"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "दुआर प"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "आपन घर के"
+    },
+    {
+      "surface": "על",
+      "gloss": "प"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ऊँच जगह"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "कस्बा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:23.756217613Z",
+  "model": "glm-5.3"
+}

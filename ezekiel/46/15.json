@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ ऊ लोग लेवा ⟨את⟩ आ मन्ना ⟨את⟩ आ तेल ⟨את⟩ बिना-बिना तैयार करेला — हमेशा चले वाली ओला।",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "आ ऊ तैयार करेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेवा"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "लेवा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मन्ना"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "मन्ना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तेल"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिना-बिना"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हमेशा चले वाली"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:07.505769967Z",
+  "model": "glm-5.3"
+}

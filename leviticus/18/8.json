@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तोहार पिता के औरत के नंगारी तूँ ना खोलब; ऊ तोहार पिता के नंगारी बा।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगारी"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहार पिता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तूँ खोलब"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नंगारी"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहार पिता"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:45.810523928Z",
+  "model": "glm-5.3"
+}

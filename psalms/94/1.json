@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "हे बदला लेवे वाला एल, यहवे! हे बदला लेवे वाला एल, उठ जाके चमक जा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "बदला लेवे वाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "बदला लेवे वाला"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "उठ जाके चमक जा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:52.001921087Z",
+  "model": "glm-5.3"
+}

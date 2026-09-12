@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ हाअदाम कहलन — ओ औरत जेकरा रउआ हमार संग राखल रउआ, ओहें हम के ओ गाछ में से दिहली, आ हम खाइली।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "हाअदाम"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ओ औरत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "राखल रउआ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमार संग"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओहें"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "दिहली"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ओ गाछ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "खाइली"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:20.924311610Z",
+  "model": "glm-5.3"
+}

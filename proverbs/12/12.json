@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "दुष्ट बुरा लोग के जाल के चाहेला, बाकिर धर्मी लोग के जड़ देला।",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "चाहेला"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुरा लोग"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "बाकिर ... के जड़"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मी लोग"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:27.013388036Z",
+  "model": "glm-5.3"
+}

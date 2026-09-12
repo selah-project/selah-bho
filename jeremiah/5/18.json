@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ओही दिनन में — यहवे के बचन बा — हम रउआ सभे ⟨את⟩ के पूरा नास ना करब।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ ओहो"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "दिनन में"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के बचन बा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "हम करब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ रउआ सभे के"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "पूरा नास"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:55.453330598Z",
+  "model": "glm-5.3"
+}

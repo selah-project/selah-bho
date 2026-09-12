@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "मुखिया खातिर — कोरह के बेटा सभ के खातिर — एगो मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सभ के खातिर"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:48.883284393Z",
+  "model": "glm-5.3"
+}

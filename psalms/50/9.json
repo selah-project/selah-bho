@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "हम तोहर घर से बैल ना लेब, आ तोहर बाड़ान से बकना सभे ना लेब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "लेब"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "तोहर घर से"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "तोहर बाड़ान से"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "बकना सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:15.851351539Z",
+  "model": "glm-5.3"
+}

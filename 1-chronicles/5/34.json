@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ अहीतूब ⟨את⟩ त्सादोक के जनम दिहलन, आ त्सादोक ⟨את⟩ अहीमात्स के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "आ अहीतूब"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सादोक"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "आ त्सादोक"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहीमात्स"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "अहीमात्स"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:54.846691621Z",
+  "model": "glm-5.3"
+}

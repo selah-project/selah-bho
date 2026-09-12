@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "एक तलेंट खरा सोना से ऊ ⟨את⟩ ओकरा बनवलन, आ ⟨את⟩ ओकर सब बर्तन सभ।",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "एक तलेंट"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ऊ बनवलन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर सब बर्तन सभ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "बर्तन सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:25.042532120Z",
+  "model": "glm-5.3"
+}

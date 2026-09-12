@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ जाबाद ⟨את⟩ एफ्लाल के जनम दिहलन, आ एफ्लाल ⟨את⟩ ओबेद के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "आ जाबाद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफ्लाल"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "एफ्लाल"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "आ एफ्लाल"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:55.873558437Z",
+  "model": "glm-5.3"
+}

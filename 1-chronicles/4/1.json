@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "यहूदा के बेटावन रहलें: पेरेत्स, चेत्सरोन, आ कर्मी, आ चूर, आ शोबाल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटावन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेत्स"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "चेत्सरोन"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "आ कर्मी"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "आ चूर"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "आ शोबाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:22.325650406Z",
+  "model": "glm-5.3"
+}

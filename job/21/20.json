@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 21:20",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "ओकर आँखी ओकर बिनाश देखे, आ शद्दय के क्रोध के ऊ पिये।",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "देखे"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ओकर आँखी"
+    },
+    {
+      "surface": "כידו",
+      "gloss": "ओकर बिनाश"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "आ के क्रोध के"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ऊ पिये"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:57.161690934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "यहवे ऊ लोग खातिर ताकत बाड़ें, आ ओकर मशीअ (मसीहा) खातिर उद्धार के गढ़ — ऊ खुद।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ऊ लोग खातिर"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "आ गढ़"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "उद्धार के"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ओकर मशीअ के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ खुद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:36.725493615Z",
+  "model": "glm-5.3"
+}

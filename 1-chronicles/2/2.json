@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "दान, योसेफ आ बिन्यामीन, नफताली, गाद आ आशेर।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आ बिन्यामीन"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफताली"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आ आशेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:14.292160750Z",
+  "model": "glm-5.3"
+}

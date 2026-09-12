@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ एहो बा कि शलोमोह राज-गद्दी पर बइठल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ एहो बा कि"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बइठल बाड़ें"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "राज-"
+    }
+  ],
+  "timestamp": "2026-09-11T19:33:38.704338433Z",
+  "model": "glm-5.3"
+}

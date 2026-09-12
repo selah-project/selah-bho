@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 25:12",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ तूँ ओकर खातिर चारि गो सोना के छल्ला ढालब, आ ओकर चारि पा पर लगाब — दू गो छल्ला ओकर एक ओर आ दू गो छल्ला ओकर दुसरा ओर।",
+  "tokens": [
+    {
+      "surface": "ויצקת",
+      "gloss": "आ तूँ ढालब"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि गो"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "छल्ला"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "आ तूँ लगाब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "פעמתיו",
+      "gloss": "पा"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "छल्ला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "ओकर ओर"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "आ दू गो"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "छल्ला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "ओकर ओर"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दुसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:34.978797197Z",
+  "model": "glm-5.3"
+}

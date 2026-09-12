@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "⟨את⟩ हमर शब्बत राखू, आ हमर मिकदाश (पबितर-जगह) के त्रास मानू; हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर शब्बत"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "हमर शब्बत"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "राखू"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "आ हमर मिकदाश"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "त्रास मानू"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:53.934484412Z",
+  "model": "glm-5.3"
+}

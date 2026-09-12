@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ ऊ अहाब, इसरायेल के राजा, के ओर सहर के भीतर संदेशवाहन भेजलन।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "संदेशवाहन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "सहर के भीतर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:45:25.832323776Z",
+  "model": "glm-5.3"
+}

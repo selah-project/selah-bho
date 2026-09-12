@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हम आपने खातिर बगीचा आ बाग-बगीचा (फारसी पारदेस) बनवलिनी, आ उनहनी में हरेक फल के गाछ रोपलिनी।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "बनवलिनी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "आपने खातिर"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बगीचा"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "आ बाग-बगीचा"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "आ रोपलिनी"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनहनी में"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:15.433596186Z",
+  "model": "glm-5.3"
+}

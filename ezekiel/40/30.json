@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ द्वार-मण्डप सभ चारों ओर रहलें — लमाई पच्चीस मुरी आ चौड़ाई पाँच मुरी।",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "आ द्वार-मण्डप सभ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "मुरी"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ चौड़ाई"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मुरी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:37:42.556864855Z",
+  "model": "glm-5.3"
+}

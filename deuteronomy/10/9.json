@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "एही कारण से लेवी के ओकर भाई सभे के संग कवनो हिस्सा आ कवनो बिरसत नइखे — यहवे ही ओकर बिरसत ह, जइसने यहवे तोहार एलोहीम ओकरा से कहलन।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही कारण"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बा"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "आ बिरसत"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई सभे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ओकर बिरसत"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहार एलोहीम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:35:14.051484117Z",
+  "model": "glm-5.3"
+}

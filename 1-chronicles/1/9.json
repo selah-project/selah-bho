@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ कूश के लरिका रहलें — सेवा, आ हवीला, आ सबता, आ रामा, आ सबतेखा; आ रामा के लरिका रहलें — शेवा आ देदान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लरिका"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "आ हवीला"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "आ सबता"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "आ रामा"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "आ सबतेखा"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लरिका"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "रामा"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेवा"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "आ देदान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:43.920914500Z",
+  "model": "glm-5.3"
+}

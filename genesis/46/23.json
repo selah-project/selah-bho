@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ दान के बेटा: हुशीम।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "हुशीम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:09.300723671Z",
+  "model": "glm-5.3"
+}

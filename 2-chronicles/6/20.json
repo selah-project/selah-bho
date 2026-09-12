@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 6:20",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "कि रउआ के आँखि दिन-रात एह घर के ओर खुलल रहंय — ओ जगह के ओर जहाँ रउआ कहलन कि आपन नाँव ओहिजे रखब — ओ प्रार्थना के सुने खातिर जवन रउआ के सेवक एह जगह के ओर माँगे।",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "रउआ के आँखि"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "खुलल रहंय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आ रात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "रउआ कहलन"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "रखब"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "आपन नाँव"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "सुने खातिर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "התפלה",
+      "gloss": "प्रार्थना"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "माँगे"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "रउआ के सेवक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:37.293892403Z",
+  "model": "glm-5.3"
+}

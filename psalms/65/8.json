@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 65,
+  "translation": "समुंदर सभ के गरज के, ओकर लहरन के गरज के आ जाति सभ के शोर के शांत करेला।",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "शांत करेला"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "गरज के"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुंदर सभ"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "गरज के"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ओकर लहरन"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "आ शोर"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जाति सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:37.804261925Z",
+  "model": "glm-5.3"
+}

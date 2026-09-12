@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ⟨ऊ⟩ ओकरा छोड़ देलन। तऽ ऊ कहलीन: “खून के दामाद — सुन्नत के कारण।”",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "आ छोड़ देलन"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहलीन"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "दामाद"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "खून के"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "सुन्नत के कारण"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:38.619469460Z",
+  "model": "glm-5.3"
+}

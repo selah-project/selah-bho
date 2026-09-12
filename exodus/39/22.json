@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ ऊ ⟨את⟩ एफोद के चोगा बनालन — बुनकर के काम, पूरा नीला।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनालन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफोद के चोगा"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "चोगा"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "बुनकर के"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीला"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:03.509750189Z",
+  "model": "glm-5.3"
+}

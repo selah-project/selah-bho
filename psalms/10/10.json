@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ऊ दबकेला, झुकेला, आ ओकर जोर से बिचरनिहार लोग गिर जालें।",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "दबकेला"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "झुकेला"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "आ गिर जालें"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ओकर जोर से"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "बिचरनिहार लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:30.602237889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "कवनो समझ नइखे, आ कवनो बुद्धि नइखे, आ कवनो सलाह नइखे यहवे के सामने।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "समझ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ … नइखे"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ … नइखे"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:39.194704672Z",
+  "model": "glm-5.3"
+}

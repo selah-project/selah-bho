@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ दावीद जंगल में सुनलन कि नाबाल ⟨את⟩ आपन भेड़ के ऊन काटत बा।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ऊन काटत बा"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन भेड़"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "आपन भेड़"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:45.931140024Z",
+  "model": "glm-5.3"
+}

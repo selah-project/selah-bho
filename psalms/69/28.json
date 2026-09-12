@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 69,
+  "translation": "उनियर के अधर्म के ऊपर अधर्म धराब, आ उनियर रउआ के धार्मिकता में ना आवे।",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "धराब"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "उनियर के अधर्म"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "रउआ के धार्मिकता में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:05.020931838Z",
+  "model": "glm-5.3"
+}

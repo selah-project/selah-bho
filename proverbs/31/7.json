@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ऊ पियेला आ अपन गरीबी भूल जाला, आ अपन दुख-दरद फेर याद ना करेला।",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "पियेला"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "आ भूल जाला"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "अपन गरीबी"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "आ अपन दुख-दरद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "याद करेला"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:59.046121269Z",
+  "model": "glm-5.3"
+}

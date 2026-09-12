@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "काहे कि हर मन-इच्छा खातिर अवसर आ न्याय ⟨बा⟩, काहे कि आदमी के बुराई ओकरा ऊपर ढेर ⟨बाड़ी⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर खातिर"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "मन-इच्छा"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "עת",
+      "gloss": "अवसर"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आ न्याय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:21.661058216Z",
+  "model": "glm-5.3"
+}

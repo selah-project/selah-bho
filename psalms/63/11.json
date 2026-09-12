@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 63,
+  "translation": "ऊ तलवार के धार पर ढेर होई; ऊ लोमड़िन के हिस्सा बनी।",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ढेर होई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "धार"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार के"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "लोमड़िन के"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "बनी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:59.584881675Z",
+  "model": "glm-5.3"
+}

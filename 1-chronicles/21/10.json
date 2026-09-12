@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "“जा, आ दाविद लगे कह, एहने कहेला यहवे: तीन गो हम रउआ ऊपर फैलावत हूँ — ए में से आपन खातिर एक चुन लऽ, आ हम रउआ लगे ओकरा करब।”",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "आ कह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लगे"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन गो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "फैलावत हूँ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "रउआ ऊपर"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुन लऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ए में से"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "आ हम करब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ लगे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:13.038917909Z",
+  "model": "glm-5.3"
+}

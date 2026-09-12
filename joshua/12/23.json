@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "दोर के नाफत-दोर के राजा, एगो; गिलगाल के गोयिम के राजा, एगो।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "नाफत"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयिम"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "गिलगाल के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:43.150227578Z",
+  "model": "glm-5.3"
+}

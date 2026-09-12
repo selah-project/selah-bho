@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ⟨את⟩ बछड़ा के चमड़ी आ ⟨את⟩ ओकर सब माँस — ओकर सिर पर, ओकर टाँगन पर, ओकर अंदर के अंग आ ओकर गुआ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चमड़ी"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ी"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछड़ा के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब माँस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "माँस"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "टाँगन"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "अंदर के अंग"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "गुआ"
+    }
+  ],
+  "timestamp": "2026-09-12T00:03:23.404851200Z",
+  "model": "glm-5.3"
+}

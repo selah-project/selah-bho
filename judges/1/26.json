@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 1:26",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ऊ मनई हित्ती लोग के धरती में गेलन, आ ओकर एगो सहर बनाईलन, आ ओकर नाँव लूज धरलन; ईहें ओकर नाँव बा आज के दिन ले।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "हित्ती लोग"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "बनाईलन"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "नाँव धरलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "लूज"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ईहें"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:56:25.225927618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 19:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "देखऽ मन, ई ⟨आ⟩ सहर भागे खातिर पास बा, आ ऊ छोट ह; हम उहाँ भाग जाए दीं मन — ऊ त छोटेच ह — आ हमार प्राण जिय जाई।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "मन"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ई सहर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "पास बा"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "भागे खातिर"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "אמלטה",
+      "gloss": "हम भाग जाए दीं"
+    },
+    {
+      "surface": "נא",
+      "gloss": "मन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ऊ त"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "छोटेच"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ह"
+    },
+    {
+      "surface": "ותחי",
+      "gloss": "आ जिय जाई"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:00.237343120Z",
+  "model": "glm-5.3"
+}

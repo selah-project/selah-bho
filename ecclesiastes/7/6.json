@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "काहेकि जइसे कड़ाही के नीचे जरत काँटा के चटकट, तइसने मूरख के हँसी; आ ई भी हेवेल बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "जइसे … के चटकट"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "जरत काँटा के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "कड़ाही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "हँसी"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूरख के"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ … भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेवेल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:24.406219204Z",
+  "model": "glm-5.3"
+}

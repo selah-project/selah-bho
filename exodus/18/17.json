@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ मूसा के ससुर ओकरा से कहलन: “जवन बात तूँ करत बा, ऊ ठीक नइखे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ … कहलन"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ससुर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ठीक"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत बा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:45:37.807444986Z",
+  "model": "glm-5.3"
+}

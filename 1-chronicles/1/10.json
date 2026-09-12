@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ कूश जनम दिहलन ⟨את⟩ निमरोद के; ऊहे धरती में बलवान बने के सुरुआत कइलन।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "आ कूश"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "निमरोद के"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "निमरोद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "החל",
+      "gloss": "सुरुआत कइलन"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "बने के"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:43.921142386Z",
+  "model": "glm-5.3"
+}

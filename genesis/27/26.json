@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "अउर ओकर पिता इसहाक ओला कहलन, “ए बेटा, चल के लग आ अउर हमनी का चूम ले।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "चल के लग आ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "चूम ले"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:53.096024745Z",
+  "model": "glm-5.3"
+}

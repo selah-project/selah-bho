@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "अभिशापित बा ऊ जे आपन संगी के सीमा-डिहाड़ी हटावेला; आ पूरा प्रजा कहेली — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिशापित"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "हटावेला"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा-डिहाड़ी"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ … कहेली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:37.282812574Z",
+  "model": "glm-5.3"
+}

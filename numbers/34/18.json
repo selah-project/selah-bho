@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ हरेक गोत्र से एकठो सरदार, एकठो सरदार, लिहऽ — धरती के विरासत देवे खातिर ⟨את⟩ धरती।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "आ सरदार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एकठो"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एकठो"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "गोत्र से"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "लिहऽ"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "विरासत देवे खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:36.600208610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ यरेद के सगरी दिन नौ सौ बासठ साल के भइल, आ ऊ मर गइल।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "यरेद"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आ नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आ ऊ मर गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:36.342062362Z",
+  "model": "glm-5.3"
+}

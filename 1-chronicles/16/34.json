@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "यहवे के धन्यवाद करऽ, काहें कि ऊ भला बा, काहें कि सदा लेल ओकर हेसेद बा।",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "धन्यवाद करऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा लेल"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:58.652266779Z",
+  "model": "glm-5.3"
+}

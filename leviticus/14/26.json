@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ कोहेन तेल ढारिहें कोहेन के बामाँ हथेली प।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आ … में से"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ढारिहें"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "על",
+      "gloss": "प"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन के"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "बामाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:20.497228395Z",
+  "model": "glm-5.3"
+}

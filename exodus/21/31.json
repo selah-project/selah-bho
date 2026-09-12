@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "चाहे ओ लरिका के मारे, चाहे लरिकी के मारे — एही नियम के अनुसार ओकरा से कइल जाई।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "मारे"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בת",
+      "gloss": "लरिकी"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "मारे"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "एही नियम के अनुसार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "कइल जाई"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:33.937876865Z",
+  "model": "glm-5.3"
+}

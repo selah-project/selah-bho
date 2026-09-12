@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "एगो जात बड़ आ लम्बा — अनाकी सभ के संतान — जिन्हन के तूँ जानऽ, आ जवन तूँ सुनत रहऽ: का अनाक के संतान के आगे कोनो खड़ा भ सकेला?",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "जात"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "आ लम्बा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "अनाकी सभ के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हन के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानऽ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनत रहऽ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "का… कोनो"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "खड़ा भ सकेला"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "अनाक"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:22.742188963Z",
+  "model": "glm-5.3"
+}

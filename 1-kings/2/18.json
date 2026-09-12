@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ बत-शेबा कहली: बढ़िया — हम रउआ के खातिर राजा से बात करब।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बात करब"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "रउआ के खातिर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:10.101274910Z",
+  "model": "glm-5.3"
+}

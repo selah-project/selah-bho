@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "उरिय्याह हित्ती, जाबाद अहलाय के बेटा।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्याह"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "जाबाद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "अहलाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:59.016346400Z",
+  "model": "glm-5.3"
+}

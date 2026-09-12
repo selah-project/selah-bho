@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 33:37",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ कादेश से चल दिहले, आ होर पहाड़ में डेरा डालले — एदोम देस के किनारा पर।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चल दिहले"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "कादेश से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डालले"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर पहाड़"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "किनारा पर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:39.296940897Z",
+  "model": "glm-5.3"
+}

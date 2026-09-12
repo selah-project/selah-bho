@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "दाहिने ओर ना झुकू, बाएँ ओर भी ना; तोहार गोड़ बुराई से हटा लऽ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुकू"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दाहिने ओर"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "बाएँ ओर भी"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "हटा लऽ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तोहार गोड़"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:55.608505248Z",
+  "model": "glm-5.3"
+}

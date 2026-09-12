@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ इश्मायाह गिबोनी — तीस में एगो गिब्बोर, आ ओ तीस के ऊपर।",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "आ इश्मायाह"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "गिबोनी"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "गिब्बोर"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "तीस में"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ ऊपर"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ओ तीस के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:07.949069547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "मोशे कहलन: “ई ओह बात ह जवन यहवे हुकम दइले बा — करू, आ यहवे के महिमा रउआ सभे के देखाई पड़ी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ओह बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकम दइले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करू"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "देखाई पड़ी"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "रउआ सभे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:27.889287839Z",
+  "model": "glm-5.3"
+}

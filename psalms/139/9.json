@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 139,
+  "translation": "अगर हम भोर के परखैं लेके उड़ी, समुन्दर के सुदूर छोर पर बस जाई —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "उड़ी (लेके चाही)"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "परखैं"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "बस जाई"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "सुदूर छोर पर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुन्दर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:44.535334523Z",
+  "model": "glm-5.3"
+}

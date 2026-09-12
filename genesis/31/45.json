@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "याकोब एगो पत्थर लिहलन आ ओकरा उठाइके खम्भा बनालन।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लिहलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "एगो पत्थर"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "उठाइके"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "खम्भा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:46.844712036Z",
+  "model": "glm-5.3"
+}

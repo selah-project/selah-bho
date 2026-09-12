@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "हम अचानक-बेसावधानी में कहली: सभे मनखे ठग-झूठा बाड़ें।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "अचानक-बेसावधानी में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनखे"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ठग-झूठा बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:54.676423916Z",
+  "model": "glm-5.3"
+}

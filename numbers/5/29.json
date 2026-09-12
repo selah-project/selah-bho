@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 5:29",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ई कनौती के विधि ह — जब कवनो औरत आपन पति के तहत भटक जाय आ अशुद्ध हो जाय।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "कनौती के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "भटक जाय"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के तहत"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "आपन पति"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "आ अशुद्ध हो जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:26.990993863Z",
+  "model": "glm-5.3"
+}

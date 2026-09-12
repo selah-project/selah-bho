@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "काहें कि ऊ पीतल के दुआर तोड़ दिहलन, आ लोहा के शिकन काट दिहलन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ दिहलन"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "पीतल के"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "आ शिकन"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा के"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "काट दिहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:26.848733815Z",
+  "model": "glm-5.3"
+}

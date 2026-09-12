@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "समझदार बुराई देख के छिप जाला; भोला लोग आगे बढ़े ला आ सजा पावेला।",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख के"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "छिप जाला"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "भोला लोग"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "आगे बढ़े ला"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "सजा पावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:26.111826495Z",
+  "model": "glm-5.3"
+}

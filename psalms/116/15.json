@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "यहवे के नजर में कीमती बा ओकर सेवकन के मौत।",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "कीमती"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के नजर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "के मौत"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ओकर सेवकन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:14.342429623Z",
+  "model": "glm-5.3"
+}

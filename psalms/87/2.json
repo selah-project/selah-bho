@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 87,
+  "translation": "यहवे जियोन के ढोका सभ के प्रेम करेला, याकूब के सब निवास सभ ले बेसी।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "के ढोका सभ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब ले बेसी"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "निवास सभ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकूब के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:44.924263332Z",
+  "model": "glm-5.3"
+}

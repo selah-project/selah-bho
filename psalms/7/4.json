@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "यहवे, हमर एलोहीम, अगर हम ई कइल बानी, अगर हमर हाथ में कवनो अन्याय बा —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "हम कइल बानी"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "עול",
+      "gloss": "कवनो अन्याय"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "हमर हाथ में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:21.815957515Z",
+  "model": "glm-5.3"
+}

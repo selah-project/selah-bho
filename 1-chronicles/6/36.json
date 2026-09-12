@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ओकर बेटा बुक्की, ओकर बेटा उज्जी, ओकर बेटा जरहयाह।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "जरहयाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:22.343842427Z",
+  "model": "glm-5.3"
+}

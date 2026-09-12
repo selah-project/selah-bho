@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 97,
+  "translation": "आगी ओकर आगू चलेले आ ओकर दुश्मन सभ के चारों ओर जरा देवेले।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "आगी"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर आगू"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "चलेले"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "आ जरा देवेले"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ओकर दुश्मन सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:32.718682348Z",
+  "model": "glm-5.3"
+}

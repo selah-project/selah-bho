@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ कहलन, “चलऽ डेरा उठावल जाव आ चलल जाव; आ हम तोहार आगे चलब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "डेरा उठावल जाव"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "चलल जाव"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "हम चलब"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "तोहार आगे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:13.382009613Z",
+  "model": "glm-5.3"
+}

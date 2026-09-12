@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "बाकिर अम्मोन के लरिकन के राजा यिफताह के ओ बातन के ना सुनलन जे ऊ ओकरा लगे भेजले रहल।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिकन के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर से"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन के"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफताह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजले रहल"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लगे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:43.931521870Z",
+  "model": "glm-5.3"
+}

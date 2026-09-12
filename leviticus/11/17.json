@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ⟨את⟩ हकोस आ ⟨את⟩ हशलाख आ ⟨את⟩ हयनशुफ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हकोस"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "हकोस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हशलाख"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "हशलाख"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हयनशुफ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "हयनशुफ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:47.746236726Z",
+  "model": "glm-5.3"
+}

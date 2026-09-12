@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "त्सियोन से, सुंदरता के निखरल रूप में से, एलोहीम चमकलन।",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "त्सियोन से"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "निखरल रूप में से"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "सुंदरता के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "चमकलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:13.306469499Z",
+  "model": "glm-5.3"
+}

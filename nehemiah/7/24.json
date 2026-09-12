@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "चारिफ के बेटा, एक सौ बारह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "चारिफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-बारह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.233542184Z",
+  "model": "glm-5.3"
+}

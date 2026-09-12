@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ⟨את⟩ पूरा घर सोना से मढ़लन, जबतक पूरा घर पूरा ना भ गइल; आ जवन वेदी दबीर खातिर रहे, ओकरो पूरा के सोना से मढ़लन।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा घर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "תם",
+      "gloss": "पूरा भ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "दबीर खातिर"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:27.236916752Z",
+  "model": "glm-5.3"
+}

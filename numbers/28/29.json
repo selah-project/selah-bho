@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "दसवाँ अंश, दसवाँ अंश, एक मेढ़ा खातिर, सात मेढ़ा सभ के खातिर।",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "दसवाँ अंश"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "दसवाँ अंश"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "एक मेढ़ा खातिर"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात के खातिर"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "मेढ़ा सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:48.537864146Z",
+  "model": "glm-5.3"
+}

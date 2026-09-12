@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ यहवे के बचन हमरा लग आइल, ई कहिके:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T20:27:24.859962616Z",
+  "model": "glm-5.3"
+}

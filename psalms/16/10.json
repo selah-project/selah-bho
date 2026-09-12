@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "काहे कि रउआ हमार प्राण के शेओल खातिर ना छोड़ब, आ रउआ आपन भक्त के गड्ढा देखत ना देब।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "छोड़ब"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार प्राण"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शेओल खातिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देब"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "आपन भक्त के"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखत"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "गड्ढा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:25.702188065Z",
+  "model": "glm-5.3"
+}

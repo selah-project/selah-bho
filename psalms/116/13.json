@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "मुक्ति के प्याला हम उठाबी आ यहवे के नाम में हम पुकारब।",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "प्याला"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "मुक्ति के"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "हम उठाबी"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "आ के नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:14.342104618Z",
+  "model": "glm-5.3"
+}

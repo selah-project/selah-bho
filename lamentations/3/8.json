@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "बाकिर जब हम चीखब आ मदत माँगब, तबो ऊ मोर प्रार्थना रोक देला।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तबो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "हम चीखब"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "आ मदत माँगब"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "रोक देला"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "मोर प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:16.273758787Z",
+  "model": "glm-5.3"
+}

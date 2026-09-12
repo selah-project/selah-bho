@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "⟨את⟩ यहवे, तोर एलोहीम के तूँ डरब, आ ⟨את⟩ ओकरा तूँ सेवा करब, आ ओकर नाम पर तूँ शपथ लेब।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोर एलोहीम"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरब"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ओकरा",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "सेवा करब"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "आ ओकर नाम पर"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "शपथ लेब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:54.777099726Z",
+  "model": "glm-5.3"
+}

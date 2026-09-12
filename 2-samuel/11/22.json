@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ संदेसवाहक चलल गइल, आ अइलन आ दाऊद के बतावल ⟨את⟩ सब कुछ जवन योआब ओकरा भेजले रहे।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चलल गइल"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "संदेसवाहक"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आ अइलन"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतावल"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब कुछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "भेजले रहे"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    }
+  ],
+  "timestamp": "2026-09-11T19:24:59.404533437Z",
+  "model": "glm-5.3"
+}

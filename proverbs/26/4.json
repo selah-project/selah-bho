@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "केसिल (मूरख) के ओकर मूर्खता नियर जवाब मत देहू, काहेकि तूँ भी ओइसने ना हो जाला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תען",
+      "gloss": "जवाब मत देहू"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "केसिल (मूरख) के"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ओकर मूर्खता नियर"
+    },
+    {
+      "surface": "פן",
+      "gloss": "काहेकि... ना"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ओइसने हो जाला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओके"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:20.041724173Z",
+  "model": "glm-5.3"
+}

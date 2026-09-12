@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "साफ हिये वाला के मोहब्बत करेला ऊ, जवने के ओकर होंठी में मिठास बा — राजा ओकर मित्तर बा।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "मोहब्ब्त करेला"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिये"
+    },
+    {
+      "surface": "חן",
+      "gloss": "मिठास"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "होंठी में"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "मित्तर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:02.977221530Z",
+  "model": "glm-5.3"
+}

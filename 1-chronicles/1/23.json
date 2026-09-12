@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ⟨את⟩ ओफिर, आ ⟨את⟩ चविला (चविला), आ ⟨את⟩ योबाब (योबाब) — ई सभे यक्तान के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओफिर"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ओफिन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चविला"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "चविला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "योबाब"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबाब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "यक्तान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:27.312809168Z",
+  "model": "glm-5.3"
+}

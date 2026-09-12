@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "एगो दौर — ओकर आँखि कतना ऊँच बाड़ी, आ ओकर पलकू ऊपर उठल बाड़ी।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "दौर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कतना"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ऊँच बाड़ी"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ओकर आँखि"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "आ ओकर पलकू"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "उठल बाड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:35.874462842Z",
+  "model": "glm-5.3"
+}

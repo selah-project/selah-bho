@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ई बाड़न गेरशोम के बेटा सभ के नाम: लिब्नी आ शिमई।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ के"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरशोम"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लिब्नी"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "आ शिमई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:28.126320583Z",
+  "model": "glm-5.3"
+}

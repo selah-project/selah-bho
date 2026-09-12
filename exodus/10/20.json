@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यहवे फराओ के मन के ⟨את⟩ कठोर कइलन, आ ऊ इस्राएल के लरिका सभ के ⟨את⟩ ना भेजलन।",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "आ-कठोर-कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फराओ के मन"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फराओ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ-ना"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल के लरिका सभ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिका-सभ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:43.580888936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ भइल साँझ, आ भइल भोर — पाँचवाँ दिन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "पाँचवाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:32.670499016Z",
+  "model": "glm-5.3"
+}

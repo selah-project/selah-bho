@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "हमर ढाल एलोहीम के साथे बा — सीधा हिया वाला लोगन के बचावए वाला।",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "हमर ढाल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचावए वाला"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:36.641299051Z",
+  "model": "glm-5.3"
+}

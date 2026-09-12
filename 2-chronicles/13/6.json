@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ उठल यरोबाम, नबात के बेटा — दाऊद के बेटा शलोमो के नोकर — आ आपन मालिक के बिरुद्ध बगावत कइलन।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठल"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "नबात"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "नोकर"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "बगावत कइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "बिरुद्ध"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "आपन मालिक के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:22.419727518Z",
+  "model": "glm-5.3"
+}

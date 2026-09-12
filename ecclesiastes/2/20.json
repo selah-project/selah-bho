@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हम खुद फिरेली आपन ⟨את⟩ मन के निराश करे ले — सूर्य के नीचे जवन सब मेहनत हम कइली ओकरा ऊपर।",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "आ हम फिरेली"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम खुद"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "निराश करे ले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन मन"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "आपन मन"
+    },
+    {
+      "surface": "על",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "मेहनत कइली"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:45.213614708Z",
+  "model": "glm-5.3"
+}

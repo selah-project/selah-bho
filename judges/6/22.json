@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 6:22",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ गिदोन देखलक कि ऊ यहवे के दूत हवें; आ गिदोन कहलन, “हाय! अदोनाय यहवे, काहे कि हम यहवे के दूत के मोँह-आ-मोँह देखल बानी।”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलक"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदोन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ … हवें"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदोन"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "על",
+      "gloss": "एकरा से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही कारन"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखल बानी"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मोँह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मोँह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:54.952839213Z",
+  "model": "glm-5.3"
+}

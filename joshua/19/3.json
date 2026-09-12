@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ खतसर-शुअल, आ बाला, आ एतसेम।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "आ खतसर"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "शुअल"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "आ बाला"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "आ एतसेम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:09.743475007Z",
+  "model": "glm-5.3"
+}

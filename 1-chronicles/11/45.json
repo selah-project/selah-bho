@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "यदीएल, सिमरी के बेटा, आ ओकर भाई योहा, हतित्ती —",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "यदीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "सिमरी"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "आ योहा"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "हतित्ती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:43.375289893Z",
+  "model": "glm-5.3"
+}

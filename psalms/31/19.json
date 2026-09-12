@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "कपट के ओंठ मूक हो जावन, जे धरमी के ऊपर घमंड आ तिरस्कार में बोलेली।",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "मूक हो जावन"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओंठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "कपट के"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "बोलेली"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "घमंड से"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "गर्व में"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "आ तिरस्कार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:00.132266734Z",
+  "model": "glm-5.3"
+}

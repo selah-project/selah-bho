@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तोहार गोड़ के राह तौल के समथर कर, आ तोहार सब रस्ता टिक जावें।",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "तौल के समथर कर"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "राह"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तोहार गोड़ के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ तोहार सब"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "टिक जावें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:55.608362118Z",
+  "model": "glm-5.3"
+}

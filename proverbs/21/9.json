@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "छत के कोना पर बइठल नीक बा, झगड़ालू औरत से — चाहे साझा घर में।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "नीक बा"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बइठल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "कोना"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छत"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "औरत से"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "झगड़ालू"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "साझा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:04.058042821Z",
+  "model": "glm-5.3"
+}

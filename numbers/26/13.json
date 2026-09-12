@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ज़ेराह के — ज़रही के कुनबा; शाउल के — शाउली के कुनबा।",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "ज़ेराह के"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ज़रही के"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाउल के"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "शाउली के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:05.066649710Z",
+  "model": "glm-5.3"
+}

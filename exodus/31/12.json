@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ यहवे मोशे से कहलन, कहऽ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से (के ओर)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:35.089169988Z",
+  "model": "glm-5.3"
+}

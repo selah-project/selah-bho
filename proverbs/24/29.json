@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "मत कहऽ — “जइसन ओ हमरा संग कइलन, हम ओकरा संग तइसने करब; हम मनई के ओकर काम के मोताबिक लौटाबनी।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "लौटाबनी"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनई के"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "ओकर काम के मोताबिक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:40.452555844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "मनुख्ख में अच्छा कवनो चीज नइखे बाकि ई कि ऊ खावे आ पिवे आ ⟨את⟩ आपन प्राण के अपना मेहनत में भलाई देखावे; ईहो हम देखलीं कि ई एलोहीम के हाथ से बा।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा चीज"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुख्ख में"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "खावे"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "आ पिवे"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "आ देखावे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन प्राण"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "आपन प्राण"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "मेहनत में"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखलीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "बा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:22.330562810Z",
+  "model": "glm-5.3"
+}

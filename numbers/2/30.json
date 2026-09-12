@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओकर सेना, आ ओनहन के गिनती — तीन आ पचास हजार आ चार सौ।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आ ओकर सेना"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "आ ओनहन के गिनती"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:49.528826059Z",
+  "model": "glm-5.3"
+}

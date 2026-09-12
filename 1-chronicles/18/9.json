@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ तउ हमत के राजा सुनलन कि दाविद हददएज़ेर — जोबा के राजा — के ⟨את⟩ पूरा सेना के मार दिहलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "तउ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "हमत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मार दिहलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविओ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा सेना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "हददएज़ेर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "जोबा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:09.559534215Z",
+  "model": "glm-5.3"
+}

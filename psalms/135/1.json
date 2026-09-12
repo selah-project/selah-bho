@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "स्तुति करा याह के, स्तुति करा ⟨את⟩ नाम के यहवे के, स्तुति करा, हे दास यहवे के!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करा"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह के"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:21.897670875Z",
+  "model": "glm-5.3"
+}

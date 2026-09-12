@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "ममज़ेर यहवे के सभा में ना आवेला; दसवाँ पीढ़ी ले ऊ यहवे के सभा में ना आवेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "ममज़ेर"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "दसवाँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:24.359219531Z",
+  "model": "glm-5.3"
+}

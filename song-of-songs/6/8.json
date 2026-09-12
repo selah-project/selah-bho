@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "साठ गो रानी बाड़ी, अस्सी गो उपपत्नी, आ कुँवारी लइकी के गिनती नइखे।",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "बाड़ी"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "उपपत्नी"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "आ कुँवारी लइकी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:31.199061609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "मजदूर नियर, परदेसी नियर, ओ तोहार संग रहे; योबेल के साल ले ओ तोहार संग काम करे।",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "मजदूर नियर"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "परदेसी नियर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार संग"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "साल"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "योबेल के"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "काम करे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार संग"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:40.238992257Z",
+  "model": "glm-5.3"
+}

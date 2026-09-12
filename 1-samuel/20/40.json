@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ यहोनातान ⟨את⟩ आपन हथियार ओ जवान के दे दिहलन जे ओकर रहल, आ ओकरा कहलन जा, नगर में ले जा।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दे दिहलन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हथियार"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "आपन हथियार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ओ जवान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर रहल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ले जा"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:38.889437908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "लोहा ऊ पराल मानेला, पितल के ऊ सड़ल लकड़ी समझेला।",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "मानेला \/ गिनेला"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "पराल"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "सड़ल"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "पितल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:04.562406196Z",
+  "model": "glm-5.3"
+}

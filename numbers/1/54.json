@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 1:54",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ इसरायल के बेटा सभे ऊ सब कइलें जवन यहवे मोशे के ⟨את⟩ हुकुम दइलन; तहिया कइलें।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "आ ... कइलें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल के"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ऊ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम दइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तहिया"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "कइलें"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:14.202251692Z",
+  "model": "glm-5.3"
+}

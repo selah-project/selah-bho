@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "बुढ़वा लोग दरवाजा से रुक गइल बाड़ें, जवान लोग आपन बाजा से।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "बुढ़वा लोग"
+    },
+    {
+      "surface": "משער",
+      "gloss": "दरवाजा से"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "रुक गइल बाड़ें"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "जवान लोग"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "आपन बाजा से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:22.480342515Z",
+  "model": "glm-5.3"
+}

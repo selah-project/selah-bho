@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बेत-एल आ हअई के मनई — एक सौ तेइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के मनई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "आ हअई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:42.904498536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ एलोन आ तिमना आ एक्रोन।",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "आ एलोन"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "आ तिमना"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "आ एक्रोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:09.692518426Z",
+  "model": "glm-5.3"
+}

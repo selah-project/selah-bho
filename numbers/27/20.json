@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ रउआ आपन तेज में से ओकरा ऊपर देब, ताकि इसरायल के बेटा सभे के सभा ओकर बात सुनी।",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "आ देब"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "आपन तेज में से"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे के"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:49.512057458Z",
+  "model": "glm-5.3"
+}

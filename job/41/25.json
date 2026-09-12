@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "माटी पर ओकर कवनो राज ना बा; ऊ बिना भय के बनावल गइल बा।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "माटी"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ओकर राज"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "बनावल गइल"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "חת",
+      "gloss": "भय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:55.081000311Z",
+  "model": "glm-5.3"
+}

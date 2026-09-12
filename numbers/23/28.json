@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ बालाक बिलाम के ले गइल ⟨את⟩ — पेओर के चोटी पर, जे सुनसान बीहड़ के मुँह तरफ झाँकेला।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ले गइल"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिलाम के"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "चोटी"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "पेओर के"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "झाँकेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "तरफ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "सुनसान बीहड़"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:59.739817559Z",
+  "model": "glm-5.3"
+}

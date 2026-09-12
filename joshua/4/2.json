@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "लिहऽ रउआ आपन सभे कुल में से बारह मरद, एकठा मरद, एकठा मरद गोत्र में से।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "लिहऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ आपन सभे खातिर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह (दुइ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बारह (दस)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एकठा मरद"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एकठा मरद"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "गोत्र में से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:47:15.319193417Z",
+  "model": "glm-5.3"
+}

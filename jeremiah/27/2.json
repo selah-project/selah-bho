@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "“एहन कहेला यहवे हमरा से: आपन खातिर रस्सी आ जुआ के बनावऽ, आ ऊ दुन्नो के आपन गरदन पर धरऽ।”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "रस्सी"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "आ जुआ"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "धरऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "आपन गरदन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:33:17.926976577Z",
+  "model": "glm-5.3"
+}

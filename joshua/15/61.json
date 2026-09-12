@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "जंगल में: बेत-हाअराबा (अराबा के घर), मिद्दिन आ सेकाका।",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "हाअराबा"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्दिन"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "आ सेकाका"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:13.331703126Z",
+  "model": "glm-5.3"
+}

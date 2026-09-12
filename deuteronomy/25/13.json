@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "रउआ के थैली में पत्थर आ पत्थर ना रहे, एक बड़ आ एक छोट।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "रउआ के थैली में"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "आ पत्थर"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "आ छोट"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:52.485196011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 21:31",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "एहने अदोनाय यहवे कहेलन: पगड़ी हटाव, आ मुकुट उतारऽ; ई ओहि ना रही — नीच के ऊँच कर, आ ऊँच के नीच।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "हटाव"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "आ उतारऽ"
+    },
+    {
+      "surface": "העטרה",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "नीच के"
+    },
+    {
+      "surface": "הגבה",
+      "gloss": "ऊँच कर"
+    },
+    {
+      "surface": "והגבה",
+      "gloss": "आ ऊँच के"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "नीच कर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:37:18.335761555Z",
+  "model": "glm-5.3"
+}

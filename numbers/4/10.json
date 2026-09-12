@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ऊ लोग ओकरा ⟨את⟩ आ ⟨את⟩ ओकर सगरी बर्तन तखचश चमड़ा के ओढ़ना में रखलन, आ ऊ लोग ओकरा ढोए के बाड़ पर रखलन।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सगरी बर्तन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ओकर बर्तन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ओढ़ना"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "तखचश"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "ढोए के बाड़"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:01.466962904Z",
+  "model": "glm-5.3"
+}

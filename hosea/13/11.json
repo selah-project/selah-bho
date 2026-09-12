@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "हम गुस्सा में तोहार राजा देलिए, आ रोस में ओकरा ले लिहलिए।",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "हम देलिए"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "गुस्सा में"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "आ ओकरा ले लिहलिए"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "रोस में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:10:39.014041514Z",
+  "model": "glm-5.3"
+}

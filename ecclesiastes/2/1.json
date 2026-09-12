@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हम अपना हिया में कहलियन — चलऽ ना, हम खुशी के परखली आ अच्छा चीज पर नजर डालली — आ देखल, ई भी हवेल ह।",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलियन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "अपना हिया में"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "चलऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "हम परखली"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "खुशी के"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आ नजर डालली"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "अच्छा चीज पर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखल"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवेल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:37.510133720Z",
+  "model": "glm-5.3"
+}

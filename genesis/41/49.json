@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 41:49",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ यूसेफ अनाज जमा कइलन, समुंदर के रेत नियर, बहुते बेसी, जबतक कि गिने से छोड़ दीहलन, काहे कि गिनती नइखे।",
+  "tokens": [
+    {
+      "surface": "ויצבר",
+      "gloss": "जमा कइलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसेफ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "रेत"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबतक कि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "छोड़ दीहलन"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "गिने से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:32:37.190147381Z",
+  "model": "glm-5.3"
+}

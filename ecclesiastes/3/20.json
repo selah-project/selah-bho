@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "सब एक्के जगह के ओर जाला; सब माटी से भइल बा, आ सब माटी के ओर लवटेला।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्के"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भइल बा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "माटी"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लवटेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "माटी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:27.092195880Z",
+  "model": "glm-5.3"
+}

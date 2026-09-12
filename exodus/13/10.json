@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ रउआ ⟨את⟩ एहे विधि ओकर नियत समय पर दिनन से दिनन ले रखब।",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "आ रउआ रखब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एहे विधि"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "ओकर नियत समय पर"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "दिनन से"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "दिनन ले"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:42.825377379Z",
+  "model": "glm-5.3"
+}

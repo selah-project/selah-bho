@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "धरती में तबाही आ भयानक चीज होखे लगल बा।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "तबाही"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "आ भयानक चीज"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "होखे लगल बा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:46.878857162Z",
+  "model": "glm-5.3"
+}

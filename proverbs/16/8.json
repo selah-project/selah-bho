@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "नीक ⟨बा⟩ थोड़ा न्याय के संगे, बेसी उपज से बिना न्याय के।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "न्याय के संगे"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "उपज"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:17.682869057Z",
+  "model": "glm-5.3"
+}

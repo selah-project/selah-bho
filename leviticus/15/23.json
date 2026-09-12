@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ अगर ई बिछइया पर होखे, चाहे ओ चीज पर जेकरा ऊ बइठेला, ओकरा छूवे पर ऊ साँझ ले अशुद्ध हो जाई।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "बिछइया"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "ओ चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "बइठेला"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "ओकरा छूवे पर"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध हो जाई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:42.602016165Z",
+  "model": "glm-5.3"
+}

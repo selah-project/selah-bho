@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "ऊ लोग सुक्कोत से कूच कइलन आ एताम में डेरा डाललन, जे जंगल के सिमाना पर बा।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "कूच कइलन"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "सुक्कोत से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "एताम में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "सिमाना पर"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "जंगल के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:44.187527348Z",
+  "model": "glm-5.3"
+}

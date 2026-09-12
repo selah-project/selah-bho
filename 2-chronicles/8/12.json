@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "तब शलोमोह यहवे खातिर दाह-भेट चढ़वलन, यहवे के ओ वेदी पर जेकरा ऊ बरामदे के आगू बनवले रहलन।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढ़वलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "दाह-भेट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवले रहलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "बरामदे के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:30.130444070Z",
+  "model": "glm-5.3"
+}

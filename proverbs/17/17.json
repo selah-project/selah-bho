@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "हर समय दोस्त मोहब्बत करेला, आ भाई मुसीबत खातिर जनमेला।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "मोहब्बत करेला"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "दोस्त"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "आ भाई"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "मुसीबत खातिर"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "जनमेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:17.525350988Z",
+  "model": "glm-5.3"
+}

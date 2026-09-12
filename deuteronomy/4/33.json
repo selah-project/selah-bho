@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "का कवनो जाति एलोहीम के आवाज के सुनले, जे अगिया के बीच से बोलत रहल — जइसन तूँ सुनलऽ — आ जीयत रहित?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "का ... सुनले"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलत रहल"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "अगिया के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनलऽ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "आ जीयत रहित"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:38.310486813Z",
+  "model": "glm-5.3"
+}

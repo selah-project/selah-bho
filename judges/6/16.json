@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "यहवे ओकरा कहलन, “जरूर हम तोरे संग बानी, आ तूँ ⟨את⟩ मिद्यान के एक मनुख नियन हराबऽ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोरे संग"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "आ हराबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिद्यान"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "मनुख नियन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:58:24.748928284Z",
+  "model": "glm-5.3"
+}

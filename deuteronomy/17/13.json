@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ सगरी मनई सुनेलें आ डरावेलें, आ फेर से घमंड ना करेलें।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनेलें"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "आ डरावेलें"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "घमंड करेलें"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:39.308567555Z",
+  "model": "glm-5.3"
+}

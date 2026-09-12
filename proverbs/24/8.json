@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "जवन बुराई करे के सोचेला, ओकरा लोग बुरी योजना के मालिक कहेला।",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "जवन सोचेला"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "बुराई करे के"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "बुरी योजना के"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "लोग कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:06.861906520Z",
+  "model": "glm-5.3"
+}

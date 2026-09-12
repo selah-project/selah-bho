@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काहे कि यहवे के आँखिन के सामने आदमी के रास्ता बा, आ ओकर सब टोहर-बाटिन के ओ तौलेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "टोहर-बाटिन"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "तौलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:42.694181087Z",
+  "model": "glm-5.3"
+}

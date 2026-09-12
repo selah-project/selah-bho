@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "मरायोत ⟨את⟩ अमर्याह के जनम दिहलन, आ अमर्याह ⟨את⟩ अहीतूब के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "मरायोत"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमर्याह"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "आ अमर्याह"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहीतूब"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अहीतूब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:54.846390942Z",
+  "model": "glm-5.3"
+}

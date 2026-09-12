@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 84,
+  "translation": "केतना पियारा बाड़ें रउआ के निवास सभ, हे यहवे दबाल बिना!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "पियारा बाड़ें"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "रउआ के निवास सभ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "दबाल बिना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:36.013034101Z",
+  "model": "glm-5.3"
+}

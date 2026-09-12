@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "एही से सब हाथ ढीला पड़ जाहीं आ हरेक मरनिहार मनुखिया के हिया पिघल जाई।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एहिजा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से (कारण)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ढीला पड़ जाहीं"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरनिहार मनुखिया"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "पिघल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:32:44.522335555Z",
+  "model": "glm-5.3"
+}

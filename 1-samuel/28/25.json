@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ ऊ शाउल के आगू आ ओकरा दास लोग के आगू परोसलन; ऊ लोग खइल आ उठल आ ओही रात चलल गइल।",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "परोसलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "दास लोग"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "खइल"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "उठल"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "चलल गइल"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:55.594387470Z",
+  "model": "glm-5.3"
+}

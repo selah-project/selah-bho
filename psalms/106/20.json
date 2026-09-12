@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 106,
+  "translation": "आ ऊ ⟨את⟩ आपन महिमा बदल दिहले एगो घास खाए वाला बैल के आकृति में।",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "आ बदल दिहले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन महिमा"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "आपन महिमा"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "के आकृति में"
+    },
+    {
+      "surface": "שור",
+      "gloss": "एगो बैल"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाए वाला"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घास"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:01.098270525Z",
+  "model": "glm-5.3"
+}

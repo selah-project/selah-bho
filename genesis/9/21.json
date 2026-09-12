@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ऊ दाखरस के पियलन आ ऊ मस्त भ गइलन, आ ऊ आपन डेरा के बीच में नंगा हो गइलन।",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "पियलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…से"
+    },
+    {
+      "surface": "היין",
+      "gloss": "दाखरस के"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "मस्त भ गइलन"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "नंगा हो गइलन"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "आपन डेरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:38.201541456Z",
+  "model": "glm-5.3"
+}

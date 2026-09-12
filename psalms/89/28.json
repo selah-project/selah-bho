@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "आ हम तो ओकरा पहिला-जनमल बनाब, धरती के राजा सभे में सभसे ऊँच।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "आ ... तो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिला-जनमल"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ओकरा बनाब"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "सभसे ऊँच"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजा सभे में"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:22.345826652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "परदेसी लोग ओकर ताकत खाइ गइलें आ ऊ जानलन ना; सेंथिया भी ओकरा ऊपर छितरा गइली आ ऊ जानलन ना।",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "खाइ गइलें"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "परदेसी लोग"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ओकर ताकत"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "सेंथिया"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "छितरा गइली"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:38:46.609849080Z",
+  "model": "glm-5.3"
+}

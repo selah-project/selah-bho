@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 90,
+  "translation": "लौट आवऽ यहवे, कब ले? आ अपना सेवक सभन के बारे में मन बदलऽ।",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "लौट आवऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "आ मन बदलऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "अपना सेवक सभन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:24.513353920Z",
+  "model": "glm-5.3"
+}

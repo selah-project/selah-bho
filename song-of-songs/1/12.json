@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "जब तक राजा आपन दावत के गोल में बइठल बाड़ें, मोर नर्द आपन खुशबू देला।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "आपन दावत के गोल में बइठल बाड़ें"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "मोर नर्द"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देला"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "आपन खुशबू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:08.850648912Z",
+  "model": "glm-5.3"
+}

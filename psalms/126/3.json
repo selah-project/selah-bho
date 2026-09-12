@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 126,
+  "translation": "यहवे हमनी के संग बड़ा काम कइलन; एही से हमनी का खुश बानी।",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "बड़ा काम कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी के संग"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "रही\/बानी"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "खुश"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:20.567898773Z",
+  "model": "glm-5.3"
+}

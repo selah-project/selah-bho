@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 115,
+  "translation": "आ हमनी का याह के धइन्यवाद देब जा — अबहीं से आ हमेशा ले। याह के महिमा गावऽ!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "आ हमनी का"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "धइन्यवाद देब जा"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अबहीं से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ … ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "हमेशा"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "महिमा गावऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:54.869789610Z",
+  "model": "glm-5.3"
+}

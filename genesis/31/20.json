@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ याकोब ⟨את⟩ लाबान अरामी के मन के चोरी कइलन — बिना ओकरा बतावले कि ऊ भाग रहल बा।",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "आ चोरी कइलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लाबान अरामी के मन के"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "अरामी"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बतावले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भाग रहल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:08.240944873Z",
+  "model": "glm-5.3"
+}

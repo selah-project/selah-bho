@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "बच्चा गँवावल भालू से आदमी के भेंट होखत, कठमूलो से ओकर मूर्खता में ना।",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "भेंट होखत"
+    },
+    {
+      "surface": "דב",
+      "gloss": "भालू"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "बच्चा गँवावल"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "कठमूलो"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "ओकर मूर्खता में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:44.699537409Z",
+  "model": "glm-5.3"
+}

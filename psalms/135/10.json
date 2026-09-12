@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "जवन ढेर जाति के मारलन आ भारी राजा के मार डारलन।",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "जवन मारलन"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "आ मार डारलन"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "भारी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:57.626156182Z",
+  "model": "glm-5.3"
+}

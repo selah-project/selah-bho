@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रउवा के मुँह के तोरा हमरा खातिर हजारन ले सोना आ चाँदी से बेसी भला बा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बेसी भला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "रउवा के मुँह के"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "हजारन ले"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "आ चाँदी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:28.923256393Z",
+  "model": "glm-5.3"
+}

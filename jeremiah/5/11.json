@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काहे कि बेइमानी कइले बाड़ें — मा से धोखा दइने बाड़ें — इसराएल के घर आ यहूदा के घर, यहवे के वचन बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "बेइमानी"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "कइले बाड़ें"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मा से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:23.581299995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ ऊ गर्भवती भइली आ एक बेटा के जन्म दीली; आ ऊ ⟨את⟩ ओकर नाम एर रखलन।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भइली"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दीली"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:46.546350104Z",
+  "model": "glm-5.3"
+}

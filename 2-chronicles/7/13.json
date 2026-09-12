@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 7:13",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जब हम अकास के रोकब आ मेहर ना गिरी, आ जब हम टिड्डी के हुकुम देब कि ऊ धरती के खाय, आ जब हम आपन मानें में महामारी भेजब —",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אעצר",
+      "gloss": "हम रोकब"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "गिरी"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "मेहर"
+    },
+    {
+      "surface": "והן",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "हम हुकुम देब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "टिड्डी"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "के खाय"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "हम भेजब"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "आपन मानें में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:34.143674381Z",
+  "model": "glm-5.3"
+}

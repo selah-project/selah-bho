@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ यरेद ⟨את⟩ हनोख के जनम देले के बाद अठ सौ साल जियलन, आ लड़का-लड़की के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जियलन"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "यरेद"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हनोख"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "हनोख"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लड़की"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:36.341926416Z",
+  "model": "glm-5.3"
+}

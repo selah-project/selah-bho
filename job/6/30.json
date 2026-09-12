@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "का हमर जीभ पर अन्याय ⟨बा⟩? का हमर तालू बिगाड़ ⟨ना⟩ समझेला?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "का ... बा"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "हमर जीभ पर"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "हमर तालू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "बिगाड़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:15.032978063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहोशुआ अमालेक के ⟨את⟩ आ ओकर जनता के ⟨את⟩ तरवार के धार से हरा दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "हरा दिहलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमालेक"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर जनता"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर जनता"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "के धार से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:20.241476913Z",
+  "model": "glm-5.3"
+}

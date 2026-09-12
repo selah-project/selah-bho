@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "ई सभे भी शलोमोह के मसल बाड़ें, जवन यहूदा के राजा चिज्कियाह के मरद लिपिकांतरित कइले।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सभे"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "मसल"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "लिपिकांतरित कइले"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "चिज्कियाह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:02.524395629Z",
+  "model": "glm-5.3"
+}

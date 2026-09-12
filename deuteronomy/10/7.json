@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ओहिजे से ऊ सभे गुदगोदा ले चलल गइलें, आ गुदगोदा से योतबाता के ओर — पानी के नाला सभे के धरती।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ओहिजे से"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "चलल गइलें"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "गुदगोदा ले"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "गुदगोदा"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "योतबाता के ओर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "नाला सभे के"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:35:09.483821420Z",
+  "model": "glm-5.3"
+}

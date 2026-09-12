@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ राजा हमसे कहलन, एकरा ऊपर का माँगतऽ? आ हम अकास के एलोहीम से प्रार्थना कइली।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "एकरा ऊपर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "माँगतऽ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "आ हम प्रार्थना कइली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:46:06.551784043Z",
+  "model": "glm-5.3"
+}

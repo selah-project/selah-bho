@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ राजा ओकरा कहलन: “शान्ति संग जाऽ।” तँ ऊ उठलन आ चल दिहलन खेबरोन के ओर।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जाऽ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शान्ति संग"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चल दिहलन"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "खेबरोन के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:54.194210977Z",
+  "model": "glm-5.3"
+}

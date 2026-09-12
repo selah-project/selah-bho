@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ सगरी कांठा जानल कि हम यहवे बनी, हम आपन तरबार म्यान से काढलीं; ऊ आगे कबो ना लौटल।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "आ सगरी कांठा जानल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "कांठा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "काढलीं"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "आपन तरबार"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "म्यान से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौटल"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे कबो"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:59.091677341Z",
+  "model": "glm-5.3"
+}

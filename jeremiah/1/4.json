@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ यहवे के बात हमनी का लागे आइल, कहत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमनी का लागे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:17.596488405Z",
+  "model": "glm-5.3"
+}

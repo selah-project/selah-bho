@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "मल्कीराम, फेदायाह, शेनअत्सर, येकम्याह, होशामा आ नेदब्याह।",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "मल्कीराम"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "फेदायाह"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "शेनअत्सर"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "येकम्याह"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "होशामा"
+    },
+    {
+      "surface": "ונדביה",
+      "gloss": "नेदब्याह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:48.034227381Z",
+  "model": "glm-5.3"
+}

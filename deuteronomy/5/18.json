@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ तूँ व्यभिचार ना करबू।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "व्यभिचार करबू"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:41.313911781Z",
+  "model": "glm-5.3"
+}

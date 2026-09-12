@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "मनुष्य के पीड़ा में ऊ नइखें, आ मनुष्य सभ के संग ऊ ना छुवाई जालें।",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "पीड़ा में"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ऊ नइखें"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ संग"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य सभ के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "छुवाई जालें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:38.086796859Z",
+  "model": "glm-5.3"
+}

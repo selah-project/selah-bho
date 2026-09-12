@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 17:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "हम ओकर बाप बनिहें, आ ऊ हमर बेटा बनेला; आ हमार हेसेद हम ओकरा सँ ना हटाब, जइसे हम ओकरा सँ हटाने जऊन रउआ के आगे रहल।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "बनिहें"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "बनेला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर खातिर"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "आ हमार हेसेद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "हटाब"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ओकरा सँ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "הסירותי",
+      "gloss": "हटाने"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "ओकरा सँ जऊन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "रउआ के आगे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:27.221098826Z",
+  "model": "glm-5.3"
+}

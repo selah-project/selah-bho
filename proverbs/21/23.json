@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "जउन आपन मुँह आ आपन जीभ के राखेला, ऊ आपन परान के मुसीबत से बचावेला।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "राखेला"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "आ आपन जीभ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "बचावेला"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "मुसीबत से"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "आपन परान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.306157073Z",
+  "model": "glm-5.3"
+}

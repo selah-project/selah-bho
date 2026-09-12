@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ⟨את⟩ हाय के राजा के जिउते पकड़लें, आ ⟨את⟩ ओकरा यहोशूआ के लग ले आनले.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हाय के राजा के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाय के"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "पकड़लें"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिउते"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ले आनले"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशूआ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:00.654466174Z",
+  "model": "glm-5.3"
+}

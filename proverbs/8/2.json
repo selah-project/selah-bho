@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "ऊँच जगहन के सिर पर, रस्ता के ऊपर, गलिन के बीचा में ऊ ठाढ़ बाड़ी।",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "के सिर पर"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ऊँच जगहन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बीचा में"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "गलिन"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ठाढ़ बाड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:42.091792398Z",
+  "model": "glm-5.3"
+}

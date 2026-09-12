@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 62,
+  "translation": "एक बेरा एलोहीम बोललन; दू बेरा ई हम सुनली — कि ताकत एलोहीम के बा।",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "एक बेरा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू बेरा"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "हम सुनली"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:12.898118331Z",
+  "model": "glm-5.3"
+}

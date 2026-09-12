@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ पहिला गोरल निकलल यहोयारीब खातिर; दूसरा यदायाह खातिर।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "यहोयारीब खातिर"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "यदायाह खातिर"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:05.253079525Z",
+  "model": "glm-5.3"
+}

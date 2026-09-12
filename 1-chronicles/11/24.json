@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "ई काम बेनायाहू, यहोयादा के बेटा, कइलन; आ ओकरा तीन गिद्दों में नाँव बाटे।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "बेनायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "आ ओकरा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "तीन … में"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "गिद्दों"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:15.076383515Z",
+  "model": "glm-5.3"
+}

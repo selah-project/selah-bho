@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओकर सेना आ ओकर गिनल लोग — पैंतीस हजार चारि सौ।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आ ओकर सेना"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "आ ओकर गिनल लोग"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच (पैंतीस)"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "(आ) तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चारि"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:18.020062970Z",
+  "model": "glm-5.3"
+}

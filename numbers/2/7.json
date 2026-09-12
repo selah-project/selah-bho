@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "जबूलून के गोत्र; आ जबूलून के लरिकन के नायक एलिआब, हेलोन के बेटा, बाड़न।",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "के गोत्र"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जबूलून"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "आ के नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के लरिकन"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जबूलून"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "हेलोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:15.795543874Z",
+  "model": "glm-5.3"
+}

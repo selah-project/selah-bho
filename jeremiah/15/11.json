@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 15:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "यहवे कहलन: का हम रउरा खातिर भलाई ना कइलन? का बुरा समय में आ तंगी के समय में, ⟨את⟩ दुश्मन (के बीचे), हम रउरा सामना ना कइलन?",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שרותך",
+      "gloss": "रउरा खातिर"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "הפגעתי",
+      "gloss": "हम सामना कइलन"
+    },
+    {
+      "surface": "בך",
+      "gloss": "रउरा"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "आ समय में"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "तंगी के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुश्मन"
+    },
+    {
+      "surface": "האיב",
+      "gloss": "दुश्मन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:27:23.447047117Z",
+  "model": "glm-5.3"
+}

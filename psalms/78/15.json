@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "जंगल में चट्टानन के फाड़लन आ गहिरा-पानी बराबर पिआवलन।",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "फाड़लन"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "चट्टानन के"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "पिआवलन"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "गहिरा-पानी बराबर"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "(बेसी)"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:46.978252633Z",
+  "model": "glm-5.3"
+}

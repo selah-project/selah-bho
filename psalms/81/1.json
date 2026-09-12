@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 81,
+  "translation": "मुखिया खातिर, गित्तीत वाद्य पर, आसाफ खातिर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गित्तीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "आसाफ खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:45.114251670Z",
+  "model": "glm-5.3"
+}

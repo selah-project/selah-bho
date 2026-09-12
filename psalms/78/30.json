@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "ऊ अपना तड़प से अलग नइखन भइल, उनकर खाना अबहिनो उनकर मुँह में रहल —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नइखन"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "अलग भइल"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "अपना तड़प से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहिनो"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "उनकर मुँह में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:21.042429429Z",
+  "model": "glm-5.3"
+}

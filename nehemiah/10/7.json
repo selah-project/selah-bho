@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "दानियेल, गिन्नेतोन, बारूख —",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "दानियेल"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "गिन्नेतोन"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूख"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:33.157332109Z",
+  "model": "glm-5.3"
+}

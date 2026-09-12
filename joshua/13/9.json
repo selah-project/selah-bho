@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 13:9",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "अरोएर से, जे अरनोन नाला के किनारा पर बा, आ ओ नगर जे नाला के बीच में बा, आ मिदबा से दिबोन ले के सारा मैदान —",
+  "tokens": [
+    {
+      "surface": "מערוער",
+      "gloss": "अरोएर से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "अरनोन"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "आ ओ नगर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "नाला के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सारा"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "मैदान"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "मिदबा से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "दिबोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:52.238754555Z",
+  "model": "glm-5.3"
+}

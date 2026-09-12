@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "“साजिश” मत कहब — ओ सब बात के, जवन ई जनता “साजिश” कहेला; आ ⟨את⟩ ओकर डर के ना डराब, आ ओकर से भयभीत ना होब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "मत कहब"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "“साजिश”"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ओ सब बात के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "“साजिश”"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर डर के"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "ओकर डर के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डराब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "भयभीत होब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:58.505315254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ मोशे जल्दी कइलन, आ धरती तक झुकलन, आ दंडवत कइलन।",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "जल्दी कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "झुकलन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती तक"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "दंडवत कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:53:12.857000666Z",
+  "model": "glm-5.3"
+}

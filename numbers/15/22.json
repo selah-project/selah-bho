@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ जँ रउआ सभे चूक जाब आ ⟨את⟩ ई सब हुक्म ना करब जिनहन के यहवे मोशे के कहलन।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जँ"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "चूक जाब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सब हुक्म"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "हुक्म"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनहन के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:32.659302749Z",
+  "model": "glm-5.3"
+}

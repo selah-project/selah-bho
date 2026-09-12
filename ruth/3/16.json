@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ऊ आपन सासू के लगे आइल; ऊ कहली, कोन हौ, बेटी? आ ऊ ओकरा ⟨את⟩ सगरी काम बतावलस जे ओहि मनई ओकर खातिर कइलन।",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "आ ऊ आइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "आपन सासू"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ऊ कहली"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "हौ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ऊ बतावलस"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सगरी काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओहि मनई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:25:16.962698568Z",
+  "model": "glm-5.3"
+}

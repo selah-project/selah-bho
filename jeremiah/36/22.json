@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ राजा सरदी के घर में, नौवाँ महीना में, बइठल रहलें, आ ⟨את⟩ अंगीठी ओकर आगे बल रहल।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "आ राजा"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बइठल रहलें"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "सरदी के"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "नौवाँ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अंगीठी"
+    },
+    {
+      "surface": "האח",
+      "gloss": "अंगीठी"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर आगे"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "बल रहल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:39:22.456087293Z",
+  "model": "glm-5.3"
+}

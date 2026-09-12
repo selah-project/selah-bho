@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ लोतान के बेटा भेल — होरी आ हेमाम; आ लोतान के बहिन तिम्ना रही।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भेल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान के"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "होरी"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "आ हेमाम"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "आ…बहिन"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान के"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिम्ना"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:05.078320468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "का ऊ शद्दय पर आनन्द लेवेला? का ऊ हर बेरा एलोअह के पुकारेला?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "आनन्द लेवेला"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "पुकारेला"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "बेरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:06.178778188Z",
+  "model": "glm-5.3"
+}

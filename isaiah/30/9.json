@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "काहे कि ई बागी जाति बा — झूठा बेटा — बेटा जे यहवे के तोरा सुने नइखे चाहत।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "बागी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "झूठा"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "चाहत"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुने"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:36.752215108Z",
+  "model": "glm-5.3"
+}

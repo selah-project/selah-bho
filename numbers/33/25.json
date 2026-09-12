@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ हरादा से चललें, आ माक्हेलोत (माक्हेलोत) में डेरा डाललें।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "हरादा"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललें"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "माक्हेलोत में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:05.351473315Z",
+  "model": "glm-5.3"
+}

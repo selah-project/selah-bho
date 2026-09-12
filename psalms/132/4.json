@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 132,
+  "translation": "अगर हम आँखन के नींद देली, पलकन के ऊँघ देली —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "देली"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "आँखन के"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "पलकन के"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ऊँघ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:02.620821067Z",
+  "model": "glm-5.3"
+}

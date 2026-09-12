@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "जब गिरेला त ढेर ना गिरेला, कारन यहवे ओकर हाथ थामेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ढेर गिरेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "थामेला"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:25.755603686Z",
+  "model": "glm-5.3"
+}

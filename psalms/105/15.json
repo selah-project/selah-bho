@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "“हमार मसीह लोग के छुअब ना, आ हमार नबी लोग के बुरा करब ना।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "छुअब"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "हमार मसीह लोग के"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "आ हमार नबी लोग के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "बुरा करब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:49.195926901Z",
+  "model": "glm-5.3"
+}

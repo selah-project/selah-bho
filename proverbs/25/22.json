@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "काहे कि तूँ अंगारा ओकर सिर के ऊपर रखेला, आ यहवे तोहा के ओकर बदला देवेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "अंगारा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "रखेला (बटोरेला)"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर सिर"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "बदला देवेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:19.566703541Z",
+  "model": "glm-5.3"
+}

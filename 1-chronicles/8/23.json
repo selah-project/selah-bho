@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ अव्दोन, आ जिखरी, आ हानान —",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "आ अव्दोन"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "आ जिखरी"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "आ हानान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:49.138076486Z",
+  "model": "glm-5.3"
+}

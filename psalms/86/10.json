@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 86,
+  "translation": "काहे कि रउआ बड़ बानी आ अचरज के काम करेला; रउआ अकेले एलोहीम बानी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ बानी"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ करेला"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "अचरज के काम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:32.793779605Z",
+  "model": "glm-5.3"
+}

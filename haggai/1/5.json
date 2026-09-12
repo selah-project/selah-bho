@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ अबिहीं एहन कहलन यहवे सेनावाल: आपन मन आपन रस्तन पर लगावऽ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अबिहीं"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनावाल"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "लगावऽ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "आपन मन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "आपन रस्तन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:23:04.185360083Z",
+  "model": "glm-5.3"
+}

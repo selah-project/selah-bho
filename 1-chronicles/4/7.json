@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ चेलाह के बेटा रहलें: त्सेरेत, यित्सहार आ एत्नान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "चेलाह"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "त्सेरेत"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "आ एत्नान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:29.896184962Z",
+  "model": "glm-5.3"
+}

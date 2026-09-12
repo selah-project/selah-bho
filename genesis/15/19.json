@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "⟨את⟩ कैनी सभे, आ ⟨את⟩ कनिज्जी सभे, आ ⟨את⟩ कदमोनी सभे।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कैनी सभे"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "कैनी सभे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कनिज्जी सभे"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "कनिज्जी सभे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कदमोनी सभे"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "कदमोनी सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:19:07.618741875Z",
+  "model": "glm-5.3"
+}

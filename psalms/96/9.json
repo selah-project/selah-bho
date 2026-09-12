@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 96,
+  "translation": "यहवे के आगे पवितर सोभा में सिर झुकावऽ; ओकर मुख से पूरा धरती काँपऽ।",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "सिर झुकावऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के आगे"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "सोभा में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवितर"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "काँपऽ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ओकर मुख से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:59.110517928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "उजाड़ सहर टूट गइल बा; हर घर बंद हो गइल बा, केहु के अंदर आवे से।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "टूट गइल बा"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बंद हो गइल बा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "अंदर आवे से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:32:35.855030539Z",
+  "model": "glm-5.3"
+}

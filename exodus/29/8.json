@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ रउआ ⟨את⟩ ओकर बेटा सभ के नजदीक लाब, आ कुरता सभ पहिराब।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बेटा सभ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सभ"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "नजदीक लाब रउआ"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "पहिराब"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "कुरता सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:29.012366954Z",
+  "model": "glm-5.3"
+}

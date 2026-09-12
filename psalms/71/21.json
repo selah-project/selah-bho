@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 71,
+  "translation": "तूँ हमार महानता के बढ़ाबू, आ फिर घूम के हमरा सांती देबू।",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "बढ़ाबू"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "हमार महानता"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "फिर घूम के"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "हमरा सांती देबू"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:24.371610826Z",
+  "model": "glm-5.3"
+}

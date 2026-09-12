@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "घोड़ी छल ह बचाव खातिर, आ ओकर ढेर बल से ऊ छुटायेला ना।",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "छल"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "घोड़ी"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "बचाव खातिर"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "आ ओकर ढेर"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "बल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "छुटायेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:34.356595541Z",
+  "model": "glm-5.3"
+}

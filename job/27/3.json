@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "काहे कि जब ले हमर सांस हमर भीतर बा, आ एलोअह के रुआं हमर नथी में बा —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "हमर सांस"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमर भीतर"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आ रुआं"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह के"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "हमर नथी में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:23.834964358Z",
+  "model": "glm-5.3"
+}

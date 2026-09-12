@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जब कवनो मनुष्य के कुँवारी लड़की भेंटल जवन के मंगना ना भइल रहे, आ ओकरा पकड़लन आ ओकर संग सोवलन, आ दुनों पकड़ा गइल —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "भेंटल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनुष्य के"
+    },
+    {
+      "surface": "נער",
+      "gloss": "लड़की"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "कुँवारी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "मंगना भइल"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "पकड़लन"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "सोवलन"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "पकड़ा गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:21.603664038Z",
+  "model": "glm-5.3"
+}

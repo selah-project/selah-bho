@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "पहिले से एमीम ⟨से⟩ ओहिजे रहत रहलें — एगो ढेर बड़ आ घना आ लमा-कद जाति, अनाकीम नियर।",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "एमीम"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहिले से"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "रहत रहलें"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "आ घना"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "आ लमा-कद"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "अनाकीम नियर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:28:52.238793005Z",
+  "model": "glm-5.3"
+}

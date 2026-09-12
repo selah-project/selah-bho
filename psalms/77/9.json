@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 77,
+  "translation": "का ओकर हेसेद सदा ले खतम हो गइल? ओकर वचन पीढ़ी-आ-पीढ़ी ले ले मुइ गइल?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "खतम हो गइल"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "मुइ गइल"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी-आ-पीढ़ी ले"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "पीढ़ी ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:02.007420516Z",
+  "model": "glm-5.3"
+}

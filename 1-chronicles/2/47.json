@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ यहदाय के बेटा रहलन: रेगेम, आ योताम, आ गेशान, आ पेलेत, आ एयफा आ शाअफ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ…के बेटा"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "यहदाय"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "रेगेम"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "आ योताम"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "आ गेशान"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "आ पेलेत"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "आ एयफा"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "आ शाअफ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:58.682768881Z",
+  "model": "glm-5.3"
+}

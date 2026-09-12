@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ओनहनी के गिनती, असेर के गोत्र से, एक आ चालीस हजार आ पाँच सौ रहल।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओनहनी के गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "असेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "आ चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:03.381364211Z",
+  "model": "glm-5.3"
+}

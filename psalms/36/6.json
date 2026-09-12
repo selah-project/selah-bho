@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "यहवे, अकास में रउआ के हेसेद बा; रउआ के भरोसेमंदी बादल सभ तक बा।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "रउआ के हेसेद"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "रउआ के भरोसेमंदी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादल सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:42.836615716Z",
+  "model": "glm-5.3"
+}

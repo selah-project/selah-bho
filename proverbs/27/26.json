@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "मेमना रउआ के पहिरावा खातिर, आ बकना पात के दाम खातिर।",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "मेमना सभे"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "रउआ के पहिरावा खातिर"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "आ दाम खातिर"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "पात"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "बकना सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:35.903043649Z",
+  "model": "glm-5.3"
+}

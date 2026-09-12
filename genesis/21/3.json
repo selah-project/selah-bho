@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अवराहाम ⟨את⟩ आपन बेटा के नाँव रखलन जवन ओकरा जनमल — जवन सारा ओकरा जनम दिहली — यित्सहाक।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "आ ... नाँव रखलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन बेटा के नाँव"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "आपन बेटा"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम दिहली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:55.214299032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ शाफेर पहाड़ से चल गिनलां, आ हरादाह में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चल गिनलां"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाड़ से"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "शाफेर"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "हरादाह में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:08.779466998Z",
+  "model": "glm-5.3"
+}

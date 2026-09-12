@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "केहू पुरुष ⟨את⟩ आपन पिता के स्त्री के ना लेवेला, आ पिता के कपड़ा के किनारा ना खोलेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लेवेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "केहू पुरुष"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन पिता के स्त्री"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "खोलेला"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "कपड़ा के किनारा"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "पिता के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:24.358786464Z",
+  "model": "glm-5.3"
+}

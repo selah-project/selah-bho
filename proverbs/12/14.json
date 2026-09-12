@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "मनुष्य आपन मुँह के फल से भलाई में तृप्त होखेला, आ मनुष्य के हाथ के बदला ओकरे ले लौटेला।",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "फल से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "तृप्त होखेला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "आ बदला"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरे ले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:48.973568071Z",
+  "model": "glm-5.3"
+}

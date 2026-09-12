@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "अज़र्याहू, ओदेद के बेटा, के ऊपर एलोहीम के रूह आइल रहल।",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "आ अज़र्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ओदेद"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "आइल रहल"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:59.363400605Z",
+  "model": "glm-5.3"
+}

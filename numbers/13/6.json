@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "यहूदा के गोत्र से — कालेब, यफुन्नेह के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "के गोत्र से"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "यफुन्नेह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:21.538727714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "काहे ऊ से लागे संघर्ष करऽ? काहेकि ओकर सब बात के ऊ जवाब ना देला।",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ऊ से"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "संघर्ष करऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "जवाब देला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:51.424220595Z",
+  "model": "glm-5.3"
+}

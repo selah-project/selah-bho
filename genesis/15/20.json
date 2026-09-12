@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ⟨את⟩ हित्ती सभे, आ ⟨את⟩ परिज्जी सभे, आ ⟨את⟩ रफाईम सभे।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हित्ती सभे"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती सभे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "परिज्जी सभे"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "परिज्जी सभे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "रफाईम सभे"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "रफाईम सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:19:07.618875145Z",
+  "model": "glm-5.3"
+}

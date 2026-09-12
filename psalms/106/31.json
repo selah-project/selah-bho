@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 106,
+  "translation": "आ ओकरा खातिर ई धर्मिता के रूप में गिनल गइल — पीढ़ी दर पीढ़ी, सदा ले।",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "गिनल गइल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा खातिर"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "धर्मिता के रूप में"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी दर"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:16.425417715Z",
+  "model": "glm-5.3"
+}

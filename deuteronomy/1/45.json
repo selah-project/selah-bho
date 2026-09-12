@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ रउआ लौटल रहलें आ यहवे के आगे रोवल रहलें, बाकिर यहवे रउआ के आवाज ना सुनलन, आ ना ओ रउआ के ओर कान धारलन।",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "लौटल रहलें"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "रोवल रहलें"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "रउआ के आवाज"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "कान धारलन"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "रउआ के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:28:41.154318676Z",
+  "model": "glm-5.3"
+}

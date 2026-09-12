@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "जे बुरा दिन के दूर करेला, आ हिंसा के बैठक ले नजदीक लावेला।",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "दूर करेला (जे)"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "आ नजदीक लावेला"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "बैठक"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:15:11.393184870Z",
+  "model": "glm-5.3"
+}

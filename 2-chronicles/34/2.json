@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 34:2",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ ऊ यहवे के नजर में सीध काम कइलन, आ आपन पिता दाविद के रस्तन पर चललन, आ ऊ दाहिने चाहे बाएँ ना भटकलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ ऊ कइलन"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "सीध काम"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के नजर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आ चललन"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "के रस्तन पर"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "סר",
+      "gloss": "भटकलन"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दाहिने"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "चाहे बाएँ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:48:35.873324404Z",
+  "model": "glm-5.3"
+}

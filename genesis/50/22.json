@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "यूसफ मिस्रयिम (मिस्र) में रहल — ऊ आ ओकर पिता के घर के लोग; आ यूसफ सौ आ दस बरिस जियल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसफ"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम (मिस्र) में"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर पिता के"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "आ जियल"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "आ दस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:09.303363108Z",
+  "model": "glm-5.3"
+}

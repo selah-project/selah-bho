@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 5:16",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ई दीवार के काम में हम पूरा जुटल रहिए, आ हमनी का कवनो खेत ना खरीदली; आ हमार सगरी नौकर ओहिजे ओही काम पर जुटल रहलें।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "काम में"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "החזקתי",
+      "gloss": "पूरा जुटल रहिए"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "आ खेत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "खरीदली"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "קבוצים",
+      "gloss": "जुटल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "काम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:47:56.247277149Z",
+  "model": "glm-5.3"
+}

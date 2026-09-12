@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "नप्ताली के बेटा — यहत्सिएल, आ गुनी, आ येत्सेर, आ शल्लूम; बिल्हा के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नप्ताली"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "यहत्सिएल"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "आ गुनी"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "आ येत्सेर"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "आ शल्लूम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:38.225914668Z",
+  "model": "glm-5.3"
+}

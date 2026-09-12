@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "काहेकि खेत में ओकरा भेंटल रहन; ओ मंगेतर लड़की चीखल, बाकिर ओकरा बचावे वाला कवनो ना रहल।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ओकरा भेंटल"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "चीखल"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ओ लड़की"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "मंगेतर"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बाकिर … ना"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचावे वाला"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:21.603494376Z",
+  "model": "glm-5.3"
+}

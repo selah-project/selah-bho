@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "बात पर बूझ लगावै वाला भलाई पावेला, आ जउन यहवे पर भरोसा करेला — केतना सुख ओकर!",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "बूझ लगावै वाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पावेला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "आ भरोसा करै वाला"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "केतना सुख ओकर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:20.541245189Z",
+  "model": "glm-5.3"
+}

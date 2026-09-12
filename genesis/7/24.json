@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ पानी धरती पर पचास आ सौ दिन ले हावी रहल।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "हावी रहल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "आ सौ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन ले"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:59.099413569Z",
+  "model": "glm-5.3"
+}

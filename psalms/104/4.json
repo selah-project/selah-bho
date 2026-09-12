@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "जउन अपन दूतन के हवा बनावेलें, अपन सेवकन के लपटात आग।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "बनावेलें"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "अपन दूतन के"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "अपन सेवकन के"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "להט",
+      "gloss": "लपटात"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:19.891753794Z",
+  "model": "glm-5.3"
+}

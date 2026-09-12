@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "अपना जीभ के बुराई से रख, आ अपना ओठन के छल बोले से।",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "रख"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "अपना जीभ के"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "आ अपना ओठन के"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोले से"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:24.806641661Z",
+  "model": "glm-5.3"
+}

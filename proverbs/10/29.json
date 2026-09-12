@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "यहवे के रस्ता अटल लोग खातिर गढ़ बा, आ अधरम करे वालन खातिर बरबादी।",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "अटल लोग खातिर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "आ बरबादी"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "करे वालन खातिर"
+    },
+    {
+      "surface": "און",
+      "gloss": "अधरम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:17.440160344Z",
+  "model": "glm-5.3"
+}

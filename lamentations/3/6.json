@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ मोला अँधियार में बइठा दिहलन, पुरान जमाना के मुआ लोग नियर।",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "अँधियार में"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "मोला बइठा दिहलन"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "मुआ लोग नियर"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "पुरान जमाना के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:16.273445956Z",
+  "model": "glm-5.3"
+}

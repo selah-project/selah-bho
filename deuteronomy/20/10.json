@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "जब रउआ कवनो नगर के लगे ओकरा लड़े खातिर पहुँचब, त रउआ ओकरा लगे शांति के पैगाम भेजब।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "पहुँचब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़े खातिर"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "पैगाम भेजब"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लगे"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "शांति के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:50.516529616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 5:11",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ पेसह के दूसरा दिन ऊ लोग धरती के फसल खालस — मैदा के रोटी आ भुनल अनाज — ठीक ओही दिन।",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "खालस"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "फसल"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "दूसरा दिन"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पेसह के"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मैदा के रोटी"
+    },
+    {
+      "surface": "וקלוי",
+      "gloss": "आ भुनल अनाज"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ठीक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:39.885919221Z",
+  "model": "glm-5.3"
+}

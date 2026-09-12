@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ रउआ इनहन के आपन घर के डंडन पर आ आपन गेटन पर लिखब।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "आ रउआ लिखब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "डंडन"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "आपन घर के"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "आ आपन गेटन पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:40.354702511Z",
+  "model": "glm-5.3"
+}

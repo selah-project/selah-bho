@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "अंधा लोग गली सभे में भटकल, खून से मैला भइल गइल, आ ऊ लोग आपन कपड़ा के छु ना सकले।",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "भटकल"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "अंधा लोग"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "गली सभे में"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "मैला भइल गइल"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून से"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "सकले"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "छु"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "आपन कपड़ा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:27:00.761229050Z",
+  "model": "glm-5.3"
+}

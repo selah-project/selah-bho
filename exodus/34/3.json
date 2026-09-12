@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ कवनो मनखी तोर संग ना चढ़े; आ पूरा पहाड़ पर कवनो मनखी के देखाव ना पड़े; ओ पहाड़ के सोझा भेड़-बकरी आ गाइ-बहिनियो ना चरेन।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ कवनो मनखी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़े"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोर संग"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनखी के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "देखाव पड़े"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा … पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…यो"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़-बकरी"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "आ गाइ-बहिनि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "चरेन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "מול",
+      "gloss": "सोझा"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़ के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:53:33.684460993Z",
+  "model": "glm-5.3"
+}

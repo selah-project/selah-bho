@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ जे ऊ कइलस, ओ यहवे के आँखि में बुरा लागल, आ ऊ ⟨את⟩ ओकरो के घली मार दिहलस।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "आ बुरा लागल"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ऊ कइलस"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आ मार दिहलस"
+    },
+    {
+      "surface": "גם",
+      "gloss": "घली"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:54.229407738Z",
+  "model": "glm-5.3"
+}

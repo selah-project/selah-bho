@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "रउआँई ही यहवे एलोहीम हववा जे अवराम के चुनलन, आ ओकरा ऊर कसदी के बाहर निकाललन, आ ओकर नाँव अवराहाम धरलन।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "रउआँई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "अवराम के"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "निकाललन"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ऊर से"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कसदी के"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:45.576987021Z",
+  "model": "glm-5.3"
+}

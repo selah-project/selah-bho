@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "यहूदा कहलन — ओकरा लेके राख ले, कतऊ हमनी क बेइज्जती ना होखे; देखऽ, हम ई मेमना भेजल अनी आ तूँके ऊ ना मिलली।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कतऊ"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "भेजल अनी"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "मिलली"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:39.041848069Z",
+  "model": "glm-5.3"
+}

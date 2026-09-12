@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ अब ई ⟨ह⟩ ओ बात जवन हमनी का गिबआह खातिर करेली — ओकरा ऊपर गोरल से।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करेली"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "गिबआह खातिर"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "गोरल से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:50.776370832Z",
+  "model": "glm-5.3"
+}

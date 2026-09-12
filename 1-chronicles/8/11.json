@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ हुसिम से ऊ एबीतूब आ एल्पाल के जनलन: ⟨את⟩ एबीतूब आ ⟨את⟩ एल्पाल।",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "आ हुसिम से"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबीतूब"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "एबीतूब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "एल्पाल"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एल्पाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:56.389416517Z",
+  "model": "glm-5.3"
+}

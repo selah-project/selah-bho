@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ जेल-घर के सरदार जेल-घर में रहल सब बंदी सभ के यूसुफ के हाथ में दे दिहलन — ⟨את⟩ सब ⟨את⟩ ओहना, जवन ओहिजा कइल जात रहे, ऊहे ऊ करत रहलें।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दे दिहलन"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "जेल"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बंदी सभ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "बंदी सभ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "जेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सब ओहना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "कइल जात रहे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:07.276974001Z",
+  "model": "glm-5.3"
+}

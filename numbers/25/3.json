@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ इसरायल बाल-पओर से चिपक गइल, आ यहवे के क्रोध इसरायल पर भड़क गइल।",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "आ चिपक गइल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "बाल-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "पओर से"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "आ भड़क गइल"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध (नाक-कोप)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसरायल पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:05.585378290Z",
+  "model": "glm-5.3"
+}

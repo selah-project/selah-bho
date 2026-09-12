@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "अकास रउआ के बा, धरती अउरी रउआ के बा; संसार आ ओकर पूरा भरम के नींव रउआ रखल।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अउरी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "संसार"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "आ ओकर पूरा भरम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "नींव रखल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:07.982270585Z",
+  "model": "glm-5.3"
+}

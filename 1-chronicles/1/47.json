@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ हदद के मउत भइल, आ ओकर जगह मस्रेकाह के समलाह राज करे लागलन।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मउत भइल"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करे लागलन"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "समलाह"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "मस्रेकाह के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:56.878153056Z",
+  "model": "glm-5.3"
+}

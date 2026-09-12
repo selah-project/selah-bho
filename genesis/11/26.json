@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ तेरह सत्तर साल जियलन, आ ⟨את⟩ अवराम, ⟨את⟩ नाचोर आ ⟨את⟩ हारान के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जियलन"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आ जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराम"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाचोर"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाचोर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हारान"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:40.884325116Z",
+  "model": "glm-5.3"
+}

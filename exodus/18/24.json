@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ मूसा आपन ससुर के बात सुनलन आ जवन ऊ कहलन ओ सब कइलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आ सुनलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "आपन ससुर के"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "आ कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:45:22.779655913Z",
+  "model": "glm-5.3"
+}

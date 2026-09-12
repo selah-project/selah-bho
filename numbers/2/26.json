@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ एकर सेना, आ इनहन के गिनती: बासठ हजार आ सात सौ।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आ एकर सेना"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "आ इनहन के गिनती"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बासठ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "बासठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:29.321144202Z",
+  "model": "glm-5.3"
+}

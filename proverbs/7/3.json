@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "इनकरा आपन अँगुरियन पर बाँधऽ, इनकरा आपन हिया के पट्टी पर लिखऽ।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "इनकरा बाँधऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "आपन अँगुरियन"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "इनकरा लिखऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "पट्टी"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "आपन हिया"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:49.603726200Z",
+  "model": "glm-5.3"
+}

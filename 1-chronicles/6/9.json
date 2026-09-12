@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तखत ओकर बेटा, उरिएल ओकर बेटा, उज्जियाह ओकर बेटा, आ शाउल ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "तखत"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "उरिएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "उज्जियाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "आ शाउल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:20.951197154Z",
+  "model": "glm-5.3"
+}

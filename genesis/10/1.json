@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ नूह के बेटावन के वंशावली बा — शेम, हाम आ याफेत; आ महाप्रलय के बाद इनहन के बेटा पैदा भइलें।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "वंशावली बा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन के"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "हाम"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "आ याफेत"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "पैदा भइलें"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनहन के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "महाप्रलय"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:44.548310347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 27:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "काहें कि कपटी के आस का, जब कि ऊ काट दिहल जाय, जब कि एलोअह ओकर प्राण खींच लेलन?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "आस"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "कपटी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब कि"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "काट दिहल जाय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब कि"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "खींच लेलन"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:59.019267183Z",
+  "model": "glm-5.3"
+}

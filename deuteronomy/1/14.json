@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ रउआ हमरा जवाब दिहीं ⟨את⟩ आ कहलीं: जवन बात रउआ कहले हो करे खातिर, ओ नीक बा।",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "आ रउआ जवाब दिहीं"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "आ कहलीं"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "रउआ कहले"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:25.383549375Z",
+  "model": "glm-5.3"
+}

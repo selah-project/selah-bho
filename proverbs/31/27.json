@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ऊ आपन घर के चाल-चलन के निहारेले रहेला, आ सुस्ती के रोटी ना खावेला।",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "ऊ … निहारेले रहेला"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "चाल-चलन"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "आपन घर के"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "आ … के रोटी"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "सुस्ती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:58.231008969Z",
+  "model": "glm-5.3"
+}

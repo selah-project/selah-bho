@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "तीसरा हारीम खातिर, चउथा सेओरीम खातिर।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "हारीम खातिर"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "सेओरीम खातिर"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "चउथा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:05.253180353Z",
+  "model": "glm-5.3"
+}

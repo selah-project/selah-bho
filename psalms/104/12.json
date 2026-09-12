@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "ओकरे ऊपर अकास के चिरई सभे बसेली; डालन के बीचे से ऊ आवाज निकालेली।",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "ओकरे ऊपर"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चिरई सभे"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "बसेली"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "बीचे से"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "डालन"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "निकालेली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:27.631990545Z",
+  "model": "glm-5.3"
+}

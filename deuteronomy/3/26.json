@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "बाकिर यहवे रउआ के कारण हमरा ऊपर गुस्सा भइलें आ हमर ना सुनलें; यहवे हमसे कहलें: “बहुत भ गेल तोहार खातिर; ए बात में हमसे आगे ना बोलऽ।”",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "गुस्सा भइलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "रउआ के कारण"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलें"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "आगे बढ़ाब"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ए बात में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:15.775958606Z",
+  "model": "glm-5.3"
+}

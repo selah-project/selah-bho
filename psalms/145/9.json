@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 145,
+  "translation": "यहवे सब पर भला बानी, आ ओकर रहम सब कामन पर बाड़ें।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब पर"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "आ ओकर रहम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "कामन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:27.352560773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लोग मितका से चलल आ चष्मोना में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "मितका से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "चष्मोना में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:06.611779395Z",
+  "model": "glm-5.3"
+}

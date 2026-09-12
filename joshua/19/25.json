@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ ओनहन के सीमा रहल: चेल्कत, हाली, बेतेन आ अकशाफ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ओनहन के सीमा"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "चेल्कत"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "आ हाली"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "आ बेतेन"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "आ अकशाफ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:30.190849115Z",
+  "model": "glm-5.3"
+}

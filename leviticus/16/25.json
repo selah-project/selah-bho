@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ ⟨את⟩ पाप-बलि के चरबी के ऊ बेदी पर धुनावेला (सुगन्ध बनावे खातिर जरावेला)।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आ",
+      "marks": "पाप-बलि के चरबी"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि के"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "धुनावेला"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:09.579269113Z",
+  "model": "glm-5.3"
+}

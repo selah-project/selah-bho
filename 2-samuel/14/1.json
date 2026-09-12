@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ योआब, तसरयाह के बेटा, जान गइल कि राजा के मन अबशालोम के ओर बा।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "जान गइल"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "तसरयाह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:33.097129747Z",
+  "model": "glm-5.3"
+}

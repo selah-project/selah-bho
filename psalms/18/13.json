@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ओकर सामने के चमक से ओकर घन-बादर गुजर गइलें — ओला आ अग के अंगारा।",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "चमक से"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ओकर सामने"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "ओकर घन-बादर"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "गुजर गइलें"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "आ अंगारा"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:57:28.963701301Z",
+  "model": "glm-5.3"
+}

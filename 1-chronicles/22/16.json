@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "सोना, चाँदी, ताँप आ लोहा खातिर कवनो गिनती नइखे — उठू आ करू, आ यहवे रउआ के संग रहे।",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "सोना खातिर"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "चाँदी खातिर"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "आ ताँप खातिर"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "आ लोहा खातिर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठू"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ करू"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के संग"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:35.832208259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ⟨את⟩ अदोरयिम (अदोराइम) आ ⟨את⟩ लाखिश (लाखीश) आ ⟨את⟩ अज़ेका (अज़ेकह)।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अदोरयिम"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "अदोरयिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "लाखिश"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "लाखिश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अज़ेका"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "अज़ेका"
+    }
+  ],
+  "timestamp": "2026-09-11T23:04:49.297930942Z",
+  "model": "glm-5.3"
+}

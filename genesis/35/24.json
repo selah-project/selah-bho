@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "राहेल के बेटा: यूसुफ आ बिन्यामिन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल के"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आ बिन्यामिन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:43.294057888Z",
+  "model": "glm-5.3"
+}

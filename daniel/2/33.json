@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ओकर टाँग लोहा के रहली; ओकर पैर के एक भाग लोहा के आ एक भाग मिट्टी के रहल।",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "टाँग"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "पैर"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "एक भाग"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "आ एक भाग"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "मिट्टी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:06.384356601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आऊर लमेक ⟨את⟩ नोहा के जनम देले के बाद पाँच आ नब्बे साल आ पाँच सौ साल जिएलन, आ लड़का आ लड़की जनमलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आऊर जिएलन"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लमेक"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नोहा"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहा"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "आ नब्बे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आ जनमलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लड़की"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:45.978585839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ याफ्लेत के बेटा रहलें: पासख, आ बिमहाल, आ अश्वात — ई याफ्लेत के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा रहलें"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "याफ्लेत"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "पासख"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "आ बिमहाल"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "आ अश्वात"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा रहलें"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "याफ्लेत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.218137348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "छहि दिन तूँ मेहनत करब आ आपन सब काम कइब —",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "छहि"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "तूँ मेहनत करब"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "आ कइब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "आपन काम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:02.193639633Z",
+  "model": "glm-5.3"
+}

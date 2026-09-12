@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "हम से दूर ना जाउ, काहे कि संकट नज़दीक बा, काहे कि मदद करे वाला कवनो नइखे।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर जाउ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "नज़दीक बा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "मदद करे वाला कवनो"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:12.132222442Z",
+  "model": "glm-5.3"
+}

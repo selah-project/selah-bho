@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "सचमुच तूँ छपावे वाला एल बा, इस्राएल के एलोहीम, छोड़ावे वाला।",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "छपावे वाला"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "छोड़ावे वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:15:16.207636453Z",
+  "model": "glm-5.3"
+}

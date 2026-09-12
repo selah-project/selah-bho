@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ याअरेशयाह, आ एलयाह आ ज़िख्री — यरोहाम के बेटा लोग रहलें।",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "आ याअरेशयाह"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "आ एलयाह"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "आ ज़िख्री"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोहाम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:25.950340555Z",
+  "model": "glm-5.3"
+}

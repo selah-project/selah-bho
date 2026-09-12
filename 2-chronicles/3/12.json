@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 3:12",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ दूसरा करुब के एक परखा पाँच हाथ रहल, घर के दीवार के छूवत; आ दूसर परखा पाँच हाथ, दूसरा करुब के परखा से चिपकल रहल।",
+  "tokens": [
+    {
+      "surface": "וכנף",
+      "gloss": "आ परखा"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करुब के"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "दूसरा (एक गो)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "छूवत"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "दीवार के"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "आ परखा"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "चिपकल"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "परखा से"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करुब के"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:19.028722698Z",
+  "model": "glm-5.3"
+}

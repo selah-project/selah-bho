@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "मनुष्य आपन काम खातिर निकलेला आ आपन मेहनत खातिर, साँझ तक।",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "आपन काम खातिर"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "आ आपन मेहनत खातिर"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:44.340764196Z",
+  "model": "glm-5.3"
+}

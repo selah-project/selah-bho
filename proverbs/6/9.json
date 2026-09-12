@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "कब तक तूँ, आळसिया, लेटल रहबू? कब तक अपना नींद से उठबू?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आळसिया"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "लेटल रहबू"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "उठबू"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "अपना नींद से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:54.644840584Z",
+  "model": "glm-5.3"
+}

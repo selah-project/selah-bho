@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तसूफ के बेटा, अलकाना के बेटा, महत के बेटा, अमासय के बेटा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "तसूफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "अलकाना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "महत"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "अमासय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:09.851007041Z",
+  "model": "glm-5.3"
+}

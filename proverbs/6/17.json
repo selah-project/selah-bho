@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ऊँच आँख, झूठ के जीभ, आ निर्दोष खून गाड़े वाली हाथ।",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "आ हाथ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "गाड़े वाली"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:50.964858068Z",
+  "model": "glm-5.3"
+}

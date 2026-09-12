@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "शिमोन के बेटा-लोग में से बलवान लड़ाका, सेना खातिर, सात हजार आ एक सौ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा-लोग"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "बलवान लड़ाका"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "शक्ति-सामर्थ्य"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "सेना खातिर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "आ एक सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:14.788448824Z",
+  "model": "glm-5.3"
+}

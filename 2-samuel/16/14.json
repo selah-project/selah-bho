@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ राजा आ सब लोग जे ⟨את⟩ के साथे रहलें, थकल होके आइलें, आ ओहिजे आराम कइलन।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आ … आइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ के साथे"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "थकल होके"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "आराम कइलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:27:30.860020322Z",
+  "model": "glm-5.3"
+}

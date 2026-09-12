@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "शेर दहाड़लन — कौन ना डरे? अदोनाय यहवे बोललन — कौन ना भविष्यवाणी करे?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "शेर"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "दहाड़लन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "डरे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "भविष्यवाणी करे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:13:34.645905083Z",
+  "model": "glm-5.3"
+}

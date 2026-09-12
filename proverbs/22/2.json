@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "धनी आ गरीब एक-दूसरा के मिलल बाड़ें; सभे के बनावे वाला यहवे बाड़ें।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "आ गरीब"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "एक-दूसरा के मिलल बाड़ें"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावे वाला"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सभे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:53.351587344Z",
+  "model": "glm-5.3"
+}

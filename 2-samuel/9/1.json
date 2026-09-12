@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ दाऊद कहलन: “का शाऊल के घर के कवनो आदमी अबहीं बचल बा, कि हम ओकरे संग हेसेद करब, यहोनातन के खातिर?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "का"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "आ हम करब"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरे संग"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:28:54.542410738Z",
+  "model": "glm-5.3"
+}

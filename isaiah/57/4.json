@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 57,
+  "translation": "के ऊ पर रउआ मजाक उड़ावऽ? के ऊ पर मुँह फइलावऽ, जीभ लम्बा करऽ? का रउआ अवज्ञा के लड़का नइखऽ, झूठ के बीज?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "के ऊ"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "मजाक उड़ावऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "के ऊ"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "मुँह फइलावऽ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "लम्बा करऽ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का … नइखऽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अवज्ञा"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:18:02.059602726Z",
+  "model": "glm-5.3"
+}

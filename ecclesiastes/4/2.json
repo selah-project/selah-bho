@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ हम सराहलीं ⟨את⟩ ओ मुआ लोगन के, जे पहिलहीं मर चुकल बाड़ें, ओ जियत लोगन से जे ऊ अबहीं ले जियत बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "आ सराहलीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ मुआ लोगन"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ओ मुआ लोगन के"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "जे पहिलहीं"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर चुकल बाड़ें"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ओ जियत लोगन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जियत बाड़ें"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "अबहीं ले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:04.615057699Z",
+  "model": "glm-5.3"
+}

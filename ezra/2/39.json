@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हारिम के बेटावन, एक हजार सतरह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारिम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.561141478Z",
+  "model": "glm-5.3"
+}

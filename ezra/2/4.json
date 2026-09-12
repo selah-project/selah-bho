@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "शेफत्याह के बेटा — तीन सौ बहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शेफत्याह के"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दु"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:53.523478319Z",
+  "model": "glm-5.3"
+}

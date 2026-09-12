@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "तऽ शाउल, ओकर तीनों बेटा आ ओकर पूरा घर सभे एक संगे मर गइलें।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "आ तीनों"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संगे"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर गइलें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:00.743608932Z",
+  "model": "glm-5.3"
+}

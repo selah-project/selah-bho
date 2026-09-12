@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "एह में से यहवे के घर के काम पर मुखिया बने खातिर चौबीस हजार, आ हाकिम आ न्यायाधीश छह हजार।",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "एह में से"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "मुखिया बने खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "के काम"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "आ हाकिम"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "आ न्यायाधीश"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छह"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:18.910537964Z",
+  "model": "glm-5.3"
+}

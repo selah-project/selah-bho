@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "दिन दिन के तरफ बचन उगवेला, आ रात रात के तरफ गिआन प्रगट करेला।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन के तरफ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "उगवेला"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आ रात"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "रात के तरफ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "प्रगट करेला"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "गिआन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:57.346403223Z",
+  "model": "glm-5.3"
+}

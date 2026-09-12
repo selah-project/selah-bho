@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ⟨את⟩ यबूसी के आ ⟨את⟩ अमोरी के आ ⟨את⟩ गिरगाशी के।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "यबूसी"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "यबूसी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अमोरी"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "अमोरी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "गिरगाशी"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "गिरगाशी के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:17.749505783Z",
+  "model": "glm-5.3"
+}

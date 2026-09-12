@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ हम आपन सपना में देखलीं, आ देखौ — एके डाँठ पर सात बाली उगल रहली, भरल आ नीक।",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "आ हम देखलीं"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "आपन सपना में"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखौ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "बाली"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "उगल रहली"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "एके डाँठ पर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "आ नीक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:55.470414459Z",
+  "model": "glm-5.3"
+}

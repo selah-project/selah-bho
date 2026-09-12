@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "जेकरा अपना कान सुनला से तोराह के हटावेला, ओकरे प्रार्थना घिनौन बा।",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "हटावेला"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ओकर कान"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "सुनला से"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तोराह के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ओकरे"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "प्रार्थना"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घिनौन बा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:07.413853614Z",
+  "model": "glm-5.3"
+}

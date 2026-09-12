@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "कारण कौन एलोअह बा यहवे के अलावा? आ कौन चट्टान बा हमनी के एलोहीम के छोड़िके?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "के अलावा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ कौन"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "के छोड़िके"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:13.207849647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "अउर ऊ ओकरा कहली — हमनी का लगे परालो बा, चाराओ ढेर बा, आ रात बितावे के जगहो बा।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "अउर ऊ कहली"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "त…ओ"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "पराल"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…ओ"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "चारा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी का लगे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आ…ओ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "रात बितावे के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:58.958579930Z",
+  "model": "glm-5.3"
+}

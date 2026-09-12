@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "मटका पर चढ़ावल चाँदी के तुखड़ा नियर ⟨होला⟩ जरदार होंठ आ बुरा हिया।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "तुखड़ा"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "चढ़ावल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मटका"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "जरदार"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आ हिया"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:27.096197237Z",
+  "model": "glm-5.3"
+}

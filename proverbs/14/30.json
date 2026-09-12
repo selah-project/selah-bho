@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "मारपै-मन देह के जिनगी ह, आ हड्डी सड़ावे जलन (कैना)।",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "देह"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "मारपै (सेहत देवै वाला)"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "आ सड़ाव"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "हड्डी"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "जलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:41.966550284Z",
+  "model": "glm-5.3"
+}

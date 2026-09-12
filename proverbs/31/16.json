@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 31:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ऊ खेत के बारे में सोचलस आ ओकरा ले लिहलस; आपन हाथ के फल से ऊ बगिया रोपलस।",
+  "tokens": [
+    {
+      "surface": "זממה",
+      "gloss": "सोचलस"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "आ ओकरा ले लिहलस"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "फल से"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "आपन हाथ के"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "रोपलस"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "बगिया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:03.086790316Z",
+  "model": "glm-5.3"
+}

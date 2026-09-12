@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ पवित्र-चीज के बीच गाइ-बया छह सौ आ भेड़-बकरी तीन हजार।",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "आ पवित्र-चीज के बीच"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाइ-बया"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आ भेड़-बकरी"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:37.733101966Z",
+  "model": "glm-5.3"
+}

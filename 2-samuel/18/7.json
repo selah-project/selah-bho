@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 18:7",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ इसराएल के जनता उहाँ दाऊद के नोकरन के आगे मार खाइल, आ उहाँ ओ दिन बहुत बड़ कत्लेआम भइल — बीस हजार।",
+  "tokens": [
+    {
+      "surface": "וינגפו",
+      "gloss": "मार खाइल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नोकरन के"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "कत्लेआम"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बहुत बड़"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T19:28:29.383220801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "अउर जब मांस के चमड़ा में आग के जराव होखेला, आ जराव के जिउत मांस से उज्जर चिन्हा बन जाय — लाल-गुलाबी चाहे उज्जर।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखेला"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "चमड़ा में"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "जराव"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आ बन जाय"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "जिउत मांस"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "जराव के"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "चिन्हा"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "उज्जर"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "लाल-गुलाबी"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "उज्जर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:36.189057718Z",
+  "model": "glm-5.3"
+}

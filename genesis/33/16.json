@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ओही दिन एसाव आपन रस्ता लिहे के सेइर के ओर लौट गइल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लौट गइल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "आपन रस्ता लिहे के"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "सेइर के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:36.473720615Z",
+  "model": "glm-5.3"
+}

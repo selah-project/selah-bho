@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ यहोनातन के बेटा मरीव-बाल रहल; आ मरीव-बाल जन्म दिहलन ⟨את⟩ मीखा के।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "आ ... के बेटा"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "मरीव-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "आ मरीव-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मीखा"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:16.092041641Z",
+  "model": "glm-5.3"
+}

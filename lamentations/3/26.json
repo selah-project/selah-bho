@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "भला बा ⟨चुपचाप⟩ यहवे के त्राण के बाट जोहला।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "आ बाट जोहे"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "आ चुप रहे"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "त्राण खातिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.209859718Z",
+  "model": "glm-5.3"
+}

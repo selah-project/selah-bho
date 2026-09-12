@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "शापित रहल तोर पेट के फल आ तोर जमीन के फल, तोर गाय-बैल के बछरा आ तोर भेड़ के मेमना।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "शापित"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "तोर पेट के"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "आ फल"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "तोर जमीन के"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "बछरा (नवजात)"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "तोर गाय-बैल के"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "आ मेमना"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "तोर भेड़ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:42.530175409Z",
+  "model": "glm-5.3"
+}

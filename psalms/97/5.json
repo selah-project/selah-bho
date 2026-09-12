@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 97,
+  "translation": "पहाड़ मोम नियर पघिल गइलें यहवे के आगे से, आगे से अदोनाय के — पूरा धरती के।",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "मोम नियर"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "पघिल गइलें"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "आगे से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "आगे से"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:41.297227001Z",
+  "model": "glm-5.3"
+}

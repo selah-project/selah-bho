@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ खिजकियाहू आपन मुँह दीवार के ओर घुमाइलन, आ यहवे से प्रार्थना कइलन।",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "आ घुमाइलन"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकियाहू"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "आ प्रार्थना कइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:10:27.257036929Z",
+  "model": "glm-5.3"
+}

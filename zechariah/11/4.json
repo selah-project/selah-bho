@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "एहने कहेला यहवे हमर एलोहीम: चराव ⟨את⟩ ओ भेड़ सभे के जेकर मारल जाय बा।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "चराव"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ भेड़ सभे के जेकर मारल जाय बा"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ सभे"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "जेकर मारल जाय बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:39.366426144Z",
+  "model": "glm-5.3"
+}

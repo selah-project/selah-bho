@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "हमरा सुनऽ, याकोब के घर आ इसराएल के घर के सारा बचल लोग, जे पेट से लादल गईल रउवा, गर्भ से उठावल गईल रउवा।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सारा"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "बचल लोग"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "लादल गईल"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "पेट"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "उठावल गईल"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "गर्भ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:46.480295206Z",
+  "model": "glm-5.3"
+}

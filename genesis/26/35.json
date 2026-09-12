@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ ऊ दुनों इसहाक आ रिबका खातिर रुह के कड़वाहट ⟨रहलीं⟩।",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "रहलीं"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "कड़वाहट"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुह के"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "इसहाक खातिर"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "आ रिबका खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:20.816134483Z",
+  "model": "glm-5.3"
+}

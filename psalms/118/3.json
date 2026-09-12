@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "अहरोन के घराना कहे देईं — काहे कि ऊनकर हेसेद सदा ले बा।",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "कहे देईं"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ऊनकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:08.204141304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 48:9",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "जे चढ़ावा रउआ यहवे खातिर उठाब, ओकर लमाई पाँच आ बीस हजार आ चौड़ाई दस हजार बाटे।",
+  "tokens": [
+    {
+      "surface": "התרומה",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "रउआ उठाब"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ चौड़ाई"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:08:50.654959410Z",
+  "model": "glm-5.3"
+}

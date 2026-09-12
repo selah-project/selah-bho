@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ एलोहीम देखलन ⟨את⟩ सब कुछ जे ऊ कइलन रहल, आ देखऽ — बहुते नीक ⟨रहल⟩; आ साँझ भइल आ भोर भइल — छठा दिन।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आ देखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब कुछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन रहल"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "छठा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:17.901228231Z",
+  "model": "glm-5.3"
+}

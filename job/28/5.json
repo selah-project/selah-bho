@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "धरती — ओकरे से खाना निकलेला, आ ओकर नीचे ⟨बा⟩ आगिन नियर उलटाइल।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओकरे से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "आ ओकर नीचे"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "उलटाइल"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:10.295868244Z",
+  "model": "glm-5.3"
+}

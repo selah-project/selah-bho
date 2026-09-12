@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 112,
+  "translation": "ओकर घर में धन आ दौलत बाड़ी, आ ओकर धर्मिता सदा खातिर टिकल रहेला।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "आ दौलत"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ओकर घर में"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "आ ओकर धर्मिता"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "टिकल रहेला"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:04.911297539Z",
+  "model": "glm-5.3"
+}

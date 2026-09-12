@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "सब जनता के, ओ सब के जे ओकरा पहिले रहलें, कवनो किनारा नइखे; बाकिर बाद वाला लोग ओकरा में खुश नइखे होखत — काहे कि ईो भी हेबल ह आ हवा के सोच बा।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "खातिर सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "खातिर सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ओकरा पहिले"
+    },
+    {
+      "surface": "גם",
+      "gloss": "बाकिर एहू"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "बाद वाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "खुश होखत"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ईो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "आ सोच"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:58.946720156Z",
+  "model": "glm-5.3"
+}

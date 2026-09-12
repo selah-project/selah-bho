@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "जवन भइल रहल, ऊहे जवन होखी; आ जवन कइल गइल रहल, ऊहे जवन कइल जाई; आ सूरज के नीचे कवनो नया चीज नइखे।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "भइल रहल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "जवन होखी"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "कइल गइल रहल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "जवन कइल जाई"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया चीज"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:25.942713411Z",
+  "model": "glm-5.3"
+}

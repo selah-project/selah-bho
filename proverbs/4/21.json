@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तोर आँखन से इनन के मत बहरावू; इनन के तोर हिया के भीतर राखू।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "बहरावू"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "तोर आँखन से"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "इनन के राखू"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोर हिया के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:43.882438231Z",
+  "model": "glm-5.3"
+}

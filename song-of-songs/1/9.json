@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "मोर घोड़ी के, फरौन के रथिन के बीच, हम तोहार तुलना कइनी, मोर सखी।",
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "मोर घोड़ी के"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "फरौन के रथिन के बीच"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "हम तोहार तुलना कइनी"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "मोर सखी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:08.850091763Z",
+  "model": "glm-5.3"
+}

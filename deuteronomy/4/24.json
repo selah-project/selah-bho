@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "कारण यहवे रउआ के एलोहीम खाए डाले वाली आग ⟨बाड़ें⟩ — ऊ एक जले वाला एल।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "रउआ के एलोहीम"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खाए डाले वाली"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "जले वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:14.628185220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "जउँ बादल भर जाहिन त ऊ लोग धरती पर पानी उड़ेलेला; आ जउँ कवनो गाछ दक्खिन में गिरेला, चाहे उत्तर में, जहाँ गाछ गिरेला ओही जगह ऊ रहेला।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जउँ"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भर जाहिन"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "उड़ेलेला"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आ जउँ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "गिरेला"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "दक्खिन में"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "उत्तर में"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "जहाँ गिरेला"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओही जगह"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:54.276512989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "उनकर चरबी में उ बंद हो गइल; उनकर मुँह घमंड से बोलेला।",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "उनकर चरबी"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "बंद हो गइल"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "उनकर मुँह"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोलेला"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "घमंड से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:40.535293096Z",
+  "model": "glm-5.3"
+}

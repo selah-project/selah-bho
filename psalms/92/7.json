@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 92,
+  "translation": "गाँवड़ी मनई जानेला ना, आ मूरख ई ⟨את⟩ बात ना समझेला।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "בער",
+      "gloss": "गाँवड़ी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "आ मूरख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई बात"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:39.354010662Z",
+  "model": "glm-5.3"
+}

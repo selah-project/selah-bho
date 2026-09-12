@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "सरदार मग्दिएल, सरदार इराम — ई सब एदोम के सरदार रहलें।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "मग्दिएल"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "इराम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:19.694472992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "ऊ कमजोर आ गरीब पर तरस खालेला, आ गरीबन के जिनगिनी के बचावेला।",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "तरस खालेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דל",
+      "gloss": "कमजोर"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आ गरीब"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "आ जिनगिनी"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "गरीबन के"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "बचावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:00.522358486Z",
+  "model": "glm-5.3"
+}

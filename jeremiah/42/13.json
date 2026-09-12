@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ अगर रउआ कहब “ना, हमनी का ए धरती में रहब ना”, एकरा खातिर कि यहवे रउआ के एलोहीम के आवाज़ ना सुनब।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "कहब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "एकरा खातिर कि ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनब"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाज़"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:07.823599436Z",
+  "model": "glm-5.3"
+}

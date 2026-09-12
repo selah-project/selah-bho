@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "सेहत के सामने खड़ा हो जावऽ, बूढ़ा के मुह के आदर करऽ, आ आपन एलोहीम से डरऽ; हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "सेहत"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "खड़ा हो जावऽ"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "आ आदर करऽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "बूढ़ा"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "आ डरऽ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "आपन एलोहीम से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:53.934811342Z",
+  "model": "glm-5.3"
+}

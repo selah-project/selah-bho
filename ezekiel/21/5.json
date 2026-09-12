@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ हम कहलियन: “आहा! अदोनाय यहवे! ऊ लोग हमरा बारे में कहेला: का ऊ मशल सभे गढ़े वाला ना हऽ?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आ हम कहलियन"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "आहा!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बारे में"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का… ना"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "मशल सभे गढ़े वाला"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "मशल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:01.203991735Z",
+  "model": "glm-5.3"
+}

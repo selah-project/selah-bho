@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "काहें कि हमनी का घर के खिड़की से, ओकर जाली के पार हम झाँकलिए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "खिड़की से"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "हमनी का घर के"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के पार"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "ओकर जाली"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "हम झाँकलिए"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:08.392580583Z",
+  "model": "glm-5.3"
+}

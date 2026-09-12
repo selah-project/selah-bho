@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "केहू मनुष्य के ओकरे मुकदमा में उलट-पुलट करल — एकरे के अदोनाय ना देखेला।",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "उलट-पुलट करल"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ओकरे मुकदमा में"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:33.004154343Z",
+  "model": "glm-5.3"
+}

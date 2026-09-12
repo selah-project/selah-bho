@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "जवन आदमी के मारेला आ ऊ मर जाला, ओकरा जरूर मारल जाव।",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "जवन मारेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "आ मर जाला"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "जरूर मारल जाव"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:14.613361003Z",
+  "model": "glm-5.3"
+}

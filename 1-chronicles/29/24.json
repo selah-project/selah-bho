@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ सारे सरदार आ बलवान लोग, आ राजा दाविद के सारे बेटा भी, राजा सुलेमान के अधीन हाथ दीहन।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सारे"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "आ बलवान लोग"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ ... भी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दीहन"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "अधीन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:39.763058732Z",
+  "model": "glm-5.3"
+}

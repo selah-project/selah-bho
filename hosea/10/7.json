@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "शोमरोन नास भ जाई — ओकर राजा पानी के सतह के ऊपर के झाग नियन।",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "नास भ जाई"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ओकर राजा"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "झाग नियन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतह"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:12:02.011096149Z",
+  "model": "glm-5.3"
+}

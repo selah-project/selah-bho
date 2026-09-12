@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "दुष्ट के बाहु के तोड़ देबू; आ बुरा के बुराई के खोजल जाउ, कि कुछो ना मिले।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ देबू"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बाहु के"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "आ बुरा के"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "खोजल जाउ"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "בל",
+      "gloss": "कुछो"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ना मिले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:46.791980569Z",
+  "model": "glm-5.3"
+}

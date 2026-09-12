@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ⟨את⟩ अय्यालोन आ ⟨את⟩ ओकर चराभूमि, आ ⟨את⟩ गत-रिम्मोन आ ⟨את⟩ ओकर चराभूमि।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अय्यालोन"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "अय्यालोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चराभूमि"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चराभूमि"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "गत-रिम्मोन"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चराभूमि"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चराभूमि"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:27.543932372Z",
+  "model": "glm-5.3"
+}

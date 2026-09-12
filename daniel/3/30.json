@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "तब राजा शद्रक, मेशक आ अबेद-नेगो के बाबुल प्रदेश में आगे बढ़ा दिहलन।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "आगे बढ़ा दिहलन"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "शद्रक के"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "मेशक"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "आ अबेद"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "नेगो"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "प्रदेश में"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबुल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:26.734145312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "इम्मेर के बेटावन, एक हजार बावन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.560774067Z",
+  "model": "glm-5.3"
+}

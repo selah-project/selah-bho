@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ देखऽ, ऊ अबहीं राजा से बात करेली, तबे नातान नबी भीतर आ गइलन।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "बात करेली"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "तबे नातान"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "בא",
+      "gloss": "भीतर आ गइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T19:33:26.356542385Z",
+  "model": "glm-5.3"
+}

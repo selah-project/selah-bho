@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "काबो ⟨את⟩ ऊ जे एहिजा हमनी का संगे आज यहवे हमनी के एलोहीम के आगू खड़ा बा, आ ⟨את⟩ ऊ जे एहिजा हमनी का संगे आज नइखे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ जे एहिजा खड़ा बा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "बा"
+    },
+    {
+      "surface": "פה",
+      "gloss": "एहिजा"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी का संगे"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "खड़ा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ऊ जे एहिजा नइखे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "פה",
+      "gloss": "एहिजा"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी का संगे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:27.323858423Z",
+  "model": "glm-5.3"
+}

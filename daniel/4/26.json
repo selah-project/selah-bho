@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "12 महीना के अंत में ऊ बावेल के राज-भवन के ऊपर टहलत रहले।",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "के अंत में"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "महीना"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "2 (दू)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "10 (दस)"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "राज-भवन"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "राज"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बावेल"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "टहलत"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "रहले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:52.058051853Z",
+  "model": "glm-5.3"
+}

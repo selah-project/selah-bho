@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "का चिरई धरती के फँस में गिरेला, जब ओकर खातिर जाल नइखे? का फँस धरती से उठे आ कुछ पकड़ल ना जाए?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "का गिरेला"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चिरई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פח",
+      "gloss": "फँस"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "आ जाल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "का उठे"
+    },
+    {
+      "surface": "פח",
+      "gloss": "फँस"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "आ पकड़ल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "जाए"
+    }
+  ],
+  "timestamp": "2026-09-11T21:13:34.645398152Z",
+  "model": "glm-5.3"
+}

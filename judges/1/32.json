@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 1:32",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ आशेरी धरती के रहनिहार कनानी के बीच में रहे गाए, काहेकि ऊ लोग ओकरा ना खदेड़ल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आ रहे गाए"
+    },
+    {
+      "surface": "האשרי",
+      "gloss": "आशेरी"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानी"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहनिहार"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "खदेड़ल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:55:55.275974465Z",
+  "model": "glm-5.3"
+}

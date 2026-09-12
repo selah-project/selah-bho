@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आटर के बेटा, ले-हिजकिय्याहू, अठानवे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "आटर"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ले-हिजकिय्याहू"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.232985102Z",
+  "model": "glm-5.3"
+}

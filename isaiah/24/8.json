@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ढोल के खुसी थम गईल, उछलाहट करे वाला लोगन के शोर माथल, बीना के खुसी थम गईल।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "थम गईल"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "ढोल के"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "माथल"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "शोर"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "उछलाहट करे वाला लोगन के"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "थम गईल"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "बीना"
+    }
+  ],
+  "timestamp": "2026-09-11T20:06:50.212390228Z",
+  "model": "glm-5.3"
+}

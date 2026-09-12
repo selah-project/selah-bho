@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 102,
+  "translation": "हमार आह के आवाज से हमार हड्डी हमार मांस से चिपक गइल।",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "के आवाज से"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "हमार आह के"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "चिपक गइल"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "हमार हड्डी"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "हमार मांस से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:23.956717003Z",
+  "model": "glm-5.3"
+}

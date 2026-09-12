@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ के नाला गोंद बन जाहिं आ ओकर धूरा गंधक बन जाही; आ ओकर धरती जरत गोंद बन जाही।",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "बन जाहिं"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "आ के नाला"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "गोंद"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "आ ओकर धूरा"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "गंधक"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "बन जाही"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ओकर धरती"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "गोंद"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "जरत"
+    }
+  ],
+  "timestamp": "2026-09-11T20:10:18.562690227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "हे बलवान, तूँ आपन तरवार ढाँटी पर बाँध — तोहारा वैभव आ तोहारा सान।",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "बाँध"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "आपन तरवार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ढाँटी"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "हे बलवान"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "तोहारा वैभव"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "आ तोहारा सान"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:53.038646183Z",
+  "model": "glm-5.3"
+}

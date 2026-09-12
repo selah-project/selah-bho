@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "हम बोलब आ ओकरा डरब ना; काहें कि हम एहने नइखीं अपने भीतर।",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "हम बोलब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "ओकरा डरब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "अपने भीतर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:09.907663918Z",
+  "model": "glm-5.3"
+}

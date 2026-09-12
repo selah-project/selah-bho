@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "मरल गोवा अवा फाड़ल गइल चीज ना खावेला, जेसे ओकरा ओकर संग गंदा होखे; हम यहवे बनी",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "मरल गोवा"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "अवा फाड़ल गइल चीज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खावेला"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "गंदा होखे खातिर"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:43.167906514Z",
+  "model": "glm-5.3"
+}

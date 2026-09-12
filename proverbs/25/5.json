@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "दुष्ट के राजा के आगे से हटाव, आ ओकर सिंहासन न्याय में टिक जाई।",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "हटाव"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "टिक जाई"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "न्याय में"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ओकर सिंहासन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:10.998467240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ओकरा बाद याइर गिलादी उठलन, आ ऊ ⟨את⟩ इसरायेल के बाइस बरिस न्याय कइलन।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ओकरा बाद"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याइर"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "गिलादी"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "न्याय कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इसरायेल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "आ दू"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:15.300489793Z",
+  "model": "glm-5.3"
+}

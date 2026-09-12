@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हेत्सरोन के बेटा, जे ओकरा के जनमल रहलें — ⟨את⟩ यरहमेल, आ ⟨את⟩ राम, आ ⟨את⟩ केलुबय।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "हेत्सरोन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जनमल रहलें"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरहमेल"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "राम"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "केलुबय"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "केलुबय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:58.497030418Z",
+  "model": "glm-5.3"
+}

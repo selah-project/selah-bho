@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "नेकी कौम के ऊँच करेला, आ कौम सभे के हेसेद के जगह पाप परगट होला।",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "नेकी"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "ऊँच करेला"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "कौम के"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "आ हेसेद के जगह"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "कौम सभे के"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:30.252571825Z",
+  "model": "glm-5.3"
+}

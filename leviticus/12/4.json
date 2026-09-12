@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ तीस दिन आ तीन दिन ऊ शुद्धता के खून में रही; कवनो पबितर चीज के छुवे ना आ मन्दिर में ना आवे, जबतक ओकर शुद्धता के दिन पूरा ना हो जालन।",
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "रही"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "खून में"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "शुद्धता"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबितर चीज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "छुवे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "… में ना"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "मन्दिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "पूरा हो जालन"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "शुद्धता के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:06.857331213Z",
+  "model": "glm-5.3"
+}

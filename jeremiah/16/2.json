@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "“तूँ आपन खातिर कवनो औरत ना लऽ, आ एही जगह पर तोहार लड़का के लड़की ना होहिं।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ आपन खातिर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होहिं"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लड़का सभ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लड़की सभ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "एही जगह पर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:20.562358006Z",
+  "model": "glm-5.3"
+}

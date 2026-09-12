@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ येकोन्याह के बेटा रहलें — अस्सीर, शेअल्तीएल ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "येकोन्याह"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "अस्सीर"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "शेअल्तीएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:48.033986149Z",
+  "model": "glm-5.3"
+}

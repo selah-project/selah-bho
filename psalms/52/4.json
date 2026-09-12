@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "बिनास के तोहार जीभ कुटेला, तेज धार वाला उस्तरा नियर, छल करे वाला।",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "बिनास के"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "कुटेला"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "तोहार जीभ"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "उस्तरा नियर"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "तेज धार वाला"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करे वाला"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:24.887148747Z",
+  "model": "glm-5.3"
+}

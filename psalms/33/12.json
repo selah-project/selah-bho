@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "भागियार ओ जाति जेकर एलोहीम यहवे बाड़ें — ओ जनता जेकरा ऊ आपन बिरासत खातिर चुनलन।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "भागियार"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ओ जाति"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ओ जनता"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "बिरासत खातिर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:04.605868205Z",
+  "model": "glm-5.3"
+}

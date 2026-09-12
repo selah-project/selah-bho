@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे के बचन सुलैमान करा आइल, कहऽ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "करा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलैमान"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:59.440957337Z",
+  "model": "glm-5.3"
+}

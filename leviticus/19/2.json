@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "इसरायल के लरिकन के पूरा सभा से बात करऽ आ ऊ लोगन के कहऽ: पबितर रहऽ, काबर कि हम पबितर बनी, हम रउआ के एलोहीम यहवे।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बात करऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिकन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहऽ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ऊ लोगन के"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पबितर"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "रहऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पबितर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:55.729692447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ केलूब, शूहा के भाई, ⟨את⟩ मेहिर के जनम दिहलन; ऊ एश्तोन के पिता रहलें।",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "आ केलूब"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "शूहा के"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेहिर"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "मेहिर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "एश्तोन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:38.413551480Z",
+  "model": "glm-5.3"
+}

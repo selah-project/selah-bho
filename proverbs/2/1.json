@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हमार बेटा, अगर तूँ हमार बातनि लेला आ हमार आज्ञा ⟨את⟩ तोरे संग छिपावेला —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हमार बेटा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लेला"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "हमार बातनि"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "आ हमार आज्ञा"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "छिपावेला"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोरे संग",
+      "marks": "तोरे संग"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:28.608521597Z",
+  "model": "glm-5.3"
+}

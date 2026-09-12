@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "हमार बात सीधा हियरा के बात बाड़ी, आ जानकारी हमार ओठ साफ बोलले बाड़े।",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हियरा के"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आ जानकारी"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "बोलले बाड़े"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:54.841235647Z",
+  "model": "glm-5.3"
+}

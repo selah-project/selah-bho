@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ करीयोत पर, आ बोत्सरा पर, आ मोआब के धरती के सब नगरन पर — जवन दूर बाड़ें आ जवन नजदीक।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "करीयोत"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "बोत्सरा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगरन"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "जवन दूर बाड़ें"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "आ जवन नजदीक"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:58.317203884Z",
+  "model": "glm-5.3"
+}

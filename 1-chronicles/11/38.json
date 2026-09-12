@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "योएल, नातान के भाई; मिबचार, हागरी के बेटा।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…के भाई"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "मिबचार"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…के बेटा"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "हागरी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:01.491577262Z",
+  "model": "glm-5.3"
+}

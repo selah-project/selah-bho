@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ दाऊद नाम बनालन, जब ऊ ⟨את⟩ अराम के मारला से लवटलन, नमक के घाटी में — अठारह हजार।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनालन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "जब ऊ लवटलन"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "मारला से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अराम"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "नमक"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T19:22:48.090668471Z",
+  "model": "glm-5.3"
+}

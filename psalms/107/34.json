@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "फलदार धरती के खारल जमीन बनावेला, ओहिजे रहे वालन के बुराई के चलते।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फलदार"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "खारल जमीन"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "बुराई के चलते"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहे वालन के"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहिजे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:28.551891206Z",
+  "model": "glm-5.3"
+}

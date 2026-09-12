@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ओ आत्मा निकरल आ यहवे के आगे खड़ा भईल, आ कहिनें — हम ओकरा बहकाबी। आ यहवे ओकरा से कहिनें — कइसने?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकरल"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ओ आत्मा"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "खड़ा भईल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहिनें"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "बहकाबी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ...कहिनें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "במה",
+      "gloss": "कइसने"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:51.389824202Z",
+  "model": "glm-5.3"
+}

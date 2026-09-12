@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "सत्य के खरीदऽ, आ ओकरा बेचऽ मत — बुद्धि, अनुशासन आ समझ।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "खरीदऽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ मत"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "बेचऽ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "आ अनुशासन"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "आ समझ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:07.389315900Z",
+  "model": "glm-5.3"
+}

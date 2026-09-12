@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आऊ हमरा से कहलन: हे मनुख्ख के बेटा, जा, यिस्राएल के घर के भीतर जा, आ उनकरा से हमरा बचन सभ के कह।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आऊ हमरा से कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख्ख"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "בא",
+      "gloss": "भीतर जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "आ कह"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "हमरा बचन सभ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:48:43.456977545Z",
+  "model": "glm-5.3"
+}

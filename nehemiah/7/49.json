@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "खानान के लइका, गिद्देल के लइका, गछर के लइका।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "गिद्देल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "गछर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.414058965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 24:34",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ तोहार गरीबी रस्ता जइसन आवेला, आ तोहार अभाव लड़ाकू आदमी जइसन।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आ आवेला"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "रस्ता जइसन"
+    },
+    {
+      "surface": "רישך",
+      "gloss": "तोहार गरीबी"
+    },
+    {
+      "surface": "ומחסריך",
+      "gloss": "आ तोहार अभाव"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "आदमी जइसन"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "लड़ाकू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:52.669731790Z",
+  "model": "glm-5.3"
+}

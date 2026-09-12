@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "देखऽ, ई लोग दुष्ट बाड़ें, आ हमेशा सुखी लोग धन-दौलत पउगावेला।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "आ हमेशा सुखी लोग"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "हमेशा"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "पउगावेला"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "धन-दौलत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:46.187916504Z",
+  "model": "glm-5.3"
+}

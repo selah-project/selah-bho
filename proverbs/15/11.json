@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "शेओल आ अबद्दोन यहवे के सामने ⟨बाड़ें⟩; मनुष्य के लड़िकन के हिया तऽ केतना बेसी!",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "आ अबद्दोन"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אף",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "केतना बेसी"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़िकन के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:48.120769866Z",
+  "model": "glm-5.3"
+}

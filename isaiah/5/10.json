@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काबर कि दस बीघा अँगूरी खेत एक बत बनाही, आ एक खमार बीज एक एपा बनाही।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "बीघा (जोड़ी बैल के खेत)"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "अँगूरी खेत"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "बनाही"
+    },
+    {
+      "surface": "בת",
+      "gloss": "एक बत"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "आ बीज"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "खमार"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बनाही"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "एपा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:01:12.759143346Z",
+  "model": "glm-5.3"
+}

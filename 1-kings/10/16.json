@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ राजा शलोमोह दु सौ पीट-घड़ल सोना के ढाल बनवालन — एक ढाल पर छह सौ शेकेल सोना चढ़त रहल।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवालन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दु सौ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "पीट-घड़ल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़त रहल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T19:38:24.163827153Z",
+  "model": "glm-5.3"
+}

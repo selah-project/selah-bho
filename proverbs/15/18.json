@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "गुस्से वाला मनई झगड़ा भड़कावेला, आ धीमा क्रोध वाला विवाद शांत करेला।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "गुस्से वाला"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "भड़कावेला"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "आ धीमा"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "क्रोध वाला"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "शांत करेला"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "विवाद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:12.878421620Z",
+  "model": "glm-5.3"
+}

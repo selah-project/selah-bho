@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "गरीब आ जरूरतमंद के दलील के फैसला कइलन — तब ओकर भला रहल। का ⟨את⟩ हमरा जानल एहेना ना होला — यहवे के कहल बा।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "फैसला कइलन"
+    },
+    {
+      "surface": "דין",
+      "gloss": "दलील के"
+    },
+    {
+      "surface": "עני",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आ जरूरतमंद"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला रहल"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का ना"
+    },
+    {
+      "surface": "היא",
+      "gloss": "एहेना"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "जानल"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा (यहवे के)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:30:12.739003659Z",
+  "model": "glm-5.3"
+}

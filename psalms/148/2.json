@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 148,
+  "translation": "ओकर सब स्वर्गदूत ओकर महिमा गावें; ओकर सब सेना ओकर महिमा गावें।",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ओकर महिमा गावें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "स्वर्गदूत"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ओकर महिमा गावें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "सेना"
+    }
+  ],
+  "timestamp": "2026-09-12T00:02:58.484018424Z",
+  "model": "glm-5.3"
+}

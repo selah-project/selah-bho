@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 147,
+  "translation": "तारा सभ के गिनती गनेला, ओ सभे के नाँव बोलावेला।",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "गनेला"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "तारा सभ के"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "ओ सभे के"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "बोलावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:44.161969638Z",
+  "model": "glm-5.3"
+}

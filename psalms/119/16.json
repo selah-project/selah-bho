@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रउआ के बिधान में हम सुख पाब, रउआ के बचन ना बिसारब।",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "रउआ के बिधान में"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "सुख पाब हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "बिसारब हम"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "रउआ के बचन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:22.428028166Z",
+  "model": "glm-5.3"
+}

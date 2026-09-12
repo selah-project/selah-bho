@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ जब कवनो मनुष्य कवनो मानव-नफश के मारेला, ऊ जरूर मारल जाय।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ मनुष्य"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "मारेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानव-"
+    },
+    {
+      "surface": "מות",
+      "gloss": "जरूर मौत से"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मारल जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:59.460296919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "ओकर बदले खरा सोना ना दीन जाला, आ ओकर दाम रूपा में तौलल ना जाला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दीन जाला"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "खरा सोना"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "ओकर बदले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "तौलल जाला"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "रूपा"
+    },
+    {
+      "surface": "מחירה",
+      "gloss": "ओकर दाम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:20.078678971Z",
+  "model": "glm-5.3"
+}

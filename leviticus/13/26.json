@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 13:26",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ अगर कोहेन ओकरा देखेलन आ देखऽ — चकत्ता में सफेद बाल नइखे, आ ऊ चमड़ी से नीचा नइखे, बाकिर ऊ मंद बा — तऽ कोहेन ओकरा सात दिन बंद रखेलन।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "देखेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "चकत्ता में"
+    },
+    {
+      "surface": "שער",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "सफेद"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "आ नीचा"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העור",
+      "gloss": "चमड़ी"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "मंद"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "बंद रखेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:00.574748511Z",
+  "model": "glm-5.3"
+}

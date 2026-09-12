@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "तब मीकायहू उननी का बता दिहलन ⟨את⟩ सब बातन, जवन ऊ सुनल बरूख के पढ़ला के, पोथी में, लोगन के कान में।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "बता दिहलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उननी का"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "मीकायहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बातन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनल"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "पढ़ला के"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बरूख"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "पोथी में"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कान में"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:38:07.938463236Z",
+  "model": "glm-5.3"
+}

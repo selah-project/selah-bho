@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 147,
+  "translation": "ऊ आपन बरफ के टुकड़ा नियर फेंकेला; ओकर ठंडा के आगे कौन टिक सकेला?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "फेंकेला"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "आपन बरफ"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "टुकड़ा नियर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "ओकर ठंडा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "टिक सकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:32.992192114Z",
+  "model": "glm-5.3"
+}

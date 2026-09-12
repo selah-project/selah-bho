@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "सलाह बनावा आ ऊ टूट जाई; कौनो बात कहा आ ऊ खड़ा ना रही, काकर एल हमनी का संगे बाड़ें।",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "सलाह बनावा"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "आ ऊ टूट जाई"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "खड़ा रही"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काकर"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी का संगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:58.504947584Z",
+  "model": "glm-5.3"
+}

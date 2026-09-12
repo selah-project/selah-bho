@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ हम तोहार बीच एगो दीन-गरीब जाति के छोड़ दिहब, आ ऊ लोग यहवे के नाँव में शरण लिहेला।",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "आ हम ... छोड़ दिहब"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोहार बीच"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "आ गरीब"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "आ ऊ शरण लिहेला"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाँव में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:08.245048135Z",
+  "model": "glm-5.3"
+}

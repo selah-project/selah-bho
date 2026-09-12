@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ जवन सवारी पर ज़व सवार होखेला, ऊ अशुद्ध होखेला।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "सवारी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "सवार होखेला"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ज़व"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:54.299158195Z",
+  "model": "glm-5.3"
+}

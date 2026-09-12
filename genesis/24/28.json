@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ लड़की दौड़ल आ एहने बातन के अनुसार आपन माई के घर में बता दिहली।",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "आ दौड़ल"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "लड़की"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "आ बता दिहली"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "आपन माई के"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "बातन के अनुसार"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एहने"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:56.341851830Z",
+  "model": "glm-5.3"
+}

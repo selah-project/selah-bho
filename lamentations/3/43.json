@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "कोप में तूँ ढाक दिहलऽ आ हमनी का के पीछा कइलऽ; मार दिहलऽ — दया ना कइलऽ।",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "ढाक दिहलऽ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "कोप में"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "आ हमनी का के पीछा कइलऽ"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "मार दिहलऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "दया कइलऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:14.038233104Z",
+  "model": "glm-5.3"
+}

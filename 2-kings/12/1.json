@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "सात बरिस के बेटा रहल यहोआश ⟨जब ऊ⟩ राजा बनल।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "यहोआश"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ओकर राज करे में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:53:44.309155060Z",
+  "model": "glm-5.3"
+}

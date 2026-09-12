@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "ओकरा ऊपर एगो दुष्ट ठहरा, आ एगो विरोधी ओकर दाहिने खड़ा रहे।",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ठहरा"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "आ विरोधी"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "खड़ा रहे"
+    },
+    {
+      "surface": "על",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "दाहिने"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:10.679968965Z",
+  "model": "glm-5.3"
+}

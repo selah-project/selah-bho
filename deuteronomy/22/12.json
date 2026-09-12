@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आपन ओ कपड़ा के चारों कोना पर गुँथल गोँठा बनाबू जेकरा तूँ ओकरा से ढाकेला।",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "गुँथल गोँठा"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनाबू"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारों"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "कोना"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "ओ कपड़ा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ढाकेला"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:12.833321037Z",
+  "model": "glm-5.3"
+}

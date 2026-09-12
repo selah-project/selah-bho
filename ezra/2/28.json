@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "बेत-एल आ हाई के मनई सभे, दू सौ बीस आ तीन।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के मनई सभे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल (बेत-एल)"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "आ हाई"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:50.494637886Z",
+  "model": "glm-5.3"
+}

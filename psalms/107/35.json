@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "ऊ उजाड़ के पानी के तालाब बनावेला, आ सूखल धरती के पानी के झरना सभ।",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "बनावेला"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "उजाड़ के"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "पानी के तालाब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आ धरती के"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "सूखल"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "झरना सभ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:28.552048454Z",
+  "model": "glm-5.3"
+}

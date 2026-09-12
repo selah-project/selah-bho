@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "तूँ, हे यहवे, इनहन के राखबा; ए पीढ़ी से ओका सदा ला बचाके राखबा।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "इनहन के राखबा"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ओका बचाके राखबा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ए पीढ़ी"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:56.972246199Z",
+  "model": "glm-5.3"
+}

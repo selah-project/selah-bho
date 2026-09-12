@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 27:6",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ योताम सबल भइलन, काहेकि ऊ यहवे, आपन एलोहीम के सोझा आपन रस्ता सिद्ध कइलन।",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "आ सबल भइलन"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "योताम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "सिद्ध कइलन"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "आपन रस्ता"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सोझा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "आपन एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:10:38.343195733Z",
+  "model": "glm-5.3"
+}

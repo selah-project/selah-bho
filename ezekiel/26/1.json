@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ भइल ग्यारहवाँ साल, महीना के एक तारीख के दिन, यहवे के बचन हमरा लगा आइल, ई कऽ के:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "ग्यारहवाँ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "एक तारीख के दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लगा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कऽ के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:37:06.308386969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ उलाम के लड़का — बेदान। ई लोग गिलाद के लड़का रहलें, गिलाद माखिर के लड़का, माखिर मनश्शे के लड़का।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लड़का"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "उलाम"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "बेदान"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का रहलें"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "माखिन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:54.145093822Z",
+  "model": "glm-5.3"
+}

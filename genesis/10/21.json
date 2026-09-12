@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ शेम ला भी लइका पैदा भइल — ऊ सभे बेटा सभे के पिता हवें जे एबेर के बाड़ें, यफेत के बड़ भाई।",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "आ शेम ला"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "पैदा भइल"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "यफेत"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:38.111826582Z",
+  "model": "glm-5.3"
+}

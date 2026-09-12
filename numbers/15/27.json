@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 15:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ अगर कवनो एक नफश भूल से पाप करे, त ऊ एक बरिस के बेटी बकरी पाप-बलि खातिर अरपे।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "पाप करे"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "भूल से"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "अरपे"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बकरी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-12T00:45:01.589451460Z",
+  "model": "glm-5.3"
+}

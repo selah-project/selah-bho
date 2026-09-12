@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "यहवे मनुख के मन के बिचार सभे के जानेला, कि ऊ सभे व्यर्थ बाड़ें।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "मन के बिचार सभे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ सभे"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:02.464979143Z",
+  "model": "glm-5.3"
+}

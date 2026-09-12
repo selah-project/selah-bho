@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 24:22",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ रउआ ओइसने करब जइसन हम कइलन: ऊपरी होंठ पर ना लपेटब आ मनइन के रोटी ना खाब।",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "रउआ करब"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "हम कइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "ऊपरी होंठ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעטו",
+      "gloss": "लपेटब"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "आ रोटी"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मनइन के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:24.922035208Z",
+  "model": "glm-5.3"
+}

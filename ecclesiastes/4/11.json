@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "अउर अगर दू गो एक साथे सोवेलें, उनन्हर के गरमी भेटेला; बाकिर अकेला के कइसने गरमी मिलेला?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "सोवेलें"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "गरमी भेटेला"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनन्हर के"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "बाकिर अकेला के"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "गरमी मिलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:43.751085763Z",
+  "model": "glm-5.3"
+}

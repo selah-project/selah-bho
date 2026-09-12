@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 50:46",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "बाबेल के फड़ाव के अवाज से धरती हिलले, आ गोतन में चीख सुनाई पड़ले।",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "अवाज से"
+    },
+    {
+      "surface": "נתפשה",
+      "gloss": "फड़ले"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "נרעשה",
+      "gloss": "हिलले"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וזעקה",
+      "gloss": "आ चीख"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "गोतन में"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "सुनाई पड़ले"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:20.281621042Z",
+  "model": "glm-5.3"
+}

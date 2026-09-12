@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ इस्राएल के हर आदमी एकट्ठा भइल ओ नगर के विरुद्ध, एक आदमी नियर — संगी भई के।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "आ एकट्ठा भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ओ नगर"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "एक आदमी नियर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "संगी भई के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:50.776864620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ओहि समय में हम रउआ सभे से कहलन, ए कहत कि हम एकले रउआ सभे के ⟨את⟩ ना उठा सकत बानी।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "रउआ सभे से"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ए कहत कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सकत बानी"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "हम एकले"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठावे के"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:00.470402727Z",
+  "model": "glm-5.3"
+}

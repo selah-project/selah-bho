@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "जऊन आपन नियरे में भरोसा करेला ऊ मूरख ह, आ जऊन चतुराई में चलेला ऊ बच निकलिय।",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "भरोसा करेला"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "आपन नियरे में"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "आ चलेला"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "चतुराई में"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बच निकलिय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:25.967175977Z",
+  "model": "glm-5.3"
+}

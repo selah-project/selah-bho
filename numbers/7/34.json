@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरी सभ के एक बकरा पाप भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी सभ के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:22.445401980Z",
+  "model": "glm-5.3"
+}

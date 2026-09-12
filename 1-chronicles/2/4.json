@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओकर बहू तामार ओकरा ⟨את⟩ पेरेत्स आ ⟨את⟩ ज़ेरख के जनम दीहली; यहूदा के बेटा सभे मिला के पाँच गो रहलें।",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "आ तामार"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ओकर बहू"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम दीहली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेरेत्स"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेत्स"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ज़ेरख"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे मिला के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:14.292526717Z",
+  "model": "glm-5.3"
+}

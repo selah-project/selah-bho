@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "योवाव के मरलन, आ ओकर जगह हूशाम, तेमानी के देस से, राज करलन।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मरलन"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योवाव"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करलन"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "हूशाम"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "तेमानी के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:22.527127140Z",
+  "model": "glm-5.3"
+}

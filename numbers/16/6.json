@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ई करऽ: आपन ले लवऽ अंगीठी के पात्र, कोरह आ ओकर पूरा सभा।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ले लवऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आपन"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "अंगीठी के पात्र"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "ओकर सभा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:31.456500197Z",
+  "model": "glm-5.3"
+}

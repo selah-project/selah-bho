@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "बाकिर हम जइसे बहरा — सुनलीं ना, आ जइसे गूँगा — ऊ आपन मुँह ना खोलेला।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "बाकिर हम"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "जइसे बहरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "सुनलीं"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "आ जइसे गूँगा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोलेला"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "आपन मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:58.758532556Z",
+  "model": "glm-5.3"
+}

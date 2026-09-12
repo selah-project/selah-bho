@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "योशियाह के राज में अठारहवाँ साल में ई पसह कइल गइल।",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "अठारहवाँ में"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(अठारा)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज में"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाह के"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "कइल गइल"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:14:34.932867067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "देखऽ, रउआ सुन्दर बानी हमार दोद, हाँ, मनभावन; हाँ, हमनी का के बिछिया हरियर-भरल ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमार दोद"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "मनभावन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "हमनी का के बिछिया"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "हरियर-भरल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:16.241105503Z",
+  "model": "glm-5.3"
+}

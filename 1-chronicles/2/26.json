@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ यरहमएल के एगो दुसर औरत रही, ओकर नाँव अतारा रहल; ऊ ओनाम के माई रही।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "रही"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "दुसर"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "यरहमएल के"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आ ओकर नाँव"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "अतारा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माई"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनाम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:07.715726248Z",
+  "model": "glm-5.3"
+}

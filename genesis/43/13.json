@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ ⟨את⟩ अपन भाई के लिहू, आ उठी के ओ मनई के ओरे फिर जाउ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अपन भाई"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "अपन भाई"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "लिहू"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "उठी के"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "फिर जाउ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओरे"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ मनई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:42.685549899Z",
+  "model": "glm-5.3"
+}

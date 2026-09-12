@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "श्रापित बा जे आपन पिता आ माई के तुच्छ समझेला; आ पूरा जनता कही, अमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "श्रापित"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "तुच्छ समझेला"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "आ माई"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कही"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "अमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:48.474290712Z",
+  "model": "glm-5.3"
+}

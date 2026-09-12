@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 47:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "आ ऊ आपन भाई सभन में से पाँच आदमी लिहलन आ इनका फरोह के आगू खड़ा कइलन।",
+  "tokens": [
+    {
+      "surface": "ומקצה",
+      "gloss": "आ ... में से"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "आपन भाई सभन"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लिहलन"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ויצגם",
+      "gloss": "आ इनका खड़ा कइलन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरोह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:35:44.049386628Z",
+  "model": "glm-5.3"
+}

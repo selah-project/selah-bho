@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 63,
+  "translation": "काहेकि बदला के दिन हमर हिया में रहल, आ हमरा छुड़ावे वालन के साल आ गइल।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "बदला के"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "हमर हिया में"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "आ … साल"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "हमरा छुड़ावे वालन के"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आ गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:18:47.144376686Z",
+  "model": "glm-5.3"
+}

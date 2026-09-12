@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ हम कहली: “का जइसन हम कोनो मनुष्य भागी? आ कोनो जइसन हम, जे हेइखाल में जाई आ जियत? हम ना जई।”",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "आ हम कहली"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "जइसन हम"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "भागी"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ कोनो"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "जइसन हम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "हेइखाल"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "आ जियत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "जई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:47:32.360151265Z",
+  "model": "glm-5.3"
+}

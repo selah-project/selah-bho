@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ अउर सात दिन बाकी दिनन के रुकलन, आ परा के ⟨את⟩ भेजलन, आ ऊ अब ओकरा लौट के फेर ना आईल।",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "आ ऊ रुकलन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "बाकी दिनन के"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "आ भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परा के"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "परा के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौट के"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:47.427359394Z",
+  "model": "glm-5.3"
+}

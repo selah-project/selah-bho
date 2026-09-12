@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ यहवे ⟨את⟩ गधी के मुँह खोललन, आ ओ बिलाम से कहलस, “हम तोहार का कइलीं कि तूँ हमनी के ई तीन बेरा मारल?”",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "खोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गधी के मुँह"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "गधी"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलस"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "बिलाम से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कइलीं"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "मारल"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "बेरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:40.516313906Z",
+  "model": "glm-5.3"
+}

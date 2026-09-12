@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "रउआ ओकर शांति आ ओकर भलाई ना खोजब, जियते दिन ले, सदा ले।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "खोजब"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ओकर शांति"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "आ ओकर भलाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "रउआ के दिन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:43.369259356Z",
+  "model": "glm-5.3"
+}

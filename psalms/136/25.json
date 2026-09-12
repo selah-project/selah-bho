@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 136,
+  "translation": "ऊ सब गोश्त के खाना देवेला, काहे कि ओकर हेसेद सदा ले बा।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "गोश्त"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:34.874978930Z",
+  "model": "glm-5.3"
+}

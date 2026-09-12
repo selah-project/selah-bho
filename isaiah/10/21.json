@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "शेष फेर आवेला — याकोब के शेष — एल गिब्बोर (सामर्थ्यवान एल) के ओर।",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फेर आवेला"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "गिब्बोर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:56.482736113Z",
+  "model": "glm-5.3"
+}

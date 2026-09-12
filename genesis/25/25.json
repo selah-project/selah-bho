@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ पहिलका निकलल — पूरा लाल-गोर, रोआँ के चादर नियर; आ ऊ लोग ओकर नाम रखलन एसाव।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिलका"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "लाल-गोर"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "चादर नियर"
+    },
+    {
+      "surface": "שער",
+      "gloss": "रोआँ"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ओकर नाम रखलन"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:58.239948793Z",
+  "model": "glm-5.3"
+}

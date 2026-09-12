@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ यहवे फरौन के ⟨את⟩ मन करड़ा कइलन, आ ऊ इनकर ना सुनलन — जइसने यहवे मूसा से कहले रहल।",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "आ करड़ा कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मन"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "इनकर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहले रहल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:40:39.618287276Z",
+  "model": "glm-5.3"
+}

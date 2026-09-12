@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ दाविद के नाँव सब्बे देस में फइल गइल, आ यहवे ⟨את⟩ ओकर डर सब्बे जाति सभे पर धइलन।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "फइल गइल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब्बे…में"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "देस"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "धइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर डर"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "ओकर डर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब्बे"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:09.053362494Z",
+  "model": "glm-5.3"
+}

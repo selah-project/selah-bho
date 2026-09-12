@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 148,
+  "translation": "धरती से जपी ⟨את⟩ यहवे के; बिशाल समुंदरी जनवर आ गहिरा गहिरा पानी सभे।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "जपी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "बिशाल समुंदरी जनवर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सभे"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "गहिरा गहिरा पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:02.104638064Z",
+  "model": "glm-5.3"
+}

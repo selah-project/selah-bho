@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "जइसे पिता अपना लरिकन पर रहम करेला, तइसे यहवे ओकर दर राखै वालन पर रहम करेला।",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "जइसे…रहम"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "रहम करेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ओकर दर राखै वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:57.439061035Z",
+  "model": "glm-5.3"
+}

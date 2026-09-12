@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "हमनी का देखा, यहवे, रउआ के हेसेद, आ रउआ के छोड़ाई हमनी का दे।",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "हमनी का देखा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "रउआ के हेसेद"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "आ रउआ के छोड़ाई"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:31.602162560Z",
+  "model": "glm-5.3"
+}

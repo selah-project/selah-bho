@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे मूसा से कहलन: फिरौन के मन भारी बा, ऊ परजा के बिदा करे से इनकार करता।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन के"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "इनकार करता"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "बिदा करे से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:56.624004744Z",
+  "model": "glm-5.3"
+}

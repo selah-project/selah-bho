@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "कओन भीतर के अंग में ग्यान रखलन, अवर कओन सेकवी के समझ दिअलन?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कओन"
+    },
+    {
+      "surface": "שת",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "भीतर के अंग में"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ग्यान"
+    },
+    {
+      "surface": "או",
+      "gloss": "अवर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कओन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिअलन"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "सेकवी के"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:10.621070189Z",
+  "model": "glm-5.3"
+}

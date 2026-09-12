@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ एलीहू फेर जोड़लन आ कहिलन:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "फेर जोड़लन"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "एलीहू"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहिलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:52.253474162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "ऊ हम से कहलन, “हे आदम के बेटा, अब दीवार में खोद।” आ हम दीवार में खोदलिनी, आ देखू — एक दुआर।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम के"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "खोद"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "दीवार में"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "खोदलिनी"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "दीवार में"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखू"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T20:48:21.395038883Z",
+  "model": "glm-5.3"
+}

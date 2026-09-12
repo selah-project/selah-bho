@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ अहरान के बेटा सभ के नाम ई बा — पहिलका नादाब, आ अबिहू, एलाजार आ इतामार।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ के"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरान"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहिलका"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "आ अबिहू"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "आ इतामार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:21.798770602Z",
+  "model": "glm-5.3"
+}

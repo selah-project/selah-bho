@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "बहरे के ना कोसऽ, आ अंधा के आगे ठोकर के पाथर ना रख; आपन एलोहीम से डरहू — हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "कोसऽ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बहरे के"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "आ … के आगे"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अंधा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "रख"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "ठोकर के पाथर"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "आ डरहू"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "आपन एलोहीम से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:40.203821831Z",
+  "model": "glm-5.3"
+}

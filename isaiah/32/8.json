@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "बाकिर नदीब उदार काम सोचेला, आ ऊ उदार काम पर टिक जाव।",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "बाकिर नदीब"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "उदार काम"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "सोचेला"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "उदार काम"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "टिकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:49.044992371Z",
+  "model": "glm-5.3"
+}

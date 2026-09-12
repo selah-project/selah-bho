@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अवराहाम कहलन: “हम कसम खाब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "कसम खाब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:34.439250694Z",
+  "model": "glm-5.3"
+}

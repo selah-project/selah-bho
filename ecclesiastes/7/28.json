@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जेकरा हमार प्राण अबहिनो खोजेला बाकिर हम ना पावलीं — एक आदमी हम पावली, हज़ार में से; बाकिर एक औरत — ए सब में हम ना पावली।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अबहिनो"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "खोजेला"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार प्राण"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "हम पावलीं"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "हज़ार में से"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "हम पावली"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "बाकिर एक औरत"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ए सब में"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ए सब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "हम पावली"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:42.439287705Z",
+  "model": "glm-5.3"
+}

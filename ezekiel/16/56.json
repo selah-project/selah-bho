@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezekiel 16:56",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "का तोहार बहिन सदोम तोहार घमंड के दिन में तोहार मुँह पर चर्चा ना रहल?",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "तोहार बहिन"
+    },
+    {
+      "surface": "לשמועה",
+      "gloss": "चर्चा"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "तोहार मुँह पर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "גאוניך",
+      "gloss": "तोहार घमंड"
+    }
+  ],
+  "timestamp": "2026-09-11T20:52:48.550469190Z",
+  "model": "glm-5.3"
+}

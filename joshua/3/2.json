@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ तीन दिन के अंत में भइल, आ अफसर लोग डेरा के बीच से गुजरलें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "के अंत में"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "गुजरलें"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "अफसर लोग"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:47:07.887541918Z",
+  "model": "glm-5.3"
+}

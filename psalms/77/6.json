@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 77,
+  "translation": "हम पुराना दिन के हिसाब कइनी, बहुत साल के, जुग-जुग के।",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "हिसाब कइनी"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पुराना"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "साल के"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "जुग-जुग के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:56.839746495Z",
+  "model": "glm-5.3"
+}

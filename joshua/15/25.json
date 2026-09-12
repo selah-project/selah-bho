@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ हाजोर नया, आ करीयोत, हेत्सरोन — ऊ हाजोर ह।",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "आ हाजोर"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "नया"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "आ करीयोत"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "हेत्सरोन"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ ⟨ह⟩"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "हाजोर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:46.878398188Z",
+  "model": "glm-5.3"
+}

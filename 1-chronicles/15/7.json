@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "गेरेशोम के बेटाईन में योएल सरदार रहलें, आ उनकर भाई एक सौ तीस रहलें।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटाईन में"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "השר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ उनकर भाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:33.134447256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "काहें कि बुद्धिमान के मूर्ख से का बेसी? गरीब के का, जे जीवित लोगन के आगू चलल जानेला?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "बुद्धिमान के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूर्ख से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "गरीब के"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवित लोगन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:50.760131426Z",
+  "model": "glm-5.3"
+}

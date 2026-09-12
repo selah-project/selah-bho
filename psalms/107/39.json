@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "फिर ऊ घटलें आ दब गइलें — अत्याचार, बुराई आ शोक से।",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "घटलें"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "दब गइलें"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "अत्याचार"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "शोक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:36.652864824Z",
+  "model": "glm-5.3"
+}

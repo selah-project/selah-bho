@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ नूछ छह सौ बरिस के बेटा रहलें, आ पानी के मब्बुल धरती पर ⟨होल⟩।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "आ नूछ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "आ मब्बुल"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:56:53.699984545Z",
+  "model": "glm-5.3"
+}

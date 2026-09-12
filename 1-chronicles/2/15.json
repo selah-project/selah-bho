@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ओत्सेम छठवाँ, दावीद सातवाँ।",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ओत्सेम"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "छठवाँ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातवाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:54.692966300Z",
+  "model": "glm-5.3"
+}

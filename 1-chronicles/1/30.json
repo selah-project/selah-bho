@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "मिश्मा आ दूमा, मासा, हदद आ तेमा।",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "मिश्मा"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "आ दूमा"
+    },
+    {
+      "surface": "משא",
+      "gloss": "मासा"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "आ तेमा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:26.659926477Z",
+  "model": "glm-5.3"
+}

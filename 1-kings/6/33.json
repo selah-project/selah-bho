@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एहनो कइलन हेवन के दुआर खातिर जैतून-लकड़ी के खम्भा — ⟨את⟩ चउथाई ले।",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "एहनो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "दुआर खातिर"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "हेवन के"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "चउथाई"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "चउथाई"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:56.077352177Z",
+  "model": "glm-5.3"
+}

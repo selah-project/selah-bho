@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ⟨את⟩ ऊकर लरिकन पर हम दया ना करब, काहें से कि ऊ व्यभिचार के लरिका बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ऊकर लरिकन"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ऊकर लरिकन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "दया करब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "व्यभिचार के"
+    },
+    {
+      "surface": "המה",
+      "gloss": "बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:09:07.904658485Z",
+  "model": "glm-5.3"
+}

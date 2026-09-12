@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "के जानेला कि आदमी के बेटा के रूह, ऊ चढ़ेवाला, ऊपर जाले, आ पशु के रूह, ऊ उतरेवाला, नीचे धरती में उतरेले?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "के"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा के"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढ़ेवाला"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आ रूह"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशु के"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "उतरेवाला"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:44.574724897Z",
+  "model": "glm-5.3"
+}

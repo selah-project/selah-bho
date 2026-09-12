@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "तूँ, हे राजा, राजा सभे के राजा बानी, काहे कि एलाह अकास के राज्य, ताकत आ तेज आ महिमा रउआ के दइलन।",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "राजा सभे के"
+    },
+    {
+      "surface": "די",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एलाह"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "राज्य"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "आ तेज"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "आ महिमा"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "दइलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:14.154093055Z",
+  "model": "glm-5.3"
+}

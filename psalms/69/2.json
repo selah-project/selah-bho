@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 69,
+  "translation": "हमके बचा ले, हे एलोहीम, काहे कि पानी प्राण तक आ गइल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "हमके बचा ले"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आ गइल बाड़ें"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:07.297785582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "ई नाम बाड़ें एसाव के लड़का सभ के: एलीफाज, अदाह के बेटा — ⟨ऊ⟩ एसाव के पत्नी — आ रेउएल, बसमत के बेटा — ⟨ऊ⟩ एसाव के पत्नी।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़का सभ के"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफाज"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदाह"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बसमत"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:24.791132927Z",
+  "model": "glm-5.3"
+}

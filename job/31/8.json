@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 31:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "तब हम बोनी आ दुसर खाव, आ मोर फसल जड़ से उखाड़ल जाय।",
+  "tokens": [
+    {
+      "surface": "אזרעה",
+      "gloss": "हम बोनी"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "आ दुसर"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाव"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "आ मोर फसल"
+    },
+    {
+      "surface": "ישרשו",
+      "gloss": "जड़ से उखाड़ल जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:58.254435741Z",
+  "model": "glm-5.3"
+}

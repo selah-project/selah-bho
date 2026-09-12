@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "एह दरिद्र गरजलन, आ यहवे सुन लिहलन, आ ओकरा सब संकटन से बचा लिहलन।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दरिद्र"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "गरजलन"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन लिहलन"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "आ सब … से"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "संकटन"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "ओकरा बचा लिहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:09.290861353Z",
+  "model": "glm-5.3"
+}

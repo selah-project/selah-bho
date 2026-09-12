@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ हम ऊकरा कहलीं के सच्चा बानी हम, जासूस ना रहलीं हम।",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "आ हम कहलीं"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ऊकरा"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "सच्चा"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "रहलीं"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "जासूस"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:59.754855089Z",
+  "model": "glm-5.3"
+}

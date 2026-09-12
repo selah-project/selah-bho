@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "फिर ऊ पछुआँ दिशा के ओर घुमलन, ओकरा नापलन — पाँच सौ नाप-नरकट, नाप-नरकट से।",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "घुमलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "הים",
+      "gloss": "पछुआँ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "नाप-नरकट"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "नरकट से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:58.663533470Z",
+  "model": "glm-5.3"
+}

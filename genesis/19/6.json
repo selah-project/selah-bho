@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ लूत ओ लोगन के लागे दुआर पर निकसलन, आ दुआर ओकर पाछू बंद कइलन।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकसलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओ लोगन के लागे"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लूत"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "दुआर पर"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "आ दुआर"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बंद कइलन"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ओकर पाछू"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:12.787068848Z",
+  "model": "glm-5.3"
+}

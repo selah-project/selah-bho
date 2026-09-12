@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "जे ओकरा सभन के मन एके संगे गढ़ेला, ओहें सभे के कामन के समझेला।",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "गढ़ेला"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एके संगे"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "मन"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे के"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "कामन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:40:32.968878235Z",
+  "model": "glm-5.3"
+}

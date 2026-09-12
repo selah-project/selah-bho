@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आपन हित होशियार रहऽ, काहे कि जवनो जगह रउआ देखब, ओहिजे अपना दाह-बलि ना चढ़ाब।",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "होशियार रहऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन हित"
+    },
+    {
+      "surface": "פן",
+      "gloss": "काहे कि ... ना"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "चढ़ाब"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "अपना दाह-बलि"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "जवनो ... में"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवनो"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:52.889274747Z",
+  "model": "glm-5.3"
+}

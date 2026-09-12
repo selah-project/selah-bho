@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ करूब पर सवार भइल आ उड़ल, हवा के परखा पर ऊ फुर्राइल।",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "सवार भइल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "उड़ल"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "फुर्राइल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "परखा के"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:04.905526609Z",
+  "model": "glm-5.3"
+}

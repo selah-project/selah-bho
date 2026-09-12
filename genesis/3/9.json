@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहवे एलोहीम हाअदाम के पुकारलन, आ ओकरा से कहलन — तूँ कहाँ बाड़े?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "हाअदाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कहाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:20.922466530Z",
+  "model": "glm-5.3"
+}

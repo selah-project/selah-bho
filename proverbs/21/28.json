@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "झूठ के गवाह नष्ट हो जाई, बाकिर सुने वाला मरद सदा ले बोलत रही।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नष्ट हो जाई"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकिर मरद"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "सुने वाला"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोलत रही"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:32.993201556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ मिर्याम सात दिन छावनी के बाहिर बंद भइल; आ मिर्याम के फेर से जोड़ल जावे तक जाति ना चलल।",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "आ … बंद भइल"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मिर्याम"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी के"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "आ जाति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "फेर से जोड़ल जावे"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मिर्याम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:38.173611931Z",
+  "model": "glm-5.3"
+}

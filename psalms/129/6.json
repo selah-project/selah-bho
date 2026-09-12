@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 129,
+  "translation": "ऊ लोग छत के घास नियर होखें, जे उखाड़े जाए से पहिले सूख जाला।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "होखें"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "घास नियर"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "छत के"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "जे ... से पहिले"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "उखाड़े जाए"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "सूख जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:59.178560283Z",
+  "model": "glm-5.3"
+}

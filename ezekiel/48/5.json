@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ मनश्शे के सीमा के ऊपर, पूरुब के किनारा से ले के पछिम के किनारा ले, एफरायिम खातिर एक हिस्सा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "के किनारा से"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के … ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पछिम"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफरायिम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:40.632314473Z",
+  "model": "glm-5.3"
+}

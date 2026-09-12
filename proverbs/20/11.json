@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "लड़कवा ला ओकरे काम से पहिचानल जाला, चाहे ओकर काम निक चाहे सीधा होखे।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "ओकरे काम से"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "पहिचानल जाला"
+    },
+    {
+      "surface": "נער",
+      "gloss": "लड़कवा ला"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "זך",
+      "gloss": "निक"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ओकर काम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:44.763492321Z",
+  "model": "glm-5.3"
+}

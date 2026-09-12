@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "काहे कि बन्धक सभन के घर से ऊ निकलल राजा बने खातिर, काहे कि ओकर राज में ऊ गरीब जनमल रहे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "से घर"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "बन्धक सभन के"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बने खातिर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एहू"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "ओकर राज में"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:58.946312401Z",
+  "model": "glm-5.3"
+}

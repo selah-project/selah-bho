@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "रउआ के बाहु बल के साथे बा; रउआ के हाथ ताकतवर बा, रउआ के दहिना ऊँच उठल बा।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बाहु"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "बल"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ताकतवर बा"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "रउआ के हाथ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ऊँच उठल बा"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "रउआ के दहिना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:11.189480485Z",
+  "model": "glm-5.3"
+}

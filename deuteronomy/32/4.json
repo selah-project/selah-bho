@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "चट्टान — ओकर काम निराला बा; काहेकि ओकर सगरी रस्ता न्याय बा; एल — भरोसेमंद, बिना कवनो अन्याय के; धरमी आ सीधा ऊ बाड़ें।",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "निराला"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ओकर काम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ओकर रस्ता"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बिना कवनो"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "आ सीधा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:07.466901892Z",
+  "model": "glm-5.3"
+}

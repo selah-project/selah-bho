@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ दाऊद आपन हरेक रास्ता में बुद्धिमान रहलें, आ यहवे ओकर साथ रहलें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहलें"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "आपन रास्ता में"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर साथ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:14:16.003886074Z",
+  "model": "glm-5.3"
+}

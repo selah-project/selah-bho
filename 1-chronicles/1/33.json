@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ मिदियान के बेटाबन: एय्फाह आ एफेर आ खनोख आ अबिदा आ एलदाआह — ई सब केतुराह के बेटाबन रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटाबन"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिदियान के"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "एय्फाह"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "आ एफेर"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "आ खनोख"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "आ अबिदा"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "आ एलदाआह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "केतुराह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:43.401707169Z",
+  "model": "glm-5.3"
+}

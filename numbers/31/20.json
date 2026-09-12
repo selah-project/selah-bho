@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ हर कपड़ा, आ चमड़ा के हर बर्तन, आ बकरी के बाल से बनल हर चीज, आ लकड़ी के हर बर्तन — ए सभे के शुद्ध करऽ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ा के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "बनल चीज"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के बाल से"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "शुद्ध करऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:26:14.603578225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ ऊ कहलें — तोहार भाई धोखा से आइल आ तोहार आशीस ले गइल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ऊ कहलें"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "धोखा से"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ले गइल"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "तोहार आशीस"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:33.011147919Z",
+  "model": "glm-5.3"
+}

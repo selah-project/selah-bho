@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "मनुख के रूह ओकर बेमारी के धरे रखेला; बाकिर कुचलल रूह के कौन उठावेला?",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "धरे रखेला"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "ओकर बेमारी के"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "बाकिर ... रूह"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "कुचलल"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "उठावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:42.889809319Z",
+  "model": "glm-5.3"
+}

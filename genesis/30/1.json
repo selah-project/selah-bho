@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 30:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "जब राहेल देखली कि ऊ याकोब खातिर जनम ना देले, तऽ राहेल आपन बहिन पर जलन रखली, आ याकोब से कहली: “मोका लरका देउ, आ अगर ना — हम मर जाबी।”",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "देखली"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम देले"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब खातिर"
+    },
+    {
+      "surface": "ותקנא",
+      "gloss": "जलन रखली"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "באחתה",
+      "gloss": "आपन बहिन पर"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "देउ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोका"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरका"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "मर जाबी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:08.446069570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "काहे के धरती पर कवनो धर्मी मनुष्य नइखे जे भलाई करे आ पाप ना करे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "पाप करे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:41.256514320Z",
+  "model": "glm-5.3"
+}

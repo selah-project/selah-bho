@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ हम ⟨את⟩ हमार समझौता रउआ ⟨את⟩ संग खड़ा करब, आ तूँ जानब कि हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "आ हम खड़ा करब"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमार समझौता"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमार समझौता"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ रउआ संग"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "आ तूँ जानब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:20.307115332Z",
+  "model": "glm-5.3"
+}

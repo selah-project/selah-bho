@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 121,
+  "translation": "यहवे तोहा के हरेक बुराई से बचावेलन; ऊ तोहार प्राण ⟨את⟩ के रखेलन।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "तोहा के बचावेलन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हरेक से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "रखेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहार प्राण"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तोहार प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:29.465819485Z",
+  "model": "glm-5.3"
+}

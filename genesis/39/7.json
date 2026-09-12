@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 39:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ एहि बात सभ के बाद भइल कि ओकर मालिक के औरत ⟨את⟩ आपन नेन यूसुफ पर उठालक आ कहलक: “मोरे संग सो जाउ।”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "उठालक"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "मालिक के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन नेन"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "आपन नेन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… पर"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "आ कहलक"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "सो जाउ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मोरे संग"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:24.823133453Z",
+  "model": "glm-5.3"
+}

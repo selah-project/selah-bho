@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "मनुष्य के हरेक रास्ता ओकर आँखन में सीधा लागेला, बाकिर दिल सभ के तौलेला यहवे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकर आँखन में"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "बाकिर तौलेला"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "दिल सभ के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:31.067846943Z",
+  "model": "glm-5.3"
+}

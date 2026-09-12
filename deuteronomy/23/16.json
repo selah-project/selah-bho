@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "कवनो दास के ओकर मालिक के ना जोगा, जऊन ओकर मालिक के हाथ से बच के तोहारे काहे आवला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "जोगा"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "बच के आवला"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहारे काहे"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:56.604251067Z",
+  "model": "glm-5.3"
+}

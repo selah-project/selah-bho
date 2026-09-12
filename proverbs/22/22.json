@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "गरीब ला लूटबू ना, काहे कि ऊ गरीब बा, आ दुखियार ला दुआर पर कुचलबू ना।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "लूटबू"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ ... बा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "कुचलबू"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखियार"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "दुआर पर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:13.385198995Z",
+  "model": "glm-5.3"
+}

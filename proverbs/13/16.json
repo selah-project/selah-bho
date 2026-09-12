@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "हर चतुर जानकारी से काम करेला; बाकिर मूरख मूर्खता फैलावेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "काम करेला"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "जानकारी से"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "बाकिर मूरख"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "फैलावेला"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खता"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:04.060085443Z",
+  "model": "glm-5.3"
+}

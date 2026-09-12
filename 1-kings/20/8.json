@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ सब बुढ़वा लोग आ सब प्रजा ओकरा कहलीं: मत सुनऽ आ मत मानऽ।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "आ कहलीं"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "बुढ़वा लोग"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "आ मत"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "मानऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:44:44.664160923Z",
+  "model": "glm-5.3"
+}

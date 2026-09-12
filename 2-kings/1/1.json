@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ मोआब इसरायेल के बिरुद्ध बगावत कइलन अहाब के मरला के बाद।",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "बगावत कइलन"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसरायेल के बिरुद्ध"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरला"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    }
+  ],
+  "timestamp": "2026-09-11T19:47:43.340441168Z",
+  "model": "glm-5.3"
+}

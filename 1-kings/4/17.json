@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "यहोशाफात परूख के बेटा इस्साखार में रहलें।",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "परूख"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "इस्साखार में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:25.984459434Z",
+  "model": "glm-5.3"
+}

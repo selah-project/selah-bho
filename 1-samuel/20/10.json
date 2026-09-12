@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ दाऊद यहोनातन से कहलन, “कौन हमरा बतावेला? अगर तोहार पिता तोहारा कठोर जवाब देला तऽ?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बतावेला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "או",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "जवाब देला"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहार पिता"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कठोर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:14:43.705922772Z",
+  "model": "glm-5.3"
+}

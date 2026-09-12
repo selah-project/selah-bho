@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 14:7",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "तब उतरला आ ओ औरत से बात कइलन, आ ऊ शिमशोन के नैनन में भा गई।",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "तब उतरला"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आ बात कइलन"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ओ औरत से"
+    },
+    {
+      "surface": "ותישר",
+      "gloss": "आ ऊ भा गई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "नैनन में"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिमशोन के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:06.811364056Z",
+  "model": "glm-5.3"
+}

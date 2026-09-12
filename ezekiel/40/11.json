@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ ऊ मापलन ⟨את⟩ दरवाजा के मुहाना के चौड़ाई — दस हाथ; आ दरवाजा के लमाई तेरह हाथ।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "आ ऊ मापलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दरवाजा के मुहाना के चौड़ाई"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ाई"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "मुहाना"
+    },
+    {
+      "surface": "השער",
+      "gloss": "दरवाजा के"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "השער",
+      "gloss": "दरवाजा के"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:53.334228706Z",
+  "model": "glm-5.3"
+}

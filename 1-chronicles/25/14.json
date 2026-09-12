@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 25:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "सातवाँ येशरेलाह, ओकर बेटा आ ओकर भाई — बारह गो।",
+  "tokens": [
+    {
+      "surface": "השבעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "ישראלה",
+      "gloss": "येशरेलाह"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(बारह में) -से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:37.689274826Z",
+  "model": "glm-5.3"
+}

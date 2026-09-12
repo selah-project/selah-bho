@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरा, बकरी के, एक, पापबलि खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:31.001609231Z",
+  "model": "glm-5.3"
+}

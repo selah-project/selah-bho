@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "छठा दिने गाद के बेटान के नायक एल्यासाफ, जे देउएल के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "छठा दिने"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "छठा"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटान के"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:33.943211341Z",
+  "model": "glm-5.3"
+}

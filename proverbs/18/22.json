@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "जे अवरत के खोजलन, ऊ नीक चीज खोजलन, आ ऊ यहवे से प्रसन्नता निकालेला।",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "खोजलन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अवरत"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "खोजलन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक चीज"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "आ निकालेला"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "प्रसन्नता"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.673261793Z",
+  "model": "glm-5.3"
+}

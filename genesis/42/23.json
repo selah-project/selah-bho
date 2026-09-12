@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ ऊ लोग ना जानलें कि यूसुफ सुन रहलें, काहें कि दुभासिया उनियन के बीचा में रहल।",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "आ ऊ लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानलें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन रहलें"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "दुभासिया"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "उनियन के बीचा में रहल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:44.628281104Z",
+  "model": "glm-5.3"
+}

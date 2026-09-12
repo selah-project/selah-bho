@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 112,
+  "translation": "बुरा सुनाई पावे ला ऊ ना डरेला; ओकर मन जमल बा, यहवे पर भरोसा कइले बा।",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "सुनाई"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "डरेला"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "जमल"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर मन"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा कइले"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:10.654998762Z",
+  "model": "glm-5.3"
+}

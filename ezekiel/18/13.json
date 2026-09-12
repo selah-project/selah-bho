@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 18:13",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ब्याज पऽ देलन आ बढती लेलन — ऊ जिअल? ऊ जिअल ना: ⟨את⟩ सब ई घृणित काम कइलन, मरल जाई, ओकर खून ओही पर रही।",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "ब्याज पऽ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "आ बढती"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "आ जिअल?"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जिअल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब ई घृणित काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "घृणित काम"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही पर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रही"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:03.992544944Z",
+  "model": "glm-5.3"
+}

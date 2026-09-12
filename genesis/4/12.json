@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "जब तूँ ⟨את⟩ धरती जोतब, तं ऊ आगू अपना ताकत तोहारा के देवेली ना — भागत-भटकत तूँ धरती पर रहब।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब… तं"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "जोतब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "תת",
+      "gloss": "देवेली"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "अपना ताकत"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहारा के"
+    },
+    {
+      "surface": "נע",
+      "gloss": "भागत"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "भटकत"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती पर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:34.897500767Z",
+  "model": "glm-5.3"
+}

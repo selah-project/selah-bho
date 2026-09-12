@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ मोआब में हम दण्ड-फैसला करब, आ ऊ सभे जान लेहें कि हम यहवे बनी।",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "आ मोआब में"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "हम करब"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "दण्ड-फैसला"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "आ ऊ सभे जान लेहें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:56:34.183440787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "रउआ एकरा ⟨את⟩ टुकड़ा-टुकड़ा के तोड़ब, आ ओकरा ऊपर तेल ढारब — ई मन्चा ह।",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "टुकड़ा-टुकड़ा के तोड़ब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "टुकड़ा (पित्तिम)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "टुकड़ा"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "आ ढारब"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मन्चा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई … ह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:41.639109133Z",
+  "model": "glm-5.3"
+}

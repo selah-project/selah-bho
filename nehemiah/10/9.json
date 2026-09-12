@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "माअज्याह, बिल्गय, शेमअ्याह — ई सभे कोहेन रहलें।",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "माअज्याह"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "बिल्गय"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शेमअ्याह"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सभे"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहेन रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:36.232889322Z",
+  "model": "glm-5.3"
+}

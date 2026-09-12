@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "कारन क्रोध मूर्ख के मारेला, आ जलन भोला के घात करेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारन"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "मारेला"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "आ भोला के"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "घात करेला"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "जलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:35.417512070Z",
+  "model": "glm-5.3"
+}

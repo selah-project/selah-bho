@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काबर कि सपना ढेर काम-काज से आवेला, आ मूर्ख के आवाज ढेर बातन से।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ढेर … से"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "काम-काज"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "आ आवाज"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ढेर … से"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बातन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:46.587014832Z",
+  "model": "glm-5.3"
+}

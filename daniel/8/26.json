@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 8:26",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ साँझ आ भोर के दर्शन जवन कहल गइल — ई सच बा; आ तूँ ओ दर्शन के बंद रख, काबोर कि ई ढेर दिनन खातिर बा.",
+  "tokens": [
+    {
+      "surface": "ומראה",
+      "gloss": "आ दर्शन"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ के"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "आ भोर के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "कहल गइल"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "סתם",
+      "gloss": "बंद रख"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "ओ दर्शन के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबोर कि"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "दिनन खातिर"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:20.898075664Z",
+  "model": "glm-5.3"
+}

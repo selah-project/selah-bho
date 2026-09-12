@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "लेमुएल राजा के बातनी — ओ बोझ जवन ओकर माई ओका सिखवले रहली।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बातनी"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "लेमुएल"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "משא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "सिखवले रहली"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:17.905749533Z",
+  "model": "glm-5.3"
+}

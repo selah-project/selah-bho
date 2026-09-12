@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ कोहेन ओकरा देखी, आ देखौ कि नेतेक चमड़ा में फइल गइल — तऽ कोहेन पील बाल खातिर ना खोजी; ऊ अशुद्ध बा।",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ओकरा देखी"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखौ कि"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फइल गइल"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "चमड़ा में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "खोजी"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "बाल खातिर"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "पील"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:16.373425062Z",
+  "model": "glm-5.3"
+}

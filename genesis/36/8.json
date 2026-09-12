@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ एसाव सेइर पहाड़ (सेइर पर्वत) में बस गइले; एसाव ईवे एदोम हवे।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "बस गइले"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ईवे"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:47.462515714Z",
+  "model": "glm-5.3"
+}

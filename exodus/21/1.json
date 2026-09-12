@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ ई नियम बाड़ें जवन रउआ इनहन के आगू रखब।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "नियम बाड़ें"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "रखब"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "इनहन के आगू"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:36.655873298Z",
+  "model": "glm-5.3"
+}

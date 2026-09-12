@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ कुछ दिनन बाद अम्मोन के बेटा लोग इसरायल से लड़ाई करे लागलें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … भइल"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "कुछ दिनन बाद"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "लड़ाई करे लागलें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन के"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:35.232341431Z",
+  "model": "glm-5.3"
+}

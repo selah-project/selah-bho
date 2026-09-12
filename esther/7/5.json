@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "अउर राजा अहश्वेरोश बोललन, अउर रानी एस्तेर से कहलन: कोन हऽ ई, अउर कते हऽ ऊ, जेकर दिल एहन करे खातिर भर गइल बा?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अहश्वेरोश"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "एस्तेर से"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हऽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "अउर कते"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हऽ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:35:07.426768164Z",
+  "model": "glm-5.3"
+}

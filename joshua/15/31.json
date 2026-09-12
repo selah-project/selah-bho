@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ त्सिक्लग आ मदमना आ सनसना —",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "आ त्सिक्लग"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "आ मदमना"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "आ सनसना"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:05.014245779Z",
+  "model": "glm-5.3"
+}

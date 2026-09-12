@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ रउआ, ओकर बेटा, बेलशत्सार, आपन हिया के ना झुकाइलें, सब के मुकाबिले कि एहि सब रउआ जानत रहलें।",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "आ रउआ"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "बेलशत्सार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "झुकाइलें"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "हिया के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "के मुकाबिले"
+    },
+    {
+      "surface": "די",
+      "gloss": "कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानत रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:43.649354116Z",
+  "model": "glm-5.3"
+}

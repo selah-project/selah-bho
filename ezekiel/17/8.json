@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 17:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "बढ़िया खेत में, ढेर पानी के किनारे रोपल गइल रहल — कि ऊ डाल करे, फल धारण करे, आ बड़ बेल बने।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के किनारे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "रोपल गइल रहल"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "डाल"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "आ धारण करे खातिर"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "बने खातिर"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "बेल"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:40.481398285Z",
+  "model": "glm-5.3"
+}

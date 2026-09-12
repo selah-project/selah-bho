@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "काहें कि ओकर सब नियम हमार सामने रहलें, आ हम ओकर विधि सभ के आपन से ना हटावली।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ओकर नियम"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "हमार सामने"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "आ ओकर विधि सभ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "हटावली"
+    },
+    {
+      "surface": "מני",
+      "gloss": "आपन से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:49.073251411Z",
+  "model": "glm-5.3"
+}

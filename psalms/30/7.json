@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ हम अपने सुकून में कहलन, “हम कबो ना डगमगाब, सदा ला।”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "अपने सुकून में"
+    },
+    {
+      "surface": "בל",
+      "gloss": "कबो ना"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "डगमगाब"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:17.175903033Z",
+  "model": "glm-5.3"
+}

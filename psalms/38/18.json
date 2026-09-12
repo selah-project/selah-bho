@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "काहे कि हम लँगड़ावे लायक बानी, आ हमर पीरा हमरे आगे-आगे लगातार बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "लँगड़ावे लायक"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "आ हमर पीरा"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "हमरे आगे-आगे"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:55.576151188Z",
+  "model": "glm-5.3"
+}

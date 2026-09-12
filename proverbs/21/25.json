@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आलसी के तृष्णा ओकरा मार देला, काहें कि काम करे खातिर ओ हाथ रोक लेला।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "तृष्णा"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी के"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "ओकरा मार देला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "रोक लेला"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओ हाथ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "काम करे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:32.992692471Z",
+  "model": "glm-5.3"
+}

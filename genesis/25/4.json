@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ मिद्यान के बेटा रहलें — एय्फा, आ एफेर, आ खानोख, आ अबिदा, आ एलदा; ई सभे कतूरा के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "एय्फा"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "आ एफेर"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "आ खानोख"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "आ अबिदा"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "आ एलदा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "कतूरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:56:49.855650816Z",
+  "model": "glm-5.3"
+}

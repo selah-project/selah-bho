@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ ⟨את⟩ ई बात करऽ: राजा सभ के हटाव, हर एक आपन जगह से, आ ओकरा सभ के जगह पखा (हाकिम) रख।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "हटाव"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा सभ के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "आपन जगह से"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "आ रख"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "पखा"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "ओकरा सभ के जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T19:45:08.504529300Z",
+  "model": "glm-5.3"
+}

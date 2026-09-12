@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 25:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "सतरहवाँ खातिर योश्बेकाशा, ओकर बेटा आ ओकर भाई — बारह गो रहलें।",
+  "tokens": [
+    {
+      "surface": "לשבעה",
+      "gloss": "सतरहवाँ खातिर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "सतरह"
+    },
+    {
+      "surface": "לישבקשה",
+      "gloss": "योश्बेकाशा"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:39.203671172Z",
+  "model": "glm-5.3"
+}

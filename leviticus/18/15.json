@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तोहार बहू के नंगापन मत खोलब; ऊ तोहार बेटा के औरत बाड़ी — ओकर नंगापन मत खोलब।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगापन"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "तोहार बहू के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोलब"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहार बेटा के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बाड़ी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोलब"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ओकर नंगापन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:41.323626086Z",
+  "model": "glm-5.3"
+}

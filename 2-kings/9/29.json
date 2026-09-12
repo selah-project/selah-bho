@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ योराम, अहाब के बेटा, के ग्यारहवाँ साल में अहज्याह यहूदा पर राज करे लगल।",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "आ …साल में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "योराम के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "अहाब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करे लगल"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "अहज्याह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:50:01.756125437Z",
+  "model": "glm-5.3"
+}

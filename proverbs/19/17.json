@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "जे गरीब पर अनुग्रह करेला, ऊ यहवे के उधार देला, आ ओकर बदला ओकरा ओ चुकता करेला।",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "उधार देला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "अनुग्रह करेला"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "आ ओकर बदला"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "चुकता करेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:31.274272315Z",
+  "model": "glm-5.3"
+}

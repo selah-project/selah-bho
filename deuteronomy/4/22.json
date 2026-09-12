@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "कारण हम एहिजे धरती में मरब, हम ⟨את⟩ यर्देन पार ना करब; बाकिर रउआ सभे पार करब आ एहिजे नीकी धरती के ⟨את⟩ कब्जा करब।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरब"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहिजे"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्देन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "बाकिर रउआ सभे"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार करब"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "आ कब्जा करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "नीकी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एहिजे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:14.627792260Z",
+  "model": "glm-5.3"
+}

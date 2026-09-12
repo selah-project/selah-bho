@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "यशैयाहु खिजकियाहु से कहलन, “सुनऽ यहवे सेबाओत के बचन।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशैयाहु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकियाहु"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओत"
+    }
+  ],
+  "timestamp": "2026-09-11T20:11:39.108101771Z",
+  "model": "glm-5.3"
+}

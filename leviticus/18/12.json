@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तोहार पिता के बहिन के नाङापन तूँ ना उघाड़ब, काहेकि ऊ तोहार पिता के मांस ह।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नाङापन"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहार पिता के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "उघाड़ब"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तोहार पिता के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:01.088509599Z",
+  "model": "glm-5.3"
+}

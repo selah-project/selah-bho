@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ऊ ओहि दिन यहवे के बलि दिहलें, ओ लूट के माल में से जवन ऊ ले आइल रहलें — सात सौ गाय-बैल आ सात हजार भेड़।",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "बलि दिहलें"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "लूट के माल"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ले आइल"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय-बैल"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "आ भेड़"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:05.370149646Z",
+  "model": "glm-5.3"
+}

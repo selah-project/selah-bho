@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ई होखी कि ओ मनई जे हमरा ओ बात सभ ना सुनेला जे ऊ हमर नाम से कहेला, हम ओकर सँ हिसाब लेब।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ ई होखी"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ मनई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "हमर नाम से"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "हिसाब लेब"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ओकर सँ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:56.113984743Z",
+  "model": "glm-5.3"
+}

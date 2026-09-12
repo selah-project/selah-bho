@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "जत्तू के बेटालोग, नौ सौ पैंतालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "जत्तू"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "आ चालीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आ पाँच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:56.573788414Z",
+  "model": "glm-5.3"
+}

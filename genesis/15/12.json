@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 15:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ सूरज डूबत समय, गहिरा निंदा अबराम पर पड़ल, आ देखऽ — एक घना अँधियार के डर ओकर ऊपर गिरत रहल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "डूबत समय"
+    },
+    {
+      "surface": "ותרדמה",
+      "gloss": "गहिरा निंदा"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "पड़ल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अबराम"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "डर"
+    },
+    {
+      "surface": "חשכה",
+      "gloss": "घना अँधियार के"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "गिरत रहल"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:19:14.756166313Z",
+  "model": "glm-5.3"
+}

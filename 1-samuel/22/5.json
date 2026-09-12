@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ नबी गाद दाऊद से कहलन, “गढ़ी में मत बइठऽ; चलऽ आ यहूदा के धरती में जाओ।” तब दाऊद चललन आ खेरेत के जंगल में आइलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बइठऽ"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "गढ़ी में"
+    },
+    {
+      "surface": "לך",
+      "gloss": "चलऽ"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "आ जाओ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुँहार खातिर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "खेरेत के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:07.968215060Z",
+  "model": "glm-5.3"
+}

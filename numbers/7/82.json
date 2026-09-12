@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरी के एक बोका, पाप-बलि खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:56.986071608Z",
+  "model": "glm-5.3"
+}

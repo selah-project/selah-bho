@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ यहवे मोशे से बोललन, ई कहिके —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T17:49:20.242605932Z",
+  "model": "glm-5.3"
+}

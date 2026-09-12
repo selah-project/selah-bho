@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ओकर भाई के नाउँ यूबाल रहल — ऊ हर तार बाजावेवाला (किन्नोर आ उगाब) के पिता रहलें।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आ नाउँ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई के"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "यूबाल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "बाजावेवाला"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "किन्नोर"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "आ उगाब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:11.482529846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "फरओन याकोब से कहलन — “तोहार जिनगी के सालन के दिन कतना ⟨बाड़ें⟩?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरओन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कतना"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שני",
+      "gloss": "सालन के"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "तोहार जिनगी के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:35:18.327165950Z",
+  "model": "glm-5.3"
+}

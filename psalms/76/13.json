@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 76:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 76,
+  "translation": "ऊ सरदारन के प्राण के काट देलन; ऊ धरती के राजा सभे खातिर भय के बा।",
+  "tokens": [
+    {
+      "surface": "יבצר",
+      "gloss": "काट देलन"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "सरदारन"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भय के बा"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजा सभे खातिर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:24.590748456Z",
+  "model": "glm-5.3"
+}

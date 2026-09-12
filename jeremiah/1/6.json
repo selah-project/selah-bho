@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ हम कहली: “आहा! अदोनाय यहवे, देखऽ, हम बोले ना जानेली, काहे कि हम लरिका बनी।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आ हम कहली"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "आहा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानेली"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נער",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:21:56.571708277Z",
+  "model": "glm-5.3"
+}

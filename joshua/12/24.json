@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "तिर्सा के राजा, एगो; सब राजा सभ इकतीस रहलें।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "तिर्सा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा सभ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "आ एक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:50:43.150374335Z",
+  "model": "glm-5.3"
+}

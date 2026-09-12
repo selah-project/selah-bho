@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक सोना के कचौड़ा, दस शेकेल के, धुप से भरल।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "कचौड़ा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धुप"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:50.391273037Z",
+  "model": "glm-5.3"
+}

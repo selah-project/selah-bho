@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ओकरा गावल जाउ, ओकरा बाजा बजावल जाउ, ओकर सब अचरज के कामन के बारे में बतावल जाउ।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गावल जाउ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "बाजा बजावल जाउ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "बतावल जाउ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब … के बारे में"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "अचरज के कामन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:26.386445951Z",
+  "model": "glm-5.3"
+}

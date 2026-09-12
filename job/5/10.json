@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "जे धरती के अागू बरखा देला आ गली सभन के अागू पानी भेजेला।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "जे देला"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "बरखा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के अागू"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अागू (उपरही)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "आ भेजेला"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के अागू"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अागू (उपरही)"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गली सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:04.980363213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ओकरे सामने के उजियाला से आग के अंगारा भड़क गइल।",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "उजियाला से"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ओकरे सामने के"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "भड़क गइल"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "अंगारा"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:41.834078281Z",
+  "model": "glm-5.3"
+}

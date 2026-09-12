@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ मूसा ⟨את⟩ सब बातन — इनहन — इसरायेल के सब के आगे बोलल पूरा कइलन।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "पूरा कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोले खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बातन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातन के"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इनहन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:19.468588360Z",
+  "model": "glm-5.3"
+}

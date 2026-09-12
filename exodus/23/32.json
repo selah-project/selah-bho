@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "इनहन से आ इनहन के एलोहीम से तूँ संधि ना काटब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "तूँ काटब"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनहन से"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "आ इनहन के एलोहीम से"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "संधि"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:58.781456464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "एह बात के याद रखऽ आ हिम्मत करऽ; धकेलाइत लोगो, एकरा मन पर लवटा लऽ।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एह बात के"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "आ हिम्मत करऽ"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "लवटा लऽ"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "धकेलाइत लोगो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:15:21.951867531Z",
+  "model": "glm-5.3"
+}

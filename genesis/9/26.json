@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ कहलन: धन्य बाड़ें यहवे, शेम के एलोहीम; आ कनान उनकर दास होखेला।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ होखेला"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उनकर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:00.486499902Z",
+  "model": "glm-5.3"
+}

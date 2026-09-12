@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ यहवे के बचा हमरे लग आइल, ई कहत:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरे लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहत"
+    }
+  ],
+  "timestamp": "2026-09-11T20:56:44.532392984Z",
+  "model": "glm-5.3"
+}

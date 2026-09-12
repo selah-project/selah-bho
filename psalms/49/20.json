@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "ऊ आपन पूरखा लोग के पीढ़ी में जाई; ऊ लोग सदा खातिर उजियाला ना देखी।",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "में"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "आपन पूरखा लोग के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखी"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उजियाला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:23.518371794Z",
+  "model": "glm-5.3"
+}

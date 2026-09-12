@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ बेला के बेटा भइल — अद्दार, आ गेरा, आ अबिहूद।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आ … भइल"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "बेला के"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "अद्दार"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "आ गेरा"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "आ अबिहूद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:18.705316486Z",
+  "model": "glm-5.3"
+}

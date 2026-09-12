@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "ऊ सदा ला झगड़ा ना करेला, आ ना अपन कोप के युग-भर राखेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "झगड़ा करेला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "युग-भर"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "राखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:35.382276521Z",
+  "model": "glm-5.3"
+}

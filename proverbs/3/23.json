@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "तब तूँ अपना रास्ता निश्चिन्ते चलब, आ तोहार पाँव ना ठोकाई।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "चलब"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्ते"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "अपना रास्ता"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "आ तोहार पाँव"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ठोकाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:37.289387504Z",
+  "model": "glm-5.3"
+}

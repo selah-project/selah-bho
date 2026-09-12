@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "इनहन के अपना मन पर हमेशा बाँध, इनहन के अपना गला पर बाँध ले।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "इनहन के बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "अपना मन"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "हमेशा"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "इनहन के बाँध ले"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "अपना गला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:01.214019440Z",
+  "model": "glm-5.3"
+}

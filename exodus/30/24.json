@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ कसिया पाँच सौ — पबितर जगह के शेकेल के हिसाब से — आ जैतून के तेल एक हीन।",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "आ कसिया"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "शेकेल के हिसाब से"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पबितर जगह"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "आ तेल"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "הין",
+      "gloss": "एक हीन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:04.740424442Z",
+  "model": "glm-5.3"
+}

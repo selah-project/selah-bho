@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "उत्तर के दुआर के आगे लमाई सौ कन्न हल्ला रहल, आ चौड़ाई पचास कन्न।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कन्न"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर के"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर के"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "आ चौड़ाई"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कन्न"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:17.930527369Z",
+  "model": "glm-5.3"
+}

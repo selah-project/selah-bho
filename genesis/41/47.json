@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ धरती सात बरिस के बहुतायत में लहूर-मुट्ठी भर के फसल दिहलस।",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "आ धरती दिहलस"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "सात…में"
+    },
+    {
+      "surface": "שני",
+      "gloss": "बरिस के"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "बहुतायत"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "लहूर-मुट्ठी भर के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:32:54.616359567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "आ हम सारा दिन मार खाइली आ हमर फटकारा हर भोर होखे लागल।",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "आ हम भइली"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "मार खाइली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "आ हमर फटकारा"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "हर भोर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:40:58.940552234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "हे मनुख्ख के बेटा, पहेली पूछऽ आ मसल बतावऽ इस्राएल के घर के आगे।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख्ख"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "पूछऽ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "पहेली"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "आ ... बतावऽ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मसल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:33.930175364Z",
+  "model": "glm-5.3"
+}

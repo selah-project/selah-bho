@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "पहिला महिना में, महिना के चौदह के, दुनों साँझ के बीच ⟨बा⟩ — पसह यहवे खातिर।",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "महिना में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "चार (में)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस (के)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिना के"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "दुनों साँझ के"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:11.949752495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 39:22",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "ऊ डर उपर हँसेला आ घबराबे के ना; तलवार के आगू से फेर ना लवटेला।",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "हँसेला"
+    },
+    {
+      "surface": "לפחד",
+      "gloss": "डर उपर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "घबराबे के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फेर लवटेला"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के आगू से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:45.188878151Z",
+  "model": "glm-5.3"
+}

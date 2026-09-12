@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ आसा यहवे के नजर में सही काम कइलन, जइसन ओकर पितामह दाऊद कइलें।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ … कइलन"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "सही काम"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "नजर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "जइसन दाऊद"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर पितामह"
+    }
+  ],
+  "timestamp": "2026-09-11T19:42:04.977247421Z",
+  "model": "glm-5.3"
+}

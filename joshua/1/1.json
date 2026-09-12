@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आभा भऽ होल, यहवे के सेवक मोशे के मरे के बाद, कि यहवे नून के बेटा यहोशुआ से — मोशे के सेवक — कहलन, एह बात कहिते:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आभा भऽ होल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरे के"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "एह बात कहिते"
+    }
+  ],
+  "timestamp": "2026-09-11T18:48:08.268454875Z",
+  "model": "glm-5.3"
+}

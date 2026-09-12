@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ अब ऊ रोपाइल बाड़ी जंगल में, सूखल आ पियासल धरती में।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "रोपाइल बाड़ी"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "सूखल"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "आ पियासल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:39.068556228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ हम जबाब दइलियनि आ ओ दूत से कहलियनि जे हमरा से बोलत रहलें — “ई का हवे, अदोनाय?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "आ हम जबाब दइलियनि"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहलियनि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ओ दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "जे बोलत रहलें"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:04.492492630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "हाय ओ पंखा के फड़फड़ाहट वाली धरती के, जऊन नदी सभा के ओ पार कुश में बा।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "फड़फड़ाहट"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "पंखा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ओ पार"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "नदी सभा के"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कुश"
+    }
+  ],
+  "timestamp": "2026-09-11T20:05:49.427694779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "इसराएल के पूरा सभा ⟨את⟩ ओकरा करेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:35.742353249Z",
+  "model": "glm-5.3"
+}

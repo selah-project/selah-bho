@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "तीन गो के नीचे धरती थरथरावेले, आ चार गो के नीचे ऊ सह ना पावेले।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन गो"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "थरथरावेले"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "आ के नीचे"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार गो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "पावेले"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "सह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:40.957450007Z",
+  "model": "glm-5.3"
+}

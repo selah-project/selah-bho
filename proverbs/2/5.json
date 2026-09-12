@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "तब रउआ यहवे के भय-मान के समझब, आ एलोहीम के जानकारी के पाब।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "समझब"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय-मान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आ जानकारी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पाब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:33.001226684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "एही से, हे गवाह सभे, यहवे के बचन सुनऽ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "हे गवाह सभे"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:01:39.055566788Z",
+  "model": "glm-5.3"
+}

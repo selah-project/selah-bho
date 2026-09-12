@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ तेरह से चललें, आ मित्का (मित्का) में डेरा डाललें।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "तेरह से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललें"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "मित्का में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:05.352909235Z",
+  "model": "glm-5.3"
+}

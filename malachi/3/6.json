@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहें कि हम यहवे — हम बदलल नइखी; आ रउआ, याकोब के लरिका, नष्ट ना भइल रहनी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "बदलल नइखी"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आ रउआ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लरिका"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "नष्ट भइल नइखव"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:25.974444817Z",
+  "model": "glm-5.3"
+}

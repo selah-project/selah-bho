@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जक्कय के बेटालोग सात सौ आ साठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "जक्कय"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.499177523Z",
+  "model": "glm-5.3"
+}

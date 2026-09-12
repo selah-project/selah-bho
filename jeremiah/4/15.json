@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "काहें कि दान से एगो आवाज बतावेले, आ एप्राइम (एफ्राइम) के पहाड़ से आफत पहुँचावेले।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "קול",
+      "gloss": "एगो आवाज"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "बतावेले"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "दान से"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "आ पहुँचावेले"
+    },
+    {
+      "surface": "און",
+      "gloss": "आफत"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाड़ से"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्राइम के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:25.669795670Z",
+  "model": "glm-5.3"
+}

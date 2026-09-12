@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आदम जे औरत से जनमेला, ओकर दिन छोट होखेलें आ ऊ खफगी से भरल रहेला।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "आदम"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "जनमेला"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत से"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ भरल"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "खफगी से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:12.387077603Z",
+  "model": "glm-5.3"
+}

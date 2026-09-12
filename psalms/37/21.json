@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "बुरा मनई उधार लेला आ चुकावेला ना, बाकिर भला मनई दया करेला आ देला।",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "उधार लेला"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा मनई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "चुकावेला"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "बाकिर भला मनई"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "दया करेला"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "आ देला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:25.755069562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ यहवे बिलाम के मुँह में एगो बचन रखलन आ कहलनस् — बलाक के पास लौट के जाउ आ एहने कहउ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "आ ... रखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "एगो बचन"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "के मुँह में"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलनस्"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौट के जाउ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बलाक"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "आ एहने"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "कहउ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:30.691117669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 6:19",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ सब चाँदी आ सोना, आ पीतल के बरतन आ लोहा — पवित्र बा, ऊ यहवे खातिर; यहवे के खजान में आई।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "आ सोना"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "आ … बरतन"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "पीतल के"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "आ लोहा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "אוצר",
+      "gloss": "खजान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:48:22.626484254Z",
+  "model": "glm-5.3"
+}

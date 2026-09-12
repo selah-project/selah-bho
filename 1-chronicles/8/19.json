@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ याकीम, आ ज़िखरी, आ ज़ब्दी।",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "आ याकीम"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "आ ज़िखरी"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "आ ज़ब्दी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.918049091Z",
+  "model": "glm-5.3"
+}

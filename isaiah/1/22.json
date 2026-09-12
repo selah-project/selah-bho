@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तोर चाँदी खार बनि गईल; तोर मदिरा पानी में मिलावटी बा।",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "तोर चाँदी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनि गईल"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "खार"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "तोर मदिरा"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "मिलावटी"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:59:22.507345356Z",
+  "model": "glm-5.3"
+}

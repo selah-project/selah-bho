@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ रउआ ⟨את⟩ गाय के यहवे के आगे, मिलन-तम्बू के दुआर पर काट डारब।",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "आ रउआ … काट डारब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गाय"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:24.318534059Z",
+  "model": "glm-5.3"
+}

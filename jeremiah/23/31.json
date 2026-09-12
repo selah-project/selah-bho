@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 23:31",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "देखऽ, हम ओ नबी सभे के विरुद्ध बनी — यहवे के वचन — जे लोग आपन जिभ लेके कहेला: “वचन।”",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "הנביאם",
+      "gloss": "ओ नबी सभे"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הלקחים",
+      "gloss": "जे लेवेवाला"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "आपन जिभ"
+    },
+    {
+      "surface": "וינאמו",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:31:54.001907247Z",
+  "model": "glm-5.3"
+}

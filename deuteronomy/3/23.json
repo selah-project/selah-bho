@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ हम ओहि समय यहवे से बिनती कइली, कहे के —",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "बिनती कइली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहे के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:26.620217426Z",
+  "model": "glm-5.3"
+}

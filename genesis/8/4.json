@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ नाव सातवाँ महीना में, महीना के सतरहवाँ दिन, अरारात के पहाड़न पर टिक गइल।",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "टिक गइल"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "नाव"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महीना में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "पहाड़न"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "अराराट"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:32.751606540Z",
+  "model": "glm-5.3"
+}

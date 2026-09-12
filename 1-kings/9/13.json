@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 9:13",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ऊ कहलन, “हे हमार भाई, ई कवन नगर बाड़ें जिन्हन के रउआ हम के दिअलऽ?” आ ऊ ओकरा आज के दिन ले काबूल-धरती के नाँव धरलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कवन"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर सभ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "दिअलऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम के"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमार भाई"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "नाँव धरलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כבול",
+      "gloss": "काबूल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T19:39:10.183166076Z",
+  "model": "glm-5.3"
+}

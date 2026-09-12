@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ यहवे ⟨את⟩ अय्योब के जवाब दिहलन आ कहलन:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अय्योब"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:08.580139976Z",
+  "model": "glm-5.3"
+}

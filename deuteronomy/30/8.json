@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ तूँ फेर लवटबऽ, यहवे के आवाज के सुनबऽ, आ ⟨את⟩ ओकर सब आज्ञा के मानबऽ जवन हम आज तोहा के आज्ञा देत बानी।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फेर लवटबऽ"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "सुनबऽ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाज के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "मानबऽ ... आ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर सब आज्ञा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ओकर आज्ञा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "आज्ञा देत बानी"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:53.511203657Z",
+  "model": "glm-5.3"
+}

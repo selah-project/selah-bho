@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "रआयाह के लइका, रत्सीन के लइका, नकोदा के लइका।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "रआयाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रत्सीन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नकोदा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.414322201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "काहे कि रउआ सभे एही समय तक ओ विश्राम-स्थान आ ओ बिरासत के ओर नइखन पहुँचल जवन यहवे रउर एलोहीम रउआ सभे के देवेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखन"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "पहुँचल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "एही समय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ओ विश्राम-स्थान"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ के ओर"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "ओ बिरासत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "रउर एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ सभे के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:20.887586702Z",
+  "model": "glm-5.3"
+}

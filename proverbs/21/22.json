@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "बलवान लोगन के नगर पर ग्यानी चढ़ल आ ओकर भरोसा के ताकत गिरा देला।",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "बलवान लोगन के"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ल"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ग्यानी"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "आ गिरा देला"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "भरोसा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.305995807Z",
+  "model": "glm-5.3"
+}

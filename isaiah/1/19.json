@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "जउर रउआ चाहब आ सुनब, त धरती के नीक फल खाब।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जउर…त"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "रउआ चाहब"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "आ सुनब"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक फल"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:03.407023833Z",
+  "model": "glm-5.3"
+}

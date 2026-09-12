@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ रउआ पबितर बाड़ें, यिस्राएल के स्तुति में बैठल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ रउआ"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पबितर बाड़ें"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बैठल बाड़ें"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "स्तुति में"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:58.342023458Z",
+  "model": "glm-5.3"
+}

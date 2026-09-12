@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "लेवी के ऊपर खशब्याह कमुएल के बेटा; अहरोन के ऊपर त्सादोक।",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "लेवी के ऊपर"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "खशब्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "कमुएल"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन के ऊपर"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:09.312947724Z",
+  "model": "glm-5.3"
+}

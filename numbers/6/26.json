@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "यहवे आपन मुखँ तोहार ऊपर उठावेलन आ तोहार खातिर शालोम रखेलन।",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "उठावेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आपन मुखँ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "आ ... रखेलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:39.190124348Z",
+  "model": "glm-5.3"
+}

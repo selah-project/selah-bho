@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ यहवे पूरा धरती के ऊपर राजा बनिहें; ओही दिने यहवे एक रहिहें आ ओकर नाम एक रहिहें।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ होखिहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बनिहें"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही दिने"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहिहें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "आ ओकर नाम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:53.044609534Z",
+  "model": "glm-5.3"
+}

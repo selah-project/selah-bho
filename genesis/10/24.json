@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ अर्पकशद ⟨את⟩ शेलाह के जनम दिहलन, आ शेलाह ⟨את⟩ एबर के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "आ अर्पकशद"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेलाह"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलाह"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "आ शेलाह"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:01.487280031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "काहें कि बात बहुत बाड़ी जे हेबल बढ़ावेली; आदमी के का बेसी मिलेला?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बाड़ी"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "बढ़ावेली"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "बेसी"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "आदमी के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:52.132402452Z",
+  "model": "glm-5.3"
+}

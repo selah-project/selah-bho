@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "फैसला में कुकरम ना करा; गरीब के चेहरा ना उठावा, बड़ आदमी के चेहरा के ना पूजऽ; न्याय से आपन संगी के फैसला करा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करा"
+    },
+    {
+      "surface": "עול",
+      "gloss": "कुकरम"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "फैसला में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "चेहरा उठावा"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "पूजऽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ आदमी के"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "न्याय से"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "फैसला करा"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "आपन संगी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:40.204038685Z",
+  "model": "glm-5.3"
+}

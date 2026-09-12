@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अय्योब आपन मसाल उठावे के बढ़ाईन आ कहिस:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "बढ़ाईन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठावे के"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "आपन मसाल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहिस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:23.834560608Z",
+  "model": "glm-5.3"
+}

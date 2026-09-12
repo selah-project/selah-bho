@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "पाँच परदा एक दूसरा से जुड़ल रहीं, आ पाँच परदा एक दूसरा से जुड़ल रहीं।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "रहीं"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जुड़ल"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक दूसरा से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जुड़ल"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक दूसरा से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:49:14.745230552Z",
+  "model": "glm-5.3"
+}

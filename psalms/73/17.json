@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "जब ले हम एल के पबितर अस्थान सभे में आइलन, तबे हम समझलन कि ऊ सभे के अंत का होखी।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "पबितर अस्थान सभे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "समझलन"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ऊ सभे के अंत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:49.580082471Z",
+  "model": "glm-5.3"
+}

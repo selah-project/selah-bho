@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 36:11",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "इक्कीस साल के बेटा रहलें सिदकियाहू आपन राज करे में, आ ग्यारह साल ऊ यरूशलयिम में राज कइलन।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "आ एक"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "सिदकियाहू"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "आपन राज करे में"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "आ एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:14:51.426316749Z",
+  "model": "glm-5.3"
+}

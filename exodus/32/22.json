@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ अहारोन कहलन: मोहार अदोनाय के क्रोध ना भड़के; तूँ जानऽ ⟨את⟩ ए लोग के, काहें कि ऊ बुराई में बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "भड़के"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "मोहार अदोनाय"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ए लोग के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ए लोग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:52:22.727498422Z",
+  "model": "glm-5.3"
+}

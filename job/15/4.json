@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "हाँ, तूँ भय के तोड़ देतऽ, आ एल के आगे मनन के घटा देतऽ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "तोड़ देतऽ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "आ घटा देतऽ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "मनन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:14:26.032816748Z",
+  "model": "glm-5.3"
+}

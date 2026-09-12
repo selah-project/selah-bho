@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काहे कि कष्ट धूलि से ना निकलेला, आ मिट्टी से दुख ना उगेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "धूलि से"
+    },
+    {
+      "surface": "און",
+      "gloss": "कष्ट"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "आ मिट्टी से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "उगेला"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "दुख"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:26.946845372Z",
+  "model": "glm-5.3"
+}

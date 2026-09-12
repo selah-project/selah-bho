@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ भोर में यहवे के बात हमरा ले आइल, कहेले:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ले"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेले:"
+    }
+  ],
+  "timestamp": "2026-09-11T20:49:49.149062998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ अब जा; आ हम तोहार मुँह के साथे रहिब, आ तोहारा सिखाइब जे तूँ बोलब।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "रहिब"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तोहार मुँह"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "आ तोहारा सिखाइब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तूँ बोलब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:19:16.594050978Z",
+  "model": "glm-5.3"
+}

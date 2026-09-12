@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "बिनती बा, हे यहवे, अब बचा लऽ; बिनती बा, हे यहवे, अब सफल करियो।",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "बिनती बा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "बचा लऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "बिनती बा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "सफल करियो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:20.463761103Z",
+  "model": "glm-5.3"
+}

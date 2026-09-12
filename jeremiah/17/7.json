@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "धन्य बा ओ मनुखिया जे यहवे पर भरोसा करेला आ यहवे ओकर भरोसा बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ओ मनुखिया"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "भरोसा करेला"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ होखी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ओकर भरोसा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:40.151882848Z",
+  "model": "glm-5.3"
+}

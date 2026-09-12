@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ओ लड़की के कुछु ना करऽ — ओ लड़की के मौत के दोष नइखे; काहेकि जइसन कवनो मनुष्य आपन संगी पर चढ़ जाला आ ओकर जान ले लेला, तइसने ई गोष्ठी बा।",
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "आ ओ लड़की के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुछु"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ओ लड़की के"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "चढ़ जाला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनुष्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "ओकर जान ले लेला"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जान"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई गोष्ठी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:21.603330395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ अब देखऽ, यहवे ए तोहार नबी सभ के मुँह में झूठ के रूह रखले बा, आ यहवे तोहार ऊपर बुराई के बात कइले बा।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखले बा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "मुँह में"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "तोहार नबी सभ के"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात कइले बा"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:32.079264774Z",
+  "model": "glm-5.3"
+}

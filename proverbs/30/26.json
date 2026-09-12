@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "शफानि — अइसन जाति जेकर शक्ति नइखे, फिरउ ऊ चट्टान में आपन घर बनवलें।",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "शफानि (पहाड़ी खरगोस)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "शक्ति"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "बनवलें"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "चट्टान में"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "आपन घर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:37.489080141Z",
+  "model": "glm-5.3"
+}

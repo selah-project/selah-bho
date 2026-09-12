@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "जुवान लोग के शोभा उनकर ताकत बा, आ बूढ़ लोग के आभा सेह बाल (सफेद पागुड़ी) बा।",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "शोभा"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "जुवान लोग"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "उनकर ताकत"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आ आभा"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "बूढ़ लोग"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "सेह बाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:49.949329977Z",
+  "model": "glm-5.3"
+}

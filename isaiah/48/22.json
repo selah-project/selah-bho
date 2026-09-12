@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "“दुष्ट लोग खातिर शालोम नइखे,” यहवे कहेला।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "दुष्ट लोग खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:33:58.018509428Z",
+  "model": "glm-5.3"
+}

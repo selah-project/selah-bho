@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "एहने कहेलन यहवे, जऊ समुंदर में रस्ता देवेलन आ तेज पानी में बाट बनावेलन।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "देवेलन"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुंदर में"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "आ पानी में"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "बाट"
+    }
+  ],
+  "timestamp": "2026-09-11T20:12:53.376716648Z",
+  "model": "glm-5.3"
+}

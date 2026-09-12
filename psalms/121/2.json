@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 121,
+  "translation": "हमार मदत यहवे से बा, जे अकास आ धरती के बनावेला।",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "हमार मदत"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावेला"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आ धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:14.997415917Z",
+  "model": "glm-5.3"
+}

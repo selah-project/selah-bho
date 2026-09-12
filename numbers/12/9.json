@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ यहवे के क्रोध उनका ऊपर भड़कल, आ ऊ चलि गइन।",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "भड़कल"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनका ऊपर"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चलि गइन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:34.450039731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमर एलोहीम, हमनी का खातिर भलाई से याद रखऽ — सब कुछ जवन हम ए माने के खातिर कइली।",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी का खातिर"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भलाई से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "हम कइली"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ए माने के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एकरे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:46:39.241726375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "का इस्राएल केहू नोकर बा? का ऊ घरे पैदा भइल दास बा? माके कारन ऊ लुटावा के सामान बन गइल?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "नोकर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "पैदा भइल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "माके कारन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बन गइल"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "लुटावा के सामान"
+    }
+  ],
+  "timestamp": "2026-09-11T20:21:46.630847456Z",
+  "model": "glm-5.3"
+}

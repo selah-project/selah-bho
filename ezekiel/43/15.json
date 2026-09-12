@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ हार-एल चारि हाथ ⟨ऊँच⟩; आ अरिएल से आ ऊपर ले चारि सींग।",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "आ हार-एल"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "आ अरिएल से"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "आ ऊपर ले"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "सींग"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:49.552155020Z",
+  "model": "glm-5.3"
+}

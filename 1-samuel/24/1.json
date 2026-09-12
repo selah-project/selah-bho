@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ दाऊद उहाँ से चढ़ गइलन आ एन-गेदी (एन-गेदी) के गढ़ सभ में बस गइलन।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ गइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "משם",
+      "gloss": "उहाँ से"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बस गइलन"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "गढ़ सभ में"
+    },
+    {
+      "surface": "עין",
+      "gloss": "एन-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गेदी"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:37.980857589Z",
+  "model": "glm-5.3"
+}

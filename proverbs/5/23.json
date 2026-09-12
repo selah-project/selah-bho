@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ऊ मरी — कवनो अनुशासन के बिना — आ ओकर मूर्खता के बहुते में ऊ भटक जाई।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरी"
+    },
+    {
+      "surface": "באין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासन के"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "आ बहुते में"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "ओकर मूर्खता के"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "भटक जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:42.694598013Z",
+  "model": "glm-5.3"
+}

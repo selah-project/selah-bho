@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ ओइजहान के छाती-पट्टी पर जंजीर बनान — वलावल, डोरी के काम के, खरा सोना के।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "बनान"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टी"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "जंजीर"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "वलावल"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम के"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "डोरी के"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:55:36.604497200Z",
+  "model": "glm-5.3"
+}

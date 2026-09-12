@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कैनान, महललएल, यरेद —",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "कैनान"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललएल"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "यरेद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:17.404719661Z",
+  "model": "glm-5.3"
+}

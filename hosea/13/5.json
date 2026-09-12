@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "मरुभूमि में, तड़ित-सूखल धरती में हम तोहाँ जानलीं।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "तोहाँ जानलीं"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमि में"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "तड़ित-सूखल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:11:15.508885392Z",
+  "model": "glm-5.3"
+}

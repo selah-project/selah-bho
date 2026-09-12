@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "यहवे, कान धरऽ हमार ओर, आ सुनऽ हमार बिरोधी लोगन के आवाज।",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "कान धरऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमार ओर"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आ सुनऽ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "के आवाज"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "हमार बिरोधी लोगन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:29:43.115875326Z",
+  "model": "glm-5.3"
+}

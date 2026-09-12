@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "सात के हिस्सा दे आ आठों के दे, काहे कि रउआ ना जानत बानी का बिपत्ति धरती पर आवे।",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "सात के"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ ...ो के"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "आठों के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "जानत बानी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बिपत्ति"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:01.954422871Z",
+  "model": "glm-5.3"
+}

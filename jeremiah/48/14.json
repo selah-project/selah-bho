@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "कइसन कहऽ ला — “हमनी का बलवान बानी, आ लड़ाई खातिर ताकतवर मरद”?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइसन"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "कहऽ ला"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "आ ... के मरद"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ताकतवर"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:47.246962261Z",
+  "model": "glm-5.3"
+}

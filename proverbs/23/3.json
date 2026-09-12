@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "ओकर स्वादिष्ट ब्यंजन सभ के चाह ना करबू, काहें कि ऊ झूठ के रोटी ह।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "चाह करबू"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "ओकर स्वादिष्ट ब्यंजन सभ के"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "काहें कि ऊ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:03.416316774Z",
+  "model": "glm-5.3"
+}

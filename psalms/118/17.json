@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "हम ना मरब, कारण हम जियब, आ याह के काम सब बताब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मरब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "जियब"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "आ बताब"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "काम सब"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:23.319986428Z",
+  "model": "glm-5.3"
+}

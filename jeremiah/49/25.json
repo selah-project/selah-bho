@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "कइसे ना छोड़ल गइल तारीफ़ वाली नगरी, हमार खुशी के नगरी!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "छोड़ल गइल"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "तारीफ़ वाली"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "हमार खुशी के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:37.616849075Z",
+  "model": "glm-5.3"
+}

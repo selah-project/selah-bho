@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ यहोयादा आपन आप आ सबे जनता आ राजा के बीच संधि कइलन, कि ऊ लोग यहवे खातिर जनता बने लें।",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "संधि"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "आपन आप आ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के बीच"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "बने लें"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:57.211812501Z",
+  "model": "glm-5.3"
+}

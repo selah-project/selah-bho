@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "याद करऽ कि हमार जिनगी साँस बा; हमार आँख फेर भलाई देखे खातिर ना लौटी।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद करऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "हमार जिनगी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौटी"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमार आँख"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे खातिर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:57.065786087Z",
+  "model": "glm-5.3"
+}

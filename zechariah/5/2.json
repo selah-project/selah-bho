@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ऊ हमसे कहलन, “तूँ का देखत बा?” हम कहलीं, “हम एगो उड़त पोथी देखत बानी, एकर लमाई बीस हाथ बा आ एकर चउड़ाई दस हाथ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखत बा"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "हम कहलीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखत बानी"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "एगो उड़त पोथी"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "उड़त"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "एकर लमाई"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "आ एकर चउड़ाई"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:14.335763954Z",
+  "model": "glm-5.3"
+}

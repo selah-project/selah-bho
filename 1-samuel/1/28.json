@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 1:28",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ हम भी ओकरा यहवे के हवाले कइली; जवन दिन ले ऊ रहल, ऊ यहवे के हवाले बा; आ ऊ होते यहवे के आगे झुकल।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ ... भी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "השאלתהו",
+      "gloss": "हवाले कइली"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जवन सारा"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "हवाले बा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "आ झुकल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "होते"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:44.652485102Z",
+  "model": "glm-5.3"
+}

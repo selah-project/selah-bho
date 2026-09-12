@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ माटी ओहने लौटेला धरती पर जइसन पहिले रहल, आ रूह लौटेला एलोहीम के ओर जे ओकरा दिअलन।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आ लौटेला"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "माटी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "जइसन पहिले रहल"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "आ रूह"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौटेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "दिअलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:32:11.239568851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "काहे कि नींव ढहि गईले तऽ धरमी का करी?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "नींव"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ढहि गईले"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "करी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:47.524478923Z",
+  "model": "glm-5.3"
+}

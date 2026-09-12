@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "एहने तूँ एलोहीम आ मनखे के नजर में अनुग्रह आ बढ़िया समझ पावेलह।",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "एहने तूँ पावेलह"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "आ समझ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के नजर में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "आ मनखे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:22.884202839Z",
+  "model": "glm-5.3"
+}

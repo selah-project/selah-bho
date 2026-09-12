@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "हमर सुनऽ, हे याकोब, आ इसरायल जवन हमर बलावल बाड़ल — हमई ऊ; हम पहिला, आ हमई आखिरी।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "हे याकोब"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आ इसरायल"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "हमर बलावल"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हमई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "אף",
+      "gloss": "आ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हमई"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "आखिरी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:29.580617454Z",
+  "model": "glm-5.3"
+}

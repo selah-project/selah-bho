@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "लोद, आ ओनो, गे-हाखराशिम (कारीगरन के घाटी)।",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "आ ओनो"
+    },
+    {
+      "surface": "גי",
+      "gloss": "गे"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "हाखराशिम (कारीगरन के)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:17.056033953Z",
+  "model": "glm-5.3"
+}

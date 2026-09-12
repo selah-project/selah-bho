@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "हम ⟨את⟩ सब जिनगी वालन के देखली, जे सूरज के नीचे टहलेलें — दुसरा लइका के संग, जे ओकर जगह खड़ा होखी।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब जिनगी वालन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जिनगी वालन"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "जे टहलेलें"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "लइका"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "खड़ा होखी"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:58.946557064Z",
+  "model": "glm-5.3"
+}

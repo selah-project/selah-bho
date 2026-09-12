@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ ई रहलें उनहन के नाम: रूबेन के गोत्र खातिर — शम्मुआ, ज़क्कूर के बेटा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "उनहन के नाम"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन के"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ज़क्कूर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:25.975903909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 9:22",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "एहने कइलन यहवे: समझदार आपन समझ में मगन न होवऽ, आ बलवान आपन बल में मगन न होवऽ, धनी आपन धन में मगन न होवऽ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "मगन होवऽ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "आपन समझ में"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ न"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "मगन होवऽ"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "आपन बल में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "मगन होवऽ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "בעשרו",
+      "gloss": "आपन धन में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:26:41.587905734Z",
+  "model": "glm-5.3"
+}

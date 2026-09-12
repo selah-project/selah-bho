@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ अहरोन मूसा के लगे लवटलन, मिलन-डेरा के दुआर के लगे, आ महामारी रुक गइल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लवटलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "आ महामारी"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "रुक गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:52.773268813Z",
+  "model": "glm-5.3"
+}

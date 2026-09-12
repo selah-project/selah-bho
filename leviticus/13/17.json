@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ पुरोहित ओकर देखेलन, आ देखऽ — नग उलट के सफेद हो गइल बा; तब पुरोहित ⟨את⟩ नग के साफ घोषित करेलन — ऊ साफ बा।",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "देखेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "उलटल"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नग"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "सफेद में"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "साफ घोषित करेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नग के"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नग"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ बा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:46.368018601Z",
+  "model": "glm-5.3"
+}

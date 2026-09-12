@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ उज्जिएल के बेटा रहलें: मीशाएल, एल्त्साफन आ सितरी।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जिएल"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "मीशाएल"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "एल्त्साफन"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "सितरी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:03.708202264Z",
+  "model": "glm-5.3"
+}

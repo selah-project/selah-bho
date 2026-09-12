@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "यहवे के हम आपन मन्नत पूरी करब, अबहीं, ओकर सब जनता के सोझा।",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "हम आपन मन्नत"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "पूरी करब"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "सोझा"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब … के"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर जनता"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:57.993822066Z",
+  "model": "glm-5.3"
+}

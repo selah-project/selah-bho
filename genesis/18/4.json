@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तनिक पानी लावल जाव, आ तोहार पाँव धो लिअऽ, आ गाछ के नीचे टेक लिअऽ।",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "लावल जाव"
+    },
+    {
+      "surface": "נא",
+      "gloss": "…ना"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "तनिक"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "धो लिअऽ"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "तोहार पाँव"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "टेक लिअऽ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "गाछ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:12.953262568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "अमत्स्याहू ओकर बेटा, अज़र्याह ओकर बेटा, योताम ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "अमत्स्याहू"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अज़र्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "योताम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:35.738767554Z",
+  "model": "glm-5.3"
+}

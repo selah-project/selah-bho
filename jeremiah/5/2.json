@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ अगर ऊ कहेलें “यहवे जिअत बाड़ें”, तौ जरूर ऊ झूठ पर सौगंद खावेला.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअत बाड़ें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ऊ कहेलें"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "तौ जरूर"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "झूठ पर"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "सौगंद खावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:45.928107105Z",
+  "model": "glm-5.3"
+}

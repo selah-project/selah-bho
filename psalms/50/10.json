@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "काहे कि जंगल के हरेक जानवर हमरा बा, आ हजार पहाड़न पर पशु हमरा बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा बा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "पहाड़न पर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:15.851645805Z",
+  "model": "glm-5.3"
+}

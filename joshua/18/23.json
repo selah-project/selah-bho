@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ हाअव्वीम आ हापाराह आ ओफराह।",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "आ हाअव्वीम"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "आ हापाराह"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "आ ओफराह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:29.235780364Z",
+  "model": "glm-5.3"
+}

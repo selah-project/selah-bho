@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ ऊ लेवी जवन रउआ के ढोका सभे में बा, ओकरा ना छोड़ब, काहें कि ओकर रउआ के संग कवनो हिस्सा नइखे आ विरासत नइखे।",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "आ ऊ लेवी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "रउआ के ढोका सभे में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "ओकरा छोड़ब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "आ विरासत"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के संग"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:16.479096625Z",
+  "model": "glm-5.3"
+}

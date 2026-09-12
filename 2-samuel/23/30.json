@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "बेनायाह पिरातोनी; हिद्दय गाश के नाहल से।",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "बेनायाह"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "पिरातोनी"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "हिद्दय"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "के नाहल से"
+    },
+    {
+      "surface": "געש",
+      "gloss": "गाश"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:55.921329586Z",
+  "model": "glm-5.3"
+}

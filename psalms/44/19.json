@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "हमनी के मन पीछे ना घुमल, ना हमनी के कदम तोहरा रस्ता से टाढ़ भइल।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "घुमल"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हमनी के मन"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "टाढ़ भइल"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "हमनी के कदम"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "तोहरा रस्ता"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:52.126033555Z",
+  "model": "glm-5.3"
+}

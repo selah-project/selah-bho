@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ इस्राएल के बेटा लोग ⟨את⟩ पसह के ओकरा नियत मोका पर करय।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "आ करय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पसह"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "ओकरा नियत मोका पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:04.194683868Z",
+  "model": "glm-5.3"
+}

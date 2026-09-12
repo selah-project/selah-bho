@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ ऊ ⟨את⟩ सोनहा बेदी के गोठावलन मिलन के डेरा में, पर्दा के आगे।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "गोठवलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सोनहा बेदी के"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोनहा"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "डेरा में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "पर्दा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:05.906662036Z",
+  "model": "glm-5.3"
+}

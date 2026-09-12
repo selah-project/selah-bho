@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "मुँह उन्हन के बा बाकिर ऊ बोलेलें ना; आँखि उन्हन के बा बाकिर ऊ देखेलें ना।",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर … ना"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "बोलेलें"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर … ना"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:07.209338149Z",
+  "model": "glm-5.3"
+}

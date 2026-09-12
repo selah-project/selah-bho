@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हाँ, अगर तूँ बुझार के पुकारेला, समझ खातिर तोहार आवाज उठावेला —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "बुझार के"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "पुकारेला"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "समझ खातिर"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "उठावेला (देवेला)"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "तोहार आवाज"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:28.608950536Z",
+  "model": "glm-5.3"
+}

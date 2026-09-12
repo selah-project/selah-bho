@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हम ⟨את⟩ ओहि मेहनत के देखलन जवन एलोहीम मनुखन के लड़िकन के दिहले रहलें, ओहि में खचरत रहे खातिर।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओहि मेहनत के"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ओहि मेहनत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिहले रहलें"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के लड़िकन के"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुखन"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "खचरत रहे खातिर"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओहि में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:52.801922748Z",
+  "model": "glm-5.3"
+}

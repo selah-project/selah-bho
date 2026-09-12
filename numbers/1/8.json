@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "इस्साकार खातिर नेतानेएल, त्सुआर के बेटा।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "इस्साकार खातिर"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नेतानेएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सुआर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:45.155498961Z",
+  "model": "glm-5.3"
+}

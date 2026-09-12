@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "यहूदी सभे खातिर उजियार बनल, आ खुशी, आ हर्ष, आ मान-सम्मान।",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "यहूदी सभे खातिर"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "बनल"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "उजियार"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "आ खुशी"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "आ हर्ष"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "आ मान-सम्मान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:34:02.510812212Z",
+  "model": "glm-5.3"
+}

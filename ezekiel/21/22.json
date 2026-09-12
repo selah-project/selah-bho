@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ हम भी आपन हथेली से हथेली पिटाब, आ आपन कोप शांत करब; हम यहवे बानी, हम बोल दिहनी।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ ... भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "पिटाब"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "आपन हथेली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "आ ... शांत करब"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "आपन कोप"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बोल दिहनी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:05.001574173Z",
+  "model": "glm-5.3"
+}

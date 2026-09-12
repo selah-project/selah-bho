@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ आपन धनुक तानलन आ हमार के तीर खातिर निसाना बना दिहलन।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "तानलन (धनुक रचलन)"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "आपन धनुक"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "हमार के खड़ा कइलन"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "निसाना के रूप में"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "तीर खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:13.310225059Z",
+  "model": "glm-5.3"
+}

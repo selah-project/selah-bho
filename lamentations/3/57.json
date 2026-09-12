@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "जउन दिन हम रउआ के पुकारलियन, रउआ नजदीक आइल रहनी; रउआ कहलन — “डराव ना।”",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "नजदीक आइल रहनी"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जउन दिन"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "हम रउआ के पुकारलियन"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "रउआ कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डराव"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.000077778Z",
+  "model": "glm-5.3"
+}

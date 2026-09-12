@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ मानहर ओकर आघूँ पार हो गइल; आ ऊ ओही रात में डेरा में रुकल रहलें।",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "आ पार हो गइल"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "मानहर"
+    },
+    {
+      "surface": "על",
+      "gloss": "आघूँ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर अनुहार पर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "रुकल रहलें"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "डेरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:56.234847832Z",
+  "model": "glm-5.3"
+}

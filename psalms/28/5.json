@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "काहे कि ऊ यहवे के काम के ना बूझेलें आ ओकर हाथ के काम के ना; एकरा गिरा देल जाई आ ओकर फेर से ना बनावल जाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "बूझेलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ के"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "गिरा देल जाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "बनावल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:36.725040650Z",
+  "model": "glm-5.3"
+}

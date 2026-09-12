@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ एलोहीम बिलाम के लगे आइलन आ कहलन, ई मनुष्य कोन बाड़ें जे तोहार संग बाड़ें?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार संग"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:26.439132104Z",
+  "model": "glm-5.3"
+}

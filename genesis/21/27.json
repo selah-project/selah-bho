@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 21:27",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अवराहाम भेड़ आ गाय लेके अबिमेलेक के दीन, आ दुनों मिलके समझौता कइलन।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेके"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आ गाय"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "अबिमेलेक के"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "समझौता"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:11.717586807Z",
+  "model": "glm-5.3"
+}

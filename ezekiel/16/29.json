@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 16:29",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ तूँ बढ़ाईलऽ ⟨את⟩ आपन वेश्याचार कनान के धरती ले, कस्दिम के ले, आ एहू में तूँ ना भरलऽ।",
+  "tokens": [
+    {
+      "surface": "ותרבי",
+      "gloss": "बढ़ाईलऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन वेश्याचार"
+    },
+    {
+      "surface": "תזנותך",
+      "gloss": "आपन वेश्याचार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "כשדימה",
+      "gloss": "कस्दिम"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "एहू में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "भरलऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:00.996077822Z",
+  "model": "glm-5.3"
+}

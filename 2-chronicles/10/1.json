@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ रहबाम शेकेम के गेलन, काहे कि शेकेम ⟨את⟩ ओकरा राजा बनावे खातिर सगरी इसराएल आइल रहे।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "शेकेम के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेकेम"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आइल रहे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "राजा बनावे खातिर"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:54.705485612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "ऊ दाऊद के चुनलन, आपन सेवक, आ भेड़ के बाड़ा से ओकरा लिहलन।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "आपन सेवक"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "लिहलन"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "बाड़ा से"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:09.464471831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ दाऊद जियोन के गढ़ ⟨את⟩ के कब्जा क लिहलन; ईहे दाऊद के नगर बा।",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "कब्जा क लिहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गढ़"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ईहे"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:25.586436639Z",
+  "model": "glm-5.3"
+}

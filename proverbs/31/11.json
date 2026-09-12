@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ओकर लोगा के मन ओकरा पर भरोसा करेला, आ ओकरा लाभ के कमी नइखे।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा करेला"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ओकर लोगा के"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "आ लाभ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कमी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:56.746247802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "एहने कहेलन यहवे-सेनाओं का: देखऽ, हम एलाम के कमान ⟨את⟩ तोड़ देब, ऊहेउ उनकर बल के सुरुआत।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओं का"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ देब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलाम के कमान"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "कमान"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम के"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "सुरुआत"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "उनकर बल के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:44:32.626733090Z",
+  "model": "glm-5.3"
+}

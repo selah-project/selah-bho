@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 106,
+  "translation": "तब ऊ लोग ओकर बात पर बिसवास कइलन, ओकर स्तुति गावलन।",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "बिसवास कइलन"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ओकर बात पर"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "गावलन"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ओकर स्तुति"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:45.172863766Z",
+  "model": "glm-5.3"
+}

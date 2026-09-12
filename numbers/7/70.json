@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरी के एक बदा, खतात (पाप-बलि) खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बदा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "खतात (पाप-बलि) खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:02.651108426Z",
+  "model": "glm-5.3"
+}

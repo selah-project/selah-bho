@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "छल बा आकर्षण, आ ब्यर्थ बा सुन्दरता; जे धेनाई यहवे के डरेला, ओही के तारीफ होखेला।",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "छल"
+    },
+    {
+      "surface": "החן",
+      "gloss": "आकर्षण"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "आ ब्यर्थ"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "सुन्दरता"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "धेनाई"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "डरेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "तारीफ होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:10.844752342Z",
+  "model": "glm-5.3"
+}

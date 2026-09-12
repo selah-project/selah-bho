@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ काहें ना रखलऽ तूँ ⟨את⟩ यहवे के कसम आ ⟨את⟩ ओ आज्ञा जवन हम तोहार पर देली?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "आ काहें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "रखलऽ तूँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के कसम"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "कसम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आज्ञा"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "हम देली"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार पर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:34:40.927157709Z",
+  "model": "glm-5.3"
+}

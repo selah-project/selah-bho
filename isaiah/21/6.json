@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "काहें से कि एहना हमसे अदोनाय कहलन: “जा, पहरेदार खड़ा कर; जवन ऊ देखेला ऊ कह दे।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "खड़ा कर"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "पहरेदार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ऊ देखेला"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "कह दे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:05:17.149528434Z",
+  "model": "glm-5.3"
+}

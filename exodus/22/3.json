@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जउन चोरी ओकर हाथ में जिउत मिले — गाय-बैल, गधा, भेड़ — त ऊ दुगुना चुकावे।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "मिले"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "सचमुच मिले"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "चोरी"
+    },
+    {
+      "surface": "משור",
+      "gloss": "गाय-बैल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "שה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिउत"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुगुना"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "चुकावे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:24.641656334Z",
+  "model": "glm-5.3"
+}

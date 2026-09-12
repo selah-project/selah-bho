@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 31:2",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ का हिस्सा एलोअह के ऊपर से बा, आ का विरासत शद्दय के ऊँच जगह से?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "आ का विरासत"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "ממרמים",
+      "gloss": "ऊँच जगह से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:27.772919822Z",
+  "model": "glm-5.3"
+}

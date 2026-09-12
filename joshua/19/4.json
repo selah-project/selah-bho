@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ एलतोलाद, आ बेतुल, आ खर्मा।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "आ एलतोलाद"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "आ बेतुल"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "आ खर्मा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:09.743588610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ ऊ ओकरा सभे से कहलन, “ना, बाकिर धरती के नंगाई देखे तुहूँ आइल बानी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकरा सभे से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नंगाई"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "आइल बानी"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:32:27.998515744Z",
+  "model": "glm-5.3"
+}

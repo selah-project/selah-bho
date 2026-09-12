@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ आशेर के सीमा के ऊपर, पूरबी किनारा से ले समुंदर-ओरी किनारा ले — नफ़्ताली, एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ ... के ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूरबी"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुंदर-ओरी"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ़्ताली"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:58.341257514Z",
+  "model": "glm-5.3"
+}

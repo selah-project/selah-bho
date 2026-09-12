@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "बरकतवान तोहार टोकरी आ तोहार आटा गूंधे के तस्तरी।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "बरकतवान"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तोहार टोकरी"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "आ तोहार आटा गूंधे के तस्तरी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:42.801922061Z",
+  "model": "glm-5.3"
+}

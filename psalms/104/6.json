@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "थहोम के ओकरा कपड़ा नियर ढकलऽ — पहाड़न पर पानी खड़ा रहल।",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "थहोम के"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "कपड़ा नियर"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ढकलऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़न"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "खड़ा रहल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:59.399635967Z",
+  "model": "glm-5.3"
+}

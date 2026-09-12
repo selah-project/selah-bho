@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ याकोब आपन नींद से जागल, आ कहलन: सचमुच एही जगह में यहवे बाड़ें, आ हम ना जानत रहली।",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "आ जागल"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "आपन नींद से"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बाड़ें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "जगह में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानत रहली"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:24.173321020Z",
+  "model": "glm-5.3"
+}

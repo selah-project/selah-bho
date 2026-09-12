@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ रउआ खाब आ तृप्त होखब, आ यहवे रउआ के एलोहीम ⟨את⟩ के ओ नीक धरती बर धन्य कहब जवन ऊ रउआ के देलन।",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "आ रउआ खाब"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "आ तृप्त होखब"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "आ धन्य कहब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे रउआ के एलोहीम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "रउआ के एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "बर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "ओ नीक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:27.045119506Z",
+  "model": "glm-5.3"
+}

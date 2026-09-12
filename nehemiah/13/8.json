@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ हमनी का बहुते बुरा लागल, आ हम टोबिय्याह के घर के सामान के ⟨את⟩ सगरी बर्तन कोठरी से बाहर फेंक दिहली।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "बुरा लागल"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "फेंक दिहली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सगरी बर्तन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "टोबिय्याह के"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "कोठरी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:02.706228812Z",
+  "model": "glm-5.3"
+}

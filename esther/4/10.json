@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ एस्तेर हताच के कहली आ ओकरा मार्देखाय के ओर आज्ञा दइलन —",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आ कहली"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "हताच के"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "आ ओकरा आज्ञा दइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्देखाय"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:15.591766256Z",
+  "model": "glm-5.3"
+}

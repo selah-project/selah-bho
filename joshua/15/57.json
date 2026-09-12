@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "joshua 15:57",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "हक्काइन, गिबअह आ तिमनह — दस नगर आ इनहन के गाँव।",
+  "tokens": [
+    {
+      "surface": "הקין",
+      "gloss": "हक्काइन"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "गिबअह"
+    },
+    {
+      "surface": "ותמנה",
+      "gloss": "आ तिमनह"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ इनहन के गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:11.430773893Z",
+  "model": "glm-5.3"
+}

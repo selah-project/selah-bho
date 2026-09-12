@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "झूठ सुनल बात ना उठाबू; दुष्ट के साथ आपन हाथ ना राखबू, ताकि हिंसा के गवाह बनबू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठाबू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनल बात"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "राखबू"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ताकि बनबू"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:39.187779987Z",
+  "model": "glm-5.3"
+}

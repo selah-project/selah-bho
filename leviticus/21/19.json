@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "चाहे कवनो मरद जेकरा में गोड़ के टूटल होखे, चाहे हाथ के टूटल।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "में"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूटल"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "गोड़ के"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूटल"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:14.036252993Z",
+  "model": "glm-5.3"
+}

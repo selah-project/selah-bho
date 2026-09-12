@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "समझदारी से घर बनेला, आ बूझ से ऊ सथर होखेला।",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "समझदारी से"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनेला"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "आ बूझ से"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "सथर होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:34.760577408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ ऊ लोग दूसर कुआँ खोदलन, आ ओकरा ऊपरो झगड़ा कइलन; तब ऊ ओकर नाउँ शित्नाह धरलन।",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "खोदलन"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुआँ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "झगड़ा कइलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आ ... साथे"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओकर नाउँ"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "शित्नाह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:54.861717459Z",
+  "model": "glm-5.3"
+}

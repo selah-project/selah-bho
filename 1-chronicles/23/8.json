@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "लादान के बेटा — मुखिया येहिएल, आ जेताम, आ योएल — तीन गो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "लादान के"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "येहिएल"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "आ जेताम"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "आ योएल"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:43.660525331Z",
+  "model": "glm-5.3"
+}

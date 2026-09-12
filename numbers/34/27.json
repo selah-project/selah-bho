@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ आशेर के बेकान सभे के गोत खातिर नासी अचिहुद, शेलोमी के बेटा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "गोत खातिर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेकान सभे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "अचिहुद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "शेलोमी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:49.337903209Z",
+  "model": "glm-5.3"
+}

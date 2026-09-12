@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ यरुब्बाल, योआश के बेटा, चलल गइन आ आपन घर में बस गइन।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चलल गइन"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "यरुब्बाल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बस गइन"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "आपन घर में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:58:54.456819775Z",
+  "model": "glm-5.3"
+}

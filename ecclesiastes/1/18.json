@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "काहें से कि ढेर बुद्धि में ढेर ग्लानि बा, आ जे जानकारी बढ़ावेला ओ दुख बढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ढेर … में"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ग्लानि"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "आ जे बढ़ावेला"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "बढ़ावेला"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "दुख"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:26.244587086Z",
+  "model": "glm-5.3"
+}

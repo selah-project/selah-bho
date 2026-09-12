@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ ⟨את⟩ करूब सभे के सोना से मढ़लन।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "करूब सभे के"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "करूब सभे"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:27.530666023Z",
+  "model": "glm-5.3"
+}

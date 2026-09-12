@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "हम ए धरती पर परदेसी बानी; तोहार आज्ञा सभे हमरा से ना छिपाब।",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ए धरती पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "छिपाब"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तोहार आज्ञा सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:35.088992573Z",
+  "model": "glm-5.3"
+}

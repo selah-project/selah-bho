@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 29:23",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ एक गोल रोटी, आ तेल के एक रोटी, आ एक पतला रोटी — अखमीरी रोटी के टोकरी से जवन यहवे के सामने बा।",
+  "tokens": [
+    {
+      "surface": "וככר",
+      "gloss": "आ एक गोल"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "आ एक"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल के"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ורקיק",
+      "gloss": "आ एक पतला रोटी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מסל",
+      "gloss": "टोकरी से"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "अखमीरी रोटी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:51:48.363555169Z",
+  "model": "glm-5.3"
+}

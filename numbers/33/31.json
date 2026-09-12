@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लोग मोसेरोत से चलल आ बने-याकान में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "मोसेरोत से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "बने-… में"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "याकान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:06.612144761Z",
+  "model": "glm-5.3"
+}

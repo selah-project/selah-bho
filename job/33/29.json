@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "देखऽ, ई सब किछु एल करेला — दू-तीन बेर गबर के साथे।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई किछु"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "दू-तीन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गबर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:13.414902142Z",
+  "model": "glm-5.3"
+}

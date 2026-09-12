@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "अउर हर एक बेमारी आ हर एक मार, जवन ⟨ए⟩ तोरा के ए ग्रंथ में लिखल नइखे, ऊ यहवे तोहार ऊपर चढ़ावेलन, जब ले तूँ नष्ट ना हो जाला।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "बेमारी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हर एक"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "लिखल"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ग्रंथ में"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोरा के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "चढ़ावेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "तूँ नष्ट ना हो जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:11.793606203Z",
+  "model": "glm-5.3"
+}

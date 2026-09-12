@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "बिनास से पहिले मनुष्य के मन अकड़ जाला, आ महिमा से पहिले नम्रता आवेला।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "बिनास"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "अकड़ जाला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "आ से पहिले"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "नम्रता आवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:28.323431995Z",
+  "model": "glm-5.3"
+}

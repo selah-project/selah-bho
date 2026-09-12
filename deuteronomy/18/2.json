@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ओकर भाई लोगन के बीचे में ओकर खातिर बिरासत ना रहेला — यहवे ही ओकर बिरासत बा, जइसन ऊ ओकरा से कहले रहलन।",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "आ बिरासत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीचे में"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई लोगन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ओकर बिरासत"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहले रहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:07.610593208Z",
+  "model": "glm-5.3"
+}

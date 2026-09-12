@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ऊ लोग योना के ⟨את⟩ उठालन आ समुंदर में फेंक दिहलन, आ समुंदर आपन झंझा से थम गइल।",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "उठालन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योना"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "फेंक दिहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "थम गइल"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "आपन झंझा से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:24.632500579Z",
+  "model": "glm-5.3"
+}

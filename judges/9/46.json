@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ शेकेम के मिनार के सब मालिक सुनलें, आ ऊ लोग एल-बेरित के घर के गढ़ भीतर घुस गए रहलें।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "सुनलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "मिनार"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेकेम"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "घुसलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "बेरित"
+    }
+  ],
+  "timestamp": "2026-09-11T19:00:32.674443689Z",
+  "model": "glm-5.3"
+}

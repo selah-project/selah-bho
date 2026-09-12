@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ यहवे के महिमा ओ दुआर से घर में आइल जेकर मुँह पूरुब के रास्ता के ओर रहल।",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "आ महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता के ओर"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "पूरुब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:41.903698618Z",
+  "model": "glm-5.3"
+}

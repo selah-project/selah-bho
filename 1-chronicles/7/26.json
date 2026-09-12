@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "लादन ओकर बेटा, अम्मीहूद ओकर बेटा, एलीशामा ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "लादन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मीहूद"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "एलीशामा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:25.868124312Z",
+  "model": "glm-5.3"
+}

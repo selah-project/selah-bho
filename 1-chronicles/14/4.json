@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ ए ऊ बच्चा सभे के नाव ह जऊन ओकर यरूशलयिम में भइल रहलें: शम्मुआ, आ शोबाब, नतान आ शलोमो।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ए"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाव"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "बच्चा सभे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भइल रहलें"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मुआ"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "आ शोबाब"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नतान"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "आ शलोमो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:59.218042692Z",
+  "model": "glm-5.3"
+}

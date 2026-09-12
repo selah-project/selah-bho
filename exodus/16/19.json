@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ मूसा उनिया से कहलन: “कवनो मनुख ओकरा बिहनिया तक ना बचावे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनिया से"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनुख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "बचावे"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बिहनिया"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:11.462511579Z",
+  "model": "glm-5.3"
+}

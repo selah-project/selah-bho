@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "काहेकि धर्म के ओर फेर न्याय लवटी, आ ओकरा पाछूँ सीधे मन वाला सभे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्म के ओर"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लवटी"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "आ ओकरा पाछूँ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "सीधे"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:50.091446044Z",
+  "model": "glm-5.3"
+}

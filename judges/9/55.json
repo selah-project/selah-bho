@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "judges 9:55",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ इस्रायेल के मनखन देखलन जे अबिमेलेख मर गइल, आ हरेक मनखे आपन जगह लवट गइल।",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनखन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्रायेल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेलेख"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "लवट गइल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हरेक मनखे"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "आपन जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T19:00:26.345219158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ गोशेन, आ होलोन आ गिलोह — ग्यारह नगर आ इनहन के गाँव।",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "आ गोशेन"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "आ होलोन"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "आ गिलोह"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ग्यारह (एक)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ इनहन के गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:51:58.984139988Z",
+  "model": "glm-5.3"
+}

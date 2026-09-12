@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे ओकरा से कहलन, “तोहार खातिर शालोम; डराय ना, तूँ ना मरब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डराय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:54.952963536Z",
+  "model": "glm-5.3"
+}

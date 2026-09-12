@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ऊ सभे हमार सलाह मंज़ूर ना कइलन, हमार सगरी फटकार के तिरस्कार कइलन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "मंज़ूर कइलन"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "हमार सलाह"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "तिरस्कार कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "हमार फटकार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:42.153136851Z",
+  "model": "glm-5.3"
+}

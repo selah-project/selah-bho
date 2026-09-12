@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 9:6",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ एगो ममज़र अशदोद में बसी, आ हम पलिश्ती सभ के घमंड काट दिहीं।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "बसी"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "एगो ममज़र"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "अशदोद में"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "आ हम काट दिहीं"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:54.975989657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "तब जवाब दिहलन त्सोफर हनाअमाती (नाअमा के) आ कहलन:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब जवाब दिहलन"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सोफर"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "हनाअमाती"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:38.672551887Z",
+  "model": "glm-5.3"
+}

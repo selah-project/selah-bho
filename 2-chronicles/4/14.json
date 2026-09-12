@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ⟨את⟩ आधार सभ ऊ कइलन, आ ⟨את⟩ हौद सभ ऊ कइलन, आधार सभ के ऊपर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "आधार सभ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधार सभ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हौद सभ"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "हौद सभ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधार सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:15.806715750Z",
+  "model": "glm-5.3"
+}

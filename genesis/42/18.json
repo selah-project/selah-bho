@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ तीसरा दिने योसेफ इनसे कहलन: “ई करा आ जिअऽ; हम ⟨את⟩ एलोहीम के डरेनी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "इनसे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "करा"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "आ जिअऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरेनी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:33:04.741131451Z",
+  "model": "glm-5.3"
+}

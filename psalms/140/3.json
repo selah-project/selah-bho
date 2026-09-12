@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 140,
+  "translation": "जे मन में बुराई सोचेलें, दिन भर लड़ाई खड़ा करेलें।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "सोचेलें"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "मन में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "भर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "खड़ा करेलें"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "लड़ाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:09.769161715Z",
+  "model": "glm-5.3"
+}

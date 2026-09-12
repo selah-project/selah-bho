@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "एहना कहलन अदोनाय यहवे ए हड्डिन के: देखऽ, हम रउआ में रूह ले आवत बानी, आ रउआ जिअ जाब।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "ए हड्डिन के"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ले आवत बानी"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "रउआ में"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "आ रउआ जिअ जाब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:03:34.216936547Z",
+  "model": "glm-5.3"
+}

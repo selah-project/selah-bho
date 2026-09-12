@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तरवार के घायल लोग भूख से घायल लोगन से बढ़िया रहलें; काहेकि ई लोग खेत के उपज के ना होखे से छलनी होखत बहत जालें।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "घायल लोग"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "घायल लोगन"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भूख"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "काहेकि ई लोग"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "बहत जालें"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "छलनी होखत"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "उपज"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:27:05.358981815Z",
+  "model": "glm-5.3"
+}

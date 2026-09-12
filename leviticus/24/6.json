@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ तूँ ⟨את⟩ इनहन के दू पँत्ती में रखबू — पँत्ती में छह-छह — शुद्ध मेज पर, यहवे के सामने।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "आ तूँ रखबू"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "इनहन के"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "पँत्ती"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह-छह"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "पँत्ती"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:15.038616661Z",
+  "model": "glm-5.3"
+}

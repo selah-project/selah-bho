@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ नूह महाप्रलय के बाद तीन सौ पचास बरिस जिइलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आ जिइलन"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "महाप्रलय"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:00.486802914Z",
+  "model": "glm-5.3"
+}

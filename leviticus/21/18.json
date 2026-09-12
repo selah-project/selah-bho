@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "काहें से कि जेकरा में दोष बा, अइसन कवनो मरद ना आवे — अँधा मरद, चाहे लँगड़ा, चाहे चपटा नाक वाला, चाहे बेड़ा अंग वाला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "में"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अँधा"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "लँगड़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "चपटा नाक वाला"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "बेड़ा अंग वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:14.036101887Z",
+  "model": "glm-5.3"
+}

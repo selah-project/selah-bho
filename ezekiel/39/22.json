@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ जान जाई यिस्राएल के घर कि हम यहवे, ऊ लोग के एलोहीम — ओहि दिन से आ आगे ले के।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "आ जान जाई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ऊ लोग के एलोहीम"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "आ आगे ले के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:31.303801955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ऊ ऊन आ सन के खोजलस, आ आपन हथेली के चाह में काम कइलस।",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "खोजलस"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ऊन"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "आ सन"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "आ काम कइलस"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "चाह में"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "आपन हथेली के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:03.086307793Z",
+  "model": "glm-5.3"
+}

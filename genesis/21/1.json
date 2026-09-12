@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ यहवे जइसे कहले रहलें ⟨את⟩ सारा के याद कइलन, आ यहवे जइसे बोलले रहलें सारा खातिर कइलन।",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "याद कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारा"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहले रहलें"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "आ ... कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "सारा खातिर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलले रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:55.213906833Z",
+  "model": "glm-5.3"
+}

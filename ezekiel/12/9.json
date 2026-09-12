@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आदम के बेटा, का इस्राएल के घर — बगावत वाला ⟨घर⟩ — रउआ से ना कहले: रउआ का करेला?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का... ना"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहले"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "बगावत वाला"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:49:42.504657311Z",
+  "model": "glm-5.3"
+}

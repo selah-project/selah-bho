@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "सूदखोर ओकर सब चीज पर जाल धरे, आ परदेसी ओकर मेहनत के लूट लेवें।",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "जाल धरे"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "सूदखोर"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे (चीज)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "आ लूट लेवें"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ओकर मेहनत (के फल)"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:02.026965082Z",
+  "model": "glm-5.3"
+}

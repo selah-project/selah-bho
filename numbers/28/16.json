@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ पहिला महीना में, महीना के चौदह दिन के, यहवे के पेसह ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "आ महीना में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस (चौदह)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पेसह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:25.660766768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ सात दिन बीतला के बाद मबूल के पानी धरती पर आ गएल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … बीतला के बाद"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ पानी"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "मबूल के"
+    },
+    {
+      "surface": "היו",
+      "gloss": "आ गएल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:31.280007431Z",
+  "model": "glm-5.3"
+}

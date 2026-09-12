@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "सूचक दाविद के लगे आइल, कहलक — इस्राएल के मनखेमन के मन अबशालोम के पाछे हो गइल बा।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "सूचक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हो गइल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनखेमन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछे"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:27:03.104937807Z",
+  "model": "glm-5.3"
+}

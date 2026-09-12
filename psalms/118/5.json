@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "संकट से हम याह के पुकारलियन; याह हमरा चौड़ जगह में जवाब दिहलन।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "पुकारलियन"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "चौड़ जगह में"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:00.209656991Z",
+  "model": "glm-5.3"
+}

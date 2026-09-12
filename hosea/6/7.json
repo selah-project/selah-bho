@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ लोग आदम नियर समझौता टाढ़ दिहलन; ओहिजे ऊ लोग हमरा संग धोखा कइलन।",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "आ ऊ लोग"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "आदम नियर"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "टाढ़ दिहलन"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "समझौता"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "धोखा कइलन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा संग"
+    }
+  ],
+  "timestamp": "2026-09-11T21:08:59.876650227Z",
+  "model": "glm-5.3"
+}

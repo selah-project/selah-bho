@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "अउरी देवता सभ के पीछे तोहानी सभे ना जाब — तोहानी के चारों ओर के लोक सभ के देवता सभ के।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "जाब"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पीछे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता सभ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अउरी"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "के देवता सभ के"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "लोक सभ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "चारों ओर के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:54.777345717Z",
+  "model": "glm-5.3"
+}

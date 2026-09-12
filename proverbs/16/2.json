@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आदमी के सब रस्ता ओकरे नजर में साफ लागेला, बाकिर रूह सभे के तौलेला यहवे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "זך",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकरे नजर में"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "बाकिर तौलेला"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "रूह सभे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:14.648072773Z",
+  "model": "glm-5.3"
+}

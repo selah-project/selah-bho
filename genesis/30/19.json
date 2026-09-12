@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "फेर लिआ गर्भवती भइल आ याकोब खातिर छठवाँ बेटा के जनम दिहलस।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भइल"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लिआ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम दिहलस"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "छठवाँ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:53.414106526Z",
+  "model": "glm-5.3"
+}

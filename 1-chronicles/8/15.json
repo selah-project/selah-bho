@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ जेबद्याह, आ अरद आ एदेर —",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "आ जेबद्याह"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "आ अरद"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "आ एदेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:40.423951570Z",
+  "model": "glm-5.3"
+}

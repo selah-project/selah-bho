@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "आ ऊ कहेला: “याह ना देखेलन, आ याकूब के एलोहीम ध्यान ना देलन।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "आ ऊ कहेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखेलन"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ध्यान देलन"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकूब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:59.004036864Z",
+  "model": "glm-5.3"
+}

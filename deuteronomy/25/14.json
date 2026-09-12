@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "रउआ के घर में एपा आ एपा ना रहे, एक बड़ आ एक छोट।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "रउआ के घर में"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "एपा"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "आ एपा"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "आ छोट"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:52.485470028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 28:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "दरिद्र के देवइया के कमी ना रहिय, आ जऊन आपन आँखि छिपावेला ओकर बहुते श्राप रहिय।",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "देवइया"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "दरिद्र के"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "कमी"
+    },
+    {
+      "surface": "ומעלים",
+      "gloss": "आ छिपावेला"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "आपन आँखि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "מארות",
+      "gloss": "श्राप"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:25.967295090Z",
+  "model": "glm-5.3"
+}

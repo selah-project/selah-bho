@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "मूशी के बेटा — महली, आ एदेर, आ येरेमोत — तीन गो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "मूशी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "आ एदेर"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "आ येरेमोत"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन गो"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:11.991079512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 16:29",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "अगर ई लोग सबे मनई नियर मौत मरेलें, आ सबे मनई पर पड़े वाला दौरा एहिजा ऊनकर पड़े, त यहवे हमके ना भेजले रहले।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "नियर मौत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "ימתון",
+      "gloss": "मरेलें"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "आ दौरा पड़े"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "पड़े"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊनकर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "हमके भेजले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:56.833006494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ सातवाँ दिना कोहेन ⟨את⟩ ओ नगढ़ी के देखेला, आ देखऽ कि नेतेक फैलत नइखे आ ओकरा में पीतहर बान नइखे, आ नेतेक के रूप चमड़ी से गहिरा नइखे।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आ देखेला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ नगढ़ी"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ओ नगढ़ी"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिना"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैलत"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "שער",
+      "gloss": "बान"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "पीतहर"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "आ रूप"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "गहिरा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העור",
+      "gloss": "चमड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:54.462358991Z",
+  "model": "glm-5.3"
+}

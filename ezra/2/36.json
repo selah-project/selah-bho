@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "पुरोहित सभे: यदआयाह के बेटालोग, येशूआ के घर के, नौ सौ तिहत्तर।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित सभे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदआयाह"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर के"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशूआ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.498497067Z",
+  "model": "glm-5.3"
+}

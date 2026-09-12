@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ए सब के बावजूद ओकर बिस्वासघाती बहिन यहूदा पूरा मन से हमरा लौट ना आईल, बाकिर झूठा रूप से आईल — यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ आ • ए सब के बावजूद"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "लौट आईल"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "बिस्वासघाती"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "ओकर बहिन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "मन से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "झूठा रूप से"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:23.900760498Z",
+  "model": "glm-5.3"
+}

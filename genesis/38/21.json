@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 38:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "ऊ ⟨את⟩ ओकर जगह के मनईन से पूछलन, कहऽ — कतए ओ केदेसा? ऊ एनाईम में बाट के ऊपर। ऊ कहलें — इहवा कवनो केदेसा ना रहली।",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मनईन"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनईन"
+    },
+    {
+      "surface": "מקמה",
+      "gloss": "ओकर जगह के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कतए"
+    },
+    {
+      "surface": "הקדשה",
+      "gloss": "ओ केदेसा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בעינים",
+      "gloss": "एनाईम में"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहली"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "इहवा"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "केदेसा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:39.041302020Z",
+  "model": "glm-5.3"
+}

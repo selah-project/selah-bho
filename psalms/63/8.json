@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 63,
+  "translation": "काहें से कि रउआ हमार मदद रहलऽऽ, तोहार पंखा के छाँव में हम जयगान गाब।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "היית",
+      "gloss": "रहलऽऽ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "मदद"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "के छाँव में"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "तोहार पंखा"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "हम जयगान गाब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:31.506955856Z",
+  "model": "glm-5.3"
+}

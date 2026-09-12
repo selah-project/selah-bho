@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "ऊ लोग तोर जनता, हे यहवे, के कुचल देला आ तोर विरासत के दुखी करेला।",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "तोर जनता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "कुचल देला"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "आ तोर विरासत"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "दुखी करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:59.003700666Z",
+  "model": "glm-5.3"
+}

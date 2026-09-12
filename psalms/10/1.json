@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "का, यहवे, तूँ दूरे खड़ा बाट? संकट के समय में तूँ छिप जात बाट?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "तूँ खड़ा बाट"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "दूरे"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "तूँ छिप जात बाट"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "संकट के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:15.745647699Z",
+  "model": "glm-5.3"
+}

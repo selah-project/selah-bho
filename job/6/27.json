@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "हाँ, अनाथ पर पड़ाबू, आ आपन संगी खातिर गड्ढा खोदबू!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "पड़ाबू"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "आ गड्ढा खोदबू"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "आपन संगी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:25.284271220Z",
+  "model": "glm-5.3"
+}

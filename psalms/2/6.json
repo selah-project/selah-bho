@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हम आपन राजा के तय कइली जा दियूँ — जियोन पर, अपना पबितर पहाड़ पर।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "तय कइली जा दियूँ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "आपन राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "अपना पबितर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:08.313937783Z",
+  "model": "glm-5.3"
+}

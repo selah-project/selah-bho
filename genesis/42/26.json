@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ ऊ लोग ⟨את⟩ अनाज आपन गधा पर लादलस आ ओहिजा से चल दिहलस।",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "आ लादलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अनाज"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "आपन गधा"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "चल दिहलस"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिजा से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:33:14.986873388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जबकि पापी सौ बेरी बुराई करेला आ ओकर उमिर लमहर होखेला — तऽ हम जानत बानी कि एलोहीम के डेरावे वालन खातिर भलाई होखी, जे ओकरा आगे डेरावेलें।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जबकि"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पापी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ बेरी"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "आ लमहर करेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानत"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "खातिर डेरावे वालन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "डेरावेलें"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ओकरा आगे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:18.016128006Z",
+  "model": "glm-5.3"
+}

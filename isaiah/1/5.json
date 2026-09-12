@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कवना बात पर रउआ अउर मार खाब, काहे कि रउआ बेसी बगावत करेब? पूरा मुँड़ बेमार बा आ पूरा हिया दुख से भरल बा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "कवना बात पर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कवना"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "मार खाब"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "बेसी करेब"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "बगावत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुँड़"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "बेमार"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "दुख से भरल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:32:18.927938302Z",
+  "model": "glm-5.3"
+}

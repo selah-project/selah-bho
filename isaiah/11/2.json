@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ओकर ऊपर यहवे के रूह ठहरेले — बुध्दि आ समझ के रूह, सलाह आ बल के रूह, जानकारी आ यहवे के भय के रूह।",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "आ ठहरेले"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुध्दि"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "आ समझ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "आ बल"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "आ भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:04:09.272000361Z",
+  "model": "glm-5.3"
+}

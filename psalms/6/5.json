@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "लवट आ, यहवे, हमर नफश के छुड़ा; तोहार हेसेद के कारन हमरा बचाव।",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "लवट आ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "छुड़ा"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमर नफश"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "हमरा बचाव"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के कारन"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तोहार हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:54.553510892Z",
+  "model": "glm-5.3"
+}

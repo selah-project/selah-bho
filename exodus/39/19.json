@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 39:19",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ ऊ दू सोना के छल्ला बनालन आ छाती-पट्टा के दू किनारन पर रखलन — ओकर किनार पर, जवन एफोद के ओर भीतर के रहे।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "बनालन"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "छल्ला"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "किनारन"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टा के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ओकर लप किनारे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "भीतर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:19.191556917Z",
+  "model": "glm-5.3"
+}

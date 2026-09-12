@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "शिमोन के बेटा रहलें: नेमुएल, आ यामीन, यारीब, जेराख, शाऊल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "नेमुएल"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "आ यामीन"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "यारीब"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेराख"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:12.101350448Z",
+  "model": "glm-5.3"
+}

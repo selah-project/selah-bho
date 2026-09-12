@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ई यिसास्कार के परिवार गिनती के मुताबिक हवें — चार आ साठ हजार आ तीन सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "परिवार"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्कार"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "गिनती के मुताबिक"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:02.351229556Z",
+  "model": "glm-5.3"
+}

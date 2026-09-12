@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "यहवे ⟨את⟩ के सेवा करी डर के साथे, आ काँपत-काँपत खुसी मनाई।",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा करी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "डर के साथे"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "आ खुसी मनाई"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "काँपत-काँपत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:42.804797919Z",
+  "model": "glm-5.3"
+}

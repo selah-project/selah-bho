@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "जवन चट्टान रउआ के जनम दिहलन, ओकरा रउआ बिसर गइल आ ओ एल के भी बिसर गइल जे रउआ के गढ़लन।",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "रउआ के जनम दिहलन"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "बिसर"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "गइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "रउआ के गढ़लन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:12.743879519Z",
+  "model": "glm-5.3"
+}

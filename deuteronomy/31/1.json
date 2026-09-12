@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ मूसा गइलन, आ ⟨את⟩ ई बात सभ सगरी इसरायल से कहलन।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "आ गइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात सभ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:56.994090231Z",
+  "model": "glm-5.3"
+}

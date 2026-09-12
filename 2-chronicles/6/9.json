@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "बाकिर तूँ ऊ घर ना बनाबू, काहे कि तोहार लरिका जऊ मोर पेट से निकली, ऊहें मोर नाम खातिर ऊ घर बनावी।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाबू"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ऊ घर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तोहार लरिका"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "जऊ निकली"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "तोहार पेट से"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहें"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनावी"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ऊ घर"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "मोर नाम खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:18.473391569Z",
+  "model": "glm-5.3"
+}

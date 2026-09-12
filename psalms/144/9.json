@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 144,
+  "translation": "हे एलोहीम, हम रउआ खातिर नवा गीत गाबी, दस तार के नेबल पर हम रउआ खातिर बजाबी।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नवा"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "हम गाबी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ खातिर"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "नेबल पर"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "दस तार के"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "हम बजाबी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:19.195483798Z",
+  "model": "glm-5.3"
+}

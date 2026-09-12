@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "रउआ सभे अपन एलोहीम यहवे के साथे अइसन ना करहू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "रउआ सभे करहू"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के साथे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "अपन एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:21.215474954Z",
+  "model": "glm-5.3"
+}

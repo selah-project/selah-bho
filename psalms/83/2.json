@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 83,
+  "translation": "हे एलोहीम, चुप्पी ना रहऽ, खामोश ना रहऽ आ ना बइठ जाऽ, हे एल।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "चुप्पी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "खामोश रहऽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "बइठ जाऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:53.529051328Z",
+  "model": "glm-5.3"
+}

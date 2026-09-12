@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "तोहार गरीब के न्याय ओकर झगड़ा में तूँ मत टेढ़ करबू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "टेढ़ करबू"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "तोहार गरीब के"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ओकर झगड़ा में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:27.044333674Z",
+  "model": "glm-5.3"
+}

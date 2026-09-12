@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 127,
+  "translation": "जइसे बलवान के हाथ में तीर होखेलें, तइसने जवानी के लरिका।",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "जइसे तीर"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "जवानी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:15.830363516Z",
+  "model": "glm-5.3"
+}

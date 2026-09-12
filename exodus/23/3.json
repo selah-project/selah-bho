@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ गरीब मनुखिया के ओकर झगड़ा में परतिष्ठा ना देबू।",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "आ गरीब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "परतिष्ठा देबू"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ओकर झगड़ा में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:39.188237642Z",
+  "model": "glm-5.3"
+}

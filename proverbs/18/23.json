@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "गरीब बिनती कइल करेला, बाकिर धनी रूखा-रूखा जवाब देला।",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "बिनती"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "बाकिर धनी"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "जवाब देला"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "रूखा-रूखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.673402638Z",
+  "model": "glm-5.3"
+}

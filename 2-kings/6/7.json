@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "कहलन, “उठा ले।” आ ऊ हाथ बढ़वइलें आ ओकरा ले लिहलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "उठा ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ खातिर"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "बढ़वइलें"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ओकरा ले लिहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T19:48:23.732396131Z",
+  "model": "glm-5.3"
+}

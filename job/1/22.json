@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ए सब में अय्यूब पाप ना कइलन, आ एलोहीम के ओर कवनो मूर्खता ना देलकन।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ए सब में"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप कइलन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देलकन"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:05.572890096Z",
+  "model": "glm-5.3"
+}

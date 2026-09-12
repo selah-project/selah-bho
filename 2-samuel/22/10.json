@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ऊ अकास झुकवलन आ उतरलन, आ घना अँधियार ओकर गोड़ के नीचे रहल।",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "झुकवलन"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "उतरलन"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "घना अँधियार"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़ के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:28:57.946635272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ सगरी लोग चलल गइलें, हर एक आपन घर; आ दाऊद लौटल आपन घर के ⟨את⟩ आशीर्वाद देवे खातिर।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "आ चलल गइलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "आ लौटल"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "आशीर्वाद देवे खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन घर के"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:56.984641524Z",
+  "model": "glm-5.3"
+}

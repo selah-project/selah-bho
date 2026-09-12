@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "जउ दुष्ट से कहेला “तूँ भला बा”, ओकरा कौम फटकारेले जाई, जाति-जन ओकरा घिनेलें।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "दुष्ट से"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "भला"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "फटकारेलें ओकरा"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "कौम"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "घिनेलें ओकरा"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जाति-जन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:38.643318068Z",
+  "model": "glm-5.3"
+}

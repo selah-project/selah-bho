@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ छह साल तू ⟨את⟩ आपन धरती बोऽ, आ ⟨את⟩ ओकर फसल के टटोलऽ।",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "बोऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन धरती"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "आपन धरती"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "आ टटोलऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर फसल"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ओकर फसल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:48.533222542Z",
+  "model": "glm-5.3"
+}

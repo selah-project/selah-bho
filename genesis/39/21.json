@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ यहवे ⟨את⟩ यूसुफ के संग रहलन, हेसेद ओकर ओर बढ़ावलन, आ जेल-घर के सरदार के आँखि में ओकर कृपा रखलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... रहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यूसुफ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "बढ़ावलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकर ओर"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "कृपा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "जेल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:07.276700145Z",
+  "model": "glm-5.3"
+}

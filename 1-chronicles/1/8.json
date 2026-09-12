@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "हाम के संतान — कूश, मिस्रयिम (मिस्र), पूत आ कनान ⟨हवें⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "חם",
+      "gloss": "हाम"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "आ मिस्रयिम"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "पूत"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "आ कनान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:29.439310280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 4:30",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "जब संकट में तूँ, आ ई सब बात तोरा पर आ पहुँचत, दिन के अंत में तूँ यहवे अपना एलोहीम के ओर फिर लौटबू आ ओकर आवाज सुनबू।",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "संकट में"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "ומצאוך",
+      "gloss": "आ पहुँचत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "अंत में"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "फिर लौटबू"
+    },
+    {
+      "surface": "עד",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपना एलोहीम"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "सुनबू"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ओकर आवाज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:19.843110609Z",
+  "model": "glm-5.3"
+}

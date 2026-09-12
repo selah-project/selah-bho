@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ दू गो दरवाजा रहलें — एगो हेखल खातिर आ एगो पबितर जगह खातिर।",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "आ दू"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "दरवाजा"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "हेखल खातिर"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "आ पबितर जगह खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:37:44.250691687Z",
+  "model": "glm-5.3"
+}

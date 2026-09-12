@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अजूबा के मउत भ गइल; आ कालेब ⟨את⟩ एपरात के आपन खातिर बियाह कइलन, आ ऊ लोगन के ⟨את⟩ हूर के जनम दिहली।",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "मउत भ गइल"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "अजूबा के"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "बियाह कइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एपरात"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "एपरात के"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम दिहली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "लोगन के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हूर"
+    },
+    {
+      "surface": "חור",
+      "gloss": "हूर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:12.466357915Z",
+  "model": "glm-5.3"
+}

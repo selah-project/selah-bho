@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "“हे मनुख के बेटा, दू औरत रहली — एके माई के बेटी।”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माई"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एके"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहली"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:19.767857600Z",
+  "model": "glm-5.3"
+}

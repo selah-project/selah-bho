@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "बादर के ऊँचाई सभ पर चढ़ब, एल्योन से मिलत होब।",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "चढ़ब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ऊँचाई सभ"
+    },
+    {
+      "surface": "עב",
+      "gloss": "बादर के"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "मिलत होब"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "एल्योन से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:20.985463701Z",
+  "model": "glm-5.3"
+}

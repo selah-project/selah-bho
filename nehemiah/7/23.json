@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बेत्साय के बेटा, तीन सौ चौबीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "बेत्साय"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.233416778Z",
+  "model": "glm-5.3"
+}

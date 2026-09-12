@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यिस्सास्खार के बेटान के गोत्र के फौज के ऊपर नतनएल, त्सुअर के बेटा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ ऊपर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "फौज"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्सास्खार"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नतनएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सुअर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:14.067853041Z",
+  "model": "glm-5.3"
+}

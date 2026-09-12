@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "जवन के हाथ में सब जीवत के जियावा ⟨बा⟩, आ सब मनुख्ख के देह के रूह।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "के हाथ में"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जियावा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवत"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आ रूह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख्ख"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:39.522964498Z",
+  "model": "glm-5.3"
+}

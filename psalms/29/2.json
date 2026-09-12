@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "यहवे के दियऽ ओकर नाम के महिमा; यहवे के आगे पबितर सोभा में दंडवत करऽ।",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "दियऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम के"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "दंडवत करऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के आगे"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "सोभा में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबितर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:07.971037690Z",
+  "model": "glm-5.3"
+}

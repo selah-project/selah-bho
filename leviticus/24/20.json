@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "टूट के बदला टूट, आँख के बदला आँख, दाँत के बदला दाँत; जइसन ऊ मनुष्य के चोट देला, ओइसने ओकरा में दिहल जाय।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "टूट"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूट"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देला"
+    },
+    {
+      "surface": "מום",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओइसने"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "दिहल जाय"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:59.462053778Z",
+  "model": "glm-5.3"
+}

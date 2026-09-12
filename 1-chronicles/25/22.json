@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "पंद्रहवाँ खातिर येरेमोत, ओकर बेटा आ ओकर भाई — बारह गो रहलें।",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "पंद्रहवाँ खातिर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "पंद्रह"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "येरेमोत"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:39.203421694Z",
+  "model": "glm-5.3"
+}

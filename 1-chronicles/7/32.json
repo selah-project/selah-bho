@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ हेबेर ⟨את⟩ याफ्लेत, ⟨את⟩ शोमेर, ⟨את⟩ होताम आ ⟨את⟩ शुआ के जनम दिहलन — ओकर बहिन।",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "आ हेबेर"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याफ्लेत"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "याफ्लेत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शोमेर"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "शोमेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "होताम"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "होताम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शुआ"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "शुआ"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ओकर बहिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:42.712587492Z",
+  "model": "glm-5.3"
+}

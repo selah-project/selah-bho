@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "एगो दोर बा जे आपन बाप के फिटकारेला, आ ⟨את⟩ आपन माई के आशीष ना देला।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन बाप के"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "फिटकारेला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन माई के"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "आपन माई के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "आशीष देला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:48.964824700Z",
+  "model": "glm-5.3"
+}

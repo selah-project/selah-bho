@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ रउबेनी, गादी आ मनश्शे के आध गोत्र के ओर यहोशुआ बोललन, कहलन:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "रउबेनी के ओर"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "गादी के ओर"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "आ आध के ओर"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "मनश्शे के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:56.988302609Z",
+  "model": "glm-5.3"
+}

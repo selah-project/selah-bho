@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 21:42",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "ई नगर रहले — एक-एक नगर आ ओकर चारागाह ओकर चारों ओर; एही तरह ए सब नगर खातिर।",
+  "tokens": [
+    {
+      "surface": "תהיינה",
+      "gloss": "रहले"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "एक-एक"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ומגרשיה",
+      "gloss": "आ ओकर चारागाह"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "ओकर चारों ओर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही तरह"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ए सब खातिर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:54:09.668242682Z",
+  "model": "glm-5.3"
+}

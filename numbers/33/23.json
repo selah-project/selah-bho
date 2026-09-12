@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ कहेलाताह से चल गिनलां, आ शाफेर पहाड़ प डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चल गिनलां"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "कहेलाताह से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ प"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "शाफेर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:08.779364196Z",
+  "model": "glm-5.3"
+}

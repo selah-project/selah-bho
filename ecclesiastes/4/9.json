@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "दू गो एकरा से बेहतर बाड़ें, काहें कि उनन्हर के आपन मेहनत में बढ़िया बदला मिलेला।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "बेहतर बाड़ें"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "मिलेला"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनन्हर के"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "आपन मेहनत में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:43.750565436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "“हम यहवे रउआ के एलोहीम बानी, जे रउआ ला मिस्रयिम (मिस्र) के देस से, गुलामी के घर से निकाललीं।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "रउआ के एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "निकाललीं"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "गुलामी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:33.778377800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "बदकार लोगन के बात लहू के घात बइठले बा; आ सीध लोगन के मुँह ऊ लोगन के छुड़ावेला।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बदकार लोगन"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "घात बइठले"
+    },
+    {
+      "surface": "דם",
+      "gloss": "लहू"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "आ ... मुँह"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीध लोगन"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "छुड़ावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:42.181005549Z",
+  "model": "glm-5.3"
+}

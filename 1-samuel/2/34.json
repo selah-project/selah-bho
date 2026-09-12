@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 2:34",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ई तोहा खातिर चिन्ह बा जे तोहार दू बेटा पर आवेला — खोपनी आ पिनहस पर; एकही दिने दुनों मर जाहीं।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहा खातिर"
+    },
+    {
+      "surface": "האות",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "खोपनी"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "आ पिनहस"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "मरेला"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    }
+  ],
+  "timestamp": "2026-09-11T19:06:36.333288233Z",
+  "model": "glm-5.3"
+}

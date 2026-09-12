@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "आ ऊ ऊपर के बादर सभे के हुकुम दिहलन आ अकास के दुआर खोल दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "हुकुम दिहलन"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादर सभे"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ऊपर के"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "आ दुआर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोल दिहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:46.007145900Z",
+  "model": "glm-5.3"
+}

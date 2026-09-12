@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "सादोक ओकर बेटा, अहीमात्स ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "सादोक"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "अहीमात्स"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:17.917016033Z",
+  "model": "glm-5.3"
+}

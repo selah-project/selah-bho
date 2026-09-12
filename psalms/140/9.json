@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 140,
+  "translation": "यहवे, दुष्ट के मन के चाहत के ना देलऽ; ओकर साजिश के ना सिद्ध करऽ, कि ऊ ऊँच ना होखे। सेला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देलऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "मन के चाहत"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "ओकर साजिश"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "सिद्ध करऽ"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ऊ ऊँच होखे"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:46.930808216Z",
+  "model": "glm-5.3"
+}

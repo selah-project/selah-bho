@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बढ़िया समझ अनुग्रह देले; बाकिर बेइमानन के रास्ता ⟨कठिन⟩ बा।",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "समझ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देले"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "बाकिर रास्ता"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "बेइमानन के"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "⟨कठिन⟩"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:04.059940609Z",
+  "model": "glm-5.3"
+}

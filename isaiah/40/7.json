@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "घास सूख जाला, फूल मुरझा जाला, काहे कि यहवे के पवन ओकरा में फूँक मारेला; सचमुच ई परजा घास ह।",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "सूख जाला"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घास"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "मुरझा जाला"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "फूल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "पवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "फूँक मारेला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घास"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:12:30.693169444Z",
+  "model": "glm-5.3"
+}

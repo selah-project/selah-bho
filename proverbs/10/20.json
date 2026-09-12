@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "चुनल चाँदी नियर ⟨बा⟩ न्यायी के जीभ; दुष्टन के हिया तुच्छ ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "चुनल"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "न्यायी के"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टन के"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "तुच्छ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:18.291188552Z",
+  "model": "glm-5.3"
+}

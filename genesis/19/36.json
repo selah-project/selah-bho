@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "एही से लोट के दूनो बिटिया आपन बाप से गर्भवती भइली।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "गर्भवती भइली"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दूनो"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बिटिया"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोट के"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "आपन बाप से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:24.184585257Z",
+  "model": "glm-5.3"
+}

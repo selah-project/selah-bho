@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ मिट्टी के बरतन जेकरा ज़व छुअलक, ऊ टूट जाला; आ हर लकड़ी के बरतन पानी में बहावल जाला।",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "आ बरतन"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मिट्टी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "छुअलक"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ज़व"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "टूट जाला"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बरतन"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "बहावल जाला"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:54.299892814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "समुंदर बेबिल पर चढ़ गइल; ओकर लहरन के ढेर से ओ ढकाइल गइल।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ गइल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बेबिल"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ढेर से"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ओकर लहरन के"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ढकाइल गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:36:06.111604798Z",
+  "model": "glm-5.3"
+}

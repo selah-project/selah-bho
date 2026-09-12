@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "“ई कोन ह, जे बिना जानकारी के शब्दन में सलाह के अँधियारा करेला?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "अँधियारा करेला"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "शब्दन में"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानकारी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:33.840546128Z",
+  "model": "glm-5.3"
+}

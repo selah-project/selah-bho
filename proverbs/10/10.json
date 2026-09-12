@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आँखि मारै वाला दुख देवेला, आ बड़बड़ाउ ओठवाला बेवकूफ गिर जाई।",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "मारै वाला"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "आ बेवकूफ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "बड़बड़ाउ ओठवाला"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "गिर जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:01.848453654Z",
+  "model": "glm-5.3"
+}

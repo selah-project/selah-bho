@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अगर ऊ ओकरा छुड़ावेला, त ऊ एकर पाँचवाँ अंश रउआ के मोल के ऊपर जोड़ल.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "छुड़ावै"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "ओकरा छुड़ावेला"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "जोड़ल"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "एकर पाँचवाँ अंश"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "रउआ के मोल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:44.849623076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ मनई लोग इनहन के खान-पान के लिहलन, बाकिर यहवे के मुँह के ⟨את⟩ ना पूछलन।",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "लिहलन"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "मनई लोग"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "इनहन के खान-पान के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के मुँह"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "पूछलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:48:54.765592327Z",
+  "model": "glm-5.3"
+}

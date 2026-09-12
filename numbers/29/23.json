@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ चउथा दिने दस गो बछड़ा, दू गो मेढ़ा, चौदह गो मेमना — एक बरिस के, बिना दाग के।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आ चउथा दिने"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बछड़ा सभ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़ा सभ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमना सभ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक बरिस"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौदह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-)"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "बिना दाग के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:08.103177876Z",
+  "model": "glm-5.3"
+}

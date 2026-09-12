@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "“मोशे, हमर सेवक, मर गेला बा; अबे उठऽ, तूँ आ एह सारा लोक ⟨את⟩ एह यर्दन के पार करऽ, ओ धरती के ओर जवन हम यिसराएल के लरिका सभ के देत बानी।”",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमर सेवक"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गेला बा"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "अबे"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एह यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "एह यर्दन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सारा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देत बानी"
+    },
+    {
+      "surface": "להם",
+      "gloss": "लिकिन"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लरिका सभ के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसराएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:48:08.268763188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "हर आदमी ओकरा देखलन; मनुष्य दूर से ⟨ओकरा⟩ ताकेला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ताकेला"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "दूर से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:44.003715396Z",
+  "model": "glm-5.3"
+}

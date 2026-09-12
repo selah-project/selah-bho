@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "भला लोगन के उजियारवा खुश होला, बाकिर बुरा लोगन के दिया बुझ जाला।",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "उजियारवा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "भला लोगन के"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुश होला"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "बाकिर दिया"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोगन के"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "बुझ जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:33.472990913Z",
+  "model": "glm-5.3"
+}

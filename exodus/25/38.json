@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ ओकर चिमटा आ ओकर राख-पात्र — खरा सोना के ⟨बनल⟩ होखेलाई।",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "आ ओकर चिमटा"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "आ ओकर राख-पात्र"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "खरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:18.759283481Z",
+  "model": "glm-5.3"
+}

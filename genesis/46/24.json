@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ नाफ्ताली के बेटा: यह्त्सेल, गूनी, येत्सेर आ शिल्लेम।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "यह्त्सेल"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "आ गूनी"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "आ येत्सेर"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "आ शिल्लेम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:09.300860068Z",
+  "model": "glm-5.3"
+}

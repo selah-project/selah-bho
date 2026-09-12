@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "देखऽ, रउआ सभे इस्राएल के लरिका बाड़ रउआ; इहाँ आपन फैसला आ सलाह दीं।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दीं"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आपन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "फैसला"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "आ सलाह"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "इहाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:48.283304691Z",
+  "model": "glm-5.3"
+}

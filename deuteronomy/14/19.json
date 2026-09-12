@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ सारा रेंगे-उड़े वाला पंछी-कीट तुमनी का खाला बाड़ें, ऊ ना खाइल जाय।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सारा"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "रेंगे-उड़े वाला पंछी-कीट"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड़े वाला"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "खाला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमनी का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाइल जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:29.964190364Z",
+  "model": "glm-5.3"
+}

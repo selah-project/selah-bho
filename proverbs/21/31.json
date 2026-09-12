@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "घोड़ा युद्ध के दिन खातिर तैयार कइल जाला; बाकिर ताराई यहवे के बा।",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "तैयार कइल जाला"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "के दिन खातिर"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "बाकिर यहवे के"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "ताराई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:39.194868181Z",
+  "model": "glm-5.3"
+}

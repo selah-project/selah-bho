@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ रउआ सभे, जवन यहवे रउआ के एलोहीम से चिपकल बानी, रउआ सभे जियत बानी आज के दिन।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "आ रउआ सभे"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "चिपकल बानी"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जियत बानी"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:09.157516189Z",
+  "model": "glm-5.3"
+}

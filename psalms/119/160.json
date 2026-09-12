@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रउआ के बचन के सार सत्य बा, आ सदा ला रउआ के धर्म के हरेक फैसला अडिग बा।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "सार"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "रउआ के बचन"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "आ सदा ला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "फैसला"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "रउआ के धर्म के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:02.516041026Z",
+  "model": "glm-5.3"
+}

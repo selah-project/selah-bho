@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "रउआ आपन रास्ता के यहवे पर लोटा दिअ, आ ऊहे पर भरोसा करिअ, आ ऊ कइ देला।",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "लोटा दिअ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "आपन रास्ता"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "आ भरोसा करिअ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ऊहे पर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "कइ देला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:11.186085450Z",
+  "model": "glm-5.3"
+}

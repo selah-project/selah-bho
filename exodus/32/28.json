@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 32:28",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ लेवी के बेटा मोशे के बात अनुसार कइलन; आ ओही दिन प्रजा में से लगभग तीन हजार आदमी गिर गइलें।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बात अनुसार"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गिर गइलें"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "लगभग तीन"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:53:27.988283201Z",
+  "model": "glm-5.3"
+}

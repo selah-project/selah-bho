@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ दस दिन बीतले पर यहवे ⟨את⟩ नाबाल के मारलन, आ ऊ मर गइल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "दस के बाद"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाबाल"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:18:20.056275727Z",
+  "model": "glm-5.3"
+}

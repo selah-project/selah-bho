@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यारोबाम आ सगरी जनता तीसरा दिने रहबाम के पास आइल, जइसे राजा कहले रहल, कहि के: “तीसरा दिने हमरा पास लवटि आऽ।”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारोबाम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहले रहल"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहि के"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "लवटि आऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा पास"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:05.289723529Z",
+  "model": "glm-5.3"
+}

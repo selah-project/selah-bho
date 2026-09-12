@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "इस्तरी के साँई करबू आ दूसर मरद ओकर संग सएब; घर बनाबू आ ओमें ना बसबू; बगिया रोपबू आ ओकर फल ना भोग पाबू।",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "इस्तरी के"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "साँई करबू"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आ मरद"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "ओकर संग सएब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाबू"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बसबू"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओमें"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "बगिया"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "रोपबू"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "ओकर फल भोग पाबू"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:12.954989767Z",
+  "model": "glm-5.3"
+}

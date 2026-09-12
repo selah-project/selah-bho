@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "काबर कि ऊ ना सोवेला जदि बुराई ना करेलें, आ इनहन के नींद छीन लिहल जाला जदि केहु के ना गिरावेलें।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "सोवेला"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "बुराई करेलें"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "आ छीन लिहल जाला"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "इनहन के नींद"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "गिरावेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:17.743208972Z",
+  "model": "glm-5.3"
+}

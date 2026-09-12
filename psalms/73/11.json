@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "आ ऊ कहेलें, “एल कइना जानेला? एल्योन के लगे जानकारी बा के नइखे?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "आ ऊ कहेलें"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कइना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "बा के नइखे"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "जानकारी"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "एल्योन के लगे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:46.187741181Z",
+  "model": "glm-5.3"
+}

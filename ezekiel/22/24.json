@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "हे मनुख के बेटा, एकरा से कहऽ — “तूँ अइसन धरती बट जवन शुद्ध नइखे, ओहि जुगाली के दिन ओकर ओपर पानी नइखे गिरल।”",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "एकरा से"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "शुद्ध नइखे"
+    },
+    {
+      "surface": "היא",
+      "gloss": "बट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "पानी नइखे गिरल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "जुगाली के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:56:29.510923735Z",
+  "model": "glm-5.3"
+}

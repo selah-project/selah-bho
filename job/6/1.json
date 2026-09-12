@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ इय्योव जवाब दइलन आ कहिन:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "आ ... जवाब दइलन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इय्योव"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:31.565138049Z",
+  "model": "glm-5.3"
+}

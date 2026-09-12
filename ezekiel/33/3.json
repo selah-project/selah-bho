@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ देखेला ⟨את⟩ तरवार के ओ धरती पर आवत, आ सिंग पर फुँक मारेला आ ⟨את⟩ जाति ला समझावेला —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आ देखेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तरवार"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आवत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "फुँक मारेला"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "सिंग पर"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "आ समझावेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जाति"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जाति"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:42.081241727Z",
+  "model": "glm-5.3"
+}

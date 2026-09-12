@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "रोटी रउआ सभे ना खइलीं आ दाखमधु आ नशेवाला पियल ना — एही खातिर कि रउआ जानऽ कि हम यहवे रउआ के एलोहीम बानी।",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "खइलीं"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आ दाखमधु"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "आ नशेवाला पियल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "पियल"
+    },
+    {
+      "surface": "למען",
+      "gloss": "एही खातिर कि"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "रउआ जानऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:16.023492981Z",
+  "model": "glm-5.3"
+}

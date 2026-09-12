@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "तोरा खातिर दूसर एलोहीम हमरे मुख के सामने ना रहहुन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहहुन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोरा खातिर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "हमरे मुख"
+    }
+  ],
+  "timestamp": "2026-09-11T17:45:29.331571566Z",
+  "model": "glm-5.3"
+}

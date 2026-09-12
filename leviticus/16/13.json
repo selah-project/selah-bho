@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ ऊ धूप ⟨את⟩ के आगि के ऊपर रखिहन — यहवे के सामने; आ धूप के बादर कापोरेट ⟨את⟩ के ढक देही — जवन गवाही के ऊपर बा — आ ऊ ना मरी।",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "रखिहन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धूप"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "धूप"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आगि"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ढक देही"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "धूप के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कापोरेट"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "कापोरेट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:40.031069159Z",
+  "model": "glm-5.3"
+}

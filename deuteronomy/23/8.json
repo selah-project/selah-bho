@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "रउआ अदोमी के घृणा ना करब, काहेकि ऊ रउआ के भाई बा; रउआ मिस्री के घृणा ना करब, काहेकि रउआ ओकर धरती में परदेसी रहीं।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "घृणा करब"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "अदोमी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "रउआ के भाई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "घृणा करब"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "मिस्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "היית",
+      "gloss": "रहीं"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "ओकर धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:43.369404290Z",
+  "model": "glm-5.3"
+}

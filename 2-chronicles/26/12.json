@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "बहादुर योद्धा सभन के पिता-पुरखन के मुखिया सभन के कुल गिनती दू हजार छे सौ रहल।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया सभन के"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "पिता-पुरखन के"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "बहादुर योद्धा सभन के"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "योद्धा"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दू हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आ छे"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:50.315876697Z",
+  "model": "glm-5.3"
+}

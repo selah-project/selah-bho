@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ ताहत से चललें, आ तेरह (तेरह) में डेरा डाललें।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ताहत से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललें"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "तेरह में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:05.352800883Z",
+  "model": "glm-5.3"
+}

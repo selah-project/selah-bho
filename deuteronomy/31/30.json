@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ मोसा इस्रायल के पूरा सभा के कानन में ए गीत के सब बात ⟨את⟩ कहले — पूरा खतम होखले ले।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ कहले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोसा"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "के कानन में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्रायल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "सब बात"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "गीत के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "पूरा खतम होखले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:27.551768150Z",
+  "model": "glm-5.3"
+}

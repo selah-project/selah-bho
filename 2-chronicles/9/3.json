@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ शेबा के रानी ⟨את⟩ सुलेमान के बुद्धि आ ओकरा घर के देखली जवन ऊ बनवालन।",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "आ देखली"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सुलेमान के बुद्धि"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान के"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "आ ओ घर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ऊ बनवालन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:19.590053744Z",
+  "model": "glm-5.3"
+}

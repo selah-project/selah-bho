@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ ओहि दिन ई भार होई कि उज्जाल नई रही — कीमती चीज सभ जम जाई।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ ई भार होई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नई"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उज्जाल"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "कीमती चीज सभ"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "जम जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:28.550788251Z",
+  "model": "glm-5.3"
+}

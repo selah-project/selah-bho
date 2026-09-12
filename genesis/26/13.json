@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ ऊ मरद बड़ भईल, आ चलते-चलते बढ़ते रहल, तबले बढ़ते-बढ़ते बहुते बड़ भईल।",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "बड़ भईल"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ऊ मरद"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आगू बढ़ल"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "चलते-चलते"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "बढ़ते रहल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तबले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "बड़ भईल"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:11.774080137Z",
+  "model": "glm-5.3"
+}

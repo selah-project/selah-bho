@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ यहवे दूत के कहलन, आ ⟨ऊ⟩ आपन तलवार ओकर म्यान में वापस कइलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "दूत के"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "वापस कइलन"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "आपन तलवार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ओकर म्यान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:57.488491451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "बलवान आ लड़ाई के मरदाना, न्याय करनिहार आ नबी, ज्योतिषी आ बूढ़ —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के मरदाना"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "न्याय करनिहार"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "आ नबी"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "आ ज्योतिषी"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "आ बूढ़"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:15.307758635Z",
+  "model": "glm-5.3"
+}

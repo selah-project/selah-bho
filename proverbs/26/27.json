@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "जउन गड़हा खोदेला, ओही में गिरी; आ जउन पत्थर लोटावेला, ऊ ओकरे ऊपर लौट आवेला।",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "खोदेला"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरी"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "आ लोटावेला"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरे ऊपर"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौट आवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:26.799695980Z",
+  "model": "glm-5.3"
+}

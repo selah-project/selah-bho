@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 75,
+  "translation": "आ हम सदा खातिर बतावब, हम याकोब के एलोहीम खातिर गावब।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "बतावब"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा खातिर"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "गावब"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "एलोहीम खातिर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:38.170629902Z",
+  "model": "glm-5.3"
+}

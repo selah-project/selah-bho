@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "आ ऊ ⟨את⟩ बन्धक के कपड़ा बदललन, आ ओकर सामने निरन्तर, आपन जीवन के सब दिनन में, रोटी खालक।",
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "आ ऊ बदललन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बन्धक के कपड़ा"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "बन्धक के"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "आ खालक"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर सामने"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनन"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "आपन जीवन के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:45:11.847720662Z",
+  "model": "glm-5.3"
+}

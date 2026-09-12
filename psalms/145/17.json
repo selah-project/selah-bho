@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 145,
+  "translation": "न्यायी बा यहवे ओकर सब रस्तन में, आ दयालु बा ओकर सब कामन में।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब … में"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ओकर रस्तन"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "आ दयालु"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब … में"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ओकर कामन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:45.754517870Z",
+  "model": "glm-5.3"
+}

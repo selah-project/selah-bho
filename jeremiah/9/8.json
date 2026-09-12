@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "का एह बात सभा पर हम इनहन के देखे ना जाब, यहवे के कथन; अइसन जाति में जइसन ई बा, का हमरे प्राण बदला ना लेल?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "का … पर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एह बात सभा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "हम देखे जाब"
+    },
+    {
+      "surface": "בם",
+      "gloss": "इनहन के"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के कथन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "जाति में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "बदला लेल"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमरे प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:56.423918433Z",
+  "model": "glm-5.3"
+}

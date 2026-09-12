@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "बाईस बरिस के बेटा आमोन रहल जब ऊ गद्दी पर बइठलन, आ ऊ दू बरिस यरूशलयिम (यरूशलेम) में राज कइलन।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "आ दू"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "आमोन"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "गद्दी पर बइठलन"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:28.551951894Z",
+  "model": "glm-5.3"
+}

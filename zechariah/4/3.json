@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ दू गो जैतून ⟨बा⟩ ओकरा पर — एक ओ गोला के दहिन्ना, आ एक ओकर बायाँ।",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू गो"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "दहिन्ना"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ओ गोला के"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "आ एक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "बायाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:24.469741787Z",
+  "model": "glm-5.3"
+}

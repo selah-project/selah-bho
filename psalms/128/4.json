@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 128,
+  "translation": "देखऽ, काहे कि एहनेचे आदमी आशीर्बाद पावेला जेकरा यहवे के डर लागेला।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहनेचे"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "आशीर्बाद पावेला"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डर लागेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:39.716255672Z",
+  "model": "glm-5.3"
+}

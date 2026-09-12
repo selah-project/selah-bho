@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अब उठीं आ रउआ सभे ⟨את⟩ जरेद नदी पार करीं; आ हमनी का ⟨את⟩ जरेद नदी पार कइलीं।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "उठीं"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "आ पार करीं"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जरेद नदी"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "जरेद"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "आ पार कइलीं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जरेद नदी"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "जरेद"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:04.284590319Z",
+  "model": "glm-5.3"
+}

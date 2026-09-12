@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरा-बघार एक, पाप-बलि खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बघार"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:19.106109323Z",
+  "model": "glm-5.3"
+}

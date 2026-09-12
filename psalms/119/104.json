@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "तोहार आज्ञा से हम समझ पाबनी, एही से हम हरेक झूठ रस्ता से घृणा करेलन।",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "तोहार आज्ञा से"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "समझ पाबनी"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "घृणा करेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:03.810380795Z",
+  "model": "glm-5.3"
+}

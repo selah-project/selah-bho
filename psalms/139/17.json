@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 139,
+  "translation": "आ हमरा खातिर रउआ के सोच केतना कीमती बाड़ी, एल! इनहन के जोड़ केतना ढेर बा!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "आ हमरा खातिर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "कीमती बाड़ी"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "रउआ के सोच"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "इनहन के जोड़"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:17.220109478Z",
+  "model": "glm-5.3"
+}

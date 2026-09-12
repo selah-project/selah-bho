@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ यहवे के बात एलियाहू तिश्बी के ओर आइल, ई कहिते:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "तिश्बी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिते"
+    }
+  ],
+  "timestamp": "2026-09-11T19:45:28.974689543Z",
+  "model": "glm-5.3"
+}

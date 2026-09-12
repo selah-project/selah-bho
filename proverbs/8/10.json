@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "हमार ताड़ना लेवऽ, चाँदी ना, आ चुनल सोना नियर ज्ञान ⟨लेवऽ⟩।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "लेवऽ"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "हमार ताड़ना"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आ ज्ञान"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "चुनल सोना नियर"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "चुनल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:59.279906733Z",
+  "model": "glm-5.3"
+}

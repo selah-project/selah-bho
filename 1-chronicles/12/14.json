@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "यिर्मेयाहू दसमा, मखबन्नाई ग्यारहवाँ।",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "दसमा"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "मखबन्नाई"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ग्यारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "वाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:05.787330749Z",
+  "model": "glm-5.3"
+}

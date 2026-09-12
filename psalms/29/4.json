@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "यहवे के आवाज बल में ⟨बा⟩; यहवे के आवाज सोभा में ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "बल में"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "सोभा में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:07.971344529Z",
+  "model": "glm-5.3"
+}

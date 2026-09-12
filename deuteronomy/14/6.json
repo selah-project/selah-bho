@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ हर जानवर जवन खुर फाड़े आ खुर के दू फाड़ में चीरे आ जुगाली चढ़ावे, ओही जानवर ⟨את⟩ तुमनी का खाब के बाट।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "खुर फाड़े"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "आ चीरे"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "फाड़"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "खुर सभे"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "चढ़ावे"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "जुगाली"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "जानवर में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओही जानवर"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुमनी का खाब के बाट"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:54.609214466Z",
+  "model": "glm-5.3"
+}

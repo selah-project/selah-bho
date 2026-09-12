@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ अरिएल बारह हाथ लम्बा, बारह हाथ चौड़, चारि कोना पर चौकोर।",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "आ अरिएल"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "बारह (दू)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…-से दस"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बा"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "बारह में (दू)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "…-से दस"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "चौकोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "कोना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:49.552318981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ इसरायल गिबआ के घात लगवले, चारो ओर।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "घात लगवले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "घात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबआ के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:06:08.003570190Z",
+  "model": "glm-5.3"
+}

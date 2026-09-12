@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ राजा अबनेर खातिर विलाप कइलन आ कहलन: का नादान के मौत नियर अबनेर मरल?",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "आ विलाप कइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "के मौत नियर"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नादान"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:21:43.291251896Z",
+  "model": "glm-5.3"
+}

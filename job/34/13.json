@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "के ओकरा ऊपर धरती के निगरानी कइलन? आ के पूरा बसल दुनिया रखलन?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "के"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "निगरानी कइलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ के"
+    },
+    {
+      "surface": "שם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "बसल दुनिया"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "पूरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:51.081258745Z",
+  "model": "glm-5.3"
+}

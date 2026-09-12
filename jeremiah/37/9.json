@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 37:9",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "एहने कहेला यहवे: आपन नफस के धोखा ना देवऽ के कहि के “जाइत बाड़ें हमनी का ले काशदिम”, काहे कि ऊ ना जाइहें।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "धोखा देवऽ"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "आपन नफस"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहि के"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जाइत"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "जाइहें"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "हमनी का ले"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "काशदिम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "जाइहें"
+    }
+  ],
+  "timestamp": "2026-09-11T20:38:36.341760229Z",
+  "model": "glm-5.3"
+}

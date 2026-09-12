@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक बकरा, बकरिन के, पाप-भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरिन के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:50.391525722Z",
+  "model": "glm-5.3"
+}

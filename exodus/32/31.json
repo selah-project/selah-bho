@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 32:31",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ मूसा यहवे के तरफ लौटलें आ कहलन: “अहा! ई प्रजा एक बड़ पाप कइलन, आ आपन खातिर सोना के एलोहीम बनवलन।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लौटलें"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "अहा!"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप कइलन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:53:43.316147146Z",
+  "model": "glm-5.3"
+}

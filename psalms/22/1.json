@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "मुखिया संगीतकार खातिर, “भोर के हिरनी” पर, दाविद के मिजमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया संगीतकार खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "हिरनी"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "भोर के"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:58.341503672Z",
+  "model": "glm-5.3"
+}

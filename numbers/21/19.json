@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ मत्तानाह से नहलिएल ले, आ नहलिएल से बामोत ले।",
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "आ मत्तानाह से"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "नहलिएल ले"
+    },
+    {
+      "surface": "ומנחליאל",
+      "gloss": "आ नहलिएल से"
+    },
+    {
+      "surface": "במות",
+      "gloss": "बामोत ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:26.492300224Z",
+  "model": "glm-5.3"
+}

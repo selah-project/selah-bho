@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 13:21",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ यहवे के दूत फेर मनोह आ ओकर घरवाली के देखाई ना दीलक; तब मनोह के समझ आइल कि ऊ यहवे के दूत रहलें।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "फेर दीलक"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "देखाई दीलक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मनोह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ … के"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "घरवाली"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "समझ आइल"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मनोह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:00.758098023Z",
+  "model": "glm-5.3"
+}

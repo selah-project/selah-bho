@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ जवन हमरा कान लगावेला ऊ बेहिचक बसेला आ बुराई के डर से शान्त रहेला।",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "आ जवन कान लगावेला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "बसेला"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "बेहिचक"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "आ शान्त रहेला"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "डर से"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:19.761129131Z",
+  "model": "glm-5.3"
+}

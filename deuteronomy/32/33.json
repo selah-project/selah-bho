@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "उनान के दाखरस तनिनिम सभ के ज़हर ह, आ पतनिम सभ के सिर बड़ा घातक।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ज़हर"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "तनिनिम सभ के"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "उनान के दाखरस"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "आ सिर"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "पतनिम सभ के"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "घातक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:48.882808994Z",
+  "model": "glm-5.3"
+}

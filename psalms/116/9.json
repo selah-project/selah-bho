@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "हम यहवे के सामने टहलब, जिउवालन के धरतिन में।",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "हम टहलब"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "धरतिन में"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जिउवालन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:54.676032852Z",
+  "model": "glm-5.3"
+}

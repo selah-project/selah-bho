@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "अकास में हमरा खातिर कौन बा? आ रउआ के संगे — धरती में हम केकरो के ना चाहली।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "आ रउआ के संगे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "हम चाहली"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:54.396215319Z",
+  "model": "glm-5.3"
+}

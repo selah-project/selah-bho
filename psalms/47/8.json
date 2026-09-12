@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "काहेकि सगरी धरती के राजा एलोहीम बाड़ें — समझ-बूझ के संगे भजन गावऽ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "भजन गावऽ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "समझ-बूझ के संगे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:47.951655707Z",
+  "model": "glm-5.3"
+}

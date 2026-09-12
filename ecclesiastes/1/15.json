@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "जे टेढ़ होखे, ओकरा सीधा ना कइल जा सकेला; आ जे कमी बा, ओकरा गिनल ना जा सकेला।",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "जे टेढ़ होखे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकेला"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "सीधा करे खातिर"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "आ जे कमी बा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकेला"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "गिने खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:05.686351448Z",
+  "model": "glm-5.3"
+}

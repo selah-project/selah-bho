@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "रउआ ओकर सब बाड़ सभ के तोड़ दिहलऽ; रउआ ओकर गढ़ सभ के खंडहर बना दिहलऽ।",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "तोड़ दिहलऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "बाड़ सभ"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "बना दिहलऽ"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "गढ़ सभ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "खंडहर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:52.249417673Z",
+  "model": "glm-5.3"
+}

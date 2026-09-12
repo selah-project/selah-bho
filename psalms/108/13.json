@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 108,
+  "translation": "हमनी का संकट से मदद दिया — काहे कि मनुष्य के मदद व्यर्थ बा।",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "दिया"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "मदद"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "संकट से"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "आ व्यर्थ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "मदद"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:38.146973804Z",
+  "model": "glm-5.3"
+}

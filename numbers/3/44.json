@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहवे मूसा से बतियालन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ ... बतियालन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:07.729280096Z",
+  "model": "glm-5.3"
+}

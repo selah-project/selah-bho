@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ उनका गिनल गइल लोग के गिनती भईल आठ हजार पाँच सौ अस्सी।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आ … भईल"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनका गिनल गइल लोग के गिनती"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "अस्सी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:43.969617327Z",
+  "model": "glm-5.3"
+}

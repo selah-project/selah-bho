@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अजर्याह ⟨את⟩ खेलेत्स के जनम दिहलन, आ खेलेत्स ⟨את⟩ एलएसा के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "आ अजर्याह"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेलेत्स"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "खेलेत्स"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "आ खेलेत्स"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलएसा"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "एलएसा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:55.873983660Z",
+  "model": "glm-5.3"
+}

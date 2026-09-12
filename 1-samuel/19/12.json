@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ मीकल दाऊद के ⟨את⟩ खिड़की से उतार दिहली; ऊ गइलें, भागल आ बच निकलल।",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "उतार दिहली"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "मीकल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाऊद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "से"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "खिड़की"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गइलें"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "भागल"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "बच निकलल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:14:57.392408289Z",
+  "model": "glm-5.3"
+}

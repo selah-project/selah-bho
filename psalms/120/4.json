@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 120,
+  "translation": "बलवान के तीखा तीर, रतम-कोइला के साथे।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "तीर"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान के"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "तीखा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "कोइला"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "रतम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:02.063879882Z",
+  "model": "glm-5.3"
+}

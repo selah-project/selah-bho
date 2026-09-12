@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "अउर यहवे के बचन हमरा ले आइल, कहेला:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अउर भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ले"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:49.748870354Z",
+  "model": "glm-5.3"
+}

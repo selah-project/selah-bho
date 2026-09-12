@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ यरमियाहू जनता के बीचे आवत-जात रहलें, काहें कि ⟨את⟩ ओकरा अबहीं कैद के घर में ना डारले रहलें।",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "आ यरमियाहू"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवत"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "जात"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "डारले रहलें"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ओकरा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "कैद के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:39:06.533489711Z",
+  "model": "glm-5.3"
+}

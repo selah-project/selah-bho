@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "बाकिर ओकर अंत कुंइनिया नियर कड़वा बा, दु-धार तलवार नियर तीखा बा।",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "बाकिर ओकर अंत"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "कड़वा"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "कुंइनिया नियर"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "तीखा"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "तलवार नियर"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "दु-धार (के मुँह)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:35.951236789Z",
+  "model": "glm-5.3"
+}

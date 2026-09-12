@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ हरेक चीज जेपर ऊ अपना अलगाव में सोए, ओ अशुच होखेला, आ हरेक चीज जेपर ऊ बइठेला, ओ अशुच होखेला।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "सोए"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओपर"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "अपना अलगाव में"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुच होखेला"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बइठेला"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओपर"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुच होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:00.200757772Z",
+  "model": "glm-5.3"
+}

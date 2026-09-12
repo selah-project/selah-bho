@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "यहवे के नाम हम अपना प्रतिज्ञा पूरा करब, आजे, ओकर सभे जनता के सोझा।",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "अपना प्रतिज्ञा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "हम पूरा करब"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "के सोझा"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आजे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर जनता"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:14.342300200Z",
+  "model": "glm-5.3"
+}

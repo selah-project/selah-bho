@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ हर उड़ा-रेंगू जेकरा चारि पाव बाड़े — ऊ रउआ सभे खातिर घिनौना बा।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "उड़ा-रेंगू"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड़े वाला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पाव"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:07.258440960Z",
+  "model": "glm-5.3"
+}

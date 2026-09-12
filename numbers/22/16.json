@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 22:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ऊ लोग बिलाम ले आइले आ ओकरा से कहले: चिप्पोर के बेटा बालाक एहन कहेला — तनिको बेर ना, मोहे हमरा ले आवे से रोकऽ ना।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आइले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चिप्पोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נא",
+      "gloss": "तनिको बेर"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "रोकऽ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "आवे से"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:37.658029980Z",
+  "model": "glm-5.3"
+}

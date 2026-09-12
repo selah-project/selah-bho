@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ओ कवनो किसिम के मुआवजा मानेला ना, आ राजी ना होखेला, चाहे तूँ रिशवत कइसनो बढ़ाव।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "मानेला"
+    },
+    {
+      "surface": "פני",
+      "gloss": "किसिम के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "मुआवजा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "राजी होखेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "बढ़ाव"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "रिशवत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:47.959654643Z",
+  "model": "glm-5.3"
+}

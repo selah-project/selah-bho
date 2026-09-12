@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "बाकिर शाऊल ओहि दिन कुछु ना कहलन, काहेकि ऊ सोचलन कि कवनो मौका-बात भइल बा, ऊ सुच्चा नइखे — जरूर ऊ सुच्चा नइखे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर … ना"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछु"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "सोचलन"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "मौका-बात"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "सुच्चा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "सुच्चा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:15:51.152587099Z",
+  "model": "glm-5.3"
+}

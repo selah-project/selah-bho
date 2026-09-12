@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ बानी, आ बिन्नुय, शिमी —",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ बानी"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "आ बिन्नुय"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:44:17.117931440Z",
+  "model": "glm-5.3"
+}

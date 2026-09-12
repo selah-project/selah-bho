@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ जवन ओकरा तिसरा दिन खा लिहल जाव, ऊ घिनावना चीज ⟨ह⟩; ओ स्वीकार ना होखी।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "खा लिहल जाव"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खा लिहल जाव"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तिसरा"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "घिनावना चीज"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "स्वीकार होखी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:48.584876681Z",
+  "model": "glm-5.3"
+}

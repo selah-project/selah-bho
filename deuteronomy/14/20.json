@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "हर शुद्ध पंछी तुमनी खा सकऽ ला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "पंछी"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खा सकऽ ला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:29.964309106Z",
+  "model": "glm-5.3"
+}

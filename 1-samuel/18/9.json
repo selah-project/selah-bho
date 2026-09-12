@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ शाऊल ⟨את⟩ दाऊद के नजरिया से देखत रहल, ओहि दिन से आ आगू ले।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... काल (भई)"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "עון",
+      "gloss": "नजरिया से देखत रहल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाऊद के"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ओहि दिन से"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि (दिन)"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "आ आगू ले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:14:12.735000617Z",
+  "model": "glm-5.3"
+}

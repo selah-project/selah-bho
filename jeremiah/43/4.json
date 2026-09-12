@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 43:4",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ योहानन कारेआह के बेटा, आ सब सेनापति, आ पूरा जाति, यहवे के आवाज ना मानलें — यहूदा के धरती में रहे खातिर।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "मानलें"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "योहानन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कारेआह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सेनापति"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "… के आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "रहे खातिर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:35.483162746Z",
+  "model": "glm-5.3"
+}

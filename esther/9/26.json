@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "esther 9:26",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "एही से ऊ ए दिनन के नाँव रखलन पुरीम, पुर के नाँव पर। एही से — ए पत्र के सब बात के कारण, आ जवन ओन के एहन देखाई दिहलस, आ जवन ओन के भेटल।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "नाँव रखलन"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ए दिनन के"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "פורים",
+      "gloss": "पुरीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "הפור",
+      "gloss": "पुर"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האגרת",
+      "gloss": "पत्र के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखाई दिहलस"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "भेटल"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:35:06.771539573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "परोश के बेटा — दु हजार सौ बहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "परोश के"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दु हजार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दु"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:53.523370577Z",
+  "model": "glm-5.3"
+}

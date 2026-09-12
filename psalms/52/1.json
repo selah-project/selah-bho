@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "महतरनिया खातिर, सिखावे वाला गीत, दाऊद के रचल।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महतरनिया खातिर"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "सिखावे वाला गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के रचल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:24.886546710Z",
+  "model": "glm-5.3"
+}

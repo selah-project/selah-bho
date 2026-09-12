@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "सलमा के बेटा — बेत लेखेम, नेतोफाथी, अतरोत बेत योआब, आ मनाखथी के आधा, त्सरई।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "सलमा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "आ नेतोफाथी"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "अतरोत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आ आधा"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "मनाखथी के"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "त्सरई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:43.961453941Z",
+  "model": "glm-5.3"
+}

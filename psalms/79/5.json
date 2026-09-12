@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 79,
+  "translation": "कब तक, यहवे? रउआ सदा ला क्रोधित रहित? रउआ के जलन आगी सहीं जरत?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "?"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "क्रोधित रहित"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "जरत"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "सहीं"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगी"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "रउआ के जलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:10.292479722Z",
+  "model": "glm-5.3"
+}

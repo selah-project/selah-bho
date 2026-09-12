@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 81,
+  "translation": "हम ओकर कंधा बोझ से हटा दिहली; ओकर दुनों हाथ टोकरी से छूट गइल।",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "हम हटा दिहली"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "बोझ से"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ओकर कंधा"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "टोकरी से"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "छूट गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:57.576872997Z",
+  "model": "glm-5.3"
+}

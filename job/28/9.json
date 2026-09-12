@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 28:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "कठोर पत्थर मा ऊ आपन हाथ धेलक; पहाड़न के जड़ से पलट देलक।",
+  "tokens": [
+    {
+      "surface": "בחלמיש",
+      "gloss": "कठोर पत्थर मा"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "धेलक"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "पलट देलक"
+    },
+    {
+      "surface": "משרש",
+      "gloss": "जड़ से"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़न के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:03.216728433Z",
+  "model": "glm-5.3"
+}

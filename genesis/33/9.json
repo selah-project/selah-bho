@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ एसाव कहलन, “मोरे लगे ढेर बा, हमार भाई; जवन तोहार बा ऊ तोहारे रहे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरे लगे"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमार भाई"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:13.381334982Z",
+  "model": "glm-5.3"
+}

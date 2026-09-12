@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ रउआ सभे खुसी से मुक्ति के झरना से पानी खींचब।",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "आ रउआ सभे खींचब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "खुसी से"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "झरना से"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "मुक्ति के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:04.855525853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "यहवे के आँखि धर्मी लोगन के ओर बाड़ी, आ ओकर कान उनकर पुकार के ओर।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मी लोगन"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "आ ओकर कान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "उनकर पुकार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:24.807030040Z",
+  "model": "glm-5.3"
+}

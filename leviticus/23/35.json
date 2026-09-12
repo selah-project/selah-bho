@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "पहिला दिना प पवित्र बुलाहट ⟨बा⟩; कवनो सेवा-काम ना करब।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिना प"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "बुलाहट"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:48.336926511Z",
+  "model": "glm-5.3"
+}

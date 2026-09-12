@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अप्पैम के लरिका रहलें यिशई; आ यिशई के लरिका रहलें शेशान; आ शेशान के लरिका रहलें अहलै।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लरिका"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "अप्पैम"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशई"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लरिका"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशई"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "शेशान"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के लरिका"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "शेशान"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "अहलै"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:06.630017437Z",
+  "model": "glm-5.3"
+}

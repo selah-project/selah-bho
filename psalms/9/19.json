@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "काहें से कि गरीब हमेशा ना बिसराईहन, नम्र लोगन के आस ले-ले ना मिट जाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "हमेशा"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "बिसराईहन"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "आस"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "नम्र लोगन के"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "मिट जाई"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ले-ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:59.198075337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "आ योसेफ कहलन, “अपना पसू दीं, आ हम तोहनी के पसू के बदला देब, यदि चाँदी खतम हो गइल बा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दीं"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "अपना पसू"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "आ हम देब"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहनी के"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "पसू के बदला"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "खतम हो गइल"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:35:14.516216066Z",
+  "model": "glm-5.3"
+}

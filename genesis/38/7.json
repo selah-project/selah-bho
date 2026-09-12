@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ एर, यहूदा के बड़का बेटा, यहवे के आँखिन में बुरा रहल, आ यहवे ओकरा मार दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "बड़का बेटा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के आँखिन में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "ओकरा मार दिहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:31.525112572Z",
+  "model": "glm-5.3"
+}

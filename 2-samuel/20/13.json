@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "जब ऊ रस्ता से हटाइल गइल, तऽ हरेक मनुख योआब के पाछुँ चलल, शेबा बेटा बिखरी के पीछा करे खातिर।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "हटाइल गइल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "आगू बढ़ल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछुँ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "पीछा करे खातिर"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पीछा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "बिखरी"
+    }
+  ],
+  "timestamp": "2026-09-11T19:30:03.401103159Z",
+  "model": "glm-5.3"
+}

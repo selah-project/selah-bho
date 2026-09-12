@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एही तरहा के ऊ ⟨את⟩ दस मखौटा बनावल — सब खातिर एक्को ढलवाई, एक्को नाप, एक्को आकार।",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "एही तरहा के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दस मखौटा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "मखौटा"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ढलवाई"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्को"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "नाप"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक्को"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "आकार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्को"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "सब खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:51.782956970Z",
+  "model": "glm-5.3"
+}

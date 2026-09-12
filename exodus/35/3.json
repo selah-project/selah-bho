@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "रउआ सभे आपन सब बसाहट में शब्बत के दिन आगि ना बालऽ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "बालऽ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगि"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "आपन बसाहट में"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:53:39.039913972Z",
+  "model": "glm-5.3"
+}

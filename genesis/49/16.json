@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "दान आपन जनता के न्याय करेला, इसरायल के गोत्र-सभ में से एक नियर।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "न्याय करेला"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "आपन जनता के"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक नियर"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "गोत्र-सभ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:30.017578048Z",
+  "model": "glm-5.3"
+}

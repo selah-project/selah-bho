@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "एगो धरती जहाँ रउआ बिना कमी के ओहिजे रोटी खाब, ओहिजे रउआ कवनो चीज के कमी ना भोगब; एगो धरती जेकर पत्थर लोहा हवें, आ ओकर पहाड़ सभ से रउआ ताँबा खोदब।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "बिना कमी के"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "कमी भोगब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो चीज"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "आ ओकर पहाड़ सभ से"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "खोदब"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताँबा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:27.044674725Z",
+  "model": "glm-5.3"
+}

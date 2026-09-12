@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "तूँ आपन संगी के खिलाफ झूठ ⟨के⟩ गवाही ना देब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "गवाही देब"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "आपन संगी के खिलाफ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ ⟨के⟩"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:25.139750889Z",
+  "model": "glm-5.3"
+}

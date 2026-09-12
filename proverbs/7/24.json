@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ अब हे लरिका सभे, हमरा सुना, आ हमरा मुँह के बात सभे ध्यान से माना।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिका सभे"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "ध्यान से माना"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "बात सभे"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमरा मुँह के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:22.427972942Z",
+  "model": "glm-5.3"
+}

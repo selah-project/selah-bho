@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "शद्दय का ह कि हम ओकर सेवा करी? आ का फायदा होई कि हम ओकरा से मिली?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "सेवा करी"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "फायदा होई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "मिली"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:38.999794190Z",
+  "model": "glm-5.3"
+}

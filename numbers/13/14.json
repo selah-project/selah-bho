@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "नफ़ताली के गोत्र से नख़बी, वोफ़्सी के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र से"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ़ताली के"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "नख़बी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "वोफ़्सी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:31.985879664Z",
+  "model": "glm-5.3"
+}

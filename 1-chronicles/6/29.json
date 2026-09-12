@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ मरारी के बेटा सभे — इनकर भाई बाएँ हिस्सा पर रहलें: एतान, किशी के बेटा, अब्दी के बेटा, मल्लूख के बेटा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा सभे"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "इनकर भाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "बाएँ हिस्सा"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एतान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "किशी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "अब्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "मल्लूख"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:54.762506304Z",
+  "model": "glm-5.3"
+}

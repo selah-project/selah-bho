@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "अगर तूँ घमंड में मूर्ख भइल, अथवा बुराई के योजना बान्हल, तऽ आपन हाथ मुँह पर रख।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "मूर्ख भइल"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "घमंड में"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "योजना बान्हल (बुराई के)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "मुँह पर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:24.048523993Z",
+  "model": "glm-5.3"
+}

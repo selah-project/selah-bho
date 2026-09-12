@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "तूँ ओकरा ऊपर कठोरी सँ राज ना करिहऽ; बाकिर आपन एलोहीम सँ डरिहऽ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "राज करिहऽ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "कठोरी सँ"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "बाकिर डरिहऽ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "आपन एलोहीम सँ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:24.525722881Z",
+  "model": "glm-5.3"
+}

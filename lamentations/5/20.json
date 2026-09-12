@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काँह के हमनी का सदा खातिर भुला लेबू? काँह के लम्बा दिनन ले छोड़ देबू?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काँह के"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा खातिर"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "हमनी का भुला लेबू"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "छोड़ देबू हमनी का"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "लम्बा दिनन ले"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:24.211648414Z",
+  "model": "glm-5.3"
+}

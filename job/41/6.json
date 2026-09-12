@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 41:6",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "ओकर चेहरा के दुआर कवना खोलल? ओकर दाँत के चारों ओर भय बा।",
+  "tokens": [
+    {
+      "surface": "דלתי",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर चेहरा के"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कवना"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोलल"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ओकर दाँत"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "भय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:42.707497093Z",
+  "model": "glm-5.3"
+}

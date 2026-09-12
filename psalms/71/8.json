@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 71,
+  "translation": "भरल जाव हमार मुँह तोहार प्रशंसा से, दिन भर तोहार सोभा से।",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "भरल जाव"
+    },
+    {
+      "surface": "פי",
+      "gloss": "हमार मुँह"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तोहार प्रशंसा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन भर"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "तोहार सोभा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:16.389420236Z",
+  "model": "glm-5.3"
+}

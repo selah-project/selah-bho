@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "शिमोन खातिर शेलुमीएल, त्सूरीशद्दय के बेटा।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "शिमोन खातिर"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "शेलुमीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "त्सूरीशद्दय"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:45.155237980Z",
+  "model": "glm-5.3"
+}

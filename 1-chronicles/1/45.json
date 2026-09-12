@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ योबाब के मउत भइल, आ ओकर जगह तैमनी देस के हूशाम राज करे लागलन।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मउत भइल"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबाब"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करे लागलन"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "हूशाम"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस के"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "तैमनी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:56.877683356Z",
+  "model": "glm-5.3"
+}

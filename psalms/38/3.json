@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "काहे कि रउआ के तीर हम में धँस गइनें, आ रउआ के हाथ हम पर दबाइ दिहलन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "रउआ के तीर"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "धँस गइनें"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हम में"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "आ दबाइ दिहलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "रउआ के हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:59.577204946Z",
+  "model": "glm-5.3"
+}

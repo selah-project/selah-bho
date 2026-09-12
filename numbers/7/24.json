@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "तीसरा दिना जबुलून के लड़कन के नायक एलियाब, जे हेलोन के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिना"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लड़कन के"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जबुलून"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "हेलोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:19.106380995Z",
+  "model": "glm-5.3"
+}

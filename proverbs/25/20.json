@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "ठंडा के दिन कपड़ा खोहले वाला, आ सोडा पर सिरका ढारे वाला — अइसने होला ऊ जे दुखी मन पर गीत गावेला।",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "खोहले वाला"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ठंडा के"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "सिरका"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "सोडा"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "आ गावे वाला"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुखी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:05.939470493Z",
+  "model": "glm-5.3"
+}

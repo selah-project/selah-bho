@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आउर ओ हम से कहलन: साँझ-बिहान दू हजार तीन सौ ले; फेर पवित्र अस्थान ⟨फेर से⟩ धरमी ठामही।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दू हजार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आउर तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "धरमी ठामही"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र अस्थान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:38:29.254193095Z",
+  "model": "glm-5.3"
+}

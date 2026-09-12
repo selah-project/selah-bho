@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "अथवा जबू जिउत चमड़ा वापस आ जाला आ सफेद में बदल जाला, तब ऊ पुरोहित के पास आवेला।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जबू"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "वापस आ जाला"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "החי",
+      "gloss": "जिउत"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "आ बदल जाला"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "सफेद में"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "तब आवेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:41.983017364Z",
+  "model": "glm-5.3"
+}

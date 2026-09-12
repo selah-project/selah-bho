@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे यहोशू से कहलन: “उठ जाउ; काहे ए बा कि तूँ आपन मुँह पर गिरल बा?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जाउ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "आपन मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:14.771092057Z",
+  "model": "glm-5.3"
+}

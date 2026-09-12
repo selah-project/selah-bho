@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमरा बतन के ओर कान धरऽ, यहवे; हमरी बिनबिनाहट के समझऽ।",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "हमरा बतन"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "कान धरऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझऽ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "हमरी बिनबिनाहट"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:51.122009185Z",
+  "model": "glm-5.3"
+}

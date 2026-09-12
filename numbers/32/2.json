@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "गाद के बेटावन आ रउवेन के बेटावन आइलन आ कहलन मूसा से आ एलाज़ार गिरनारी से आ के सभा के सरदारन से, कहऽ कि —",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ के बेटावन"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउवेन"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़ार"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "गिरनारी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "सरदारन"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ कि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:26:25.595922255Z",
+  "model": "glm-5.3"
+}

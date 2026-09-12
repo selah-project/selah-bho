@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमनी का अपना हिया के हाथ संग एल के ओर ऊपर उठानी जा, अकास में मौजूद एल के ओर।",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "उठानी जा"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "हमनी के हिया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "हाथ संग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:14.037837942Z",
+  "model": "glm-5.3"
+}

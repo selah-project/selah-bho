@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "एहसे इनहन के ऊपर भविष्यवाणी करऽ, हे आदमी के बेटा, भविष्यवाणी करऽ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहसे"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "भविष्यवाणी करऽ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "इनहन के ऊपर"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "भविष्यवाणी करऽ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:53.130152356Z",
+  "model": "glm-5.3"
+}

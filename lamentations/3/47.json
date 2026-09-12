@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "घबराहट आ जाल हमनी का भाग बन गइल, बरबादी आ तोड़-फोड़।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "घबराहट"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "आ जाल"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बन गइल"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का भाग"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "आ तोड़-फोड़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:13.197204688Z",
+  "model": "glm-5.3"
+}

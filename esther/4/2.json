@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ अयलन राजा के दुआर के आगू तक, काहें कि गोंज पहिर के राजा के दुआर के भीतर आवे के कवनो रास्ता नइखे।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "आ अयलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे कवनो रास्ता"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआर के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "पहिर के"
+    },
+    {
+      "surface": "שק",
+      "gloss": "गोंज"
+    }
+  ],
+  "timestamp": "2026-09-11T22:33:05.327334377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "तब दबोरा आ अबिनोअम के बेटा बारक ओही दिन गावलें, ई कहऽ के —",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "तब गावलें"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "दबोरा"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "आ बारक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "अबिनोअम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:33.634705445Z",
+  "model": "glm-5.3"
+}

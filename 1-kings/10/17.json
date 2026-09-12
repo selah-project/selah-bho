@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 10:17",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ तीन सौ ढाल पिटाइल सोना के — तीन मन सोना एक ढाल पर चढ़ेला — आ राजा इनहन के लबानोन के जंगल के घर में रखलन।",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "पिटाइल"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "मन"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "एक ढाल"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "लबानोन के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:30:01.234138612Z",
+  "model": "glm-5.3"
+}

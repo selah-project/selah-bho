@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तूँ यहवे अपना एलोहीम के साथे पूरा-निष्कलंक रहबू।",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "पूरा-निष्कलंक"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रहबू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपना एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:57.003652344Z",
+  "model": "glm-5.3"
+}

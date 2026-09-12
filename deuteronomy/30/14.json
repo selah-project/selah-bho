@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "कारण ऊ बात रउआ से बहुते नगीचे बा — रउआ के मुँह में आ रउआ के हिया में, ओकरा करे खातिर।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नगीचे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ऊ बात"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "रउआ के मुँह में"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "आ रउआ के हिया में"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ओकरा करे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:51.854272514Z",
+  "model": "glm-5.3"
+}

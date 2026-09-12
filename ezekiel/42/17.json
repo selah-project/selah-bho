@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "ऊ उत्तर दिशा के नापलन — पाँच सौ नाप-नरकट, नाप-नरकट से चारों ओर।",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "नाप-नरकट"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "नरकट से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:58.663143978Z",
+  "model": "glm-5.3"
+}

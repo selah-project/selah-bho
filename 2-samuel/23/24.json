@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आसाहेल, योआब के भाई, तीस में; एलहानान, दोदो के बेटा, बेत लेहेम के।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "आसाहेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "आसाहेल"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "तीस में"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "एलहानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "दोदो"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:07.175983131Z",
+  "model": "glm-5.3"
+}

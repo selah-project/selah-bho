@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "ई ओही दिन बा जवन यहवे बनवले रहलें; हमनी का नाचब आ एहमें खुश होब।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ई ओही"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवले रहलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "हमनी का नाचब"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "आ खुश होब"
+    },
+    {
+      "surface": "בו",
+      "gloss": "एहमें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:09.788182542Z",
+  "model": "glm-5.3"
+}

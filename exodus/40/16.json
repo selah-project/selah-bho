@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ मोसे कइलन — ओतबेई जतबा यहवे ओकरा ⟨את⟩ हुकुम दिहलन, ओतबेई कइलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोसे"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ओतबेई जतबा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम दिहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओतबेई"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:39.704873822Z",
+  "model": "glm-5.3"
+}

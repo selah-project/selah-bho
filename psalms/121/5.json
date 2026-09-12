@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 121,
+  "translation": "यहवे तोहार रखवाला बाड़ें; यहवे तोहार छाँह बाड़ें, तोहार दाहिने हाथ पर।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "तोहार रखवाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "तोहार छाँह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तोहार दाहिने"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:29.465469692Z",
+  "model": "glm-5.3"
+}

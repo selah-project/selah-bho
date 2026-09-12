@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हम अपना हिया में कहलन: ⟨את⟩ न्यायी के आ ⟨את⟩ दुष्ट के एलोहीम न्याय करेलन, काहें कि हर इच्छा खातिर समय ⟨बा⟩ आ हर काज पर ओहिजे।",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "अपना हिया में"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "न्यायी के"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दुष्ट के"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "न्याय करेलन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर … खातिर"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "काज"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:27.091507482Z",
+  "model": "glm-5.3"
+}

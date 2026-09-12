@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "तब अहीकाम के बेटा गदल्याहू, कारेआह के बेटा योहानन से कहलन: ए ⟨את⟩ काम मत करऽ, काहें कि रउआ यिश्माएल के बारे में झूठ बोलत बानी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "गदल्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "अहीकाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "योहानन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कारेआह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ए काम"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलत बानी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:39:33.038336527Z",
+  "model": "glm-5.3"
+}

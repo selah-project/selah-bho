@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "रउआ सभे मनुआ लोगन के हम पुकारत बानी, आ हमार आवाज़ मनुआन के लड़िकन ले बा।",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "रउआ सभे के"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "मनुआ लोगन"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारत बानी"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "आ हमार आवाज़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़िकन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुआन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:42.092104087Z",
+  "model": "glm-5.3"
+}

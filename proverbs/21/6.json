@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 21:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "झूठ के जीभ से खजाना जमावना हवा भर झोला नियर ह — मौत के खोजी लोगन के उड़ा ले जाला।",
+  "tokens": [
+    {
+      "surface": "פעל",
+      "gloss": "जमावना"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "खजाना"
+    },
+    {
+      "surface": "בלשון",
+      "gloss": "जीभ से"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवा भर झोला"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "उड़ा ले जाला"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजी लोगन के"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:57.856164265Z",
+  "model": "glm-5.3"
+}

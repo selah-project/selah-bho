@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 59,
+  "translation": "आ तूँ, यहवे, इनहन पर हँसेला; सब जातियन के हेंटावेला।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "हँसेला"
+    },
+    {
+      "surface": "למו",
+      "gloss": "इनहन पर"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "हेंटावेला"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:50.270427233Z",
+  "model": "glm-5.3"
+}

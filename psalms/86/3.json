@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 86,
+  "translation": "हमरा अनुग्रह करु हे अदोनाय, काहेकि हम रउआ के ही पुकारेला पूरा दिन।",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "हमरा अनुग्रह करु"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हे अदोनाय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के ही"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "पुकारेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:33.747808404Z",
+  "model": "glm-5.3"
+}

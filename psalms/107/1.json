@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "यहवे के धन्यवाद करीं, काहें कि ऊ भला बाड़ें, काहें कि ओकर हेसेद सदा ले बा।",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "धन्यवाद करीं"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:31.924753129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ इस्राएल के बेटा लोग यात्रा कइले आ ओबोत में डेरा लगावले।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "यात्रा कइले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा लगावले"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ओबोत में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:01.965447267Z",
+  "model": "glm-5.3"
+}

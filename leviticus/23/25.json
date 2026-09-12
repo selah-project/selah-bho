@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "कवनो भी सेवा-भरल काम ना करू, आ यहवे खातिर अग्नि-भेंट परोसाबू।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कवनो भी"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-भरल (मेहनत)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करू"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "आ परोसाबू"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अग्नि-भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:17.022390475Z",
+  "model": "glm-5.3"
+}

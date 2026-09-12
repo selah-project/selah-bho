@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "नरम जवाब गुस्सा फेर देला, आ दुख देवे वाला बात रिस चढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "जवाब"
+    },
+    {
+      "surface": "רך",
+      "gloss": "नरम"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "फेर देला"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आ बात"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "दुख देवे वाला"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ावेला"
+    },
+    {
+      "surface": "אף",
+      "gloss": "रिस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:58.917654259Z",
+  "model": "glm-5.3"
+}

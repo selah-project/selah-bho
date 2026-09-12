@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लोग चष्मोना से चलल आ मोसेरोत में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "चष्मोना से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "मोसेरोत में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:06.612005648Z",
+  "model": "glm-5.3"
+}

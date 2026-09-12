@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ ओकर भाई, जेकर हाथ पर लाल धागा बांधल रहे, बाद में बाहर निकलल; आ ओकर नाँव रखल गेल जरह।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "आ बाद में"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "बाहर निकलल"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "लाल (धागा)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "आ रखल गेल नाँव"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जरह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:14.233876053Z",
+  "model": "glm-5.3"
+}

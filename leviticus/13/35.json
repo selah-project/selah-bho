@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ अगर ओकर शुद्धि के बाद नेतेक चमड़ा में फइल जाए,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फइल"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "जाए"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "चमड़ा में"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ओकर शुद्धि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:16.373298163Z",
+  "model": "glm-5.3"
+}

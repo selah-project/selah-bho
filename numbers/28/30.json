@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "बकरी सभ के एक नर-बकरा, रउआ सभ के छुटकारा दिये खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "नर-बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी सभ के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "छुटकारा दिये खातिर"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "रउआ सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:48.538107131Z",
+  "model": "glm-5.3"
+}

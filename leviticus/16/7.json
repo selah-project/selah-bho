@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ ऊ लेवे ⟨את⟩ दुनो बकरा, आ ⟨את⟩ इनन के यहवे के आगे खड़ा कर देवे, मिलन-खेमा के दुआर पर।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ऊ लेवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुनो बकरा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुनो"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "खड़ा कर देवे"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "इनन के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "… के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर पर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "खेमा"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:22.046994617Z",
+  "model": "glm-5.3"
+}

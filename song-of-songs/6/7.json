@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तोहार कनपटी अनार के फाँक नियर बा, तोहार पट्टी के पाछवाड़ा।",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "फाँक नियर"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "अनार के"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "तोहार कनपटी"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "के पाछवाड़ा"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "तोहार पट्टी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:31.198915463Z",
+  "model": "glm-5.3"
+}

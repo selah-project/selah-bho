@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ अवराहाम हटे एकठो औरत लिहलन, आ ओकर नाँव केतुरा रहल।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "आ … हटे"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लिहलन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आ ओकर नाँव"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "केतुरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:19.763706771Z",
+  "model": "glm-5.3"
+}

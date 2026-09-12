@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ एकर बाद अइसन भइल कि योआश के मन में यहवे के घर के ⟨את⟩ नवकारे के इच्छा जागल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एकर"
+    },
+    {
+      "surface": "היה",
+      "gloss": "अइसन भइल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "नवकारे के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:34.355910217Z",
+  "model": "glm-5.3"
+}

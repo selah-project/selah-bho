@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 7:20",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एही से अदोनाय यहवे ए तरह कहेलन: देखऽ, हमर गुस्सा आ हमर क्रोध ए जगह पर ढारल जाई — मनुष्य पर, आ पशु पर, आ खेत के गाछ पर, आ धरती के फल पर; आ जरी जाई आ ओकर बुझाव ना होई।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ए तरह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "हमर गुस्सा"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "आ हमर क्रोध"
+    },
+    {
+      "surface": "נתכת",
+      "gloss": "ढारल जाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ए जगह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "आ जरी जाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "बुझी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:41.021533867Z",
+  "model": "glm-5.3"
+}

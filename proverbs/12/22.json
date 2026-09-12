@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "झूठ के ओंठ यहवे के घृणा बाड़ें, आ सच्चाई करे वाला लोग ओकर पसंद।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घृणा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओंठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "आ करे वाला लोग"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "सच्चाई"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ओकर पसंद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:20.529108796Z",
+  "model": "glm-5.3"
+}

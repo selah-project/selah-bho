@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "अहियाम साकर हरारीवाला के बेटा, एलीफल ऊर के बेटा।",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "अहियाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "साकर"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हरारीवाला"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "एलीफल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ऊर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:21.678811707Z",
+  "model": "glm-5.3"
+}

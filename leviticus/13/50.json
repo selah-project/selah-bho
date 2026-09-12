@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ याजक ⟨את⟩ धब्बा के देखेलन, आ ⟨את⟩ ओ धब्बा वाला चीज के सात दिन ले बन्न के राखेलन।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आ देखेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धब्बा"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "धब्बा के"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "आ बन्न के राखेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धब्बा"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "धब्बा"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:39.693568865Z",
+  "model": "glm-5.3"
+}

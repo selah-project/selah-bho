@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 98,
+  "translation": "समुंदर गरजे आ ओकर भरल सामान; धरती आ ओहमें रहे वाला सभे।",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गरजे"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "आ ओकर भरल सामान"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "धरती (बसल संसार)"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "आ रहे वाला सभे"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहमें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:28.503251029Z",
+  "model": "glm-5.3"
+}

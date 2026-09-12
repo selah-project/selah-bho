@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "यहवे हमरा खातिर बाड़ें — हम ना डरब; मनुख हमरा का करी?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "डरब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:00.210046001Z",
+  "model": "glm-5.3"
+}

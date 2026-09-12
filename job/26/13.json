@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 26:13",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आपन रुह से ऊ अकास के सवारलन; भागत नाग के ओकर हाथ बेधले।",
+  "tokens": [
+    {
+      "surface": "ברוחו",
+      "gloss": "आपन रुह से"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "सवारलन"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "बेधले"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाग"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "भागत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:30.661137071Z",
+  "model": "glm-5.3"
+}

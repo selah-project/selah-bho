@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "genesis 24:58",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ऊ रिबका के पुकारलन आ ओकरा कहलन, का तूँ ए मनुख के संगे जावऽ? ओ कहली, जावऽ।",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "रिबका के"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "התלכי",
+      "gloss": "का तूँ जावऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ए मनुख के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ओ कहली"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "जावऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:49.223271975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "ओकर खातिर केहू हेसेद ना फैलावे, आ ओकर अनाथ लड़का पर केहू दया ना करे।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "बा (केहू)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "משך",
+      "gloss": "फैलावे"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "बा (केहू)"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "दया करे"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "ओकर अनाथ लड़का पर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:02.027107501Z",
+  "model": "glm-5.3"
+}

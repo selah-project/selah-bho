@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ग्यारहवा एल्याशीव खातिर, बारहवा याकीम खातिर।",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "एल्याशीव खातिर"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ग्यारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-वा"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "याकीम खातिर"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-वा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:36.953421346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "जब रउआ के बीच में कवनो नबी उठे, चाहे सपना देखए वाला कवनो, आ रउआ के कोनो चिन्ह चाहे कोनो अचरज देखावे,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "रउआ के बीच में"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "सपना देखए वाला"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आ देखावे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "अचरज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:18.111578471Z",
+  "model": "glm-5.3"
+}

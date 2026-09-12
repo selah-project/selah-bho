@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ यहवे कहलन: “का रउआ खातिर गुस्सा होना भला बा?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "भला…बा"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "गुस्सा होना"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:19.605407269Z",
+  "model": "glm-5.3"
+}

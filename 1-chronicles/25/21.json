@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "चउरहवाँ खातिर मत्तित्याहू, ओकर बेटा आ ओकर भाई — बारह गो रहलें।",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "चउरहवाँ खातिर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "चउरह"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "मत्तित्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:39.203222664Z",
+  "model": "glm-5.3"
+}

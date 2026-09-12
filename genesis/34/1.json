@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ लेआह के बेटी दिनाह, जऊन ऊ याकोब के जनले रहली, धरती के बेटिन के देखे निकलल।",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "दिनाह"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनले रहली"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे खातिर"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "बेटिन के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:05.169070857Z",
+  "model": "glm-5.3"
+}

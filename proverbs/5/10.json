@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "कि ना पराया लोग रउआ के बल से भर जाहें, आ रउआ के मेहनत पराई के घर में जाय।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कि ना"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "भर जाहें"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "पराया लोग"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "रउआ के बल"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "आ रउआ के मेहनत"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "के घर में"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "पराई के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:40.715204997Z",
+  "model": "glm-5.3"
+}

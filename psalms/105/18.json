@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "जंजीर से ओकर गोड़ कुचलल गइल, लोहा ओकर प्राण में घुस गइल।",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "कुचलल गइल"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "जंजीर से"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ओकर गोड़"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "באה",
+      "gloss": "घुस गइल"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:48.777317571Z",
+  "model": "glm-5.3"
+}

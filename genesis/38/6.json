@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ यहूदा आपन बड़का बेटा एर खातिर एगो औरत लिआवलन; आ ओकर नाउँ तामार रहल।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लिआवलन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एगो औरत"
+    },
+    {
+      "surface": "לער",
+      "gloss": "एर खातिर"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "आपन बड़का बेटा"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आ ओकर नाउँ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "तामार"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:31.524981555Z",
+  "model": "glm-5.3"
+}

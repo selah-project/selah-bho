@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ मूसा ओकरा सभे से कहलन: “रुका, हम सुनत नई कि यहवे रउआ सभे खातिर का हुकुम देलन।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओकरा सभे से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "रुका"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "आ हम सुनत नई"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:49.036540773Z",
+  "model": "glm-5.3"
+}

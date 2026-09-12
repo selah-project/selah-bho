@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "कवनो बचन नइखे, आ कवनो शब्द नइखे — ऊ लोगन के आवाज बिना सुनाई पड़ेला।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कवनो बचन"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ … नइखे"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "कवनो शब्द"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "सुनाई पड़ेला"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ऊ लोगन के आवाज"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:57.346566111Z",
+  "model": "glm-5.3"
+}

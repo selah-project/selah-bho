@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 15:14",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ऊँच अस्थान सभे ना हटले; तै भी आसा के मन आपन जिनगी भर यहवे के साथे पूरा-पूरा रहल।",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "आ ऊँच अस्थान सभे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "हटले"
+    },
+    {
+      "surface": "רק",
+      "gloss": "तै भी"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूरा-पूरा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "आपन जिनगी भर"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "भर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:42:29.606826090Z",
+  "model": "glm-5.3"
+}

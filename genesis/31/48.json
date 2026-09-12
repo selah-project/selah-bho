@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "लाबान कहलन — “ई ढेर आज हमार दुनों के बीच गवाह बा।” एही से ओकर नाँव गलएद धइल गइल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "ई ढेर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "हमार बीच"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "रउआ के बीच"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "धइल गइल"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गलएद"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:46.845307161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ याकोब लूज़ (लूज़ा) में आइलन, जवन कनान के धरती में बा — ऊहे बेत-एल ह — ऊ आ ऊ सभे लोग जे इनहर संग रहलें।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "लूज़ (लूज़ा) में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सभे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "इनहर संग"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:29.904567380Z",
+  "model": "glm-5.3"
+}

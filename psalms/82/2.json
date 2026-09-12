@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 82,
+  "translation": "कब ले रउआ अन्याय के न्याय करब, आ दुष्टन के चेहरा उठाब? सेला।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ले"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "न्याय करब"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय के"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "आ … चेहरा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टन के"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "उठाब"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:30.630258999Z",
+  "model": "glm-5.3"
+}

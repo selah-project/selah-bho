@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "कारण हवा ओकरा पार हो जाले आ ऊ ना रहेला, आ ओकर जगह ओकरा फिर ना पहिचानेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "पार हो जाले"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "आ ऊ ना रहेला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ओकरा पहिचानेला"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:57.439619918Z",
+  "model": "glm-5.3"
+}

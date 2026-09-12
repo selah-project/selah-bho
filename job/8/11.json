@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "का नरकुल (पेपिरस) दलदल बिना उगेला? का कास बिना पानी बढ़ेला?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "का ... उगेला"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "नरकुल (पेपिरस)"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "दलदल"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "बढ़ेला"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "कास"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:39.505400699Z",
+  "model": "glm-5.3"
+}

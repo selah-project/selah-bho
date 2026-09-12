@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ शेखेम आपन पिता हामोर से कहलन: “हमार खातिर एह जवान बेटी के ⟨את⟩ बियाह खातिर ले आवऽ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेखेम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "हामोर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले आवऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जवान बेटी के"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "जवान बेटी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एह"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "बियाह खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:05.169640653Z",
+  "model": "glm-5.3"
+}

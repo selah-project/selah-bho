@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "रउआ आपन सब गुस्सा समेट लीहली, रउआ आपन तेज क्रोध से फेर गईली।",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "समेट लीहली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "आपन गुस्सा"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "फेर गईली"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "तेज क्रोध"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "आपन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:33.480864976Z",
+  "model": "glm-5.3"
+}

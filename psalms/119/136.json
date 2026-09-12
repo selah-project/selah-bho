@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "पानी के धारा सभ हमर आँखन से बहला, काहे कि ऊ लोग रउआ के तोरा ना मानले।",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "धारा सभ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "बहला"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमर आँखन से"
+    },
+    {
+      "surface": "על",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "मानले"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "रउआ के तोरा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:54.303034077Z",
+  "model": "glm-5.3"
+}

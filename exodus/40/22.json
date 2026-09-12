@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ मेज के रखलन ऊ ⟨את⟩ मोल-मिलन के तम्बू में, मंडप के कात पर, उत्तर ओर — ओत-पर्दा के बाहर।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेज"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोल-मिलन के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "कात"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मंडप के"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "उत्तर ओर"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ओत-पर्दा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:22.501661772Z",
+  "model": "glm-5.3"
+}

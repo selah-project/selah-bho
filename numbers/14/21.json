@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "बाकिर हम जियत बानी, आ यहवे के महिमा ⟨את⟩ पूरा धरती के भर देई।",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जियत"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "आ भर देई"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:49.772749346Z",
+  "model": "glm-5.3"
+}

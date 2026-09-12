@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "आ दाखरस ना पियेला कवनो कोहेन, जब ऊ लोग भीतरी अँगना में आवेलें।",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "आ दाखरस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "पियेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "जब ऊ लोग आवेलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "अँगना"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "भीतरी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:04.598345200Z",
+  "model": "glm-5.3"
+}

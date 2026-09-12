@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ जब कवनो गेर रउआ के संगे ⟨את⟩ रउआ के धरती में रहे, त रउआ ⟨את⟩ ओकरा दबा ना करिह।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ रउआ के संगे"
+    },
+    {
+      "surface": "גר",
+      "gloss": "गेर"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "रउआ के धरती में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "दबा करिह"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:56.549940605Z",
+  "model": "glm-5.3"
+}

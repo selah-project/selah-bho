@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 10:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ओ समय यहवे हम से कहलन: “तूँ खुद पहिला नियर दू गो पत्थरन के पट्टी तराश, आ हम लागि पहाड़ पर चढ़, आ तूँ खुद एगो काठ के सन्दूक बना।”",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ओ समय"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "तराश"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ खुद"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "पट्टी"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थरन के"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "पहिला नियर"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "आ चढ़"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम लागि"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "आ बना"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ खुद"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "काठ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:35:27.443715685Z",
+  "model": "glm-5.3"
+}

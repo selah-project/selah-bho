@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "अनुशासन खातिर तोर मन लाव, आ तोर कान ज्ञान के बातन खातिर।",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "लाव"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "अनुशासन खातिर"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोर मन"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "आ तोर कान"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "बातन खातिर"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:17.481138311Z",
+  "model": "glm-5.3"
+}

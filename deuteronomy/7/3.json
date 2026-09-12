@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ इनहन से बियाह के रिश्ता मत जोड़ऽ: तोहार बेटी के ओकर बेटा खातिर मत दऽ, आ ओकर बेटी के तोहार बेटा खातिर मत लऽ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ मत"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "बियाह के रिश्ता जोड़ऽ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "इनहन से"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "तोहार बेटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दऽ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ओकर बेटा खातिर"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "आ ओकर बेटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लऽ"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "तोहार बेटा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:32:40.020260909Z",
+  "model": "glm-5.3"
+}

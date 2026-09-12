@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ⟨את⟩ आपन घर बनवलन सुलैमान तेरह बरिस में, आ पूरा कइलन ⟨את⟩ आपन पूरा घर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आपन घर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलैमान"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "पूरा कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा घर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:25.086627860Z",
+  "model": "glm-5.3"
+}

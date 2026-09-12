@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ अगर एकरा सँगे सच्चे चोरी भ जाय, त ऊ मालिक के भरपाई करेला।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "सच्चे चोरी"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "भ जाय"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "एकरा सँगे"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "भरपाई करेला"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "मालिक के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:26.238934746Z",
+  "model": "glm-5.3"
+}

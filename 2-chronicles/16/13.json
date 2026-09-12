@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आसा आपन पुरखा सभे के संगे सो गइलन आ ऊ आपन राज के इकतालीसवाँ बरिस मर गइलन।",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सो गइलन"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "आपन पुरखा सभे"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइलन"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "आ एक"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "आपन राज के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:45.452922596Z",
+  "model": "glm-5.3"
+}

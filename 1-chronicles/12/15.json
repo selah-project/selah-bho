@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "ई गाद के लरिका में से रहलें, सेना के सरदार — छोटका एक सौ के बरोबर, आ बड़का एक हजार के बरोबर।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "के लरिका में से"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "सौ के बरोबर"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "छोटका"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "आ बड़का"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "हजार के बरोबर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:05.787484651Z",
+  "model": "glm-5.3"
+}

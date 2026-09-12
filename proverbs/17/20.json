@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "टेढ़ हिया वाला नीकी ना पावेला, आ जेकर जीभ उलटा-पुलटा बा, ऊ बुराई में गिरेला।",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "टेढ़"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पावेला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीकी"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "उलटा-पुलटा"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "जीभ में"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "गिरेला"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "बुराई में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:17.526186592Z",
+  "model": "glm-5.3"
+}

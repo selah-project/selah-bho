@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ मोशे अपना हाथ ⟨את⟩ अकास पर फइलालन, आ पुरा मिस्रयिम के धरती पर गाढ़ अँधियारी हो गइल, तीन दिन ले।",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "आ फइलालन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ हो गइल"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँधियारी"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "गाढ़"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पुरा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:32.625428570Z",
+  "model": "glm-5.3"
+}

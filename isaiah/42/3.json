@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "कुचलल नरकट ऊ ना तोड़ी, आ कुहरावल सन के बाती ऊ ना बुझावी; सच्चाई से ऊ न्याय निकाली.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "नरकट"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "कुचलल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "तोड़ी"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "आ सन के बाती"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "कुहरावल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "बुझावी"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "सच्चाई से"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "निकाली"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:02.479781384Z",
+  "model": "glm-5.3"
+}

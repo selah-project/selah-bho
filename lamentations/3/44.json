@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "बादल से तूँ आपना के ढाकलऽ कि दुआ गुजरे ना पावे।",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ढाकलऽ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादल से"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपना के"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "गुजरे"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "दुआ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:14.038363620Z",
+  "model": "glm-5.3"
+}

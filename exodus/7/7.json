@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ मोशे अस्सी बरिस के बेटा रहलें, आ अहारोन तीन आ अस्सी बरिस के बेटा, जब ऊ लोग फिरौन से बोलले।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "आ मोशे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आ अहारोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "आ अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "जब ऊ लोग बोलले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:35.423571821Z",
+  "model": "glm-5.3"
+}

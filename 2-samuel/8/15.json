@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ दाऊद पूरा इस्राएल पर राज कइलन; आ दाऊद आपन पूरा जनता खातिर न्याय आ धरम कइलन।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "धरम"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "खातिर पूरा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "आपन जनता"
+    }
+  ],
+  "timestamp": "2026-09-11T19:22:48.091195062Z",
+  "model": "glm-5.3"
+}

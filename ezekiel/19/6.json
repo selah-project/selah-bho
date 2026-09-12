@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "ऊ शेरन के बीच में घूमे लागल, जवान शेर बनल; शिकार फाड़े के सीखल, मनुखन के खाइल।",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "ऊ घूमे लागल"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "शेरन"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "जवान शेर"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनल"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "सीखल"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "फाड़े के"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुखन के"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाइल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:55.946446484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ बिन्यामीन के सीमा के ऊपर — पुरुब किनारा से पच्छिम किनारा ले — शिमोन एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ के ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन के"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारा से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पुरुब के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पच्छिम के"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:08:44.291499927Z",
+  "model": "glm-5.3"
+}

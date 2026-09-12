@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 8:14",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जेकर भरोसा काट दिहल जाला, आ ओकर सहारा माकड़ी के घर बा।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יקוט",
+      "gloss": "काट दिहल जाला"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "माकड़ी"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "सहारा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:04.466760891Z",
+  "model": "glm-5.3"
+}

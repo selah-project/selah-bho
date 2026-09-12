@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 102,
+  "translation": "यहवे, हमार बिनती सुनऽ, आ हमार पुकार रउआ के ओर आवे।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "हमार बिनती"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "आ हमार पुकार"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के ओर"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:05.625622989Z",
+  "model": "glm-5.3"
+}

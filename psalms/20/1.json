@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "मुखिया खातिर; दाऊद के एगो मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:55.537787400Z",
+  "model": "glm-5.3"
+}

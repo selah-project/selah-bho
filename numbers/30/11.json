@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ जब ऊ आदमी के घर में नेदर लेले, चाहे कसम के साथ आपन नफश पर कौनो बंधन बान्धले,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "नेदर लेले"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "बान्धले"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "बंधन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "कसम के साथ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:45.327445316Z",
+  "model": "glm-5.3"
+}

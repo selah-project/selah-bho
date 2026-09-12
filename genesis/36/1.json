@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ एसाव के वंशावली हवे — ऊहे एदोम बा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:47.152173100Z",
+  "model": "glm-5.3"
+}

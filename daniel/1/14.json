@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आऊ ऊ इनकरा ए बात मान लिहलन, आ ऊ इनके दस दिन तक आजमा के देखलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "मान लिहलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनकरा"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ए बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "आजमा के देखलन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:17.793986228Z",
+  "model": "glm-5.3"
+}

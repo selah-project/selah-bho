@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "⟨את⟩ चरबी ला खावेला आ ⟨את⟩ ऊन ला पहिरेला, मोट-ताजा ला मारेला, झुंड के ना चरावेला।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी ला"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खावेला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ऊन ला"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ऊन"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "पहिरेला"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "मोट-ताजा ला"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "मारेला"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "झुंड के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "चरावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:02.199945224Z",
+  "model": "glm-5.3"
+}

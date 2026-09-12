@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हबक्कूक नबी के बिनती — शिग्योनोत के ऊपर।",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "बिनती"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "हबक्कूक के"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "शिग्योनोत"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:36.705184316Z",
+  "model": "glm-5.3"
+}

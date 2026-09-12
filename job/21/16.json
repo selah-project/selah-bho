@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 21:16",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "देखऽ, ऊ लोग के भलाई ऊ के हाथ में नइखे; दुष्ट लोग के सलाह हम से दूर रहे।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "טובם",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "दूर रहे"
+    },
+    {
+      "surface": "מני",
+      "gloss": "हम से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:38.999931298Z",
+  "model": "glm-5.3"
+}

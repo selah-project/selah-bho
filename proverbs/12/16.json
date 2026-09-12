@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "मूर्ख के गुस्सा ओही दिने परगट हो जाला, बाकिर चतुर बेइज्जती छिपा लेवेला।",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "परगट हो जाला"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "आ छिपा लेवेला"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "बेइज्जती"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:48.973815736Z",
+  "model": "glm-5.3"
+}

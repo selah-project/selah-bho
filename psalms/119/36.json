@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "हमार मन के ओर झुकावऽ रउआ के गवाही सभ के खातिर, आ बेइमानी कमाई के ओर ना।",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "झुकावऽ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमार मन के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "रउआ के गवाही सभ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ … ओर ना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "बेइमानी कमाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:32.388997439Z",
+  "model": "glm-5.3"
+}

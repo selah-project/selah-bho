@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ सेईर के बेटा लोग: लोतान, आ शोबाल, आ त्सिबओन, आ अना, आ दीशोन, आ एत्सेर आ दीशान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ बेटा लोग"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "आ शोबाल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "आ त्सिबओन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "आ अना"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "आ दीशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "आ एत्सेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "आ दीशान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:37.822320599Z",
+  "model": "glm-5.3"
+}

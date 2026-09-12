@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 102,
+  "translation": "हमार दिन फइलल छाया नियर बाड़ें आ हम घास नियर सूख जाइत बानी।",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "हमार दिन"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "छाया नियर"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "फइलल"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "घास नियर"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "सूख जाइत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:21.414001004Z",
+  "model": "glm-5.3"
+}

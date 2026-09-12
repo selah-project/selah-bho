@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "रउआ के माथ के किनारा गोल ना काटब, आ ⟨את⟩ तोहार दाढ़ी के किनारा ना बिगाड़ब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "गोल काटब"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "रउआ के माथ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "बिगाड़ब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहार दाढ़ी के किनारा"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "तोहार दाढ़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:41.015881741Z",
+  "model": "glm-5.3"
+}

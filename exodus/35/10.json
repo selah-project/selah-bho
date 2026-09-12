@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ रउआ सभे में से हर एक जेकर दिल समझदार बा, ऊ आवन आ ओ ⟨את⟩ सब करे जवन यहवे हुकुम देलन —",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर एक"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "לב",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "रउआ सभे में से"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आवन"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "आ करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:52:21.071729262Z",
+  "model": "glm-5.3"
+}

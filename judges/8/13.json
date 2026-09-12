@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ गिदोन, योआस के बेटा, लड़ाई से लवटलन, चढ़ाई हेरेस के ओर से।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लवटलन"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआस"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "चढ़ाई के ओर से"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "हेरेस"
+    }
+  ],
+  "timestamp": "2026-09-11T19:00:03.171620080Z",
+  "model": "glm-5.3"
+}

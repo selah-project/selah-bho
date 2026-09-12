@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 19:38",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ यिरओन, उमिग्दल-एल, चोरेम, उबेत अनात उबेत शमेश — उन्नीस नगर आ ऊनकर गाँव।",
+  "tokens": [
+    {
+      "surface": "ויראון",
+      "gloss": "आ यिरओन"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "उमिग्दल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "चोरेम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "उबेत"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "अनात"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "उबेत"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "शमेश"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "उन्नीस में नौ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ ऊनकर गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:22.242763455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ ऊ यहवे के निगाह में जवन सही बा ऊ कइलन, अपना पिता दाविद जवन कइले रहलें ओकरे अनुसार।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ ऊ कइलन"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "जवन सही बा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के निगाह में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ओकरे अनुसार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले रहलें"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपना पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:05.029873664Z",
+  "model": "glm-5.3"
+}

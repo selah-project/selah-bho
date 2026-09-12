@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "तब धरती के बुजुर्गन में से कवनो आदमी उठले आ पूरा जन-सभा के मनई सभे से कहले, कहिके —",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "उठले"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "कवनो आदमी"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "बुजुर्गन में से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "आ कहले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "जन-सभा के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मनई सभे के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T20:33:30.999983189Z",
+  "model": "glm-5.3"
+}

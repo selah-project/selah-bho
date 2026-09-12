@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "रउआ परदेसी आ अनाथ के न्याय ना टेढ़ करें, आ विधवा के कपड़ा गिरवी ना रखें।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "टेढ़ करें"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "गिरवी रखें"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:47.088036763Z",
+  "model": "glm-5.3"
+}

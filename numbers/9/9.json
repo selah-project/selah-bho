@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ यहवे मूसा से बोललन, कहेला —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:09.860566025Z",
+  "model": "glm-5.3"
+}

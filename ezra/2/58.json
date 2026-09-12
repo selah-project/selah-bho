@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "सबे नतीनिम आ शलोमोह के सेवक सभे के बेटा — तीन सौ बानवे आ दू।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "नतीनिम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक सभे के"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "बानवे"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:27.433351714Z",
+  "model": "glm-5.3"
+}

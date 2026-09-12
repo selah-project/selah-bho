@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ गाद के बेटाब रहलें: त्सिफ्योन आ हग्गी, शूनी आ एत्सबोन, एरी आ अरोदी आ अरेली।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटाब"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "त्सिफ्योन"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "आ हग्गी"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "शूनी"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "आ एत्सबोन"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "एरी"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "आ अरोदी"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "आ अरेली"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:09.166749883Z",
+  "model": "glm-5.3"
+}

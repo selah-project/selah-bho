@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "बैल के मुँह ना बान्हबे ओकरा ओकर दलान के दाना दहाड़त घरी।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "मुँह बान्हबे"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल के"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ओकर दलान के दाना दहाड़त घरी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:48.763413655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 15:29",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "बाला आ इय्यीम आ अत्सेम —",
+  "tokens": [
+    {
+      "surface": "בעלה",
+      "gloss": "बाला"
+    },
+    {
+      "surface": "ועיים",
+      "gloss": "आ इय्यीम"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "आ अत्सेम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:05.013890633Z",
+  "model": "glm-5.3"
+}

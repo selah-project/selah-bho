@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 10:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "एही ला रउआ ऊ लोगन से ए कहब: ऊ एलाह सभे, जे अकास आ धरती ना बनवले, ऊ धरती से आ एह अकासन के नीचे से नास भ जाई।",
+  "tokens": [
+    {
+      "surface": "כדנה",
+      "gloss": "एही ला"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "रउआ कहब"
+    },
+    {
+      "surface": "להום",
+      "gloss": "ऊ लोगन से"
+    },
+    {
+      "surface": "אלהיא",
+      "gloss": "एलाह सभे"
+    },
+    {
+      "surface": "די",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארקא",
+      "gloss": "आ धरती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "बनवले"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "नास भ जाई"
+    },
+    {
+      "surface": "מארעא",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "תחות",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "अकासन के"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:30.761673070Z",
+  "model": "glm-5.3"
+}

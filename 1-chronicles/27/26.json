@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ खेत के काम करे वालन पर — धरती के जोते खातिर — एज्री, केलूब के बेटा, रहलें।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "करे वालन"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "जोते खातिर"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "एज्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "केलूब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:10.362022321Z",
+  "model": "glm-5.3"
+}

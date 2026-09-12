@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 58,
+  "translation": "जइसन घोंघा पिघलत चलत जाला, अवत्या जइसन औरत के — ऊ लोग सूरज के ना देखी।",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "घोंघा"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "पिघलत"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "जाला"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "अवत्या"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "औरत के"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "देखी"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूरज"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:53.807612236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ अय्यूब जवाब दीहलन आ कहिस:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दीहलन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहिस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:40.748865883Z",
+  "model": "glm-5.3"
+}

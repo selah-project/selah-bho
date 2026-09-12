@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 124,
+  "translation": "हमनी के मदद यहवे के नाम में बा — ⟨जे⟩ अकास आ धरती बनावइ वाला।",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "हमनी के मदद"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨जे⟩ बनावइ वाला"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आ धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:23.602096637Z",
+  "model": "glm-5.3"
+}

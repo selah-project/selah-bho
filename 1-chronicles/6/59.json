@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ आशेर के गोत्र से ⟨את⟩ माशाल आ ⟨את⟩ ओकर चरागाह, आ ⟨את⟩ अब्दोन आ ⟨את⟩ ओकर चरागाह।",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "आ … के गोत्र से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "माशाल"
+    },
+    {
+      "surface": "משל",
+      "gloss": "माशाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अब्दोन"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "अब्दोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.570153760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ जेबूलून के बेटाब रहलें: सेरेद आ एलोन आ यहलेल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटाब"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबूलून"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "सेरेद"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "आ एलोन"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "आ यहलेल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:09.166340482Z",
+  "model": "glm-5.3"
+}

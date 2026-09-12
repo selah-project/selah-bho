@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 30:16",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ हम मिस्रयिम में आग देब; सीन कराही मचाई, आ नो चीरल जाई, आ नोफ में दुश्मन रोज-रोज आवेला।",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "आ हम देब"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम में"
+    },
+    {
+      "surface": "חול",
+      "gloss": "कराही"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "मचाई"
+    },
+    {
+      "surface": "סין",
+      "gloss": "सीन"
+    },
+    {
+      "surface": "ונא",
+      "gloss": "आ नो"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "להבקע",
+      "gloss": "चीरल"
+    },
+    {
+      "surface": "ונף",
+      "gloss": "आ नोफ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "दुश्मन"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "रोज-रोज"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:39.470219898Z",
+  "model": "glm-5.3"
+}

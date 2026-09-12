@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "छाती सभे पर विलाप करत रही — मन भावे वाला खेत सभे खातिर, फल देवे वाली बेल खातिर।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "छाती सभे"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "विलाप करत रही"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत सभे"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "मन भावे वाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "बेल"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "फल देवे वाली"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:15.085155741Z",
+  "model": "glm-5.3"
+}

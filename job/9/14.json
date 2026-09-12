@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 9:14",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "त हम त अउर का — हम ओकर जवाब कइसे देबी, आ ओकरे साथे आपन बात सभे चुनबी?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "त"
+    },
+    {
+      "surface": "כי",
+      "gloss": "अउर का"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אעננו",
+      "gloss": "जवाब देबी"
+    },
+    {
+      "surface": "אבחרה",
+      "gloss": "चुनबी"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सभे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरे साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:39.826914767Z",
+  "model": "glm-5.3"
+}

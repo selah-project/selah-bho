@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ मोशे आधा लहू लिहलन आ कटोरन मे रखलन, आ आधा लहू बेदी के ऊपर छिड़कलन।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लिहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "लहू"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "कटोरन मे"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आ आधा"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "लहू"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "छिड़कलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:52.236373772Z",
+  "model": "glm-5.3"
+}

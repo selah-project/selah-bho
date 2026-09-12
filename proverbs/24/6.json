@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 24:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "काहे कि चाल-चलन से रउआ युद्ध कइल करब, आ ढेर सलाहकार में उद्धार बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בתחבלות",
+      "gloss": "चाल-चलन से"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "कइल करब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "आ उद्धार"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ढेर सलाहकार में"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सलाहकार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:06.861613457Z",
+  "model": "glm-5.3"
+}

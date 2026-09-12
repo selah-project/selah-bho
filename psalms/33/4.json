@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "काहें से कि सीधा बा यहवे के बात, आ ओकर सगरी काम विश्वास के साथे ⟨होखेला⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ओकर काम"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "विश्वास के साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:01.514894656Z",
+  "model": "glm-5.3"
+}

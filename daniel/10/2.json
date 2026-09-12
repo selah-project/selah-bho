@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ऊ दिनन में हम, दानियेल, तीन हफ्ता — दिनन के — शोक कइलन।",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिनन में"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानियेल"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "शोक कइलन"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "हफ्ता"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:39:36.721950488Z",
+  "model": "glm-5.3"
+}

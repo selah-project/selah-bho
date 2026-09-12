@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "हम यहवे के लौटाब का? ओकर सगरी बदला हमार ऊपर बा।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "हम लौटाब"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमार ऊपर बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:54.676551385Z",
+  "model": "glm-5.3"
+}

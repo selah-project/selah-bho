@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "यूसुफ के शाखा से — मनश्शे के शाखा से — गद्दी, सूसी के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "शाखा से"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "शाखा से"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "सूसी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:52.690776761Z",
+  "model": "glm-5.3"
+}

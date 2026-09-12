@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ हम भी, हमार भाई आ हमार सेवक लोग उनियन से चाँदी आ अनाज ब्याज पर देत बानी; चली ई भार ⟨את⟩ छोड़ देईं ना।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ…भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमार भाई"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "आ हमार सेवक लोग"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ब्याज पर देत बानी"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनियन से"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "आ अनाज"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "छोड़ देईं"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई भार"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:47:54.690585739Z",
+  "model": "glm-5.3"
+}

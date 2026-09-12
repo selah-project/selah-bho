@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "सूर बजावे आ लड़ाई के गरज के दिन — गढ़वाल नगर सभ के ऊपर आ ऊँच मोड़ा सभ के ऊपर।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "सूर"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "आ लड़ाई के गरज"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर सभ"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "गढ़वाल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "मोड़ा सभ"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ऊँच"
+    }
+  ],
+  "timestamp": "2026-09-11T23:57:30.314165725Z",
+  "model": "glm-5.3"
+}

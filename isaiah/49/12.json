@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "देखऽ, ई लोग दूर से आई; आ देखऽ, ई लोग उत्तर से आ समुंदर के ओर से — आ ई लोग सिनीम देस से।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आई"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "आ समुंदर के ओर से"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई लोग"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "सिनीम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:15:17.180524210Z",
+  "model": "glm-5.3"
+}

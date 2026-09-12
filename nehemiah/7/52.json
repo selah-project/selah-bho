@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बेसय के लइका, मउनी लोग के लइका, नफुशेसीम के लइका।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "बेसय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "मउनी लोग के लइका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "नफुशेसीम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.414591248Z",
+  "model": "glm-5.3"
+}

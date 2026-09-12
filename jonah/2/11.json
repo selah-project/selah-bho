@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ यहवे माछा से कहलन, आ ऊ योना के ⟨את⟩ सूखल जमीन पर उगार दिहलस।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "माछा से"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "उगार दिहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योना के"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "सूखल जमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:17:44.120109799Z",
+  "model": "glm-5.3"
+}

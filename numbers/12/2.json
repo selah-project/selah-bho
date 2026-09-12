@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ ऊ लोग कहले, “का यहवे खाली मोशेसे बोलले? का ऊ हमनी का सभेसे नइखन बोलल?” आ यहवे ई सुनलन।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहले"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "का"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "मोशेसे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का"
+    },
+    {
+      "surface": "גם",
+      "gloss": "नइखन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी का सभेसे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलल"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:21.234376245Z",
+  "model": "glm-5.3"
+}

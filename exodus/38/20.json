@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ मेड़ा के सब कील, आ आँगन के चारों ओर के, ताम्बर के रहलें।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "कील"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "मेड़ा के"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "आ आँगन के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर के"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्बर के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:55:23.254551469Z",
+  "model": "glm-5.3"
+}

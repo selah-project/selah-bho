@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ई मन्ना के बिधि ह: अहरोन के बेटा लोग ⟨את⟩ एकरा यहवे के आगे, मुँहीं के सामने, चढ़ावे।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "बिधि"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "मन्ना के"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "चढ़ावे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "एकरा (मन्ना)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामना"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "मुँहीं"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:28.540964964Z",
+  "model": "glm-5.3"
+}

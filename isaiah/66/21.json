@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 66,
+  "translation": "आ ऊ सभे में से हम गिनही काहनू आ लेवी लोग खातिर लेब, यहवे कहेला।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ भी"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ऊ सभे में से"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "हम लेब"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "काहनू लोग खातिर"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "लेवी लोग खातिर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:21:33.619566086Z",
+  "model": "glm-5.3"
+}

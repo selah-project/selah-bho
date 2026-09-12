@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ आपन गला पर छुरी रख ले, अगर तूँ नफस के मालिक बानी।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "रख ले"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "छुरी"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "आपन गला पर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफस"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:03.416200787Z",
+  "model": "glm-5.3"
+}

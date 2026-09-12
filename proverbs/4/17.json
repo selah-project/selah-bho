@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "कारण ऊ लोग अधर्म के रोटी खावेलें आ हिंसा के दारू पिवेलें।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "खावेलें"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "अधर्म के"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आ दारू"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "हिंसा के"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "पिवेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:27.302112429Z",
+  "model": "glm-5.3"
+}

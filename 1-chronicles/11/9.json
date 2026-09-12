@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ दाऊद बढ़ते-बढ़ते महान होखत गइलें, आ यहवे त्सवाओत ओकर साथे रहलें।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गइलें"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "बढ़ते-बढ़ते"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "महान होखत"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सवाओत"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:17.676103230Z",
+  "model": "glm-5.3"
+}

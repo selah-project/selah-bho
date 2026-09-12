@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ हम रउआ पर भरोसा कइली, हे यहवे; हम कहली: रउआ हमर एलोहीम बानी।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "रउआ पर"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "भरोसा कइली"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहली"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "हमर एलोहीम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:07.597846265Z",
+  "model": "glm-5.3"
+}

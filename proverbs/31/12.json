@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ऊ ओकरा गुन करेला, बुराई ना, आपन जिनगी के सब दिन।",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "ऊ ओकरा गुन करेला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "गुन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "आपन जिनगी के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:56.746359901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 129,
+  "translation": "लजावें आ पीछे हट जावें, जियोन के सब सोनहारी।",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लजावें"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "आ पीछे हट जावें"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "सोनहारी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:59.178343560Z",
+  "model": "glm-5.3"
+}

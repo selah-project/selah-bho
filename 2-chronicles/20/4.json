@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ यहूदा इकट्ठा भइल यहवे से माँगे खातिर; यहूदा के सब नगरन से भी ऊ लोग आइल ⟨את⟩ यहवे के खोजे खातिर।",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "आ इकट्ठा भइल"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "माँगे खातिर"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब … से"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगरन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:10.454841219Z",
+  "model": "glm-5.3"
+}

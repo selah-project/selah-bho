@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "मनुख्खिया के चाहत ओकर हेसेद ⟨बा⟩, आ गरीब झूठा मनुख्खिया से नीक होखेला।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाहत"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख्खिया के"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "आ … नीक"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मनुख्खिया से"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:44.522161783Z",
+  "model": "glm-5.3"
+}

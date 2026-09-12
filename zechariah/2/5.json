@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हम आपन आँख उठइनी आ देखलीं, आ देखौ, एक आदमी बाड़ें, आ ओकर हाथ में नाप के डोरी बा।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "उठइनी"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "देखलीं"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "डोरी"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "नाप"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:42.541389460Z",
+  "model": "glm-5.3"
+}

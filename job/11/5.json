@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "बाकिर कौन देई कि एलोअह बोलेलन, आ आपन ओंठ रउआ खातिर खोलेलन।",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देई"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलेलन"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "आ खोलेलन"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "आपन ओंठ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:51.606657945Z",
+  "model": "glm-5.3"
+}

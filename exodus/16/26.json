@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "छह दिन रउआ एकरा बटोरब, बाकिर सातवाँ दिन शब्बत ⟨बा⟩ — ओकरा में कुछ ना होई।”",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "रउआ एकरा बटोरब"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "बाकिर … दिन में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "शब्बत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:12.142595766Z",
+  "model": "glm-5.3"
+}

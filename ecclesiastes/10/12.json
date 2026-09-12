@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "समझदार के मुँह के बातन में अनुग्रह बाड़ें; आ मूर्ख के होंठ ओकरा के घटके डारेला।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "समझदार के"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "आ होंठ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ओकरा के घटके डारेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:00.574742998Z",
+  "model": "glm-5.3"
+}

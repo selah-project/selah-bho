@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ लड़ाई नइखे भइल असा के राज के पैंतीसवाँ साल ले।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "आ लड़ाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "साल"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज के"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "असा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:43.589566518Z",
+  "model": "glm-5.3"
+}

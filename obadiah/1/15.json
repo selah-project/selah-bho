@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "काहे कि यहवे के दिन सब जातिन पर नजदीक बा; जइसन तूँ कइलऽ ह, ओइसने तोहार संग होखी; तोहार बदला तोहार माथे लौटी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातिन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ ह"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार संग"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "तोहार बदला"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटी"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "तोहार माथे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:15:26.065543640Z",
+  "model": "glm-5.3"
+}

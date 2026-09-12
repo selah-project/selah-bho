@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "लेवी के बेटाअन में से चारि हजार आ छह सौ रहलें।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटाअन"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:20.554819869Z",
+  "model": "glm-5.3"
+}

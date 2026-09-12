@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ यहवे बिलाम से भेंट भइलन, आ ओकर मुँह में एक बात रखलन; आ ऊ कहलन, “बालाक के पास लौट जाऽ आ अइसने बोलब।”",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "आ भेंट भइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "आ रखलन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "एक बात"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ओकर मुँह में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ऊ कहलन"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौट जाऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "आ अइसने"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोलब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:49.599432869Z",
+  "model": "glm-5.3"
+}

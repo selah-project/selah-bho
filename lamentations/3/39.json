@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "जिऊत मनुष्य काहे बिलावेला, पुरुष आपन पाप के दंड खातिर?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "बिलावेला"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिऊत"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "आपन पाप के दंड"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.231838242Z",
+  "model": "glm-5.3"
+}

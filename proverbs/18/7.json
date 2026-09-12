@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "मूर्ख के मुँह ओकर बरबादी बा, आ ओकर ओठ ओकर प्राण खातिर जाल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर (खातिर)"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "आ ओकर ओठ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर प्राण खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:29.817032811Z",
+  "model": "glm-5.3"
+}

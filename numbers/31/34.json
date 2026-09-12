@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ गधा सँ इकठ्ठा हजार,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "आ गधा सँ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "इकठ्ठा"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:47.920695681Z",
+  "model": "glm-5.3"
+}

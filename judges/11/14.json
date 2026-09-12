@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ यिफ्ताह अउरो जोड़ के दूतन के बनी अम्मोन के राजा के ओर भेजलन।",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "जोड़ के"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउरो"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफ्ताह"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूतन के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:02.860392055Z",
+  "model": "glm-5.3"
+}

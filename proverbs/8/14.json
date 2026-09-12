@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "हम के पास सलाह बा आ ठोस बुद्धि बा; हमें समझ बानी; हम के पास ताकत बा।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "हम के पास"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "आ ठोस बुद्धि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम के पास"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ताकत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:23.542871285Z",
+  "model": "glm-5.3"
+}

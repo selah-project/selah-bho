@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 3:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ रूबेनी सभे आ गादी सभे के हम गिलाद से अरनोन नाला ले दिहली — नाला के बीच आ सीमा — आ याबोक नाला ले, ऊ अम्मोन के बेटान के सीमा।",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "आ रूबेनी सभे के"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "आ गादी सभे के"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम दिहली"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ ले"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अरनोन"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "नाला के"
+    },
+    {
+      "surface": "וגבל",
+      "gloss": "आ सीमा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ ले"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "याबोक"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:44.512885351Z",
+  "model": "glm-5.3"
+}

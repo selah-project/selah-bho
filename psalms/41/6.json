@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "हमार बैरी लोग हम खातिर बुराई कहेलें — “कब ऊ मर जाई आ ओकर नाउँ मेट जाई?”",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "हमार बैरी लोग"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "कहेलें"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम खातिर"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मर जाई"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "आ मेट जाई"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाउँ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:16.155167770Z",
+  "model": "glm-5.3"
+}

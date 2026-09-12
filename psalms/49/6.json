@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "बुरा दिन में हम काहे डरबी, जब मोर एड़ी के पाप मोके घेर लेला?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "डरबी"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "עון",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "मोर एड़ी के"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "मोके घेर लेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:17.555741288Z",
+  "model": "glm-5.3"
+}

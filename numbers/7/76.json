@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बकरा के एक बोका, पाप-भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरा के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:59.753262517Z",
+  "model": "glm-5.3"
+}

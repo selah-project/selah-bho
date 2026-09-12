@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "इनहन के मांस रउआ सभे ना खाब, आ इनहन के मुरदा रउआ सभे ना छुइब — ई सभे रउआ सभे खातिर अशुद्ध बाड़ें।",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "इनहन के मांस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "आ इनहन के मुरदा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "छुइब"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ई सभे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:31.052383421Z",
+  "model": "glm-5.3"
+}

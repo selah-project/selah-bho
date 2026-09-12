@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जादूगरनी के तूँ जिउअबा ना।",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "जादूगरनी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "जिउअबा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:21.244120224Z",
+  "model": "glm-5.3"
+}

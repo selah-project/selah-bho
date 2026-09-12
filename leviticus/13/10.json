@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "काहुन देखेलन, आ देखऽ — चमड़ा में सफेद मस्सू बा, आ ऊ बाल के सफेद कर देले बा, आ मस्सू में ताजा गोस्ट निकलल बा।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "देखेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "काहुन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "मस्सू"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "सफेद"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "चमड़ा में"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "कर देले बा"
+    },
+    {
+      "surface": "שער",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "सफेद"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "निकलल बा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "गोस्ट"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ताजा"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "मस्सू में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:45.573576828Z",
+  "model": "glm-5.3"
+}

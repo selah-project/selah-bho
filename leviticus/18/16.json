@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तोहार भाई के औरत के नंगापन मत खोलब; ऊ तोहार भाई के नंगापन बाड़ी।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगापन"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "औरत के"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोलब"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नंगापन"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बाड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:41.323744819Z",
+  "model": "glm-5.3"
+}

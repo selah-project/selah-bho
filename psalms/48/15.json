@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "काहेकि ई एलोहीम हमनी के एलोहीम हवें सदा आ सदा-सदा ला; ऊहे हमनी के मौत ले चलेलें।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ सदा-सदा ला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "हमनी के चलेलें"
+    },
+    {
+      "surface": "על",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:02.151101762Z",
+  "model": "glm-5.3"
+}

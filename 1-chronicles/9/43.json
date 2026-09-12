@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ मोत्सा ⟨את⟩ बिनआ के जनम दीलन; रेफायाह ओकर बेटा, एलआसा ओकर बेटा, आत्सेल ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "आ मोत्सा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दीलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिनआ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "बिनआ"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "रेफायाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "एलआसा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "आत्सेल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:18.700646870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ कोठरी सभे के आगे सीमा-रेखा — एक हाथ, आ एक हाथ सीमा-रेखा एह ओर से; आ कोठरी छह हाथ एह ओर से, आ छह हाथ ओह ओर से।",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "आ सीमा-रेखा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "कोठरी सभे के"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "एक हाथ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आ एक हाथ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा-रेखा"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "एह ओर से"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "आ कोठरी"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "एह ओर से"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ओह ओर से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:53.334401293Z",
+  "model": "glm-5.3"
+}

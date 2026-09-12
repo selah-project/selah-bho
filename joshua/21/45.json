@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "यहवे के सभे गुड़ बचन में से एको बचन जवन ऊ इसरायल के घर से कहलन, गिरल नइखे — सब आ गइल।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नइखे\/ना"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सभे में से"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "गुड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:27.137338750Z",
+  "model": "glm-5.3"
+}

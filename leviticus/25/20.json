@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ जब रउआ सभे कहब, सातवाँ बरिस में हमनी का का खाईब — देखऽ, हमनी का ना बुवाईब आ ना ⟨את⟩ हमनी का फसल जुटाईब।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "रउआ सभे कहब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "खाईब"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "बुवाईब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "जुटाईब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी का फसल"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "हमनी का फसल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:46.889276909Z",
+  "model": "glm-5.3"
+}

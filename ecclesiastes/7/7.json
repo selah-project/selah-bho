@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "काहेकि दबाव होसियार के पागल कइ देवेला, आ घूस ⟨את⟩ मन के बरबाद कइ देवेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "दबाव"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "पागल कइ देवेला"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "होसियार के"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "आ … बरबाद कइ देवेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मन"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "घूस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:24.406432335Z",
+  "model": "glm-5.3"
+}

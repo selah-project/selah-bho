@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ जब ओस रात में छाउनी पर गिरल, तब मन्ना ओकरा पर गिरल।",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "आ जब गिरेला"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ओस"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छाउनी"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "המן",
+      "gloss": "मन्ना"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:12.643017112Z",
+  "model": "glm-5.3"
+}

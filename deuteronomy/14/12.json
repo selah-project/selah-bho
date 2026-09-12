@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ ई ऊ चीज हवे जिनहन के तुमनी का ना खाए के पड़ेला — नेशेर, आ पेरेस, आ अज़्निय्याह।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाए के पड़ेला"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनहन में से"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "नेशेर"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "आ पेरेस"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "आ अज़्निय्याह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:16.103207884Z",
+  "model": "glm-5.3"
+}

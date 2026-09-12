@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "येहिएली के बेटा — जेताम आ ओकर भाई योएल — यहवे के घर के खजाना सभ के ऊपर रहलें।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "येहिएली के"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "जेताम"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "आ योएल"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "खजाना सभ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:06.266653794Z",
+  "model": "glm-5.3"
+}

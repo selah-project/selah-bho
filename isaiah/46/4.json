@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ बुढ़ापा ले हमई बानी, सफेद केस ले हम रउआ के ढोबऽ; हमई सिरजलीह आ हमई उठाबऽ — हमई ढोबऽ आ हमई छुड़ाबऽ।",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "आ ले"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "बुढ़ापा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हमई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "सफेद केस"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ढोबऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हमई"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "सिरजलीह"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हमई"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठाबऽ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हमई"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ढोबऽ"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "आ छुड़ाबऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:46.480447794Z",
+  "model": "glm-5.3"
+}

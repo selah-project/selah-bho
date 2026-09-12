@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ भइल सगरी गिनल लोगन के जोड़ — छह लाख आ तीन हजार आ पाँच सौ आ पचास।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "गिनल लोगन के"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ (लाख-पैमाना)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "लाख\/हजार"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:23.609641888Z",
+  "model": "glm-5.3"
+}

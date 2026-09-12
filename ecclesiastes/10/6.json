@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "मूरख बहुते ऊँच जगह पर रखल जाला, आ धनी लोग नीच जगह पर बैठेला।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "रखल जाला"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ऊँच जगह पर"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "आ धनी लोग"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "नीच जगह पर"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बैठेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:09.090011275Z",
+  "model": "glm-5.3"
+}

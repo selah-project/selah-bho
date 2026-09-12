@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ओ दिन में यरूशलयिम से कहल जाई: ‘तूँ डर ना मान, हे सियोन; तोहार हाथ ढील ना कर।’",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहल जाई"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलयिम से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "डर मान"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ढील कर"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "तोहार हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:16.316787987Z",
+  "model": "glm-5.3"
+}

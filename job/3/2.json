@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ अय्यूब जवाब दिहलन आ कहलन —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:36.640674834Z",
+  "model": "glm-5.3"
+}

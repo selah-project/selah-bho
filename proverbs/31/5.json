@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ना कि ऊ पिये आ विधान भूल जावे, आ सब दुखिया लोगन के संतान के न्याय बदल दे।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ना कि"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "पिये"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "आ भूल जावे"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "विधान"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "आ बदल दे"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "संतान"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखिया लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:59.045719002Z",
+  "model": "glm-5.3"
+}

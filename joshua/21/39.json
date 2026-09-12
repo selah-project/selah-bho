@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "⟨את⟩ चेशबोन आ ⟨את⟩ ओकर चारागाह, ⟨את⟩ याजेर आ ⟨את⟩ ओकर चारागाह — कुल नगर चारि।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चेशबोन"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "चेशबोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चारागाह"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "चारागाह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याजेर"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "याजेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चारागाह"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "चारागाह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:48.956793861Z",
+  "model": "glm-5.3"
+}

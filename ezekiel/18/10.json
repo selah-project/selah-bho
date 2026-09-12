@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ एगो बेटा जनलें — परजोड़ी, खून ढारनिहार — आ एह में से कवनो एक बात भाई पर कइलन।",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "जनलें"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "परजोड़ी"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "ढारनिहार"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ कइलन"
+    },
+    {
+      "surface": "אח",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "कवनो एक"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "एह में से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:22.115947107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "“कौन पतासाहू बा, ओ इहाँ आजाव; अक्कल के घटी वाला के ऊ कहेले —”",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "पतासाहू"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ओ ... आजाव"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "घटी वाला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "अक्कल के"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ऊ कहेले"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:23.756615381Z",
+  "model": "glm-5.3"
+}

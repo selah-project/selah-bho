@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ एलोहीम बिलाम से कहलन, ऊ लोगन के संग ना जाबऽ; ⟨את⟩ ऊ कउम के सराप ना देबऽ, काहें से कि ऊ धन्य बाटे।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जाबऽ"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ऊ लोगन के संग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "सराप देबऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ कउम के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "कउम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:26.439753560Z",
+  "model": "glm-5.3"
+}

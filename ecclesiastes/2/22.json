@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "काहे कि मनुख्ख खातिर का बा ओकर सगरी मेहनत में आ ओकर मन के छटपटाहट में, जवन ऊ सूरज के नीचे कइले?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "बा"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "मनुख्ख खातिर"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सगरी … में"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "आ मन के छटपटाहट में"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "मन"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "जवन ऊ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत कइले"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:22.330126579Z",
+  "model": "glm-5.3"
+}

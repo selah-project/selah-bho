@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 140,
+  "translation": "संगीत-निर्देशक खातिर, दाविद के मिज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशक खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:09.768675334Z",
+  "model": "glm-5.3"
+}

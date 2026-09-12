@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ ⟨את⟩ होरी के — ओकरा पहाड़ सेईर में — एल-पारान ले, जे जंगल के ऊपर बा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "होरी के"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "होरी के"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "ओकरा पहाड़"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "איל",
+      "gloss": "एल-पारान"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "पारान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "जंगल के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:31.263635256Z",
+  "model": "glm-5.3"
+}

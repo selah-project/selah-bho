@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "योएल के बेटा सभे: उनकर बेटा शमाया, उनकर बेटा गोग, उनकर बेटा शिमी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभे"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल के"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमाया"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनकर बेटा"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "गोग"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनकर बेटा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:03.008515833Z",
+  "model": "glm-5.3"
+}

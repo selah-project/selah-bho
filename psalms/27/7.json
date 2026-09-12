@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "सुनऽ, हे यहवे, हमार अवाज, जब हम पुकारब; हम पर दया करऽ आ हमर जवाब दऽ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "हमार अवाज"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "पुकारब"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "आ दया करऽ"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "आ जवाब दऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:30.875892373Z",
+  "model": "glm-5.3"
+}

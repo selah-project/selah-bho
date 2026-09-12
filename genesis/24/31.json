@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 24:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ कहलन “आ जाउ, यहवे से धन्य तूँ; काहे खड़ा बाटू बाहर, आ हम घर साफ कइली आ ऊँटन खातिर जगह”।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "आ जउ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "खड़ा बाटू"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "פניתי",
+      "gloss": "साफ कइली"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "आ जगह"
+    },
+    {
+      "surface": "לגמלים",
+      "gloss": "ऊँटन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:51.163114986Z",
+  "model": "glm-5.3"
+}

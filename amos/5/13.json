@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एहिसे समझदार ओ समय में चुप रहेला, काहे कि ऊ बुरा समय बा।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहिसे"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "चुप रहेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:15:56.510733909Z",
+  "model": "glm-5.3"
+}

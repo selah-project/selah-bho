@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "हम इनहन पर बिपत्ति सभे ढेरब, हमार तीर सभे इनहन में खतम करब।",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "ढेरब"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "इनहन पर"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "बिपत्ति सभे"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "हमार तीर सभे"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खतम करब"
+    },
+    {
+      "surface": "בם",
+      "gloss": "इनहन में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:11.053361967Z",
+  "model": "glm-5.3"
+}

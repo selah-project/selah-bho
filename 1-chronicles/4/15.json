@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ कालेब, येफुन्नेह के बेटा, के बेटा रहलें: इरू, एलाह आ नाअम; आ एलाह के बेटा रहलें केनाज।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "येफुन्नेह"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "इरू"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एलाह"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "आ नाअम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एलाह"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "केनाज"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:15.714738657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 8:30",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ गिदोन के सत्तर बेटा रहलें, ओकर कातिहां से जनमल — काहें से ओकर ढेर औरत रहली।",
+  "tokens": [
+    {
+      "surface": "ולגדעון",
+      "gloss": "आ गिदोन के"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ओकर कातिहां से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:58:54.457349031Z",
+  "model": "glm-5.3"
+}

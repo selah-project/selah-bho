@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे मूसा से बोललन, कहैत —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ … बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहैत"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:36.682325519Z",
+  "model": "glm-5.3"
+}

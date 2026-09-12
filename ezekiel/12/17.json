@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ यहवे के बचन हमरा लग आइल, ई कहऽ लग —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहऽ लग"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:07.028394969Z",
+  "model": "glm-5.3"
+}

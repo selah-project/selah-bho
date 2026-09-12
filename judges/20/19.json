@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ इस्राएल के लड़का लोग बिहनियाँ उठल आ गिबआ के सामने डेरा डारल।",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "उठल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़का लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहनियाँ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डारल"
+    },
+    {
+      "surface": "על",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:06:53.468541153Z",
+  "model": "glm-5.3"
+}

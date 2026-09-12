@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ जेतना भी प्राण ओहि सही दिने कवनो काम करेला, ओहू प्राण के हम ⟨את⟩ आपन जनता के बीच से नष्ट कइ देब।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ जेतना भी"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो भी"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ओहि सही"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "नष्ट कइ देब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओहू प्राण के"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "प्राण के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहू"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "आपन जनता"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:32.203584463Z",
+  "model": "glm-5.3"
+}

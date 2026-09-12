@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ यहवे के दूत ओकरा कहलन, “फिर लौट जाउ आपन मालकिन के पास, आ ओकर हाथ के नीचे दबल जाउ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "फिर लौट जाउ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "आपन मालकिन"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "आ दबल जाउ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ओकर हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:19:33.494912141Z",
+  "model": "glm-5.3"
+}

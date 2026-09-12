@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "यहवे भला बा, संकट के दिने गढ़ी नियर, आ ऊ जानेला उनहन का जे ओहमे शरण लेवेला।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "गढ़ी नियर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिने"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "आ जानेला"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "शरण लेवे वाला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओहमे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:55.495168717Z",
+  "model": "glm-5.3"
+}

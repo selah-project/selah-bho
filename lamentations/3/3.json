@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "जरूर हमारे ऊ फिरले; ओकर हाथ फेरेला सभे दिन भर।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमारे"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "फिरले"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "फेरेला"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन भर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.621280831Z",
+  "model": "glm-5.3"
+}

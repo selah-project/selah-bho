@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "पूरा धरती, यहवे ला गावा; ओकर छुटकारा के दिन-बिदिन बतावा।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गावा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे ला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "बतावा"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिन से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ओकर छुटकारा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:26.601670119Z",
+  "model": "glm-5.3"
+}

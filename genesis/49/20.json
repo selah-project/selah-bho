@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "आशेर से — ओकर रोटी चिकनाई से भरल होखेले आ ऊ राजा के मजेदार बात देलन।",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "आशेर से"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "चिकनाई से भरल"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ओकर रोटी"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देलन"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "मजेदार बात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:31.679678193Z",
+  "model": "glm-5.3"
+}

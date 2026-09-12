@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "एहिसे होखेला — ई बाड़ें दुष्ट के मकान, आ ई ओकर जगह बा जे एल के ना जानेला।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "एहिसे"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "मकान"
+    },
+    {
+      "surface": "עול",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:31.073634316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ देखऽ, ऊ एगो लड़का के जनम देलन, आ ऊ देखलन ⟨את⟩ आपन बाप के सब पाप जवन ऊ कइलन, आ डरलन आ तेसरे ना कइलन।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एगो लड़का के"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आ देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन बाप के सब पाप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन बाप के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "आ डरलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "तेसरे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:03.992820272Z",
+  "model": "glm-5.3"
+}

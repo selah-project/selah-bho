@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "त्सिदोनी लोग हेर्मोन के शिर्योन कहेला, आ हाअमोरी लोग ओकरा शेनिर कहेला।",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "त्सिदोनी लोग"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "हेर्मोन के"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "शिर्योन"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "आ हाअमोरी लोग"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "शेनिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:01.243608847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ भईल यहवे के बचन यहूआ (यहू) के ओर, हनानी के बेटा, बाशा के विरुद्ध, कहते घरे —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भईल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहूआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हनानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बाशा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते घरे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:57:20.365066575Z",
+  "model": "glm-5.3"
+}

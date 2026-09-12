@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "मरारी के बेटाईन में असायाह सरदार रहलें, आ उनकर भाई दू सौ बीस रहलें।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटाईन में"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असायाह"
+    },
+    {
+      "surface": "השר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ उनकर भाई"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:33.134341178Z",
+  "model": "glm-5.3"
+}

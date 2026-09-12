@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आवऽ रउआ, यहवे के काम-काज के देखऽ, जे ऊ धरती के ओर में उजाड़ बिछान देलन।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आवऽ रउआ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "काम-काज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "बिछान देलन"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती के ओर में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:40:38.832021418Z",
+  "model": "glm-5.3"
+}

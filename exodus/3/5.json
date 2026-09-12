@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आउ ऊ कहलन: “ए करीब ना आवऽ; अपना गोड़ से जुता उतार दे, काहेकि जेहर जगह प तूँ खड़ा बा, ओ पबितर भूमि बा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आउ ऊ कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "करीब आवऽ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ए"
+    },
+    {
+      "surface": "של",
+      "gloss": "उतार दे"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "अपना जुता"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "अपना गोड़"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "जेहर जगह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "खड़ा बा"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर प"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबितर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:07.234938892Z",
+  "model": "glm-5.3"
+}

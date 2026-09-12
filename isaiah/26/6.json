@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "पैर ओकरा रौंदेला — दरिद्र लोगन के पैर, कमजोर लोगन के कदम।",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "रौंदेला"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "पैर"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "…के पैर"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दरिद्र लोगन"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "…के कदम"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "कमजोर लोगन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:06:29.127088125Z",
+  "model": "glm-5.3"
+}

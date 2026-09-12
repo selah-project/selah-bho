@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ज़ेबूलून के बेटान के गोत्र के फौज के ऊपर एलिआव, खेलोन के बेटा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ ऊपर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "फौज"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़ेबूलून"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआव"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "खेलोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:14.067994929Z",
+  "model": "glm-5.3"
+}

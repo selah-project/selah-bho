@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ यहवे मूसा से कहलन: एह हाअवरिम पहाड़ पऽ चढ़ू, आ ⟨את⟩ ओ धरती के देखू जेकरा हम इसरायेल के लरिकन के दइली बानी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ … कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… पऽ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "हाअवरिम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आ … देखू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "दइली बानी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "… के लरिकन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:23.751867180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "तोहार ⟨את⟩ चाँदी ओकरा ब्याज पर ना देबू, आ बढ़ती ले तोहार खानपान ना देबू।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहार चाँदी"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "तोहार चाँदी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देबू"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ब्याज पर"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "आ बढ़ती ले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देबू"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "तोहार खानपान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:40.238405418Z",
+  "model": "glm-5.3"
+}

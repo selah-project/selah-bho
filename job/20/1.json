@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "तब त्सोफार हनामाती जवाब दिहलन आ कहलन —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सोफार"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "हनामाती"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:57.076414302Z",
+  "model": "glm-5.3"
+}

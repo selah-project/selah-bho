@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "तब हम देखलन आ हम आपन हिया में बसानी; देखलन आ शिक्षा लेनी।",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "तब हम देखलन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "बसानी"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "आपन हिया में"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "लेनी"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "शिक्षा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:40.453218550Z",
+  "model": "glm-5.3"
+}

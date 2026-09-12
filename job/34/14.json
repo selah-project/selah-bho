@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 34:14",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "अगर ऊ आपन मन लगावे, त आपन रूह आ आपन सांस ऊ आपने ओर समेट ले।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "लगावे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "आपने ओर"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "आपन मन"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "आपन रूह"
+    },
+    {
+      "surface": "ונשמתו",
+      "gloss": "आ आपन सांस"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "आपने ओर"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "समेट ले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:51.081659138Z",
+  "model": "glm-5.3"
+}

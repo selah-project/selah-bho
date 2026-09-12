@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "शलोमोह के मसल-कथा। चतुर बेटा पिता के खुश करेला, बाकिर मूर्ख बेटा माय के दुख बा।",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "मसल-कथा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुश करेला"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आ बेटा"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ओकर माय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:03.598903083Z",
+  "model": "glm-5.3"
+}

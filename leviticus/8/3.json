@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ⟨את⟩ पूरा सभा ला जमा कर दे मिलन-तम्पो के दुआर पर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "पूरा सभा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "जमा कर दे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्पो"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:16.271114998Z",
+  "model": "glm-5.3"
+}

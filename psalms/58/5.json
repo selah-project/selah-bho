@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 58,
+  "translation": "उनकर जहर नाग के जहर के रूप में बा; बहिरे अफई सहीं जे आपन कान बंद करेला।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "जहर"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उनकर"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "के रूप में"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "जहर"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाग के"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "सहीं"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "अफई"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बहिरे"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "बंद करेला"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "आपन कान"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:27.131060174Z",
+  "model": "glm-5.3"
+}

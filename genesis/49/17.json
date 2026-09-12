@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "दान रस्ता पर साँप बनेला, पगडंडी पर शेफिफोन — ऊ घोड़ा के एड़ी के काटेला, आ ओकर सवार पाछाँ हटि के गिरेला।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "बनेला"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "शेफिफोन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "पगडंडी"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "काटेला"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "एड़ी के"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गिरेला"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ओकर सवार"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:31.679264333Z",
+  "model": "glm-5.3"
+}

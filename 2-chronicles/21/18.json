@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "ए सब बात के बाद यहवे ओकरा ओकर पेट के भीतर एगो अइसन बेमारी से मारलन जेकर कवनो इलाज नइखे।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ए सब"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "बात"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "ओकर पेट के भीतर"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "एगो बेमारी से"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "जेकर कवनो … नइखे"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "इलाज"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:19.886556304Z",
+  "model": "glm-5.3"
+}

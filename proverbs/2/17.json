@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "जवन आपन जवानी के सँगी के छोड़ देले आ ⟨את⟩ आपन एलोहीम के समझौता भुला गेले",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "छोड़ देले"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सँगी"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "आपन जवानी के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ आ",
+      "marks": "समझौता"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "समझौता"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "आपन एलोहीम के"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "भुला गेले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:09.001631848Z",
+  "model": "glm-5.3"
+}

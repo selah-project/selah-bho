@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 113,
+  "translation": "यहवे के नाम धन्य रहे, अब से आ सदी ले।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अब से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदी ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:46.148511690Z",
+  "model": "glm-5.3"
+}

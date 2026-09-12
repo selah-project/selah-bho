@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हाय ओ लोगन के, ऊ आपन आँखिन में चतुर आ आपन मुँह के आगे समझदार बाड़ें!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "आपन आँखिन में"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "आ आगे"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "आपन मुँह के"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "समझदार"
+    }
+  ],
+  "timestamp": "2026-09-11T20:01:30.034030555Z",
+  "model": "glm-5.3"
+}

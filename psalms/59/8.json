@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 59,
+  "translation": "देखउ, ऊ ⟨ह⟩ आपन मुँह से उगलेलें; ओकर ओठ पर तलवार ⟨बा⟩ — काहे कि कौन सुनेला?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखउ"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "उगलेलें"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "आपन मुँह से"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "ओकर ओठ पर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:43.813436934Z",
+  "model": "glm-5.3"
+}

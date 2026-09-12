@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "लेबाना के संतान, चगाबा के संतान, अक्कूब के संतान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के संतान"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लेबाना"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के संतान"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "चगाबा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के संतान"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "अक्कूब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:17.836913244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "रउआ अँधियारी करब, आ रात होई; ओही में जंगल के सब जानवर रेंगे लगेलें।",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "रउआ धइल"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँधियारी"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ होई"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "रेंगे लगेलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:13.837652228Z",
+  "model": "glm-5.3"
+}

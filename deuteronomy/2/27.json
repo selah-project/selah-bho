@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हम तोर धरती से गुजरी — रस्ता-रस्ता चलब; दहिने ओर ना बाएँ ओर बाँकब।",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "हम गुजरी"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "तोर धरती से"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता-रस्ता"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता-रस्ता"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "चलब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "बाँकब"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दहिने ओर"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "आ बाएँ ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:21.252717684Z",
+  "model": "glm-5.3"
+}

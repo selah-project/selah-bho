@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "अनाह के बेटा दिशोन रहलें, आ दिशोन के बेटा लोक — हमरान, एशबान, यितरान आ केरान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाह"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "हमरान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "आ एशबान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "आ यितरान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "आ केरान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:28.457262304Z",
+  "model": "glm-5.3"
+}

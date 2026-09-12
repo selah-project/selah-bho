@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "तूँ हत्या ना करबू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "हत्या करबू"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:41.313508391Z",
+  "model": "glm-5.3"
+}

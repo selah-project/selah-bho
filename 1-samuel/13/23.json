@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ पलिश्ती के डेरा मिकमास के दर्रा ला निकलल।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "दर्रा"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "मिकमास"
+    }
+  ],
+  "timestamp": "2026-09-11T19:09:43.987797106Z",
+  "model": "glm-5.3"
+}

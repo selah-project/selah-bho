@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ जीव प्राणी दौरल आ लवटल — बिजुरी के झिलक नियर।",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "आ जीव प्राणी"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "दौरल"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "लवटल"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "…के झिलक नियर"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "बिजुरी के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:36:05.881466911Z",
+  "model": "glm-5.3"
+}

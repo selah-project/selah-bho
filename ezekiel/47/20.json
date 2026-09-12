@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "आ पच्छिम के किनारा — बड़ा समुंदर, सीमा से हमात में परवेस के सामने ले; ई पच्छिम के किनारा बा।",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "आ किनारा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पच्छिम (समुंदर के ओर)"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "सीमा से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "परवेस"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "हमात"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पच्छिम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:15.963121904Z",
+  "model": "glm-5.3"
+}

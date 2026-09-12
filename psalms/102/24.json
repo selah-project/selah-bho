@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 102,
+  "translation": "ओ हमर ताकत रस्ता में दबा दिहलन; ओ हमर दिन छोट कइलन।",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "दबा दिहलन"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "हमर ताकत"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "छोट कइलन"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "हमर दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:21.798037530Z",
+  "model": "glm-5.3"
+}

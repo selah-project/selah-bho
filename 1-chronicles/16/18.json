@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "कहऽ — तोहारे के हम देब अउरी कनाआन देस, तोहारे सभे के बिरसत के डोरा।",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहारे के"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "हम देब"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनाआन"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "डोरा"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "तोहारे सभे के बिरसत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:56.848860848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "शमायाह, आ योयारिब, यदायाह —",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "शमायाह"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "आ योयारिब"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदायाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:20.256209785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 32:14",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "तब हम ओकर पानी के बहा देब, आ ओकर नदी सभ के तेल नियर बहाब — अदोनाय यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "אשקיע",
+      "gloss": "बहा देब"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ओकर पानी"
+    },
+    {
+      "surface": "ונהרותם",
+      "gloss": "आ ओकर नदी सभ"
+    },
+    {
+      "surface": "כשמן",
+      "gloss": "तेल नियर"
+    },
+    {
+      "surface": "אוליך",
+      "gloss": "बहाब"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:01:34.084402275Z",
+  "model": "glm-5.3"
+}

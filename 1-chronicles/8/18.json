@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ इश्मराय, आ यिज़्लियाह, आ योबाब — एल्पाल के बेटाँ।",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "आ इश्मराय"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "आ यिज़्लियाह"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "आ योबाब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटाँ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एल्पाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.917811776Z",
+  "model": "glm-5.3"
+}

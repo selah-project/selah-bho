@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "बिग्वय के लइका लोग, दु हजार पचास आ छइ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका लोग"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "बिग्वय"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "आ छइ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:15.412074543Z",
+  "model": "glm-5.3"
+}

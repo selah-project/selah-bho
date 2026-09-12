@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ जउन मनई ना मरल रहलें, ऊ फोड़ा सभ से मारल गइलें; आ नगर के चीख अकास ले चढ़ल।",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "आ ऊ मनई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरल रहलें"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "मारल गइलें"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "फोड़ा सभ से"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "आ चढ़ल"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "चीख"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास ले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:08:58.084711419Z",
+  "model": "glm-5.3"
+}

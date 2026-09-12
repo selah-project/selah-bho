@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "सबे हनतीनिम आ शलोमोह के नोकरन के लइका — तीन सौ बानवे दू।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "हनतीनिम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ के लइका"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नोकरन के"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "बानवे"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:40.145299223Z",
+  "model": "glm-5.3"
+}

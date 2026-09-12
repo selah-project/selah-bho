@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ओही दिनन में हम गुलामन आ दासीन के ऊपर ⟨את⟩ हमर आत्मा उड़ेलब।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "गुलामन"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "दासीन"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "दिनन में"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "उड़ेलब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर आत्मा"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "हमर आत्मा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:13:10.325096745Z",
+  "model": "glm-5.3"
+}

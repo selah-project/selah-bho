@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "ओ दिन इस्राएल मिस्रयिम आ अस्सूर के संग तीसरा होई — धरती के बीच में ए बरकत।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "आ अस्सूर"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "बरकत"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:04:51.590271671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ ऊ तू में चिन्ह आ अचम्मा के बात बन जाहीं, आ तोर सन्तान में — सदा ले।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "बन जाहीं"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तू में"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "आ अचम्मा के बात"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "आ तोर सन्तान में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:53.499745401Z",
+  "model": "glm-5.3"
+}

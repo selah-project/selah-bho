@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "देदान तोहार रोकल रहल — सवारी खातिर बिछावन के कपड़ा में।",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "देदान"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "तोहार रोकल रहल"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "कपड़ा में"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "बिछावन के"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "सवारी खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:05.760263380Z",
+  "model": "glm-5.3"
+}

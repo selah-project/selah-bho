@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "जे का होइल रहल, ऊ पहिले से रहल; आ जे होखी, ऊ पहिले से होइल रहल; आ एलोहीम ⟨את⟩ नरदाफ के खोजेला।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "जे का"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "होइल रहल"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "पहिले से"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आ जे"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "पहिले से"
+    },
+    {
+      "surface": "היה",
+      "gloss": "होइल रहल"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "आ एलोहीम"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "खोजेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नरदाफ (पीछा कइल गइल के)"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "नरदाफ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:28.625766949Z",
+  "model": "glm-5.3"
+}

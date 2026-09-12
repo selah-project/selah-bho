@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ ऊ सेवक अवराहाम के, आपन मालिक के, जाँघ के नीचे ⟨את⟩ आपन हाथ रखलन, आ ओही बात पर ओकरा सौगंद खइलन।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "आ … रखलन"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ऊ सेवक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "जाँघ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम के"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "आपन मालिक"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "सौगंद खइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ओही बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:37.233460935Z",
+  "model": "glm-5.3"
+}

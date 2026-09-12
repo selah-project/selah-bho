@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "बुराई से मुड़ जा, नीकि कर; शान्ति के खोज, आ ओकर पीछा कर।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "मुड़ जा"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ कर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीकि"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "खोज"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति के"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "आ ओकर पीछा कर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:24.806867422Z",
+  "model": "glm-5.3"
+}

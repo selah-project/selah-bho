@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "दुष्ट धर्मी के मोल-दंड बाटे, आ सीधे-सादे लोग के जगह बेइमान के दिहल जाला।",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "मोल-दंड"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धर्मी के"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "आ ... के जगह"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधे-सादे लोग"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "बेइमान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:37.169767566Z",
+  "model": "glm-5.3"
+}

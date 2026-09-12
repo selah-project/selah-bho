@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ तोहार खातिर ऊ काँड़ा आ काँटेदार झाड़ उगाई, आ तूँ ⟨את⟩ खेत के घास खाबा।",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "आ काँड़ा"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "आ काँटेदार झाड़"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "उगाई"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "आ तूँ खाबा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत के घास"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घास"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:52.798390331Z",
+  "model": "glm-5.3"
+}

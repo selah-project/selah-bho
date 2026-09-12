@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 120,
+  "translation": "“का दीने तोहार? आ का बढ़ावे तोहार? छल के जिभ?”",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दीने"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "बढ़ावे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिभ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "छल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:02.063718156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "सतरहवाँ हेज़ीर खातिर, अठारहवाँ हप्पित्सेस खातिर।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "हेज़ीर खातिर"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सतरह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨वाँ⟩"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "हप्पित्सेस खातिर"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨वाँ⟩"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:53.335070414Z",
+  "model": "glm-5.3"
+}

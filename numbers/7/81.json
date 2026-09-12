@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक बरद, गाछ-धेनु के एक बेटा, एक मेढ़ा, एक भेड़ के बच्चा, एक बरिस के बेटा, बलि-जरावे खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बरद"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाछ-धेनु"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भेड़ के बच्चा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "बलि-जरावे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:56.985784686Z",
+  "model": "glm-5.3"
+}

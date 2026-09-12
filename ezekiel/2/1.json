@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ऊ हम से कहलन: हे मनुख के बेटा, आपन गोड़ पर खड़ा हो जा, आ हम ⟨את⟩ तोहार से बात करब।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ऊ कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "खड़ा हो जा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "आपन गोड़"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "आ हम करब"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तोहार से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:47:08.405257952Z",
+  "model": "glm-5.3"
+}

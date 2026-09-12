@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ हम अइसन मनई जइसन हो गेलीं जे ना सुनेला, आ ओकर मुँह में कवनो फटकार नइखे।",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "आ हम हो गेलीं"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "जइसे मनई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनेला"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ओकर मुँह में"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "फटकार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:58.758650667Z",
+  "model": "glm-5.3"
+}

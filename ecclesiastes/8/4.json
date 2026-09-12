@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जहाँ राजा के बात ⟨बा⟩ उहाँ शासन ⟨बा⟩, आ कौन ओकरा कहेला — “का करत बानी?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "शासन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ कौन"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करत बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:01.697731432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "बाकिर इसरायेल में फेर कवनो नबी उठल नइखे जइसे मोशे — जेकरा यहवे मुँह से मुँह जानलन रहलें —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर…नइखे"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठल"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर कवनो"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसरायेल में"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "जइसे मोशे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानलन रहलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:41.667971687Z",
+  "model": "glm-5.3"
+}

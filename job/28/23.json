@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "एलोहीम एकर राह बूझलें बाड़ें, आ ऊ जानेला ⟨את⟩ एकर जगह।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "बूझलें बाड़ें"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "एकर राह"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एकर जगह"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "एकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:41.451663891Z",
+  "model": "glm-5.3"
+}

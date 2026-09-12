@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओबेद ⟨את⟩ येहू के जनम दिहलन, आ येहू ⟨את⟩ अजर्याह के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "आ ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येहू"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "येहू"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "आ येहू"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अजर्याह"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:55.873795711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "अपना सेवक खातिर ओ बचन याद रखऽ, जेकर ऊपर रउआ हमका आस देलऽ बानी।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "अपना सेवक खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "जेकर ऊपर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "हमका आस देलऽ बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:54.920430416Z",
+  "model": "glm-5.3"
+}

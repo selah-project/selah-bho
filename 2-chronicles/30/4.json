@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ बात राजा के आँखन में सही लागल आ पूरा सभा के आँखन में।",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "सही लागल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखन में"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "आ आँखन में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभा के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:48:34.068320234Z",
+  "model": "glm-5.3"
+}

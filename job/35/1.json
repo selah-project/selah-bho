@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ एलिहू उत्तर दिहलन आ कहलन —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिहलन"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलिहू"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:41.726567187Z",
+  "model": "glm-5.3"
+}

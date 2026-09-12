@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "कब ले ई बा नबी सभे के मन में — जे झूठ के भविष्यवाणी करेलें, आ इनकर मन के छल के नबी?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "היש",
+      "gloss": "का ई बा"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "मन में"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "नबी सभे के"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "भविष्यवाणी करेलें"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "आ नबी"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "छल"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "इनकर मन के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:32:39.114001433Z",
+  "model": "glm-5.3"
+}

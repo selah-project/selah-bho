@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "चतुर के होशियारी ए ह कि ऊ आपन रस्ता समझेला, बाकिर मूर्खन के नासमझी धोखा बा।",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "होशियारी"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर के"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "समझेला"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "आपन रस्ता"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "बाकिर नासमझी"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खन के"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:15.107953907Z",
+  "model": "glm-5.3"
+}

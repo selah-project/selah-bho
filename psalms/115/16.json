@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 115,
+  "translation": "अकास — अकास यहवे के बाड़ें; आ ⟨उ⟩ धरती दे दिहलन आदम के लरिकन के।",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "आ धरती"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दे दिहलन"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लरिकन के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:57.698386250Z",
+  "model": "glm-5.3"
+}

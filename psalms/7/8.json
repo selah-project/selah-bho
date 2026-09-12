@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ जातिन के सभा तोहारे घेर ले, आ ओकरा ऊपर ऊँच परत आवऽ।",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "आ … सभा"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जातिन के"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "तोहारे घेर ले"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "आ ओकरा ऊपर"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "परत आवऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:15.640052650Z",
+  "model": "glm-5.3"
+}

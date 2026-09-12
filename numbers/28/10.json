@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "ई शब्बत के ओला ह, ओकर शब्बत पर, नित्य ओला के ऊपर आ ओकर नैवेद्य।",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "शब्बत के"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "ओकर शब्बत पर"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "नित्य"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "आ ओकर नैवेद्य"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:01.145447275Z",
+  "model": "glm-5.3"
+}

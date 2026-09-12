@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ दिनन के गिनती जवन दाऊद हेब्रोन में यहूदा के घराना पर राजा रहलें, सात बरिस आ छह महीना रहल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … रहल"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "हेब्रोन में"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "महीना"
+    }
+  ],
+  "timestamp": "2026-09-11T19:20:48.160457543Z",
+  "model": "glm-5.3"
+}

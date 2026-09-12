@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 106,
+  "translation": "चम के धरती में अचम्भा के काम आ सागर सूफ के ऊपर भय-जगावेवाला काम।",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "अचम्भा के काम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "חם",
+      "gloss": "चम"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "भय-जगावेवाला काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "सागर"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सूफ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:38.595028196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ जब तूँ नज़र बान्धे से बचरऽ त तोहारा में पाप ना होई।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "तूँ बचरऽ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "नज़र बान्धे से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहारा में"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:46.299632106Z",
+  "model": "glm-5.3"
+}

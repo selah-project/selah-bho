@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "गेरशोम के बेटा — शेबुएल ⟨हवे⟩ प्रमुख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरशोम के"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "शेबुएल"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:08.609840714Z",
+  "model": "glm-5.3"
+}

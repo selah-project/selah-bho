@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "पहिला रथ में लाल घोड़ा रहलें, आ दूसरा रथ में करिया घोड़ा।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "पहिला रथ में"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "आ दूसरा रथ में"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "करिया"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:04.492193236Z",
+  "model": "glm-5.3"
+}

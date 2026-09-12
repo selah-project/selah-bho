@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "ऊ लोगन के ना सुनऽ; ⟨את⟩ बाबिल के राजा के सेवा करऽ आ जियऽ — ई नगर काहे खातिर उजाड़ जाव?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ऊ लोगन के"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा करऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाबिल के राजा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबिल के"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "आ जियऽ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे खातिर"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "जाव"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ई नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "उजाड़"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:32.686458788Z",
+  "model": "glm-5.3"
+}

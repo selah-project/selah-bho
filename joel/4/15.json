@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "सूरज आ चाँद कउर भ गइलें, आ तारा सभे आपन चमक समेट लिहलें।",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "आ चाँद"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "कउर भ गइलें"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "आ तारा सभे"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "समेट लिहलें"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "आपन चमक"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:20.463740430Z",
+  "model": "glm-5.3"
+}

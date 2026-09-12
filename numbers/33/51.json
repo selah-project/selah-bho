@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "इस्राएल के बेटा सभ के बात करऽ आ ऊ लोग से कहऽ कि जब रउआ ⟨את⟩ यर्देन पार करब, कनान के धरती में जाके —",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बात करऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहब"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ऊ लोग से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार करत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्देन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में जाके"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:54.548639457Z",
+  "model": "glm-5.3"
+}

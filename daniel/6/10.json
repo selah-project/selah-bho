@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ए कारण से राजा दारयावेश लिखावट आ रोक-फरमान दुनों पर मोहर लगइलन।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ए के सोझा \/ से"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "दारयावेश"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "मोहर लगइलन"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "लिखावट"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "आ रोक-फरमान पर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:39:09.063545443Z",
+  "model": "glm-5.3"
+}

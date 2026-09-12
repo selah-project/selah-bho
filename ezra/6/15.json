@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ई घर अदार महीना के तीसरा दिन ले पूरा भइल — ई दारयावेश राजा के राज के छठवाँ साल रहल।",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "आ पूरा भइल"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "घर"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "अदार"
+    },
+    {
+      "surface": "די",
+      "gloss": "जवन कि"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "साल"
+    },
+    {
+      "surface": "שת",
+      "gloss": "छठवाँ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज के"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "दारयावेश"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:58.871447432Z",
+  "model": "glm-5.3"
+}

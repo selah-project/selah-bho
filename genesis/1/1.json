@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "सुरुआत में एलोहीम ⟨את⟩ अकास आ ⟨את⟩ धरती के सिरजलन।",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "सुरुआत में"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "सिरजलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अकास"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:26.578660831Z",
+  "model": "glm-5.3"
+}

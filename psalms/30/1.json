@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "मिज़मोर — गीत, घर के दीक्षा-चढ़ाई (हनुक्का) के, दाऊद खातिर।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "दीक्षा-चढ़ाई"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:13.089000656Z",
+  "model": "glm-5.3"
+}

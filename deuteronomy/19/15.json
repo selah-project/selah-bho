@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "कवनो अपराध खातिर, आ कवनो पाप खातिर, जवन पाप ऊ करे, एक गवाह कवनो मनुष्य के बिरुद्ध ना खड़ा होखी; दू गवाहन के मुँह से या तीन गवाहन के मुँह से बात साबित होखी।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "खड़ा होखी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "कवनो मनुष्य के बिरुद्ध"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "कवनो खातिर"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "आ कवनो खातिर"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर खातिर"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ऊ करे"
+    },
+    {
+      "surface": "על",
+      "gloss": "से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "गवाहन के"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "על",
+      "gloss": "से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "गवाहन के"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "साबित होखी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:53.228714915Z",
+  "model": "glm-5.3"
+}

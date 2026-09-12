@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ हम हमार समझौता हमार आ रउआ के बीचे करब, आ रउआ ⟨את⟩ के बहुते बेसी बढ़ाब।",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमार समझौता"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "हमार"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "आ रउआ के बीचे"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "बढ़ाब"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बेसी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:29.824550276Z",
+  "model": "glm-5.3"
+}

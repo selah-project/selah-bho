@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ यहवे अकास में गरजलन, आ एल्योन ⟨आपन⟩ आवाज दइलन — ओला आ अगिन के अंगारा।",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "गरजलन"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "आ एल्योन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दइलन"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "⟨आपन⟩ आवाज"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "आ अंगारा"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अगिन के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:10.016303605Z",
+  "model": "glm-5.3"
+}

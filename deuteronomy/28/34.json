@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ तूँ पागल हो जाहऽ तोहार आँखि से देखला के देखते, जेकरा तूँ देखिहऽ।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "आ हो जाहऽ"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "पागल"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "देखला के देखते"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तोहार आँखि से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखिहऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:55.287351184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "काहेकि हम यहवे के नाम के पुकारब; हमनी के एलोहीम के महानता दियऽ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारब"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दियऽ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "महानता"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "हमनी के एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:07.466638076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 91,
+  "translation": "तूँ डरबू ना रात के धमकी से, ना तीर से जे दिन में उड़ेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरबू"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "धमकी से"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "तीर से"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "उड़ेला"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:52.176338046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "जे दुष्ट के नीक कहेला आ धरमी के बुरा कहेला, दुनू यहवे के घिनावन बाड़ें।",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "नीक कहेला"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "बुरा कहेला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "घिनावन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "दुनू"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:58.172108067Z",
+  "model": "glm-5.3"
+}

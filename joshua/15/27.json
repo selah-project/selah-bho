@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ खातसर-गद्दाह (खातस गद्दाह के जगह), आ खेश्मोन, आ बेत-पालेत (पालेत के घर)।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "खातसर"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "गद्दाह"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "आ खेश्मोन"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ बेत"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पालेत"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:01.328443307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "दास इसहाक के ⟨את⟩ सब काम के बखान कइलस जवन ऊ कइले रहले।",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "बखान कइलस"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "इसहाक के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "काम के बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले रहले"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:04.640987025Z",
+  "model": "glm-5.3"
+}

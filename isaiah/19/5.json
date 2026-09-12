@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ पानी समुंदर से घट जाई, आ नदी सूख जावेला आ पुरान हो जावेला।",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "घट जाई"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "समुंदर से"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "आ नदी"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "सूख जावेला"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "पुरान हो जावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:04:57.116331087Z",
+  "model": "glm-5.3"
+}

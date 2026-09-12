@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 9:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "चानार के देवऽ आ ऊ आगू भी चानार होखेला; धरमी के बतावऽ आ ऊ बुझ में बढ़ेला।",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "देवऽ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "चानार के"
+    },
+    {
+      "surface": "ויחכם",
+      "gloss": "आ ऊ आगू भी चानार होखेला"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू भी"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "बतावऽ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "आ ऊ बढ़ेला"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "बुझ में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:41.508068869Z",
+  "model": "glm-5.3"
+}

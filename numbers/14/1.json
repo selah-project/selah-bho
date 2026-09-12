@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ पूरा सभा आपन आवाज उठइलस आ ⟨את⟩ आवाज दीहलस, आ लोग ओही रात में रोवल।",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "उठइलस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "दीहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आवाज"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "रोवल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:27.682947047Z",
+  "model": "glm-5.3"
+}

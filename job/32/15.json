@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "ऊ सभे तुट गइलें; आगे ना जवाब दिहलें — बात ऊ लोगन से हटा गई।",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "तुट गइलें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "जवाब दिहलें"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "हटा गई"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ऊ लोगन से"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:37.921172758Z",
+  "model": "glm-5.3"
+}

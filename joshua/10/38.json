@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 10:38",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यहोशूआ लवटलें, आ सब इस्राएल ओकर संगे, देबीरह के ओर, आ ओकरा ऊ लड़लें।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लवटलें"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशूआ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संगे"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "देबीरह के ओर"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "लड़लें"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:51:07.351490792Z",
+  "model": "glm-5.3"
+}

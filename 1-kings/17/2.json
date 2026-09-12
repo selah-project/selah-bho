@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहवे के बचन ओकरा लग आइल, कहेले:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:42:43.757093749Z",
+  "model": "glm-5.3"
+}

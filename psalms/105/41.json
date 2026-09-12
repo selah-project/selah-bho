@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "ऊ चट्टान खोललन, आ पानी बह निकलल; सूखा जगहन में ऊ नदी नियर बहेला।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोललन"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "आ बह निकलल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "बहेला"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "सूखा जगहन में"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:56.511631744Z",
+  "model": "glm-5.3"
+}

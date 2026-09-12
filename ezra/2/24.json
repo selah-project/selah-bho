@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अज्मावेत के बेटा लोग, बयालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "अज्मावेत"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "बयालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:43.306173832Z",
+  "model": "glm-5.3"
+}

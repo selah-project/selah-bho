@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "आ ऊ इनन के देस में सब पहिला-जइला के मारलन, इनन के सब बल के सुरुआत के।",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिला-जइला के"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "इनन के देस में"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "सुरुआत के"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "बल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:42.631878695Z",
+  "model": "glm-5.3"
+}

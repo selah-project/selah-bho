@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "एलोहीम ओकर महलन में एगो गढ़ के रूप में जानल जाला।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "ओकर महलन में"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "जानल जाला"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "एगो गढ़ के रूप में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:59.512688483Z",
+  "model": "glm-5.3"
+}

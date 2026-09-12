@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "एही कारन तोहार केहु ना रही जवन यहवे के सभा में गोरल के डोरा डेगुआवेला।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही कारन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "डेगुआवेनिहार"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "डोरा"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "गोरल के"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:35.571232776Z",
+  "model": "glm-5.3"
+}

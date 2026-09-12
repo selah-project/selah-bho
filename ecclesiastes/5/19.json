@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काहे कि ऊ ⟨את⟩ आपन जिनगी के दिनन के बहुता याद ना करेला, काहे कि एलोहीम ओकर मन के खुशी में जवाब देवेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुता"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "याद करेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन जिनगी के दिनन"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "आपन जिनगी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "जवाब देवेला"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "खुशी में"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर मन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:03.909095155Z",
+  "model": "glm-5.3"
+}

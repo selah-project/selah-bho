@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ मोशे डेरा के ओर लौट गइलन — ऊ आ इसरायल के बुढ़वा लोग।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "लौट गइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "आ बुढ़वा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:40.732637509Z",
+  "model": "glm-5.3"
+}

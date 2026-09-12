@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ मोशे मोआब के मैदान से नबो पहाड़ पर चढ़ि गइलें, पिसगा के शिखर पर, जे यरीहो के सामने बाटे; आ यहवे ओकरा ⟨את⟩ पूरा धरती देखवले — ⟨את⟩ गिलाद के, दान ले।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ि गइलें"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "मैदान"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…से …पर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नबो"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "शिखर"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "पिसगा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…के सामने"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "देखवले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिलाद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:03.033630682Z",
+  "model": "glm-5.3"
+}

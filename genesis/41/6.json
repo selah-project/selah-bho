@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ देखऽ, सात पतला बाली, पूरुबी हवा से झँसल, इनहन के पाछूँ उगल।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "बाली"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "पतला"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "झँसल"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूरुबी हवा से"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "उगल"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "इनहन के पाछूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:39.334920933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "यहवे के भजन जिनगी के मोत ह — मौत के फंदा से हटे खातिर।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "के भजन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "मोत"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी के"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "हटे खातिर"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "फंदा से"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:34.110160903Z",
+  "model": "glm-5.3"
+}

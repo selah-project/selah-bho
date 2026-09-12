@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "आ हम ओकर हाथ समुंदर पर रखिहीं, आ ओकर दहिना हाथ नदिन पर।",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "आ हम ... रखिहीं"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुंदर पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "आ नदिन पर"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ओकर दहिना हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:00.901288487Z",
+  "model": "glm-5.3"
+}

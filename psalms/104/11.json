@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "ऊ खेत के सब जानवरन के पानी पिआवेला; जंगली गधा आपन पियास बुझावेला।",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "पानी पिआवेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जानवरन"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "बुझावेला"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "जंगली गधा"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "आपन पियास"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:27.631790544Z",
+  "model": "glm-5.3"
+}

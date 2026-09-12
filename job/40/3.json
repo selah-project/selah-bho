@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ अय्योब ⟨את⟩ यहवे के जवाब दिहलस आ कहलस:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दिहलस"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:08.580534838Z",
+  "model": "glm-5.3"
+}

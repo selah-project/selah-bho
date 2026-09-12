@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "काहें से ऊ कहेला: “का हमर सेनापति लोग सब ⟨मिलल के⟩ राजा नइखन?”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ऊ कहेला"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का ... नइखन"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "हमर सेनापति लोग"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "सब मिलल के"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:02:59.569664194Z",
+  "model": "glm-5.3"
+}

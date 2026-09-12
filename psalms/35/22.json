@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "रउआ देखलऽ, हे यहवे; चुप्पी ना धरबऽ; हे अदोनाय, हमसे दूर ना रहबऽ।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "रउआ देखलऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "चुप्पी धरबऽ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर रहबऽ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमसे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:30.743424787Z",
+  "model": "glm-5.3"
+}

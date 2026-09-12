@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 15:40",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ कब्बोन आ लाखमास आ कित्लीश,",
+  "tokens": [
+    {
+      "surface": "וכבון",
+      "gloss": "आ कब्बोन"
+    },
+    {
+      "surface": "ולחמס",
+      "gloss": "आ लाखमास"
+    },
+    {
+      "surface": "וכתליש",
+      "gloss": "आ कित्लीश"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:07.767893815Z",
+  "model": "glm-5.3"
+}

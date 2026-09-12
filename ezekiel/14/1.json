@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "तब इस्रारायल के बुढ़वा लोग हमरा लग आइल, आ हमरा आगे बइठल रहलें।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "तब…आइल"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "बुढ़वा के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्रारायल"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "आ…बइठल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "हमरा आगे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:51:08.353254266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 84,
+  "translation": "ऊ ताकत से ताकत ले चलेलें, जबतक हर एक सिय्योन में एलोहीम के दरसन ना करेला।",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "चलेलें"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "ताकत से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "दरसन करेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "सिय्योन में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:22.588918930Z",
+  "model": "glm-5.3"
+}

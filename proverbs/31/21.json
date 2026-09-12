@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ऊ ओकर घर खातिर बरफ से ना डरेला, काहेकि ओकर पूरा घर लाल (शनी-रंग) कपड़ा में लपेटल बा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरेला"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "ओकर घर खातिर"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "बरफ से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "लपेटल बा"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "लाल (शनी-रंग) कपड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:05.202412037Z",
+  "model": "glm-5.3"
+}

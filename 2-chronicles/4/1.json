@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आऊनि ताम्र के बेदी बनवलन — बीस हथ्था ओकर लमाई, आ बीस हथ्था ओकर चौड़ाई, आ दस हथ्था ओकर उँचाई।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्र"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हथ्था"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ओकर लमाई"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हथ्था"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ओकर चौड़ाई"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "आ दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हथ्था"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ओकर उँचाई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:54.556071669Z",
+  "model": "glm-5.3"
+}

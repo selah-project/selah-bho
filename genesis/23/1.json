@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ सारा के जिनगी सौ बरिस आ बीस बरिस आ सात बरिसन के रहल — सारा के जिनगी के बरिसन के।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आ ... रहल"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिसन के"
+    },
+    {
+      "surface": "שני",
+      "gloss": "बरिसन के"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:14.631204818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "रउआ सभे कुटियन में सात दिन ले रहब; इसराएल में जनमल सभे मनई कुटियन में रहब।",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "कुटियन में"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "रउआ सभे रहब"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसराएल में"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "कुटियन में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:00.058359430Z",
+  "model": "glm-5.3"
+}

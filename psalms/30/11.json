@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "सुनऽ, हे यहवे, आ मोर ऊपर अनुग्रह करऽ; हे यहवे, मोर मददगार बनऽ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "आ मोर ऊपर अनुग्रह करऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनऽ"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "मददगार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:44.201602756Z",
+  "model": "glm-5.3"
+}

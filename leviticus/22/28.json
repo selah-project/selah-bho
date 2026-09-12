@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ गाय चाहे भेड़ के — ⟨את⟩ ओकरा आ ⟨את⟩ ओकर बच्चा के एके दिन ना काटब।",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "आ गाय"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "שה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर बच्चा के"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बच्चा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "काटब"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "एके दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:08.015845063Z",
+  "model": "glm-5.3"
+}

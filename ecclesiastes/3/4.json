@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रोवे के समय, आ हँसे के समय; विलाप करे के समय, आ नाचे के समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "रोवे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ … के समय"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "हँसे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "विलाप करे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ … के समय"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "नाचे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:20.834643133Z",
+  "model": "glm-5.3"
+}

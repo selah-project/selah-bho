@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 15:6",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ रहाबाम आ यारोबाम के बीच लड़ाई रहे, ओकर जिनगी के सब दिन।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "आ लड़ाई"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहाबाम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ के बीच"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारोबाम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "जिनगी के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:42:53.737425547Z",
+  "model": "glm-5.3"
+}

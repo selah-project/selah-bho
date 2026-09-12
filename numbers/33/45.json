@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ इय्यीम से चललिन, आ दीबोन-गाद में डेरा डाललिन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललिन"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "इय्यीम से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललिन"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "दीबोन में"
+    },
+    {
+      "surface": "גד",
+      "gloss": "-गाद"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:16.553258900Z",
+  "model": "glm-5.3"
+}

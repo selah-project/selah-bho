@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "काहे कि ऊ कहलन आ ओ हो गइल; ऊ हुकुम दइलन आ ओ टिक गइल।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "हो गइल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम दइलन"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "टिक गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:04.605253644Z",
+  "model": "glm-5.3"
+}

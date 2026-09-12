@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "रउआ ऊ ही हमार राजा बानी, हे एलोहीम; याकोब के उद्धार सभ के आज्ञा दीं।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ ही"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "हमार राजा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दीं"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "उद्धार सभ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:20.234988590Z",
+  "model": "glm-5.3"
+}

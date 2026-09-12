@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "यहवे के महिमा सदा ले रहे; यहवे आपन कामन में खुशी करे।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुशी करे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "आपन कामन में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:35.834665374Z",
+  "model": "glm-5.3"
+}

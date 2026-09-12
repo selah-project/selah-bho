@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हम अनाथ बानी जइसे पिता नइखे; हमनी के माई सभे बिधवा नियर बाड़ी।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "हमनी के माई सभे"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "बिधवा नियर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:45.463207058Z",
+  "model": "glm-5.3"
+}

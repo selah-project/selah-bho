@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "एहने नेकी जिनगी खातिर बा, आ जउन बुराई के पीछा करेला ऊ आपन मौत के ओर जाला।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "नेकी"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "जिनगी खातिर"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "आ पीछा करेला"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "आपन मौत के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:48.802302358Z",
+  "model": "glm-5.3"
+}

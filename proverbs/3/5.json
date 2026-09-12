@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "पूरा भरोसा कर यहवे पर आपन पूरा मन से, आ आपन समझ पर टेकावे के ना काम ना कर।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "पूरा भरोसा कर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "आपन मन से"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ आपन"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "समझ पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "टेकावे के काम कर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:08.023109769Z",
+  "model": "glm-5.3"
+}

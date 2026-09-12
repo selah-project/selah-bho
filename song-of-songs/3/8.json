@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "सभे तलवार पकड़ल बाड़ें, लड़ाई में सिखावल गइल; हरेक आदमी के तलवार ओकर जाँघ पर बा, रात के डर से।",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "पकड़ल बाड़ें"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "सिखावल गइल"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई में"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हरेक आदमी"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ओकर जाँघ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "डर से"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "रात के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:23:09.976307172Z",
+  "model": "glm-5.3"
+}

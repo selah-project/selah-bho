@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "अउर एस्तेर कहली: एक दुश्मन अउर बैरी — हामान, ई बुरा मनई! अउर हामान राजा अउर रानी के आगे डर गइल।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "צר",
+      "gloss": "दुश्मन"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "अउर बैरी"
+    },
+    {
+      "surface": "המן",
+      "gloss": "हामान"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "अउर हामान"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "डर गइल"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "अउर रानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:35:07.427025660Z",
+  "model": "glm-5.3"
+}

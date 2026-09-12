@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ मिश्मा, आ दूमा, आ मस्सा।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "आ मिश्मा"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "आ दूमा"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "आ मस्सा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:18.333194609Z",
+  "model": "glm-5.3"
+}

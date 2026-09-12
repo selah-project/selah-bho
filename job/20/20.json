@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 20:20",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "काहे कि ऊ आराम ना जानल आपन पेट में; आपन लालसा में ऊ ना बच पावेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ऊ जानल"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "आपन पेट में"
+    },
+    {
+      "surface": "בחמודו",
+      "gloss": "आपन लालसा में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बच पावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:58.355512509Z",
+  "model": "glm-5.3"
+}

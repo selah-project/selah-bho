@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ इनहन के चालीस पाय चाँदी के रहलें — एक तख्ता के नीचे दू पाय, आ दूसर तख्ता के नीचे दू पाय।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "आ … चालीस"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "इनहन के पाय"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी के"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "पाय"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "… के नीचे"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "आ दू"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "पाय"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "… के नीचे"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "दूसर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:14.195477110Z",
+  "model": "glm-5.3"
+}

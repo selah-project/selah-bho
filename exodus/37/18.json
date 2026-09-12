@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 37:18",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ छौ डार निकलत रहली ओकर ओर-ओर से — दीवट के तीन डार ओकर एक ओर से, आ दीवट के तीन डार ओकर दुसरा ओर से।",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "आ छौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "डार"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "निकलत रहली"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "ओकर ओर-ओर से"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "קני",
+      "gloss": "डार"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "दीवट के"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "קני",
+      "gloss": "डार"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "दीवट के"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दुसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:55:08.609570344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 62,
+  "translation": "खाली ऊहे हमार चट्टान आ हमार उद्धार, हमार ऊँच ढाल; हम बहुते ना हिलब।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "हमार चट्टान"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "आ हमार उद्धार"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "हमार ऊँच ढाल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "हिलब"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:29.625969169Z",
+  "model": "glm-5.3"
+}

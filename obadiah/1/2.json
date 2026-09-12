@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "देखऽ, हम तोहारा गोष्ठियन में छोट कइली बानी; तूँ बहुते घिनावा बऽता।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "हम तोहारा कइली बानी"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "गोष्ठियन में"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "घिनावा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T21:16:09.968610361Z",
+  "model": "glm-5.3"
+}

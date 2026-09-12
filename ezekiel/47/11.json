@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "ओकर दलदल आ ओकर कीचड़ ठीक ना होखी — ओ नमक खातिर दइल गइल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "ओकर दलदल"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "आ ओकर कीचड़"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "ठीक होखी"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "नमक खातिर"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दइल गइल बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:54.280499702Z",
+  "model": "glm-5.3"
+}

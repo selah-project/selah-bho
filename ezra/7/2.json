@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "शल्लूम के बेटा, त्सादोक के बेटा, अहीतूब के बेटा —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अहीतूब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:43:50.768652845Z",
+  "model": "glm-5.3"
+}

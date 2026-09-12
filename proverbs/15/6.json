@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "सज्जन के घर में ढेर सारा धन बा, बाकिर दुष्ट के कमाई में कठिनाइयाँ बाड़ी।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "सज्जन के"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "धन"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर सारा"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "बाकिर कमाई में"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "कठिनाइयाँ बाड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:35.950086975Z",
+  "model": "glm-5.3"
+}

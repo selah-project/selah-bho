@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जेह में कवनो दोष ⟨बा⟩, ओकरा ना अगुवावऽ — काहें कि ऊ रउआ सभे खातिर भाव वाला ना होखी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जेह भी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना में"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "מום",
+      "gloss": "कवनो दोष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "अगुवावऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "भाव वाला"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:44.923555929Z",
+  "model": "glm-5.3"
+}

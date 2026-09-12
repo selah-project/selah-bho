@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 56,
+  "translation": "जउन दिन हम डरब, ओ दिन हम तोहार ऊपर भरोसा करब।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "जउन दिन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "हम डरब"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "भरोसा करब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:28.549978828Z",
+  "model": "glm-5.3"
+}

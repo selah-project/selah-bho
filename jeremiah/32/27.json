@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "“देखऽ, हम यहवे बनी, सारा देह के एलोहीम; का हम से कवनो बात अटपट (होखे) सकेला?”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह के"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "अटपट (होखे) सकेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-09-11T20:36:09.239256025Z",
+  "model": "glm-5.3"
+}

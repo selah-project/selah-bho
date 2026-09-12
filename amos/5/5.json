@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 5:5",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ बेथ-एल के खोजऽ ना, आ गिल्गल मत आवऽ, आ बेर-शेवा के ओरिये मत जावऽ; काहें कि गिल्गल के बिसरावल जाई, आ बेथ-एल अवान बन जाई।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "תדרשו",
+      "gloss": "खोजऽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-एल"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "आ गिल्गल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "आवऽ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "आ बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-शेवा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "जावऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "गिल्गल"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "बिसरावल"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ बेथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-एल"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "बन जाई"
+    },
+    {
+      "surface": "לאון",
+      "gloss": "अवान"
+    }
+  ],
+  "timestamp": "2026-09-11T21:14:48.198890656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "कि यहवे तोहार एलोहीम हमनी का ⟨את⟩ ओ रस्ता बतावेला जेहर हमनी ओकरा में चलब, आ ⟨את⟩ ओ बात जेहर हमनी करब।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "बतावेला"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहार एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ रस्ता"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहर"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "चलब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहर"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:40:53.506401368Z",
+  "model": "glm-5.3"
+}

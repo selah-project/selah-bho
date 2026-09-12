@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 30:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ कहली: “देखु — हमार दासी बिल्हा; ओकरा लग जाउ, आ ऊ हमार गोड़ पर जनम देली, आ हम भी ओकरा से घर बनतबी।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आ कहली"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखु"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "हमार दासी"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ओकरा लग जाउ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देली"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "हमार गोड़"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "घर बनतबी"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:08.446468781Z",
+  "model": "glm-5.3"
+}

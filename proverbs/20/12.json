@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "सुनेवाला कान आ देखेवाला आँख — यहवे दुनों बनवले बाड़न।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनेवाला"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "आ आँख"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेवाला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवले बाड़न"
+    },
+    {
+      "surface": "גם",
+      "gloss": "दुनों"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:44.763625502Z",
+  "model": "glm-5.3"
+}

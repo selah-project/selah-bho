@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ रउआ सभे फलब आ बढ़ब; धरती में भरि जाब आ ओकरा में बढ़ब।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "आ रउआ सभे"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "फलब"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "आ बढ़ब"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "भरि जाब"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "आ बढ़ब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:46.893234204Z",
+  "model": "glm-5.3"
+}

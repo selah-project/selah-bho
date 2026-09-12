@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमनी के जिया के जोखिम में हमनी रोटी लिआवेली जा, जंगल के तरवार के मुँह से।",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "हमनी के जिया के जोखिम में"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "लिआवेली जा"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "जंगल के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:29.264006424Z",
+  "model": "glm-5.3"
+}

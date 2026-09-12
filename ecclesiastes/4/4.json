@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ हम देखलीं ⟨את⟩ सभे मेहनत आ ⟨את⟩ हर काम के कुशलता के, काहें कि ई आदमी के आपन संगी से ईर्ष्या बा; ईउ व्यर्थता आ हवा के बेचैनी बा।",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "आ देखलीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सभे मेहनत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "मेहनत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हर काम के कुशलता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "कुशलता"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "काम के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ईर्ष्या"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी के आपन"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "संगी से"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ईउ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थता"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "आ बेचैनी"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:04.615377129Z",
+  "model": "glm-5.3"
+}

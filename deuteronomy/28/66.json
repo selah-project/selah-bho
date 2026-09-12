@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "deuteronomy 28:66",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ तोहार जिनगी तोहार आगे लटकल रही, तूँ रात आ दिन डेराव, आ आपन जिनगी में भरोसा नइखे कर पाबू।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "आ ⟨रही⟩"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "तोहार जिनगी"
+    },
+    {
+      "surface": "תלאים",
+      "gloss": "लटकल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "ופחדת",
+      "gloss": "आ डेराव"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "आ दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תאמין",
+      "gloss": "भरोसा कर पाबू"
+    },
+    {
+      "surface": "בחייך",
+      "gloss": "आपन जिनगी में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:56.185504812Z",
+  "model": "glm-5.3"
+}

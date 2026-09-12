@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ बिन्यामीन आ यहूदा के बेटा सभे में से केतना लोग दाऊद ले माटी-गढ़ ले आइल।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभे के"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आ यहूदा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "माटी-गढ़"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दाऊद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:14.118913618Z",
+  "model": "glm-5.3"
+}

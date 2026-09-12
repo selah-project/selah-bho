@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ गोमेर के बेटावन — अश्कनाज आ रीफत आ तोगरमा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ के बेटावन"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "अश्कनाज"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "आ रीफत"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "आ तोगरमा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:44.548782782Z",
+  "model": "glm-5.3"
+}

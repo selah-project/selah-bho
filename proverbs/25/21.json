@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "जवन तोहार बैरी भूखल बा, ओकरा रोटी खुवाव; आ जवन प्यासल बा, ओकरा पानी पिआव।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भूखल बा"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "तोहार बैरी"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "ओकरा खुवाव"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "प्यासल बा"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "ओकरा पिआव"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:19.566455135Z",
+  "model": "glm-5.3"
+}

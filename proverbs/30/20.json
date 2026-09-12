@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "एहने ह व्यभिचारिणी औरत के रास्ता: खाके ओ आपन मुँह पोंछेला आ कहेला, “हम कवनो बुराई ना कइली।”",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "מנאפת",
+      "gloss": "व्यभिचारिणी"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खाके"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "पोंछेला"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "आपन मुँह"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "कइली"
+    },
+    {
+      "surface": "און",
+      "gloss": "कवनो बुराई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:43.166783235Z",
+  "model": "glm-5.3"
+}

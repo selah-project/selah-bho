@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "ई एत्सेर के लड़का रहलें — बिलहान आ जावान आ अकान।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "आ जावान"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "आ अकान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:06.305714205Z",
+  "model": "glm-5.3"
+}

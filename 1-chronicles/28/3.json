@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "बाकिर एलोहीम हमसे कहलन: “तूँ हमरा नाम खातिर घर ना बनाबऽ, काहेकि तूँ लड़ाई सभ के मरद बा, आ खून बहावन कइला।”",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "बाकिर एलोहीम"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाबऽ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "हमरा नाम खातिर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "लड़ाई सभ के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "आ खून"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "बहावन कइला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:02:36.991705102Z",
+  "model": "glm-5.3"
+}

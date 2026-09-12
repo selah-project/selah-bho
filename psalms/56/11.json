@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 56,
+  "translation": "एलोहीम में हम ⟨ओकर⟩ बचन के सराहब; यहवे में हम ⟨ओकर⟩ बचन के सराहब।",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम में"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "हम सराहब"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन के"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "हम सराहब"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:47.351247577Z",
+  "model": "glm-5.3"
+}

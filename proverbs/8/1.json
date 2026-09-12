@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "का बुद्धि पुकारेले ना, आ समझ आपन आवाज़ ना देले?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का...ना"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "पुकारेले"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "आ समझ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देले"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "आपन आवाज़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:42.091552629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ इरा याईरी भी दाविद खातिर कोहेन (पुरोहित) रहलन।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ … भी"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "याईरी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "कोहेन (पुरोहित)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:28:45.484092025Z",
+  "model": "glm-5.3"
+}

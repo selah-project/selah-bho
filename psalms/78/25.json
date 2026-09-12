@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "मरद अबीरिन के रोटी खाइल; ओ ओकरा लोगन के भरपेट ले खाना भेजलन।",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "अबीरिन के"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाइल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकरा लोगन के"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "भरपेट ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:50.292307053Z",
+  "model": "glm-5.3"
+}

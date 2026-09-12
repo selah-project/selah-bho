@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ हमसे कहलन: “जा आ ⟨את⟩ ओ घिनावन बुराई सभ के देख, जवन ऊ लोग इहाँ करत बाड़ें।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "जा"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घिनावन बुराई सभ"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "घिनावन चीज सभ"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "करत बाड़ें"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:48:50.148177898Z",
+  "model": "glm-5.3"
+}

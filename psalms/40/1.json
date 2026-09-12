@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "संगीत-अगुवा खातिर, दाऊद के, एगो मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-अगुवा खातिर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एगो मज़मूर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:11.651157710Z",
+  "model": "glm-5.3"
+}

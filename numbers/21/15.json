@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ नाला सभ के ढाल, जे आर के बसाहट के ओर मुड़ेला आ मोआब के सीमा पर टेकेला।",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "आ ढाल"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "नाला सभ के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "मुड़ेला"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बसाहट के ओर"
+    },
+    {
+      "surface": "ער",
+      "gloss": "आर"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "आ टेकेला"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "सीमा पर"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:20.720637936Z",
+  "model": "glm-5.3"
+}

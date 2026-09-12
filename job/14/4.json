@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "कौन अशुद्ध से शुद्ध के निकारेला? एको ना।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "निकारेला"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध के"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "अशुद्ध से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एको"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:12.387678578Z",
+  "model": "glm-5.3"
+}

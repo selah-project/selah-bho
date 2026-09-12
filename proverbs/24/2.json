@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "काहें कि उनकर मन उजाड़ी के बिचार करेला, आ उनकर होंठ कठिनाई बोलहें।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "שד",
+      "gloss": "उजाड़ी"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "बिचार करेला"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "उनकर मन"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "आ कठिनाई"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "उनकर होंठ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "बोलहें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:34.760441433Z",
+  "model": "glm-5.3"
+}

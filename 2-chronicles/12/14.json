@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ ऊ बुराई कइलन, काहें से कि ऊ ⟨את⟩ यहवे के खोजे खातिर आपन मन तैयार ना कइलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ ऊ कइलन"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "तैयार कइलन"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "आपन मन"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "खोजे खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:00.981571820Z",
+  "model": "glm-5.3"
+}

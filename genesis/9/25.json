@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ कहलन: धिक्कारित बाड़ें कनान; दास सभ के दास ऊ आपन भाइन के होखेला।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कारित"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दास सभ के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखेला"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "आपन भाइन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:00.486296123Z",
+  "model": "glm-5.3"
+}

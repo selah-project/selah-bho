@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "मरल लोग महामारी में चार आ बीस हजार भइल।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरल लोग"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारी में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:27.545844812Z",
+  "model": "glm-5.3"
+}

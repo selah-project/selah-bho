@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "आ हम त लगभग हमार गोड़ टेक गइल रहल, हमार कदमी लगभग फिसल गइल रहलें।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "टेक गइल"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "हमार गोड़"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "लगभग (जइसे ना-जाने)"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "फिसल गइल"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "हमार कदमी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:22.162198866Z",
+  "model": "glm-5.3"
+}

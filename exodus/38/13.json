@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ पूरुब ओर खातिर, सूरज उगे के दिसा में, पचास आमा।",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "आ … ओर खातिर"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सूरज उगे के दिसा में"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "आमा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:41.579060435Z",
+  "model": "glm-5.3"
+}

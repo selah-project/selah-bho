@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "जेकरा कान बंद बा गरीब के पुकारा से, ऊ खुदो पुकारेला बाकिर जवाब ना पावेला।",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "बंद करेला"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "कान"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "पुकारा से"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरीब के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "खुदो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "पुकारेला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "जवाब पावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:02.483360737Z",
+  "model": "glm-5.3"
+}

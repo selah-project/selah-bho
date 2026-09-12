@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओकर सेना आ ओकर गिनल लोग — बत्तीस हजार दू सौ।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आ ओकर सेना"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "आ ओकर गिनल लोग"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बत्तीस (दू)"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "(आ) तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आ दू सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:18.019686463Z",
+  "model": "glm-5.3"
+}

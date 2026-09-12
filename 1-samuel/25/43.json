@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ दाऊद ⟨את⟩ अहीनोआम यिज्रेएल से बियाह लइलन, आ दुनों ओकर औरत बनली।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अहीनोआम"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "अहीनोआम"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "बियाह लइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "यिज्रेएल से"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "आ बनली"
+    },
+    {
+      "surface": "גם",
+      "gloss": "दुनों"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "दुनों"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "औरत"
+    }
+  ],
+  "timestamp": "2026-09-11T19:18:20.623124929Z",
+  "model": "glm-5.3"
+}

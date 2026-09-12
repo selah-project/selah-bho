@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ यिशूआ में, आ मोलादा में, आ बेत-पालेत में।",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "आ यिशूआ में"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "आ मोलादा में"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "आ बेत"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पालेत में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:50.238322215Z",
+  "model": "glm-5.3"
+}

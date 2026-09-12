@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "अब सुनऽ ई, हे मूरख आ बिना हिया के प्रजा — इनका आँखि बाड़ी आ ऊ ना देखेला, कान बाड़ें आ ऊ ना सुनेला।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עם",
+      "gloss": "हे प्रजा"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनका"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखेला"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "कान"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनका"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:56.610305765Z",
+  "model": "glm-5.3"
+}

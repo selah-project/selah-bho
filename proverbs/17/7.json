@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "नवाल आदमी खातिर ऊँच-ऊँच बात ना शोभेला, अउर दानी खातिर त झूठ के ओठ एकदम ना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "शोभेला"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "नवाल आदमी खातिर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "…के ओठ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ऊँच-ऊँच बात"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अउर त"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…खातिर त"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "दानी खातिर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "…के ओठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:29.130038273Z",
+  "model": "glm-5.3"
+}

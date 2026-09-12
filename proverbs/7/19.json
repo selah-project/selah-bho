@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "काहें कि ऊ मरद आपन घरे नइखे, ऊ दूर के रस्ता गेल बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ऊ मरद"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "आपन घरे"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गेल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "दूर के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:37.757697242Z",
+  "model": "glm-5.3"
+}

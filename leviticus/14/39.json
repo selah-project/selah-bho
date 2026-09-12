@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ कोहेन सातवाँ दिन लवटेला आ देखेला, आ देखऽ, नेगा घर के दीवारन में फइल गइल बा।",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "लवटेला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "आ कोहेन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आ देखेला"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फइल गइल बा"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नेगा"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "दीवारन में"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:17.808636397Z",
+  "model": "glm-5.3"
+}

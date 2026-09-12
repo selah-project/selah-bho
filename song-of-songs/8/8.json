@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "हमनी के एगो नन्ही बहिना बा, ओकर छाती नइखे — हमनी के बहिना खातिर का करी, ओ दिन जब ओकर बारे में बात भइल जाई?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "बहिना"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "एगो नन्ही"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "आ छाती"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करी"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "हमनी के बहिना खातिर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "बात भइल जाई"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकर बारे में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:25:46.109235210Z",
+  "model": "glm-5.3"
+}

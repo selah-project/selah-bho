@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "धरू यहवे ऊन्हां पर बरदशत, जान लेवें गोयिम कि ऊ मरनिहार मनई हवें। सेला।",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "धरू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "बरदशत"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊन्हां पर"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जान लेवें"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयिम"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरनिहार मनई"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:57.178496127Z",
+  "model": "glm-5.3"
+}

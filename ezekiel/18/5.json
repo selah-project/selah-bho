@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ जब कवनो मनुह धरमी बा, आ ऊ न्याय आ धरम के काम करेला,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ जब कवनो मनुह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "बा"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "काम करेला"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "धरम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:34.835102400Z",
+  "model": "glm-5.3"
+}

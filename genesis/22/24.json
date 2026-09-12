@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ओकर रखेलिन के नाम रउमा रहल; ऊहो ⟨את⟩ तेबह, आ ⟨את⟩ गहम, आ ⟨את⟩ तहश आ ⟨את⟩ माआखा के जनम देली।",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "आ ओकर रखेलिन"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "के नाम"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "रउमा"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देली"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ऊहो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेबह"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "तेबह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "गहम"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "गहम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "तहश"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "तहश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "माआखा"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माआखा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:00.629502Z",
+  "model": "glm-5.3"
+}

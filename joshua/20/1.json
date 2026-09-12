@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ यहवे यहोशू से बोललन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन —"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:54.223822225Z",
+  "model": "glm-5.3"
+}

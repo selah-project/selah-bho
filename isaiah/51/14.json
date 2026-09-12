@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "जल्दी बंदी छूटे खातिर भागेला, ऊ गड़हा में ना मरेला, आ ओकर रोटी ना कम होखी।",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "भागेवाला बंदी"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "छूटे खातिर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरेला"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "गड़हा में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कम होखी"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ओकर रोटी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:17:36.154142656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ दूसरा दिन इसराएल के बेटा बिन्यामिन के बेटा ⟨सभे⟩ के नजदीक चढ़ले।",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "नजदीक चढ़ले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के नजदीक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:05:29.891571878Z",
+  "model": "glm-5.3"
+}

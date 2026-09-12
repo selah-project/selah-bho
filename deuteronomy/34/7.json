@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ मोशे मरल समय एक सौ बीस बरिस के रहलें; ओकर आँख ना मद्धिम भइल, आ ओकर ताजगी ना भागल।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "आ मोशे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…बरिस के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "मरल समय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "मद्धिम भइल"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ओकर आँख"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "נס",
+      "gloss": "भागल"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "ताजगी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:42.968361740Z",
+  "model": "glm-5.3"
+}

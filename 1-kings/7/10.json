@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ नींव बहुमूल्य पत्थर के रहल, बड़ पत्थर के — दस हाथ के पत्थर आ आठ हाथ के पत्थर।",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "आ नींव"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर के रहल"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "बहुमूल्य"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर के"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "आ पत्थर"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:32.767934224Z",
+  "model": "glm-5.3"
+}

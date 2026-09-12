@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "पाखत-मोआब के बेटा — येशुआ आ योआब के बेटा सभे — दू हजार आ आठ सौ अठारह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पाखत"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटा सभे के"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशुआ"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "आ योआब"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "अठारह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:47:59.142475116Z",
+  "model": "glm-5.3"
+}

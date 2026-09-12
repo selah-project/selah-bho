@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ अखीतूब के बेटा जादोक आ एब्यातार के बेटा अबिमेलेख पुरोहित रहलें, आ शवशा लेखक रहलें।",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "जादोक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अखीतूब"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "अबिमेलेख"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "एब्यातार"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "शवशा"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "लेखक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:01.792385834Z",
+  "model": "glm-5.3"
+}

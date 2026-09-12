@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ यहवे, सेनासभे के एलोहीम — यहवे ओकर नाम-स्मृति बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "सेनासभे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ओकर नाम-स्मृति"
+    }
+  ],
+  "timestamp": "2026-09-11T21:11:08.629524029Z",
+  "model": "glm-5.3"
+}

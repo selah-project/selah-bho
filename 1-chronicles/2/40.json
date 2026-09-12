@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ एलएसा ⟨את⟩ सिसमाय के जनम दिहलन, आ सिसमाय ⟨את⟩ शल्लूम के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "आ एलएसा"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सिसमाय"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "सिसमाय"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "आ सिसमाय"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शल्लूम"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:55.874125317Z",
+  "model": "glm-5.3"
+}

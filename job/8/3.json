@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "का एल ⟨⟨न्याय⟩⟩ बिगाड़ेला? अवाँ शद्दय धर्म बिगाड़ेला?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "का एल"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "बिगाड़ेला"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "अवाँ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "बिगाड़ेला"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्म"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:22.597455713Z",
+  "model": "glm-5.3"
+}

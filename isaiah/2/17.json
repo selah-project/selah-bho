@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 2:17",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ आदमी के अकड़ झुक जाई, आ मनुहा के उचाई नीचाँ हो जाई; आ यहवे अकेले ओ दिन ऊँच कइल जाई।",
+  "tokens": [
+    {
+      "surface": "ושח",
+      "gloss": "झुक जाई"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "अकड़"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "आ नीचाँ हो जाई"
+    },
+    {
+      "surface": "רום",
+      "gloss": "उचाई"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मनुहा के"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "आ ऊँच कइल जाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:59:03.328241480Z",
+  "model": "glm-5.3"
+}

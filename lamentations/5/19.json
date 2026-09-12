@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "तूँ, यहवे, सदा खातिर बिराजमान बानी; रउआ के सिंहासन पीढ़ी-पीढ़ी तक रहेला।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा खातिर"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बिराजमान बानी"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "रउआ के सिंहासन"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी-पीढ़ी तक"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "पीढ़ी तक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:24.211489403Z",
+  "model": "glm-5.3"
+}

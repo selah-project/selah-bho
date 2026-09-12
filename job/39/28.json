@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "चट्टान पर रहेला, डेरा करेला — चट्टान के दाँत पर आ गढ़ पर।",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "चट्टान पर"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "रहेला"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "डेरा करेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "चट्टान के"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "आ गढ़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:02.090220355Z",
+  "model": "glm-5.3"
+}

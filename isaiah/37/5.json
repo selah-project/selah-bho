@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ राजा खिजकिय्याहू के नौकर सभे यशायाहू के पास आइल रहलें।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आ आइल रहलें"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "नौकर सभे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिजकिय्याहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशायाहू"
+    }
+  ],
+  "timestamp": "2026-09-11T20:11:26.824478881Z",
+  "model": "glm-5.3"
+}

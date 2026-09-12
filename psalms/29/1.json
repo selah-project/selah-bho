@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "दाऊद के गीत। एलिम के बेटासभे, यहवे के दियऽ ताकत आ बल; यहवे के दियऽ महिमा आ बल।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दियऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटासभे"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "एलिम के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दियऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा आ बल"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ताकत आ बल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:07.970701383Z",
+  "model": "glm-5.3"
+}

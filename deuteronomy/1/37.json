@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तुरहूँ रउआ के कारन यहवे हम से गुस्सा भइलन, कहलन — “तूँ उहो उहाँ ना जावब।”",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तुरहूँ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "गुस्सा भइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "रउआ के कारन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "उहो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "जावब"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:06.497963887Z",
+  "model": "glm-5.3"
+}

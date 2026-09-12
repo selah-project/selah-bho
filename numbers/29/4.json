@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ हर एक मेमना खातिर एक दसवाँ हिस्सा — सातों मेमना सभ खातिर।",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "आ एक दसवाँ हिस्सा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "मेमना खातिर"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सातों खातिर"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "मेमना सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:38.164345963Z",
+  "model": "glm-5.3"
+}

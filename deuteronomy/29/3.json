@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "बाकिर यहवे रउआ के ए जाने खातिर हियया ना दिहलन, ना देखे खातिर आँखि, ना सुने खातिर कान — एहि दिन ले।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर…ना"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हियया"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जाने खातिर"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे खातिर"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "कान"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुने खातिर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "एहि दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एहि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:00.468171077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ जब कवनो मनई गड़हा खोलेला, चाहे जब कवनो मनई गड़हा खोदेला आ ओकरा ना ढाकेला, आ ओहिजे गाय चाहे गधा गिर जाला —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोलेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "בור",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "खोदेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "בר",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ढाकेला"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "आ गिर जाला"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:29.776825347Z",
+  "model": "glm-5.3"
+}

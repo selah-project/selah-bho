@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "तब हम लज्जित ना होईब, जब हम रउआ के सगरी आज्ञा सभे के ओर देखब।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "लज्जित होईब"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "जब हम … ओर देखब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "रउआ के आज्ञा सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:12.332258229Z",
+  "model": "glm-5.3"
+}

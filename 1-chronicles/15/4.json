@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ दाविद अहरोन के लरिकन के ⟨את⟩ आ लेवीय लोगन के ⟨את⟩ जुटाइलन।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "जुटाइलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लरिकन के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिकन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "लेवीय लोगन के"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीय लोगन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:23.229253248Z",
+  "model": "glm-5.3"
+}

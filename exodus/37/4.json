@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ ऊ सीसम के लकड़ी के बेड़ी बनावलन आ ⟨את⟩ ऊ सभे सोना से मढ़लन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनावलन"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "बेड़ी"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "सीसम के"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ सभे"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:36.475597143Z",
+  "model": "glm-5.3"
+}

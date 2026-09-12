@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ओही दिन मोआब इस्राएल के हाथ के नीचे दबा गइल, आ धरती अस्सी साल शांत रहल।",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "आ दबा गइल"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "आ शांत रहल"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:56:57.067673414Z",
+  "model": "glm-5.3"
+}

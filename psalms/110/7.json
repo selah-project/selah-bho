@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 110,
+  "translation": "ऊ रस्ता में नाला से पानी पिई; एही से ऊ सिर ऊँच करी.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "नाला से"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "पानी पिई"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ऊँच करी"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:07.749678531Z",
+  "model": "glm-5.3"
+}

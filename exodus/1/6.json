@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तऽ यूसुफ़ के मउत भइल, आ ओकर सगरी भाई लोग के, आ ओही घराना के सगरी लोग के।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मउत भइल"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ़"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई लोग"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "घराना के लोग"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    }
+  ],
+  "timestamp": "2026-09-11T23:18:41.805517487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ एस्तेर के कहलन जेहिजा ले मार्देचाई के जवाब दिहल जाय —",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "जवाब दिहल जाय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्देचाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:32:09.358430188Z",
+  "model": "glm-5.3"
+}

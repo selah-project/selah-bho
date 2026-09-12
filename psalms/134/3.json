@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 134,
+  "translation": "यहवे तोहरे आशीर्वाद देलन सियोन से, अकास आ धरती के बनावइया।",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "तोहरे आशीर्वाद देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "सियोन से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावइया"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आ धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:38.073619855Z",
+  "model": "glm-5.3"
+}

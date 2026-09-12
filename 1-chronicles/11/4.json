@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ दाविद आ सब्बे इसरायेल यरूशलयिम के गइलें — ऊ ह यबूस — आ ओहिजे यबूसी रहलें, ओ धरती के रहवासी।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गइलें"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब्बे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ ह"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "यबूस"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आ ओहिजे"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "यबूसी"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहलें ... रहवासी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:02.996807887Z",
+  "model": "glm-5.3"
+}

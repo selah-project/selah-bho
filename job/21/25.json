@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ दूसर मरेला कड़वा प्राण में, आ भलाई के ना चखल।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आ दूसर"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरेला"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "प्राण में"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "कड़वा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "चखल"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "भलाई के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:00.565614782Z",
+  "model": "glm-5.3"
+}

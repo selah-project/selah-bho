@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 10:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ऊ लोग संदेस भेजलन आ ओकरा बोलवलन, आ याराबाम आ सगरी इसराएल आइल, आ ऊ लोग रहबाम से कहल, “बोली ई बा —”",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "संदेस भेजलन"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "बोलवलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "याराबाम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "बोली ई बा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:54.706032200Z",
+  "model": "glm-5.3"
+}

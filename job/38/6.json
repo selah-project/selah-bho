@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "केकरा ऊपर ओकर नींव-पाथर गाड़ल गइल? अउरी कौन ओकर कोना-पाथर रखलन?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केकरा"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "ओकर नींव-पाथर"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "गाड़ल गइल"
+    },
+    {
+      "surface": "או",
+      "gloss": "अउरी"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पाथर"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "ओकर कोना"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:37.378624951Z",
+  "model": "glm-5.3"
+}

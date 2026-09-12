@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ आठवाँ दिन ओकर खाल के मास काटल जाव।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आ … दिन"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठवाँ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "काटल जाव"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मास"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ओकर खाल के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:06.857192952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ यहवे के बचन हमरा लग आइल, ई कहिके:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:53.042737669Z",
+  "model": "glm-5.3"
+}

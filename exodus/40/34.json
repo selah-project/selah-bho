@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आ बादर ढाकलन ⟨את⟩ मिलन के तम्बू के, आ यहवे के महिमा ⟨את⟩ निवास के भर देलस।",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "ढाकलन"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तम्बू"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आ महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर देलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "निवास"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "निवास"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:30.563062311Z",
+  "model": "glm-5.3"
+}

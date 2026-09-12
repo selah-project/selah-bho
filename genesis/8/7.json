@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ कौआ ⟨את⟩ छोड़लन, आ ऊ निकलत आ लवटत रहल, जब ले पानी धरती से सूख ना गइल।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "आ छोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कौआ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "कौआ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "आ ऊ निकलल"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "निकलत"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "आ लवटत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "सूख गइल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:56.444339338Z",
+  "model": "glm-5.3"
+}

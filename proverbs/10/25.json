@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "जइसे आँधी गुजर जाला, तइसे दुष्ट ना रहेला; बाकिर धर्मी ⟨ह⟩ सदा-सदा के नींव।",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "जइसे गुजरे"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "आँधी"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ना रहेला"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "बाकिर धर्मी"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "नींव"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा-सदा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:09.409299554Z",
+  "model": "glm-5.3"
+}

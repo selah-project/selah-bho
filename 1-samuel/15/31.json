@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ शमुएल शाऊल के पाछु लौटलें, आ शाऊल यहवे के अगाड़ी दण्डवत कइलन।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "लौटलें"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पाछु"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "दण्डवत कइलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:12:44.367929241Z",
+  "model": "glm-5.3"
+}

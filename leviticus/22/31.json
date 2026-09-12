@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ रउआ हमरा आज्ञा सभे के रखब आ ⟨את⟩ इनहन के करब — हम यहवे बनी।",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "रउआ…रखब"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "हमरा आज्ञा सभे के"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "आ…करब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "इनहन के (आज्ञा सभे के)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:28.356859933Z",
+  "model": "glm-5.3"
+}

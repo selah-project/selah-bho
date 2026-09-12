@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "यहवे के ⟨את⟩ आपन धन से मान देह, आ आपन सब उपज के पहिला भाग से।",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "मान देह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "आपन धन से"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "आ पहिला भाग से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "आपन उपज के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:00.006650308Z",
+  "model": "glm-5.3"
+}

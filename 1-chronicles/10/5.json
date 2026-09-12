@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ जब अपन हथियार ढोवइया देखलन कि शाउल मर गइल, त ऊहो तलवार पर गिरल आ मर गइल।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ढोवइया"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "अपन हथियार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ऊहो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:00.743412477Z",
+  "model": "glm-5.3"
+}

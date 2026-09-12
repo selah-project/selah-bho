@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "रउआ के पास ऊ पुकारलें आ बच निकललें; रउआ में भरोसा कइलें आ ना लजालें।",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "रउआ के पास"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "पुकारलें"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "आ बच निकललें"
+    },
+    {
+      "surface": "בך",
+      "gloss": "रउआ में"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "भरोसा कइलें"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "लजालें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:10.876798766Z",
+  "model": "glm-5.3"
+}

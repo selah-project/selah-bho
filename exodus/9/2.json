@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "काहें कि जऊँ तू छोड़े से मना करत बा, आ अबहीं ओ लोगन के पकड़े रहला —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जऊँ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "मना करत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "छोड़े से"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "आ अबहीं"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "पकड़े रहला"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओ लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:40:49.831161942Z",
+  "model": "glm-5.3"
+}

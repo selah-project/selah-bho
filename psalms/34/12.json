@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आवऽ लउका सभे, हमरा सुनऽ; यहवे के डर हम रउआ सभे के सिखाबी।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आवऽ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लउका सभे"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "के डर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "हम रउआ सभे के सिखाबी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:21.579913972Z",
+  "model": "glm-5.3"
+}

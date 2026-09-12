@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "पंद्रह हाथ ऊपर तक पानी ताकतवार भइल, आ पहाड़ ढकाइल गइल।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "पंद्रह (पाँच)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ऊपर तक"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ताकतवार भइल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "आ ढकाइल गइल"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:00.536213875Z",
+  "model": "glm-5.3"
+}

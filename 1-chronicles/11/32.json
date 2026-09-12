@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "हुरै, गाश के नाला सभे के; अबिएल अरबाती के।",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "हुरै"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "नाला सभे के"
+    },
+    {
+      "surface": "געש",
+      "gloss": "गाश"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "अबिएल"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "अरबाती के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:23.300287475Z",
+  "model": "glm-5.3"
+}

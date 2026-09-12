@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 44:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "तभे ऊ लोग आपन कपड़ा फाड़लन, हर एक आपन गधा पर बोझ रखलन, आ ऊ लोग नगर वापस लवटल।",
+  "tokens": [
+    {
+      "surface": "ויקרעו",
+      "gloss": "फाड़लन"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "आपन कपड़ा"
+    },
+    {
+      "surface": "ויעמס",
+      "gloss": "बोझ रखलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "आपन गधा"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "वापस लवटलन"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "नगर के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:33:52.378005770Z",
+  "model": "glm-5.3"
+}

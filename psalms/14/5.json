@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "उहिया ऊ लोग डर से थरथरा गइल, काहें से कि एलोहीम धर्मी लोग के पीढ़ी में बाड़ें।",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "उहिया"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "थरथरा गइल"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "डर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "पीढ़ी में"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:42.810969854Z",
+  "model": "glm-5.3"
+}

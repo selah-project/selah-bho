@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ऊ रउआ के माथ पर अनुग्रह के लिव्यत देई; अदा-उसाद के ताज ऊ रउआ के बचाई।",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "देई"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "रउआ के माथ पर"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "लिव्यत"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह के"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ताज"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "अदा-उसाद के"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "ऊ रउआ के बचाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:04.999739118Z",
+  "model": "glm-5.3"
+}

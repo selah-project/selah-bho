@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "⟨את⟩ हर कौआ — आपन जाति के हिसाब से",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हर कौआ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "कौआ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "आपन जाति के हिसाब से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:57.285995119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ रउआ सभे ओ जाति के रीति में ना चलब जेकरा हम रउआ सभे के आगू से धपेलत बा, काहे कि ऊ लोग ⟨את⟩ ई सब कइलन आ हम इन्हन से घिन भेलन।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ...ना"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "चलब"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "रीति में"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ओ जाति के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "धपेलत बा"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "रउआ सभे के आगू से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "घिन भेलन"
+    },
+    {
+      "surface": "בם",
+      "gloss": "इन्हन से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:30.534842107Z",
+  "model": "glm-5.3"
+}

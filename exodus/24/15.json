@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ मोशे पहाड़ के ऊपर चढ़लन, आ बादर ⟨את⟩ पहाड़ के ढाँक लिहलन।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़लन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ढाँक लिहलन"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पहाड़"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:15.398492087Z",
+  "model": "glm-5.3"
+}

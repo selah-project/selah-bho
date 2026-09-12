@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 69,
+  "translation": "मुखिया खातिर, शोशन्नीम पर, दाविद खातिर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "शोशन्नीम"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:07.297560351Z",
+  "model": "glm-5.3"
+}

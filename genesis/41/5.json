@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 41:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ ऊ सुतलन आ दोसरा सपना देखलन; आ देखऽ, एकही ठाँड़ पर सात बाली उगल रहलीं, मोटा आ नीक।",
+  "tokens": [
+    {
+      "surface": "ויישן",
+      "gloss": "आ ऊ सुतलन"
+    },
+    {
+      "surface": "ויחלם",
+      "gloss": "दोसरा सपना देखलन"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दोसरा"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "बाली"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "उगल"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "एकही ठाँड़ पर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בריאות",
+      "gloss": "मोटा"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "आ नीक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:39.334654561Z",
+  "model": "glm-5.3"
+}

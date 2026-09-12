@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ हम सुनलियन — कवनो घर से हमरा से बोलत; आ एक मरद हमरा किनारे ठाढ़ रहलें।",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "सुनलियन"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलत (कवनो)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आ एक मरद"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ठाढ़"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "हमरा किनारे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:06:07.974257485Z",
+  "model": "glm-5.3"
+}

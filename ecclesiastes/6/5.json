@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "सूरज तक ना देखलन, आ ना जानलन — एहमें ओहसे बेसी आराम बा।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानलन"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "एहमें"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ओहसे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:50.759519630Z",
+  "model": "glm-5.3"
+}

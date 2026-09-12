@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ओकर रस्सी धरती में छुपल बा, आ ओकर जाल डगर पर।",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "छुपल बा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "ओकर रस्सी"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "आ ओकर जाल"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "डगर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:57.329527374Z",
+  "model": "glm-5.3"
+}

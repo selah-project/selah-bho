@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "तब इस्राएल के सरदार आ राजा नम्र हो गइलें, आ कहलें: धर्मी बाड़ें यहवे।",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "नम्र हो गइलें"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "आ राजा"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:25.857040623Z",
+  "model": "glm-5.3"
+}

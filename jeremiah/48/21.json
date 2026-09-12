@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ मियादी फैसला मैदान के धरती पर आ गइल बा — खोलोन पर, आ यहत्सा पर, आ मोफात पर।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "आ मियादी फैसला"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ गइल बा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "मैदान के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "खोलोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "यहत्सा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "मोफात"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:58.316347629Z",
+  "model": "glm-5.3"
+}

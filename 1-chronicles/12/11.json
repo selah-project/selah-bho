@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "मिशमन्नाह चउथा, यिरमेयाह पाँचवाँ।",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "मिशमन्नाह"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिरमेयाह"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "पाँचवाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:29.243198129Z",
+  "model": "glm-5.3"
+}

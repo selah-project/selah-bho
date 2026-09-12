@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "हदद के मरलन, आ ओकर जगह समला, मिमशरेका से, राज करलन।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मरलन"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज करलन"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "समला"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "मिमशरेका से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:22.527436395Z",
+  "model": "glm-5.3"
+}

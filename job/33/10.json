@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 33:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "देखऽ, ऊ हमरा विरुद्ध दोष खोजेलन; ऊ हमका आपन बैरी गिनेलन।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "תנואות",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा विरुद्ध"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "खोजेलन"
+    },
+    {
+      "surface": "יחשבני",
+      "gloss": "हमका गिनेलन"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "बैरी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:58.544351187Z",
+  "model": "glm-5.3"
+}

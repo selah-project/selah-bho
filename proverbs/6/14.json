@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 6:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ओकर हिया में बेंकारी बा, हर समय बुराई रचेला, फूट फेलावेला।",
+  "tokens": [
+    {
+      "surface": "תהפכות",
+      "gloss": "बेंकारी"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ओकर हिया में"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "रचेला"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "फूट"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "फेलावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:00.227262028Z",
+  "model": "glm-5.3"
+}

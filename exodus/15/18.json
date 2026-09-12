@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "यहवे राज करतारे सदा आ सदा ले बेसी तक।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "राज करतारे"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा तक"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ सदा ले बेसी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:43:34.729509404Z",
+  "model": "glm-5.3"
+}

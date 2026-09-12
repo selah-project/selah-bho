@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "पुरान सीमा-डिहड़ी के ना हटाबा, जवना तोहार पुरखा लोग लगववले रहलें।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "हटाबा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा-डिहड़ी"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "पुरान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "लगववले रहलें"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "तोहार पुरखा लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:39.175151879Z",
+  "model": "glm-5.3"
+}

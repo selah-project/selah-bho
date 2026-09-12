@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "पीढ़ी जावेला आ पीढ़ी आवेला; बाकिर धरती हमेशा खड़ी रहेला।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जावेला"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "आ पीढ़ी"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "बाकिर धरती"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "हमेशा"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "खड़ी रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:07.286633518Z",
+  "model": "glm-5.3"
+}

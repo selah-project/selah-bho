@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ⟨את⟩ सूअर — काहे कि ऊ खुर फाड़ेला, खुर के फाड़ पूरा खोलेला, बाकिर पागुर ना चबावेला — ऊ रउआ सभे खातिर अशुद्ध बा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "सूअर"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "सूअर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "फाड़ेला"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "आ फाड़"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "फाड़ के"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "पागुर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "चबावेला"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:31.052210102Z",
+  "model": "glm-5.3"
+}

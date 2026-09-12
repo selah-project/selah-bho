@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ऊ भयावह आ डरावना बा; ओही से ओकर फैसला आ ओकर महिमा निकलेला।",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "भयावह"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "आ डरावना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ओकर फैसला"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "आ ओकर महिमा"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:21:11.657414070Z",
+  "model": "glm-5.3"
+}

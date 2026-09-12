@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "जवन ऊ ⟨את⟩ अवराहाम के संग काटलन, आ ओकर सौगंद इसहाक खातिर दिहलन;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराहाम के"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "आ ओकर सौगंद"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "इसहाक खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:31.487932818Z",
+  "model": "glm-5.3"
+}

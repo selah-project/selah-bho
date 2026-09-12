@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ साँझ भई, आ भइयाल भई — तिसरा दिन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... भई"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भई"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भइयाल"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "तिसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:25.406530716Z",
+  "model": "glm-5.3"
+}

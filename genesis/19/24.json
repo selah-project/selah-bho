@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ यहवे सदोम आ अमोरा पर गन्धक आ आगि बरसवलन — ⟨את⟩ यहवे के ओर से, अकास से।",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "बरसवलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ…पर"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "अमोरा"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "गन्धक"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "आ आगि"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ यहवे",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:26.741637752Z",
+  "model": "glm-5.3"
+}

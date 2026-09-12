@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ हम हमार जाति आ तोहार जाति के बीच छुटाना रखब; काल्हि ई चिन्हा होखी।",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "आ हम रखब"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "छुटाना"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमार जाति"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ बीच"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार जाति"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "काल्हि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "האת",
+      "gloss": "ई चिन्हा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:02.475590176Z",
+  "model": "glm-5.3"
+}

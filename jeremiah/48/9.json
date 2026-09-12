@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 48:9",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "मोआब के पाँख देवऽ, काहें कि ऊ भाग जाई, आ ओकर नगर उजाड़ बन जाहें — ओइजन केहू बसय वाला नइखे।",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "देवऽ"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "पाँख"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "आ ओकर नगर"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "बन जाहें"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "बिना केहू"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बसय वाला"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ओइजन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:13.914705715Z",
+  "model": "glm-5.3"
+}

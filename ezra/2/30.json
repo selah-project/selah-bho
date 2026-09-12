@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "मग्बिश के बेटाबन, एक सौ पचानवे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "मग्बिश"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "आ छहा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:54.168613590Z",
+  "model": "glm-5.3"
+}

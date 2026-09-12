@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ बेतुएल ⟨את⟩ रिबका के जनम देलन; ई आठों मिलका नाहोर के जनम देली — अवराहाम के भाई के।",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "आ बेतुएल"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रिबका"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "रिबका"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठों"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम देली"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "मिलका"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "नाहोर के"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:00.629324953Z",
+  "model": "glm-5.3"
+}

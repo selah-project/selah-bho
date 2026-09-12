@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 2:16",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ बलवान सभे में दिल के धीर ओहि दिन नांगा भाग जाई — यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "ואמיץ",
+      "gloss": "दिल के धीर"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "दिल के"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "बलवान सभे में"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "नांगा"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भाग जाई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:12:50.598150991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "गड़हा ऊ खनलन आ ओकरा खोदलन, आ ओही गड़हा में गिर जाला जवन ऊ बनवले।",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "खनलन"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "आ ओकरा खोदलन"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "आ गिर जाला"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "गड़हा में"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "बनवले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:46.279493627Z",
+  "model": "glm-5.3"
+}

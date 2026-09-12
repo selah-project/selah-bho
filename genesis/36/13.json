@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ ई रहलें रेउएल के बेटा: नाहत आ ज़ेरह, शम्मा आ मिज्जा; ई रहलें बशमत के बेटा — एसाव के घरवाही।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "नाहत"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "आ ज़ेरह"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "शम्मा"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "आ मिज्जा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बशमत"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाही"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:37.193953976Z",
+  "model": "glm-5.3"
+}

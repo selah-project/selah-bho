@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "आ हम दम्मेस्क के दीवार में आगी फूकब, आ ऊ बेन-हदद के महलन के भसम कर देई।",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "आ हम फूकब"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगी"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "दीवार में"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दम्मेस्क"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "आ ऊ भसम कर देई"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "महलन के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:37.617372169Z",
+  "model": "glm-5.3"
+}

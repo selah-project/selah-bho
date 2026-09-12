@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ हम जानत बानी कि मिस्रयिम के राजा रउआ सभे के ⟨את⟩ जाए ना दिहित — तबे ना, जबल कि मजबूत हाथ से।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानत बानी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिहित"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ सभे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "जाए"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तबे ना"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "मजबूत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:39:30.556844824Z",
+  "model": "glm-5.3"
+}

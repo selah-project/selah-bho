@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कइसने एसाव के ताक-झाँक कइल गइल! ओकर छिपावल खजान बाहर बहि गए ला!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "ताक-झाँक कइल गइल"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "बाहर बहि गए ला"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "ओकर छिपावल खजान"
+    }
+  ],
+  "timestamp": "2026-09-11T21:14:41.650390565Z",
+  "model": "glm-5.3"
+}

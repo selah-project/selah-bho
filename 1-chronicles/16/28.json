@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "देईं यहवे के, हे जाति सभे के कुनबा, देईं यहवे के मान आ बल।",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "देईं"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सभे के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देईं"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "मान"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "आ बल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:49.886782297Z",
+  "model": "glm-5.3"
+}

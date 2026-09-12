@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 31:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "एहने कहलन यहवे: तलवार से बचल लोग जंगल में अनुग्रह पालस, इसरायेल के विसराम दिये जात रहला।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "पालस"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "שרידי",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "जात रहला"
+    },
+    {
+      "surface": "להרגיעו",
+      "gloss": "विसराम दिये"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:35:16.935126809Z",
+  "model": "glm-5.3"
+}

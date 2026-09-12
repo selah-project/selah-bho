@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "काहे कि देखउ, हम तोहार के गोष्ठी सभ में छोट बनाई, आ मनई सभ में तुच्छ बनाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखउ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "हम तोहार के बनाई"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "गोष्ठी सभ में"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "तुच्छ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनई सभ में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:44:27.597059351Z",
+  "model": "glm-5.3"
+}

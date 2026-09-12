@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "देखऽ मोर दुख आ मोर कठिनाई के, आ मोर सब पापन के हटावऽ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "मोर दुख"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "आ मोर कठिनाई के"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "आ … हटावऽ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "मोर पापन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:28.304683710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बाकिर जेहि दिन ओहिजा जिउत चमड़ा दिखेला, ऊ अशुद्ध होखेला।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "बाकिर जेहि दिन"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "दिखेला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओहिजा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिउत"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ऊ अशुद्ध होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:41.982736224Z",
+  "model": "glm-5.3"
+}

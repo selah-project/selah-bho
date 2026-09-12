@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 36:29",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "अऊर का कवनो बादल के फइलाव के बूझेला, ओकर छाउनी के गरजाहट के?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "अऊर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "बूझेला"
+    },
+    {
+      "surface": "מפרשי",
+      "gloss": "फइलाव"
+    },
+    {
+      "surface": "עב",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "गरजाहट"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ओकर छाउनी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:14.080675399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ मनुष्य के जिया के सोलह हजार।",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आ जिया"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सोलह (छह)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-सया"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:24.459158065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ हिजकियाहू राजा के सेवक लोग यशअयाहू के पास आइल।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक लोग"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिजकियाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशअयाहू"
+    }
+  ],
+  "timestamp": "2026-09-11T19:55:26.332762270Z",
+  "model": "glm-5.3"
+}

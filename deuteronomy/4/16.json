@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "कहें ना कि रउआ सभे बिगड़ जावऽ आ आपन खातिर कवनो मूरत बनाबऽ, कवनो आकृति के सूरत, नर के छवि चाहे मादी के।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कहें ना कि"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "बिगड़ जावऽ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "आ बनाबऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "मूरत"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "सूरत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "छवि"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर के"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "मादी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:27.066715092Z",
+  "model": "glm-5.3"
+}

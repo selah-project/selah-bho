@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 2:16",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ दानिएल भीतर गइलें आ राजा से बिनती कइलन कि ओकरा समय दीन, आ ऊ राजा के ओकर मतलब बतावे।",
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "आ दानिएल"
+    },
+    {
+      "surface": "על",
+      "gloss": "भीतर गइलें"
+    },
+    {
+      "surface": "ובעה",
+      "gloss": "आ बिनती कइलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "די",
+      "gloss": "कि"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "आ ओकर मतलब"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "बतावे खातिर"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:35:36.439642318Z",
+  "model": "glm-5.3"
+}

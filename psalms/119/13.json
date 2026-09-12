@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "हमनी के ओरठी से हम रउआ के मुँह के सब नियम गिनवा के बतवव।",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ओरठी से"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "गिनवा के बतवव"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "रउआ के मुँह के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:22.427490625Z",
+  "model": "glm-5.3"
+}

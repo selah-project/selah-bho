@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "“हम सब धरती के रस्ता पर चलल जात बानी; तूँ बलवान हो, आ मरद बन।”",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चलल जात बानी"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "तूँ बलवान हो"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "बन"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मरद"
+    }
+  ],
+  "timestamp": "2026-09-11T23:28:55.285633393Z",
+  "model": "glm-5.3"
+}

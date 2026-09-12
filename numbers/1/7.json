@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "यहूदा खातिर नचशोन, अम्मीनादाब के बेटा।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदा खातिर"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "नचशोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "अम्मीनादाब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:45.155376552Z",
+  "model": "glm-5.3"
+}

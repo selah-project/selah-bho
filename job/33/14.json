@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "काहेकि एल एक बेर बोलेला, आ दू बेर भी, बाकिर मनुष्य ओकरा ना देखेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "एक बेर"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोलेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "आ दू बेर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "देखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:51.424450836Z",
+  "model": "glm-5.3"
+}

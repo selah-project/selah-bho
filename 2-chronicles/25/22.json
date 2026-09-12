@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ यहूदा इस्राएल के आगे कुचल गइल, आ हर एक आदमी आपन डेरा के ओर भाग गइल।",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "कुचल गइल"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "भाग गइल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "आपन डेरा के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:34.974271096Z",
+  "model": "glm-5.3"
+}

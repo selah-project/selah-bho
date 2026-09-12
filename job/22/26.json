@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 22:26",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "कारण तब तूँ शद्दय में सुख पाबऽ, आ एलोअह के अगुवा तोहार मुँह ऊँच करबऽ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "सुख पाबऽ"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "आ ऊँच करबऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के अगुवा"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहार मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:46.258999056Z",
+  "model": "glm-5.3"
+}

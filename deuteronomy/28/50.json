@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "एक घोर चेहरा वाली जाति — जे बूढ़ के चेहरा ना उठावेला, आ नौजवान पर अनुग्रह ना करेला।",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "עז",
+      "gloss": "घोर"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठावेला"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "बूढ़ के"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "आ नौजवान पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "अनुग्रह करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:50.946665642Z",
+  "model": "glm-5.3"
+}

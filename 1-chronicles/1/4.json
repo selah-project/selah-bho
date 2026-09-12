@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "नोआख, शेम, खाम, आ याफेत।",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "नोआख"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "आ याफेत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:17.405065909Z",
+  "model": "glm-5.3"
+}

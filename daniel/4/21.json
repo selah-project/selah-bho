@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ई राजा के बुझाई बा, आ ई एल्योन (परम ऊँच वाला) के हुक्म ⟨बा⟩, जवन हमार मालिक राजा पर पहुँचल ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "बुझाई"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "आ हुक्म"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "די",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "पहुँचल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:37:45.544555784Z",
+  "model": "glm-5.3"
+}

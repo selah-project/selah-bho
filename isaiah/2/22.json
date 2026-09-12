@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "मनुष्य के छोड़ दिअऽ, जेकर नथुना में साँस बा — कारन ओ केतना गिनल जाला?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "छोड़ दिअऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "नथुना में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारन"
+    },
+    {
+      "surface": "במה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "गिनल जाला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:58:22.205603243Z",
+  "model": "glm-5.3"
+}

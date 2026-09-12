@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "बरबादी आ अकाल पर तूँ हँसब, आ धरती के जानवरन से ना डरब।",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "बरबादी पर"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "आ अकाल पर"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "तूँ हँसब"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "आ जानवरन से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "तूँ डरब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:51.449024993Z",
+  "model": "glm-5.3"
+}

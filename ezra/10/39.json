@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ शेलेम्याह, आ नातान, आ अदायाह —",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "आ शेलेम्याह"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आ नातान"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "आ अदायाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:44:17.118073669Z",
+  "model": "glm-5.3"
+}

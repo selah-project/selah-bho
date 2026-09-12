@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "सूखल एक टुकड़ा रोटी आ ओकरे साथे शान्ति, ई बढ़िया बा — झगड़ा-भरल बलि-मांस के घर ले।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया बा"
+    },
+    {
+      "surface": "פת",
+      "gloss": "एक टुकड़ा रोटी"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "सूखल"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "आ शान्ति"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरे साथे"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर ले"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलि-मांस"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "झगड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:19.999997167Z",
+  "model": "glm-5.3"
+}

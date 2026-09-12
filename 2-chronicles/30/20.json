@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ यहवे यिहिज्कियाहू के सुनलन, आ ⟨את⟩ लोगन के चंगा कइलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…के (ओकरा ले)"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "यिहिज्कियाहू"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "चंगा कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोगन के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:13:27.328211598Z",
+  "model": "glm-5.3"
+}

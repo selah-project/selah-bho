@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ ई भई कि मोशे के ⟨את⟩ एह तोरा के बात सभ के किताब पर लिखे के पूरा होखे तक लिखे के बाद, ऊ पूरा कइलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ई भई"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "पूरा होखे तक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "लिखे के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात सभ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोरा के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "पूरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:46.712707665Z",
+  "model": "glm-5.3"
+}

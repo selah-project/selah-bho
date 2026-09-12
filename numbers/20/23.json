@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ यहवे मोशे आ अहरोन से होर पहाड़ पर, एदोम देस के सीमा पर, कहलन:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देस के"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहला के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:03.718864644Z",
+  "model": "glm-5.3"
+}

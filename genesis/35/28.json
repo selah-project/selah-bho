@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ इसहाक के दिन सौ साल आ अस्सी साल भइल।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "आ अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:20.466061305Z",
+  "model": "glm-5.3"
+}

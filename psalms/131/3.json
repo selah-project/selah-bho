@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 131,
+  "translation": "हे इसराएल, यहवे के आस लगावा — अबहीं से आ हमेशा ले।",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "आस लगावा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "हे इसराएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अबहीं से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ ... ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "हमेशा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:41.599378186Z",
+  "model": "glm-5.3"
+}

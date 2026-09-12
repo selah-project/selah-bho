@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "शेओल के रास्ता सभ ⟨बा⟩ एकर घर — उतरत मौत के कोठरी सभ में।",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "रास्ता सभ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल के"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "एकर घर"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "उतरत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "कोठरी सभ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:07.144641628Z",
+  "model": "glm-5.3"
+}

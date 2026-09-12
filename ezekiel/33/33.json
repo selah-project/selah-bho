@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ जब ऊ आवे — देखऽ, ई आवेला — तब ऊ जान लिहिन कि एगो नबी ऊ लोग के बीच रहलन।",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "आ जब ऊ आवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ई आवेला"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "तब ऊ जान लिहिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ऊ लोग के बीच"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:56.410001934Z",
+  "model": "glm-5.3"
+}

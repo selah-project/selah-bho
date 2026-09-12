@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "याद पड़ेला — हमार पीड़ा आ हमार भटकामा, अफसंतीन आ जहर।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद पड़ेला"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "हमार पीड़ा"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "आ हमार भटकामा"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "अफसंतीन"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "आ जहर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:16.540798011Z",
+  "model": "glm-5.3"
+}

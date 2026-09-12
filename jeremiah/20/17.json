@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "जे हमकेँ गर्भ से ना मारलन, आ हमरी माई हमरा खातिर कबर रहली, आ ओकर गर्भ सदा के गर्भवती रहल।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "हमकेँ मारलन"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "गर्भ से"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "रहली"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "हमरी माई"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "हमर कबर"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "आ ओकर गर्भ"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "गर्भवती"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:49.253167400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "पानी हमर मुथरा के ऊपर बह गइल; हम कहलीं — हम निगरल जाइत बानी।",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "बह गइल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "हमर मुथरा"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलीं"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "हम निगरल जाइत बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.486467068Z",
+  "model": "glm-5.3"
+}

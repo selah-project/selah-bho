@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "अदोनाय यहवे हमार खातिर कान खोललन, आ हम बागी नइखी भइल, पाछाँ हम नइखी हटली।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोललन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखी"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "बागी भइल"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पाछाँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखी"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "हटली"
+    }
+  ],
+  "timestamp": "2026-09-11T20:17:29.709648987Z",
+  "model": "glm-5.3"
+}

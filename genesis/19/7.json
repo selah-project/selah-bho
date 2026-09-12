@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ कहलन: “ना करऽ, बिनती बा, हमार भाई सभे, एतना बुराई ना करऽ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נא",
+      "gloss": "बिनती बा"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमार भाई सभे"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "बुराई करऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:12.787178954Z",
+  "model": "glm-5.3"
+}

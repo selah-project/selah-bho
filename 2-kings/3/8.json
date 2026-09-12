@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ कहलन — कवन ई रास्ता बा जेकरा से हम चढ़ी? ऊ कहलन — एदोम के जंगल के रास्ता।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कवन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "हम चढ़ी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:32:19.521871056Z",
+  "model": "glm-5.3"
+}

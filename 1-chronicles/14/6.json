@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ नोगा, आ नेफेग, आ याफिया।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "आ नोगा"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "आ नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "आ याफिया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:28.982077753Z",
+  "model": "glm-5.3"
+}

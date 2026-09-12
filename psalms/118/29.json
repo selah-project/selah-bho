@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "यहवे के धन्यवाद करीं, काबर कि ऊ भला बाड़ें, काबर कि ओकर हेसेद सदा ले बा।",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "धन्यवाद करीं"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:42.516616051Z",
+  "model": "glm-5.3"
+}

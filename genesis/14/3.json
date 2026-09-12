@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "ई सब जुड़ल रहलन शिद्दीम के घाटी में — ऊ ह नमक के समुंदर।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "जुड़ल रहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "घाटी"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "शिद्दीम के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "नमक के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:50.099041696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आयिन, रिम्मोन, आ एतेर आ अशान — चारि नगर आ ऊनकर गाँव।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "आयिन"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "आ एतेर"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "आ अशान"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ ऊनकर गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:00.308628010Z",
+  "model": "glm-5.3"
+}

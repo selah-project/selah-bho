@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ शेत ⟨את⟩ एनोश के जनम देले के बाद सात साल आ अठ सौ साल जिएलें, आ ऊ बेटा आ बेटी सभे के जनम देलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिएलें"
+    },
+    {
+      "surface": "שת",
+      "gloss": "शेत"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एनोश"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश के"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ अठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ बेटी सभे के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:43.257410514Z",
+  "model": "glm-5.3"
+}

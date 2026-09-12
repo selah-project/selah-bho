@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "कोहेलेत मन भावे बात खोजे के कइलन; आ लिखाइ सीध रहल — सच्चाई के बात।",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "खोजे के कइलन"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "मन भावे बात"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "मन भावे"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "आ लिखाइ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीध"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच्चाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:57.276324776Z",
+  "model": "glm-5.3"
+}

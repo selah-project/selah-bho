@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "एत्सेर के बेटा लोक — बिलहान, जावान, याकान; दिशोन के बेटा लोक — उत्स आ अरान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोक"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "आ जावान"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "याकान"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोक"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "आ अरान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:28.457545179Z",
+  "model": "glm-5.3"
+}

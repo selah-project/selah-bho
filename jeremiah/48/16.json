@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "मोआब के बिपत्ती आवे खातिर पास बा, आ ओकर बिगार बहुते तेजी से आवत बा।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "पास बा"
+    },
+    {
+      "surface": "איד",
+      "gloss": "बिपत्ती"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आवे खातिर"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "आ ओकर बिगार"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "तेजी से आवत"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:47.247446308Z",
+  "model": "glm-5.3"
+}

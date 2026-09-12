@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "मूर्खता हिया के कमी वाला खातिर खुसी बा, बाकिर समझ वाला मनई आपन चाल सीधा रखेला।",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "कमी वाला खातिर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकिर मनई"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "समझ वाला"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "सीधा रखेला"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "चाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:34.992962481Z",
+  "model": "glm-5.3"
+}

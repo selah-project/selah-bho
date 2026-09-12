@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "आ लेवी के बेटारी: गेरशोन, कहात, आ मेरारी।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटारी"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आ मेरारी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:11.028013130Z",
+  "model": "glm-5.3"
+}

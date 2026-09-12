@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 136,
+  "translation": "जेकरा बुझ-बूझ से अकास बनवलन — काहे कि सदा ले ओकर हेसेद बा।",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "बनवईन वाला के"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "बुझ-बूझ से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:43.978403849Z",
+  "model": "glm-5.3"
+}

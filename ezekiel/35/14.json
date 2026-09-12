@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "एहना कहेला अदोनाय यहवे — जइसन पूरा धरती खुस होखेले, हम तोहार उजाड़ बनाबी।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "जइसन खुस होखेले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "बनाबी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:19.456665940Z",
+  "model": "glm-5.3"
+}

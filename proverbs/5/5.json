@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "उनकर गोड़ मौत के तरफ उतरेलें; उनकर कदम शेओल के पकड़ लेलें।",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "उनकर गोड़"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "उतरेलें"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के तरफ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल के"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "उनकर कदम"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "पकड़ लेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:06.663777868Z",
+  "model": "glm-5.3"
+}

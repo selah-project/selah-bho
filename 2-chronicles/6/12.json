@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ यहवे के बेदी के आगे सगरी यिस्राएल के सभा के सोझा खड़ा भइल, आ अपन दुनो हाथ फइलाइल।",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "आ ऊ खड़ा भइल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के सोझा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "आ फइलाइल"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "अपन दुनो हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:18.473988055Z",
+  "model": "glm-5.3"
+}

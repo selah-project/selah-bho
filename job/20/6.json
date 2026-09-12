@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 20:6",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "भले ओकर ऊँचाई अकास ले चढ़ जाय, आ ओकर सिर बादर तक पहुँच जाय —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "भले"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ जाय"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "अकास ले"
+    },
+    {
+      "surface": "שיאו",
+      "gloss": "ओकर ऊँचाई"
+    },
+    {
+      "surface": "וראשו",
+      "gloss": "आ ओकर सिर"
+    },
+    {
+      "surface": "לעב",
+      "gloss": "बादर तक"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "पहुँच जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:33.461905861Z",
+  "model": "glm-5.3"
+}

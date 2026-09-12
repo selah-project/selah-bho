@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ⟨את⟩ शेत के जनम देले के बाद आदम के दिन आठ सौ बरिस भएल, आ ऊ बेटा-बेटी सभे के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भएल"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम के"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेत के"
+    },
+    {
+      "surface": "שת",
+      "gloss": "शेत"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आ जनम दिहलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "बेटी सभे के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:59.153949681Z",
+  "model": "glm-5.3"
+}

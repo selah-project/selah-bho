@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हम तोहार नाम के पुकारलीं, हे यहवे, गड़हा के तल्ला से।",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "हम पुकारलीं"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहार नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "तल्ला से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.486613164Z",
+  "model": "glm-5.3"
+}

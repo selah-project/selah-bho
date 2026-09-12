@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "फेंकल गइल चाँदी — ओकरा लोग के एहने कहल जाला, काहेंकि यहवे ओ लोग के त्याग दिहलन।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "फेंकल गइल"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "कहल जाला"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकरा लोग के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेंकि"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "त्याग दिहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओ लोग के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:59.884180348Z",
+  "model": "glm-5.3"
+}

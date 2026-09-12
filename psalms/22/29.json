@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "काहे कि राज यहवे के बा, आ ऊ जाति सभ में राज करेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "राज"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "आ राज करेला"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सभ में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:50.395029537Z",
+  "model": "glm-5.3"
+}

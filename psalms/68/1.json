@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 68,
+  "translation": "संगीत-मुखिया खातिर दाविद के [के] — एगो मज़मूर, एगो गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-मुखिया खातिर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:52.304768501Z",
+  "model": "glm-5.3"
+}

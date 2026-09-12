@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक गोरू, मवेशी के बेटा; एक भेड़ा; एक मेमना, एक बरिस के बेटा — जलावे के भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "गोरू"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "मवेशी"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भेड़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "जलावे के भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:22.445126581Z",
+  "model": "glm-5.3"
+}

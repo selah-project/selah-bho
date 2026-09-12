@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "साझा नदी सभा समुंदर के ओर जालीं, आ समुंदर भरेला ना; जहाँ नदी सभा जालीं, ओही जगह ऊ फिर लवटेलीं जाए खातिर।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "साझा"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "नदी सभा"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "जालीं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "והים",
+      "gloss": "आ समुंदर"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "जहाँ नदी सभा"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "जालीं"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "फिर लवटेलीं"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाए खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:28.515180576Z",
+  "model": "glm-5.3"
+}

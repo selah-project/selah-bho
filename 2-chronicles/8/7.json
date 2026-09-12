@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "सब ओ लोग जवन बचल रहलें — हित्ती, अमोरी, परिज्जी, हिव्वी आ यबूसी में से — जउन ऊ इस्राएल के नइखिन।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "जवन बचल रहलें"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "अमोरी"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "परिज्जी"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "हिव्वी"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "आ यबूसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखिन"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:27.156231813Z",
+  "model": "glm-5.3"
+}

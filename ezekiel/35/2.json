@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "हे मनुख के बेटा, आपन चेहरा सेइर पहाड़ के ओर करऽ आ ओकरा ऊपर भविष्यवाणी करऽ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "שים",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "आपन चेहरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "आ … भविष्यवाणी करऽ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:07.591308205Z",
+  "model": "glm-5.3"
+}

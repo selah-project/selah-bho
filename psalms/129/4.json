@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 129,
+  "translation": "यहवे धर्मी बाड़ें; ऊ बुरा लोगन के रस्सी काट दिहलन।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी बाड़ें"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "काट दिहलन"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "रस्सी"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:54.690906314Z",
+  "model": "glm-5.3"
+}

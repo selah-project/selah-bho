@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "टिड्डी के कवनो राजा नइखे, फिरउ ऊ सगरी झुंड बना के निकलेला।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "टिड्डी के"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "झुंड बना के"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "सगरी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:37.489198302Z",
+  "model": "glm-5.3"
+}

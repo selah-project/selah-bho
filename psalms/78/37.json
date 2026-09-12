@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "आ ऊनका मन ओकरा संग टिकल ना रहल, आ ऊ ओकर समझौता में स्थिर ना रहलें।",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "आ ऊनका मन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "टिकल रहल"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "स्थिर रहलें"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "ओकर समझौता में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:53.598053107Z",
+  "model": "glm-5.3"
+}

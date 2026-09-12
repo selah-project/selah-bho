@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "दाऊद के मज़मूर। यहवे, कोन रउआ के डेरा में ठहरी? कोन रउआ के पबितर पहाड़ पर बसी?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ठहरी"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "रउआ के डेरा में"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "बसी"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "रउआ के पबितर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:22.986147002Z",
+  "model": "glm-5.3"
+}

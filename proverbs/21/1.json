@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "पानी के धारा सभ नियन राजा के मन यहवे के हाथ में बा; जे ऊ चाहेला, ओकरा ओही ओर घुमावेलन।",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "धारा सभ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "के हाथ में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जेतना भी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "चाहेला"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "घुमावेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:31.067587977Z",
+  "model": "glm-5.3"
+}

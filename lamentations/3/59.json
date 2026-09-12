@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रउआ देखलन, हे यहवे — हमर सताव-दुख; रउआ हमर मुकदमा के फैसला करावऽ।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "रउआ देखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "हमर सताव-दुख"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "फैसला करावऽ"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "हमर मुकदमा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.000420258Z",
+  "model": "glm-5.3"
+}

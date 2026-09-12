@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "प्रेम करे के समय, आ द्वेष करे के समय; लड़ाई के समय, आ शालोम के समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "प्रेम करे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "द्वेष करे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.907899878Z",
+  "model": "glm-5.3"
+}

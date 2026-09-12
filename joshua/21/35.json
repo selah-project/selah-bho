@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "⟨את⟩ दिमना आ ⟨את⟩ ओकर चरागाह, ⟨את⟩ नहलाल आ ⟨את⟩ ओकर चरागाह — चारि नगर।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिमना"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "दिमना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नहलाल"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "नहलाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:52.922686275Z",
+  "model": "glm-5.3"
+}

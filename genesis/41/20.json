@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ ओ दुबली आ खराब गाय सभे ⟨את⟩ पहिला सात मोट गाय सभे के खा गइलीं।",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "खा गइलीं"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "दुबली"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "आ खराब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पहिला सात मोट गाय सभे"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "मोट"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:59.394097858Z",
+  "model": "glm-5.3"
+}

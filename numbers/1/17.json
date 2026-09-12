@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ मोशे आ अहारोन ⟨את⟩ ओह आदमी सभ के लिहलन जिनहन के नाम से चिन्हल गइल रहल।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "आ … लिहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आ अहारोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओह आदमी सभ के"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ओह आदमी सभ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ओह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनहन के"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "चिन्हल गइल रहल"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "नाम से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:19.523229803Z",
+  "model": "glm-5.3"
+}

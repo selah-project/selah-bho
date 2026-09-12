@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ यहवे हमरा से कहलन — उत्तर से बुराई खुलेला, ओ धरती के सब रहेवाला पर आबरेला।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ … कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "खुलेला"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "על",
+      "gloss": "… पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहेवाला"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:22:20.802601397Z",
+  "model": "glm-5.3"
+}

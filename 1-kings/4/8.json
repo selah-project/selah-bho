@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ इनहन के नाम इ बा: बेन-हूर, एफ्रायिम के पहाड़ी इलाका में।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ इ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "इनहन के नाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חור",
+      "gloss": "हूर के"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ी इलाका में"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:34:17.643366045Z",
+  "model": "glm-5.3"
+}

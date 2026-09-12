@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "लोगनी तोरा डरावेलें सूरज के साथे, आ चाना के आघाँ — पीढ़ी-पीढ़ी तक।",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "तोरा डरावेलें"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "आ आघाँ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "चाना"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "पीढ़ी-पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:27.423106186Z",
+  "model": "glm-5.3"
+}

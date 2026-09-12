@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ पुरोहित तेल के लोग में से लिहेलन, आ आपन बामाँ हथेली प ढारिहेलन।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "आ लिहेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "लोग में से"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "आ ढारिहेलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "प"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "बामाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:07.763973428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 28:49",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "यहवे रउआ के ऊपर एक जाति चढ़ाइलन — दूर से, धरती के छोर से, जइसन गरुड़ झपटावेला; एहन जाति जेकर भाखा रउआ ना समझ पाबऽ।",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "चढ़ाइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "रउआ के ऊपर"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "एक जाति"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "के छोर से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "झपटावेला"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "गरुड़"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "समझ पाबऽ"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "भाखा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:50.946376436Z",
+  "model": "glm-5.3"
+}

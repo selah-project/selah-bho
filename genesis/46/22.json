@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "ई राहेल के बेटा रहलें, जे याकोब के जनमल रहलें; कुल प्राण चौदह रहलें।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनमल रहलें"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:09.300593496Z",
+  "model": "glm-5.3"
+}

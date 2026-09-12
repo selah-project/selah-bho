@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "काहे कि यहवे के आवाज से अश्शूर दब जाई — ठाड़ी से ऊ मारेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "आवाज से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "दब जाई"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ठाड़ी से"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "मारेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:09:21.529987622Z",
+  "model": "glm-5.3"
+}

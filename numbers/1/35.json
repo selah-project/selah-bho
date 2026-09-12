@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "इनहन के गिनती, मनाशे के गोत्र खातिर, बत्तीस हजार आ दू सौ रहल।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "इनहन के गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनाशे"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आ दू सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:30.189025694Z",
+  "model": "glm-5.3"
+}

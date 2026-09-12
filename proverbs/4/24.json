@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तोरा से टेढ़ मुँह के हटावू, आ ठुल्ला होंठ के तोरा से बहुते दूर कर दियऽ।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "हटावू"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोरा से"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "टेढ़"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह के"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "आ ठुल्ला"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "होंठ के"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "बहुते दूर कर दियऽ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:43.883027754Z",
+  "model": "glm-5.3"
+}

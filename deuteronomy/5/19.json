@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ तूँ चोरी ना करबू।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "चोरी करबू"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:41.314044561Z",
+  "model": "glm-5.3"
+}

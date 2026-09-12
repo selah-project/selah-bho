@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 66,
+  "translation": "ओकर नाम के महिमा के ज़मीरऽ, ओकर स्तुति के महिमामय बनावऽ।",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ज़मीरऽ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "बनावऽ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमामय"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ओकर स्तुति"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:13.617485254Z",
+  "model": "glm-5.3"
+}

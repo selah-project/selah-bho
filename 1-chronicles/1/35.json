@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "एसाव के बेटाबन: एलीफाज, रेउएल, आ येउश आ यालाम आ कोराख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफाज"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "आ येउश"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "आ यालाम"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "आ कोराख"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:43.402057144Z",
+  "model": "glm-5.3"
+}

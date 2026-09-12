@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अगर ओकर कवनो भाई नइखे, तऽ रउआ सभे ⟨את⟩ ओकर बिरसत ओकर पिता के भाइन के दिहऽ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "रउआ सभे … दिहऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बिरसत"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ओकर बिरसत"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "… के भाइन के"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:23.751517626Z",
+  "model": "glm-5.3"
+}

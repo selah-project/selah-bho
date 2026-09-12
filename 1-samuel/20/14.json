@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ अइसन ना, कि जबतक हम जिउत बानी, तूँ हमार संग यहवे के हेसेद कइल करब, आ हम ना मरब।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिउत बानी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमार संग"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मरब"
+    }
+  ],
+  "timestamp": "2026-09-11T19:15:46.398855248Z",
+  "model": "glm-5.3"
+}

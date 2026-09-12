@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ एहो हम देखले — घाम के नीचे न्याय के जगह पर ओत्थे अधर्म रहल, आ धर्म के जगह पर ओत्थे अधर्म रहल।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "आ एहो"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखले"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "घाम के"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "न्याय के"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओत्थे"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "आ जगह"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "धर्म के"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओत्थे"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "अधर्म"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:28.625945461Z",
+  "model": "glm-5.3"
+}

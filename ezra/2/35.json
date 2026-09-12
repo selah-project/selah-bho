@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "सनाआ के बेटालोग, तीन हजार छह सौ तीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "सनाआ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.498375980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ओही से कोना-पत्थर निकली, ओही से खूँटी, ओही से लड़ाई के धनुक; ओही से सगरी दबंग एक साथे निकली।",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "कोना-पत्थर"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "खूँटी"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुक"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "दबंग"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:43.762648218Z",
+  "model": "glm-5.3"
+}

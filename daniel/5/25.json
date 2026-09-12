@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ई ओ लिखाई ह जवन लिखावल गइल: मेने, मेने, तेकेल, उफरसिन।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "लिखाई"
+    },
+    {
+      "surface": "די",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "लिखावल गइल"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "मेने"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "मेने"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "तेकेल"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "उफरसिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:35:58.569531716Z",
+  "model": "glm-5.3"
+}

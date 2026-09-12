@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "तब अय्योब जवाब दइलन आ कहलन —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दइलन"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:14:44.195317607Z",
+  "model": "glm-5.3"
+}

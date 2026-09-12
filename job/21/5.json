@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "हमारो ओर मुड़ि के चकित हो जाउ, आ हाथ मुँह पर रख लेउ।",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "मुड़ि के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमारो ओर"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "चकित हो जाउ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "रख लेउ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:35.418954430Z",
+  "model": "glm-5.3"
+}

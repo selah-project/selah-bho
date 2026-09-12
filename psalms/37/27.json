@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "बुराई से हट जा, आ नीकी कर, आ सदा-सदा ले बसल रह।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "हट जा"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ ... कर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीकी"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "आ ... बसल रह"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा-सदा ले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:36.218327343Z",
+  "model": "glm-5.3"
+}

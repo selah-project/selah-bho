@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अदोनिकाम के लइका लोग, छह सौ छइसठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका लोग"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "अदोनिकाम"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "सठ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "आ छइ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:15.411852057Z",
+  "model": "glm-5.3"
+}

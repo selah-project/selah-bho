@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ फिनहास, एलाज़ार के लड़का, पहिलहीं के समय ऊ लोग के नायक रहलन; यहवे ⟨ओकर⟩ संग रहलन।",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "आ फिनहास"
+    },
+    {
+      "surface": "בן",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़ार"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "नायक"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊ लोग के"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहिलहीं के समय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग रहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:45.695248780Z",
+  "model": "glm-5.3"
+}

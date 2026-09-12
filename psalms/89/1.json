@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "सिखावे वाला गीत, एतान एजराही के।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "सिखावे वाला गीत"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "एतान के"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "एजराही"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:13.480363227Z",
+  "model": "glm-5.3"
+}

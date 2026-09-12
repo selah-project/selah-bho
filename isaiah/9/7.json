@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "अदोनाय एगो बचन याकोब में भेजलन, आ ऊ इस्राएल में गिरल।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "एगो बचन"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "याकोब में"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "आ गिरल"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:04:09.259576253Z",
+  "model": "glm-5.3"
+}

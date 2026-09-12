@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओकर बहिन दूर ठहरली, ई जाने खातिर कि ओकर साथे का होई।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ठहरली"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ओकर बहिन"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ई जाने खातिर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:42.564673993Z",
+  "model": "glm-5.3"
+}

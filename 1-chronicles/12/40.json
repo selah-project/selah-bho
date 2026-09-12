@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ ऊ लोग उहाँ दाविद के साथ तीन दिन रहलें, खात-पीत, काहे कि उनखर भाई लोग उनखा खातिर तैयारी कइलन।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "खात"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "आ पीत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "तैयारी कइलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनखा खातिर"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "उनखर भाई लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:06.254982176Z",
+  "model": "glm-5.3"
+}

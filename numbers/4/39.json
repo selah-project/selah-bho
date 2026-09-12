@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 4:39",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तीस बरिस के बेटा से ऊपर ले के पचास बरिस के बेटा ले, हर ओकर जे दल में आवेला, सेवा खातिर, मिलन के टेंट में।",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "… के बेटा से"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "और ऊपर"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "आवे वाला"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "दल में"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "सेवा खातिर"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "टेंट में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:03.720324385Z",
+  "model": "glm-5.3"
+}

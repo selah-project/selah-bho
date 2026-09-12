@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "joshua 15:54",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ हुमता, आ किर्यत-अरबा — ऊ ही खेबरोन — आ सिओर; नौ नगर आ इनहन के गाँव।",
+  "tokens": [
+    {
+      "surface": "וחמטה",
+      "gloss": "आ हुमता"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "आ किर्यत-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "अरबा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ ही"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेबरोन"
+    },
+    {
+      "surface": "וציער",
+      "gloss": "आ सिओर"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ इनहन के गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:10.752895872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ जब हम ⟨את⟩ उनक चीख आ ⟨את⟩ ई बात सभे के सुनलीं, तऽ हमनी के बहुते क्रोध भइल।",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "क्रोध भइल"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "सुनलीं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उनक चीख"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "उनक चीख"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात सभे"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ई बात सभे"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:45:53.639784132Z",
+  "model": "glm-5.3"
+}

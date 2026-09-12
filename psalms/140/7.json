@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 140,
+  "translation": "हम यहवे से कहली: “रउआ हमार एल बानी।” कान लगाबू, यहवे, हमार बिनती के आवाज़ पर।",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहली"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमार एल"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "कान लगाबू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज़"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "बिनती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:37.228824444Z",
+  "model": "glm-5.3"
+}

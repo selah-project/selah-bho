@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "काहे कि हरेक सिर पर टाक बा आ हरेक दाढ़ी मुँड़वाइल बा; सब हाथन पर कटल जख्म बाड़ें आ कमर पर टाट बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "टाक"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "दाढ़ी"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "मुँड़वाइल बा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथन"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "कटल जख्म"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "कमर"
+    },
+    {
+      "surface": "שק",
+      "gloss": "टाट"
+    }
+  ],
+  "timestamp": "2026-09-11T23:36:21.796677823Z",
+  "model": "glm-5.3"
+}

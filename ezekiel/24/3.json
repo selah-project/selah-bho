@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ बागी घर के आगू एगो मसाल कहऽ, आ ऊ लोगन से एहना कह: एहना कहेलन अदोनाय यहवे — देगचा धरऽ, धरऽ, आ ओकरा में पानी गारऽ।",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "आ मसाल कहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "बागी"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मसाल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहब"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ऊ लोगन से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "धरऽ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "देगचा"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "धरऽ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "गारऽ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:10.537065001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एकरा कारण हमनी के मन बीमार भइल, एहि बातन के कारण हमनी के आँखी अँधियारा भ गइनी।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एकरा कारण"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "बीमार"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हमनी के मन"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहि बातन के कारण"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एहि बातन"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "अँधियारा भ गइनी"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "हमनी के आँखी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:24.211036488Z",
+  "model": "glm-5.3"
+}

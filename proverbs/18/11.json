@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "धनवान के धन ओकर जोर के नगर ह, आ ऊ ऊँच परता दीवार नियर ओकर सोच में।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनवान"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ओकर जोर"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "आ दीवार नियर"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ऊँच परता"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "ओकर सोच में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:28.323182596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 83,
+  "translation": "ऊ एन-दोर में नष्ट भइल; धरती खातिर खाद बन गइल।",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "नष्ट भइल"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "एन- में"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "היו",
+      "gloss": "बन गइल"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "खाद"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "धरती खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:37.361659932Z",
+  "model": "glm-5.3"
+}

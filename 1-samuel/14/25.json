@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ सगरी धरती के लोग जंगल में आइल, आ खेत के ओर-मुहानी पर मधु रहल।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के लोग"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहल"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मधु"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ओर-मुहानी"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:13:38.386918979Z",
+  "model": "glm-5.3"
+}

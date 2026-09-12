@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "ओकर पानी गरजेला आ उबालेला, ओकर गरिमा से पहाड़ काँपेलें। सेला।",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "गरजेला"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "उबालेला"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ओकर पानी"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "काँपेलें"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ओकर गरिमा से"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:28.786614843Z",
+  "model": "glm-5.3"
+}

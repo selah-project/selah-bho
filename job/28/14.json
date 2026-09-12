@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "गड़हा कहेला — “ओ हमरा में नइखे”; आ समुंदरो कहेला — “हमरा संग नइखे।”",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा में"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "आ समुंदर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमरा संग"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:20.078549067Z",
+  "model": "glm-5.3"
+}

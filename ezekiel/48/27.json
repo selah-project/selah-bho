@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ ज़बूलून के सीमा के संगे, पुरुब के किनारा से ले के पछिम के किनारा ले, गाद एक हिस्सा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ ... के संगे"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बूलून"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "के किनारा से"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पुरुब"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पछिम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T23:38:34.806363739Z",
+  "model": "glm-5.3"
+}

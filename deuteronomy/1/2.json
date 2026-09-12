@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "अकारह दिन के रस्ता होखेला होरेब से, सेइर पहाड़ी के रस्ते, कादेश-बार्नेअ ले।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "अका-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "रह"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "होरेब से"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रस्ते"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़ी"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "बार्नेअ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:48.628984684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ऊ धरती के दुनिया के न्याय करे, सीधे-मेयार से जातियन के निआल करे।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "न्याय करे"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "दुनिया"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "न्याय से"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "निआल करे"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जातियन के"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "सीधे-मेयार से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:28.431817869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "लाने परन लावेसे जवन राजा पहिरले, आ घोड़ा जेकरा पर राजा सवारी कइले, आ राज-ताज जवन ओकर माथे राखल गइल।",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "लावेसे"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "परन"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "राज-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "पहिनले"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "आ घोड़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा पर"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "सवारी कइले"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आ जवन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "राखल गइल"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "ताज"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "राज-"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ओकर माथे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:33:00.208529412Z",
+  "model": "glm-5.3"
+}

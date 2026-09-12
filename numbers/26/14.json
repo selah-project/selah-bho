@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ई सिमोनी के कुनबा रहलें — बाईस हजार दू सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "सिमोनी के"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आ दू सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:05.066907615Z",
+  "model": "glm-5.3"
+}

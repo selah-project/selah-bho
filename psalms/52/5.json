@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "तूँ बुराई के प्रेम कइल बा नेकी से बेसी, झूठ के सही बात बोले से बेसी। सेला।",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "प्रेम कइल बा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "नेकी से बेसी"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोले से बेसी"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "सही बात"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:17.126769618Z",
+  "model": "glm-5.3"
+}

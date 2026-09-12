@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "का ओ अनफाइदा बात से बहस करेला, आ अइसन गप जेकरा में कवनो लाभ ना बा?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "बहस करेला"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "बात से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "फाइदा देला"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "आ गप"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "लाभ होखे"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओमें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:14:26.032659781Z",
+  "model": "glm-5.3"
+}

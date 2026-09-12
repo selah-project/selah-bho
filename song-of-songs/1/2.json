@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "“ऊ हमरा ओकर मुँह के चुम्मा सभे से चूमे — काहे कि रउआ के प्रेम दारू से नीक बा।”",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "ऊ हमरा चूमे"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "चुम्मा सभे से"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ओकर मुँह के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "रउआ के प्रेम"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "दारू से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:35.722092313Z",
+  "model": "glm-5.3"
+}

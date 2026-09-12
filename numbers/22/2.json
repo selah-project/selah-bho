@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ जिप्पोर के बेटा बालाक देखलन ⟨את⟩ ऊ सब जे इस्राएल अमोरी लोगन के साथे कइले।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "जिप्पोर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "अमोरी लोगन के साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:36.078768537Z",
+  "model": "glm-5.3"
+}

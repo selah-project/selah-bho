@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "व्यभिचार आ शराब आ नया दाखरस हिया के खोह लेला।",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "व्यभिचार"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आ शराब"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "आ नया दाखरस"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "खोह लेला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:08:36.243323724Z",
+  "model": "glm-5.3"
+}

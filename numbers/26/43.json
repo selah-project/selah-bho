@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 26:43",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "शुहामी के सब कुनबा, इनहनी के गिनती में चार आ साठ हजार आ चार सौ रहल।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "शुहामी के"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "इनहनी के गिनती में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:41.405929293Z",
+  "model": "glm-5.3"
+}

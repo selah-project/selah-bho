@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "काहे कि यहवे एइसने कहेलन: दाऊद खातिर अइसन कोनो मरद ना काटल जाई जे इस्राएल के घर के गद्दी पर बइठेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एइसने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "काटल जाई"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद खातिर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोनो मरद"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बइठेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:35:14.185382975Z",
+  "model": "glm-5.3"
+}

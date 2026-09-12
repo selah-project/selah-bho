@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमनी का गरदन पर हमनी का खोजल गइल; हमनी का थक गइलीं — हमनी का राहत नइखे मिलल।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "हमनी का गरदन"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "हमनी का खोजल गइल"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "हमनी का थक गइलीं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "राहत मिलल"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.188163402Z",
+  "model": "glm-5.3"
+}

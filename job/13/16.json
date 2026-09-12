@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 13:16",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "ऊहो हमार खातिर मुक्ति होखेला, काहे कि कपटी ओकर आगू ना आ सकेला।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ऊहो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "मुक्ति (खातिर)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर आगू"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "कपटी"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आ सकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:58.676438956Z",
+  "model": "glm-5.3"
+}

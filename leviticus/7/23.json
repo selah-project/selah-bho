@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "इसरायेल के बेटा सभे से कहऽ: गाय के, भेड़ के आ बकरी के कवनो चरबी तुअँ ना खाबू।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गाय के"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "आ बकरी के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुअँ खाबू"
+    }
+  ],
+  "timestamp": "2026-09-11T17:57:41.736733173Z",
+  "model": "glm-5.3"
+}

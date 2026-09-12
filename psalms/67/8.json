@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 67,
+  "translation": "एलोहीम हमनी का आशीष देवेला, आ ⟨את⟩ धरती के सब छोर ओकरा डरावेला।",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "हमनी का आशीष देवेला"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "आ डरावेला"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "धरती के सब छोर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "छोर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:03.979344886Z",
+  "model": "glm-5.3"
+}

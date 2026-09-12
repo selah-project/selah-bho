@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "मत ले ओकर संग ⟨את⟩ ब्याज आ बढ़ती; आ एलोहीम के डर, आ तोहार भाई तोहार संग जिये।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "ओकर संग ⟨את⟩"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "आ बढ़ती"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "जिये"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार संग"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:37.860611186Z",
+  "model": "glm-5.3"
+}

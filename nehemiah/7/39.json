@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "कोहेन लोग: यदायाह के बेटा — येशुआ के घर से — नौ सौ तिहत्तर।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहेन लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदायाह"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर से"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशुआ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:35.821272387Z",
+  "model": "glm-5.3"
+}

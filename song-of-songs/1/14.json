@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "मेहंदी के गुच्छा हमार दोद हमार खातिर, एन-गेदी के बगिचा सभ में।",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "गुच्छा"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "मेहंदी के"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमार दोद"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "बगिचा सभ में"
+    },
+    {
+      "surface": "עין",
+      "gloss": "एन"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गेदी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:16.240879160Z",
+  "model": "glm-5.3"
+}

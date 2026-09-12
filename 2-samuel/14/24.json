@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 14:24",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ राजा कहलन, “ऊ आपन घर लवट जाव, बाकिर हमर मुँह ना देखऽ।” आ अबशालोम आपन घर लवटल, आ राजा के मुँह ना देखल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "लवट जाव"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "लवटल"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:58.553962570Z",
+  "model": "glm-5.3"
+}

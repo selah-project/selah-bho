@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ओकर पबितर नाम में शोभा करीं; यहवे के खोजयिया के मन खुशी से भरेला।",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "शोभा करीं"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "पबितर"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "खुशी से भरेला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजयिया के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:26.386871845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "धरती के राजा आ संसार के सब बासिंदा ए बात ना मानलें कि दुश्मन आ बैरी यरूशलयिम के दुआर में अवश आवे।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "मानलें"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बासिंदा"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "संसार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "अवश आवे"
+    },
+    {
+      "surface": "צר",
+      "gloss": "दुश्मन"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "आ बैरी"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "के दुआर में"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:27:05.359485099Z",
+  "model": "glm-5.3"
+}

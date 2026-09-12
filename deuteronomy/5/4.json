@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "मुँह बर मुँह यहवे ओ पहाड़ पर, आगी के बीच से, रउआ सभ के संग बात कइलन।",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "बर मुँह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "रउआ सभ के संग"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ओ पहाड़ पर"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "के बीच से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आगी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:32:12.652579709Z",
+  "model": "glm-5.3"
+}

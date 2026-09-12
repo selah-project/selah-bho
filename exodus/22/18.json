@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जवन कौनों पशु के संगे सुतेला, ओ मौत से मारल जैला — मार डारल जैला।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जवन कौनों"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सुतेला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संगे"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मारल जैला"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:21.244339343Z",
+  "model": "glm-5.3"
+}

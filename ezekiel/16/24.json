@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ तूँ आपन खातिर एक टिल्ला बनवलस, आ हर गली-चौराहे पे आपन खातिर ऊँच थान बनवलस।",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "बनवलस"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "גב",
+      "gloss": "टिल्ला"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "बनवलस"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ऊँच थान"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "गली-चौराहे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:52:22.850023299Z",
+  "model": "glm-5.3"
+}

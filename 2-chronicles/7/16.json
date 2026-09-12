@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ अब हम एह घर के ⟨את⟩ चुनल बानी आ पवित्र कइल बानी कि हमार नाम उहाँ सदा ला रहे; आ हमार आँखि आ हमार हिया उहाँ सब दिन रहिहीं।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "हम चुनल बानी"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "आ पवित्र कइल बानी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एह घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "कि रहे"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "हमार नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "आ रहिहीं"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमार आँखि"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "आ हमार हिया"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:34.144299733Z",
+  "model": "glm-5.3"
+}

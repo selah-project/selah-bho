@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ओहिजे दिन एलोहीम कनान के राजा याबिन के ⟨את⟩ इसरायल के बेटान के आगे दबा दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "दबा दिहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याबिन"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "याबिन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:13.613804528Z",
+  "model": "glm-5.3"
+}

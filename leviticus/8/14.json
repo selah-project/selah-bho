@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ ⟨את⟩ पाप-बलि के बैल नजदीक लानन, आ अहरोन आ ओकर बेटा सभ ⟨את⟩ आपन हाथ ओ पाप-बलि के बैल के सिर पे रखलन।",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "नजदीक लानन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाप-बलि के बैल"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि के"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आ ओकर बेटा सभ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हाथ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पे"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:39.209067186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "हर कउनो जे गिनाए जाए वालन पर बीतेला — बीस बरिस के बेटा से आ ऊपर — ऊ यहवे के भेंट देवे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर कउनो"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "बीतेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "गिनाए जाए वालन"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "बेटा से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आ ऊपर"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवे"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:51:39.038432246Z",
+  "model": "glm-5.3"
+}

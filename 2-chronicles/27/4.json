@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ यहूदा के पहाड़ी इलाका में नगर बनवलन, आ जंगलन में किला आ बुर्जी बनवलन।",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "आ नगर"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ी इलाका में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "आ जंगलन में"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "किला"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "आ बुर्जी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:10:33.324059509Z",
+  "model": "glm-5.3"
+}

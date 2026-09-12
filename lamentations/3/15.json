@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमरा कड़वा चीज से तृप्त कइलन, हमरा अफसंतीन (कड़वा पौधा) से भर दिहलन।",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "तृप्त कइलन"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "कड़वा चीज से"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "भर दिहलन"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "अफसंतीन से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:30.969711890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ हमर नफशी यहवे में खुस होखे, ओकर बचाव में आनंदित होखे।",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "आ हमर नफशी"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "खुस होखे"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "आनंदित होखे"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ओकर बचाव में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:26.086351107Z",
+  "model": "glm-5.3"
+}

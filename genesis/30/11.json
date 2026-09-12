@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ लिआ कहली “भाग्य आवल बा”, आ ⟨את⟩ ओकर नाम ओ रखली गाद।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लिआ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "भाग्य"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ओ रखली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:33.698961139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "ओकर पुरोहित तलवार से गिरलें, आ ओकर विधवा लोग रोले नाहीं।",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ओकर पुरोहित"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरलें"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "आ ओकर विधवा लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नाहीं"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "रोले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:11.031334366Z",
+  "model": "glm-5.3"
+}

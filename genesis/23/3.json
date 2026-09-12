@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ अवराहाम आपन मुरदा के सामने से उठलन, आ खेत के बेटा सभ ला एहन बतावेले:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "आ उठलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "आपन मुरदा"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आ बतावेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "एहन बतावे:"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:14.631595895Z",
+  "model": "glm-5.3"
+}

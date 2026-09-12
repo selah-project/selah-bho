@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "खेत में मत निकलऽ आ रस्ता पर मत चलऽ, काहें से दुश्मन खातिर तलवार बा — चारों ओर डर फइलल बा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "निकलऽ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "आ रस्ता पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "चलऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "दुश्मन खातिर"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "डर"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:23.989565852Z",
+  "model": "glm-5.3"
+}

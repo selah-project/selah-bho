@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "अउर यहवे कैन से कहलन: “काहे तूँ जरल बा, आ काहे तोहार मुँह गिरल बा?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कैन"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "जरल बा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "आ काहे"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरल बा"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहार मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:39.012990380Z",
+  "model": "glm-5.3"
+}

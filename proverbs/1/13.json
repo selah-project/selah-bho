@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "हर एक कीमती दौलत हमनी का मिलेला, हमनी के घर लूट के माल से भर जाई।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "הון",
+      "gloss": "दौलत"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "कीमती"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "मिलेला"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "भर जाई"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "हमनी के घर"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट के माल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:03.057655127Z",
+  "model": "glm-5.3"
+}

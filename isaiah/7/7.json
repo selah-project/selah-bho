@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एहने कइले अदोनाय यहवे: “ऊ ना टिकेला आ ना होखी।”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "टिकेला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होखी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:45.408236229Z",
+  "model": "glm-5.3"
+}

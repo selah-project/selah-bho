@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ एकरा से तूँ माखब ⟨את⟩ मिलन के डेरा आ ⟨את⟩ गवाही के सन्दूक।",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "आ तूँ माखब"
+    },
+    {
+      "surface": "בו",
+      "gloss": "एकरा से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मिलन के डेरा"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "गवाही के सन्दूक"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:51:07.001200334Z",
+  "model": "glm-5.3"
+}

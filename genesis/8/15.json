@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ एलोहीम नूह से बोललन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से (केर)"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:13.453438427Z",
+  "model": "glm-5.3"
+}

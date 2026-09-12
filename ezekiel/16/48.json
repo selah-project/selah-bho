@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "हम जिआल बानी — अदोनाय यहवे के वचन — सेदोम, रउआ के बहिन, ऊ आ ऊकर बेटी ऊइसन ना कइले जइसन तूँ आ रउआ के बेटी कइलऽ।",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "जिआल"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…के वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सेदोम"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "रउआ के बहिन"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "आ ऊकर बेटी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "आ रउआ के बेटी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:52:57.553152698Z",
+  "model": "glm-5.3"
+}

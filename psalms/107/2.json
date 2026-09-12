@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "यहवे के छुड़ाए लोग ई कहत, जउन लोगन के ऊ दुश्मन के हाथ से छुड़ायल।",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "छुड़ाए लोग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "छुड़ायल"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "צר",
+      "gloss": "दुश्मन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:31.925050800Z",
+  "model": "glm-5.3"
+}

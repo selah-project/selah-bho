@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ नूह के तीन बेटा जनम लिहलन — ⟨את⟩ शेम, ⟨את⟩ खाम आ ⟨את⟩ याफेत।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "जनम लिहलन"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "याफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:12.714662410Z",
+  "model": "glm-5.3"
+}

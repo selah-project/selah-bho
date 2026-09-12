@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "बहुता शहद खाइल ना अच्छा बा, आ आपन महिमा के खोजी करना महिमा नइखे।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खाइल"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "शहद"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "बहुता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "आ खोजी"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "आपन महिमा के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:00.659796200Z",
+  "model": "glm-5.3"
+}

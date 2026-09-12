@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "परओश के बेटा — दु हजार सौ बहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "परओश के"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दु हजार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "बहत्तर (सत्तर आ)"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:47:58.082743440Z",
+  "model": "glm-5.3"
+}

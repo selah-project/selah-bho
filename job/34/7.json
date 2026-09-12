@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "कवनो बिरबान अय्यूब नियर बा, जे तानाश जइसे पानी पिवेला?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "बिरबान"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "अय्यूब नियर"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "पिवेला"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "तानाश"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "जइसे पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:46.077118091Z",
+  "model": "glm-5.3"
+}

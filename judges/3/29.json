@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ऊ ओ समय ⟨את⟩ मोआब के मारले, करीब दस हजार मनई — हरेक तगड़ा आ हरेक बहादुर मनई; आ एको मनई ना बचल।",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "आ ऊ मारले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआब"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ओ समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "करीब दस"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तगड़ा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बहादुर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "बचल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एको मनई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:56:57.067465507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "एल हमरा के गढ़ आ ताकत ⟨बा⟩, आ ऊ पूरा कइलन हमरा के रास्ता।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "हमरा के गढ़"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "पूरा कइलन"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "हमरा के रास्ता"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:42.833129060Z",
+  "model": "glm-5.3"
+}

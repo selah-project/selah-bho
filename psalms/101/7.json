@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 101,
+  "translation": "छल करे वाला हमार घर के भीतर ना बइठेला; झूठ बोले वाला हमार नेनि के आगू टिक ना पाई।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बइठेला"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "हमार घर के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करे वाला"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "छल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोले वाला"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "टिक पाई"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "हमार नेनि के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:15.864816300Z",
+  "model": "glm-5.3"
+}

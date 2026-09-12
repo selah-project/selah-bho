@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "एकर अंत साँप नियर डसेला, आ अफईं नियर डंक मारेला।",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "एकर अंत"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "साँप नियर"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "डसेला"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "आ अफईं नियर"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "डंक मारेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:04.935847396Z",
+  "model": "glm-5.3"
+}

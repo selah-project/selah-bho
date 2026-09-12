@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "इद्दो, गिन्नेतोन, अबियाह।",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "इद्दो"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "गिन्नेतोन"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबियाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:23.756512143Z",
+  "model": "glm-5.3"
+}

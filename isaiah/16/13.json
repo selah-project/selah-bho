@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ई ऊ बात ह, जवन यहवे मोआब के बारे में ओहि समय से कहलन।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ऊ बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ओहि समय से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:04:25.193097789Z",
+  "model": "glm-5.3"
+}

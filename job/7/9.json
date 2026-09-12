@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बादल के छिनल गइल, ओ चल दिहलस; ओइसने जवन शेओल में उतरेला ऊ ऊपर ना आवेला।",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "छिनल गइल"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल के"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चल दिहलस"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओइसने"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "उतरेला"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ऊपर आवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:28.171065477Z",
+  "model": "glm-5.3"
+}

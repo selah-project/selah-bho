@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "झूठ गवाह बिना सजा के ना छूटेला, आ जुन झूठ फूंकेला ऊ नास हो जाई।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "छूटेला"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "आ फूंकेला"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नास हो जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:01.992132660Z",
+  "model": "glm-5.3"
+}

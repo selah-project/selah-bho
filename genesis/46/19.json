@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "याकोव के पत्नी राखेल के लड़का रहलें: योसेफ आ बिन्यामिन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "… के लड़का"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राखेल"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव के"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आ बिन्यामिन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:34:22.031250153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "दान के शाखा से — अम्मिएल, गेमल्ली के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "शाखा से"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "अम्मिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "गेमल्ली"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:52.691089202Z",
+  "model": "glm-5.3"
+}

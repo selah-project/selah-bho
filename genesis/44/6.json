@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "ऊ इन्हन का पकड़ लिहलक आ इन्हन से ⟨את⟩ ई बात सभे कहलक।",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "पकड़ लिहलक"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "कहलक"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "इन्हन से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई बात सभे"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सभे"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T17:33:25.849969559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "बलिय्याल के बात ओकरा ऊपर उड़ेलल जाला, आ जे सुतल बा, ऊ फेर उठी ना सकेला।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बलिय्याल के"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "उड़ेलल जाला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आ जे"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सुतल बा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "उठी सकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:57.508576818Z",
+  "model": "glm-5.3"
+}

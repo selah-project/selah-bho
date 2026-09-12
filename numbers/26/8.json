@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ फल्लू के बेटा एलियाब रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ ... बेटा"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "फल्लू के"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:48.026782768Z",
+  "model": "glm-5.3"
+}

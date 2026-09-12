@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "जब ले ओकर बात आइल ना, तब ले यहवे के कथन ओकरा तपावल।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ओकर बात"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "ओकरा तपावल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:48.777450380Z",
+  "model": "glm-5.3"
+}

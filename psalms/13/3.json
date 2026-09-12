@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "कब ले हम आपन जीव में योजना बनाबऽ, दिन भर हमरा हिया में शोक बा? कब ले हमरा बैरी हमरा प ऊँच होखी?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कब"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "बनाबऽ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "योजना"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "आपन जीव में"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "शोक"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "हमरा हिया में"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन भर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कब"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "ऊँच होखी"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "हमरा बैरी"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा प"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:23.607645571Z",
+  "model": "glm-5.3"
+}

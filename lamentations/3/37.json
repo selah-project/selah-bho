@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "के हउ जे कहेला आ ऊ हो जाला, जबले अदोनाय हुकुम ना देले?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "के"
+    },
+    {
+      "surface": "זה",
+      "gloss": "हउ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "आ ऊ हो जाला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.231443019Z",
+  "model": "glm-5.3"
+}

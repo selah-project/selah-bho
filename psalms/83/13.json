@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 83,
+  "translation": "जे कहलें चलऽ हमनी का एलोहीम के ⟨את⟩ नआवन (चरागाह) आपन कर लई।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "आपन कर लई"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नआवन (चरागाह)"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "नआवन (चरागाह)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:40.074020727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 15:34",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "कारण धूर्त लोगन के भीड़ बाँझ ⟨बा⟩, आ आग रिशवत के टेंट सभ के खा गेल।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "भीड़"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "धूर्त"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "आ…आग"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "खा गेल"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "टेंट सभ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "रिशवत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:49.198487253Z",
+  "model": "glm-5.3"
+}

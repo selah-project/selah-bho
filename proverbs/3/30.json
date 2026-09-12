@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "कवनो मनुष्य के साथे बिना कारण मत झगड़ऽ, जब ओकरा रउआ के कवनो बुराई नइखे कइल।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "झगड़ऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "कवनो मनुष्य"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "बिना कारण"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "(रउआ के प्रति) कइल"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:46.227158641Z",
+  "model": "glm-5.3"
+}

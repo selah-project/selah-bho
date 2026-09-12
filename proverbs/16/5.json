@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "यहवे के घिना हर अउँच हिया ⟨बा⟩; हाथ हाथ ⟨के संगे⟩ जुड़ल रहे पर भी ऊ दोष से मुक्त ना होखेला।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घिना"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "अउँच"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "हाथ के संगे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "दोष से मुक्त होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:17.682388869Z",
+  "model": "glm-5.3"
+}

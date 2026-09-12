@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "काहें से कि बुरा काम के फैसला जल्दी ना कइल जाला, एही से आदमी के लड़िकन के हिया ओखन में भर जाला कि बुराई करें।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "कइल जाला"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "फैसला"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम के"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "जल्दी"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर जाला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़िकन के"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओखन में"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करें खातिर"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:18.015978472Z",
+  "model": "glm-5.3"
+}

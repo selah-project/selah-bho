@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 55,
+  "translation": "हम जल्दी करत बानी — आपन बचाव खातिर — दौरत हवा आ झंझा से।",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "जल्दी करत बानी"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "बचाव"
+    },
+    {
+      "surface": "לי",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "हवा से"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "दौरत"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "झंझा से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:56.837131468Z",
+  "model": "glm-5.3"
+}

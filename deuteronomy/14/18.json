@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ खासीदा, आ बगुला अपन प्रकार के अनुसार, आ हुदहुद, आ चमगादड़ —",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "आ खासीदा"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "आ बगुला"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "अपन प्रकार के अनुसार"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "आ हुदहुद"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "आ चमगादड़"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:29.964050279Z",
+  "model": "glm-5.3"
+}

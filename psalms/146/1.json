@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 146,
+  "translation": "प्रसंसा करऽ याह के; हमार मन-प्राण यहवे के प्रसंसा करेला ⟨את⟩ यहवे के।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "प्रसंसा करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "प्रसंसा कर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार मन-प्राण"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:41.012682154Z",
+  "model": "glm-5.3"
+}

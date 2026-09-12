@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ बेत-लबाओत आ शारूखेन — तेरह नगर आ ऊनकर गाँव।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "आ बेत"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "लबाओत"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "आ शारूखेन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ ऊनकर गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:00.308462055Z",
+  "model": "glm-5.3"
+}

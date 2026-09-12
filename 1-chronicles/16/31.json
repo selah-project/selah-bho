@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 16:31",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "अकास खुश होवऽ आ धरती खुशी करऽ; आ जाति सभे में कहल जावऽ: यहवे राज कइलन।",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "खुश होवऽ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "आ खुशी करऽ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "आ कहल जावऽ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जाति सभे में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:03.691626633Z",
+  "model": "glm-5.3"
+}

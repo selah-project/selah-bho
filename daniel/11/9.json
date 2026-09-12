@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आऊ दक्खिन के राजा के राज में आवेला, आ आपन धरती के लौटेला।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "राज में"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्खिन के"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "लौटेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "आपन धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:02.542779472Z",
+  "model": "glm-5.3"
+}

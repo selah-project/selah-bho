@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "चंगार वाली औरत के कौन मिलेला? ओकर कीमत मोतियन से बेसी दूर बा।",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "चंगार वाली"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "मिलेला"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "आ दूर बा"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "मोतियन से"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "ओकर कीमत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:56.746099572Z",
+  "model": "glm-5.3"
+}

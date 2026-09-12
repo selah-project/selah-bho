@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ओहि दिन हम सबके देखब जे दहिनजर पर कुदेला, जे आपन मालिक के घर हिंसा आ धोखा से भरवावेला।",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "हम देखब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबके"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "जे कुदेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "दहिनजर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "जे भरवावेला"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "आपन मालिक के"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "आ धोखा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:35.877752344Z",
+  "model": "glm-5.3"
+}

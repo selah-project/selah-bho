@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "तूँ चोरी ना करब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "चोरी करब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:25.139626355Z",
+  "model": "glm-5.3"
+}

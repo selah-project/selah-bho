@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "कहऽ जरूब्बाबेल से, यहूदा के पातिशाह के, एहन कि हम ⟨את⟩ अकास आ ⟨את⟩ धरती के हिलाब।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "जरूब्बाबेल"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पातिशाह"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "एहन कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "हिलाब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अकास"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:47.291761492Z",
+  "model": "glm-5.3"
+}

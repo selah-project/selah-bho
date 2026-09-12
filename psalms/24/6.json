@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ई हऽ ओ पीढ़ी — दरशो करए वाला, तोहार चेहरा खोजए वाला — याकोब। सेला।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ई हऽ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "दरशो करए वाला"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "खोजए वाला"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहार चेहरा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:47.399076784Z",
+  "model": "glm-5.3"
+}

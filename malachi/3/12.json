@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ सब गोत्र रउआ ⟨את⟩ धन्य कहीहें, काहेकि रउआ सभे एगो चहेतल धरती बनीहें — यहवे-सेनाओं कहेला।",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "आ धन्य कहीहें"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "बनीहें"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "चहेतल"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:32.659968703Z",
+  "model": "glm-5.3"
+}

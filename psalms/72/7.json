@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "ओकरा दिनन में धरमी फूलेला, आ सुख-चैन के बहुतायत — जुन तक चाना ना रही जाय।",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "फूलेला"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "ओकरा दिनन में"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "आ ... बहुतायत"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सुख-चैन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जुन तक"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ना रही जाय"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "चाना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:27.423501539Z",
+  "model": "glm-5.3"
+}

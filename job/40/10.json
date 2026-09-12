@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "अबहीं तूँ गरिमा आ ऊँचाई सजा, आ तेजस्विता आ सोभा पहिर ले।",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "सजा"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "गरिमा"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "तेजस्विता"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "सोभा"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "पहिर ले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:55.234336931Z",
+  "model": "glm-5.3"
+}

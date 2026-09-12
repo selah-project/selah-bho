@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हम ऊ मनई बानी जे ओकर गुस्सा के छड़ी से दुख देखलन।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ऊ मनई"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "छड़ी से"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ओकर गुस्सा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.620745444Z",
+  "model": "glm-5.3"
+}

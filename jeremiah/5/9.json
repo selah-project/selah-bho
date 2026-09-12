@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एहन बातन के बदला हम का ना लिहली? यहवे के वचन बा; आ हमरी नफश का एहन गोत्र पर पलटाव ना करत?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "का…ना"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एहन बातन"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "बदला लिहली"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "गोत्र पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "पलटाव करत"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमरी नफश"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:23.580809255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "रउआ के खातिर एलोहीम के दूसर नाँव ⟨ना⟩ रहिहें हमार मुँह पर।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहिहें"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के खातिर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:33.778501352Z",
+  "model": "glm-5.3"
+}

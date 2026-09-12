@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ हम लौटलीं, हम देखलीं सुरुज के नीचे हेबल।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "आ हम लौटलीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "देखलीं"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सुरुज के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:10.385929950Z",
+  "model": "glm-5.3"
+}

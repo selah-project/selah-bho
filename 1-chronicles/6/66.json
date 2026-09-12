@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ⟨את⟩ हेश्बोन, आ ⟨את⟩ ओकर चरागाह, आ ⟨את⟩ याज़ेर, आ ⟨את⟩ ओकर चरागाह।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हेश्बोन"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "हेश्बोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "याज़ेर"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "याज़ेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:51.351693410Z",
+  "model": "glm-5.3"
+}

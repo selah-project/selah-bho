@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ओकर मुँह श्राप, धोखा आ छल से भरल बा; ओकर जीभ के नीचे कष्ट आ अधर्म छिपल बा।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "श्राप"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल बा"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "आ धोखा"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "आ छल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "ओकर जीभ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "कष्ट"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "आ अधर्म"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:15.811169756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "ऊ आपन सुतिनियन के पठवले; ऊ पुकारेले — नगर के ऊँच जगह के छत के ऊपर।",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "पठवले"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "आपन सुतिनियन"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "पुकारेले"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "छत के"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ऊँच जगह के"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:39.211184244Z",
+  "model": "glm-5.3"
+}

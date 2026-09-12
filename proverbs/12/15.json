@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "मूर्ख के राह ओकरा आँखन में सीधा ⟨बा⟩, बाकिर जे सलाह सुनेला ऊ बुद्धिमान ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "राह"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ओकरा आँखन में"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आ जे सुनेला"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:48.973689549Z",
+  "model": "glm-5.3"
+}

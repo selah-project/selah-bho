@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ शेमीदा के, ह-शेमीदाई के कुल; आ हेफेर के, ह-हेफेरी के कुल।",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "आ शेमीदा"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "ह-शेमीदाई"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "आ हेफेर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "ह-हेफेरी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:38.680467949Z",
+  "model": "glm-5.3"
+}

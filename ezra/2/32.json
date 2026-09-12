@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हारिम के बेटाबन, तीन सौ बीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारिम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:54.168826948Z",
+  "model": "glm-5.3"
+}

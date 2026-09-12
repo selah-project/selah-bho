@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "ग्यारहवाँ दिन आशेर के बेटान के नासी पगएएल, ओकरान के बेटा, भेंट लानन।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "… दिन"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ग्यारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…वाँ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "… के बेटान के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "पगएएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ओकरान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:02.651401069Z",
+  "model": "glm-5.3"
+}

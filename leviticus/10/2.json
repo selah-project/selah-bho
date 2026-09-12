@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यहवे के आगे से आग निकलल, आ ऊ ⟨את⟩ इनका भस्म कइलस, आ ऊ यहवे के आगे मर गइन।",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के आगे से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "भस्म कइलस"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "इनका"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "मर गइन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:42.012657971Z",
+  "model": "glm-5.3"
+}

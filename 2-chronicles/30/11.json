@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "बाकिर आशेर, मनश्शे आ जबुलून में से कुछ मनई नम्र भइलें आ यरूशलयिम आइलें।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "कुछ मनई"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "आशेर में से"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "आ मनश्शे"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "आ जबुलून"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "नम्र भइलें"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आ आइलें"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:13:17.325019369Z",
+  "model": "glm-5.3"
+}

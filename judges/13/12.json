@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ मनोह कहलन: “अबहीं जब तोर बात पूरा होखी, त लड़का के नियम का होखी आ ओकर काम का होखी?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मनोह"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अबहीं"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "पूरा होखी"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "तोर बात"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "लड़का के"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "आ ओकर काम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:00:52.544181771Z",
+  "model": "glm-5.3"
+}

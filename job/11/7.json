@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "खोज से एलोअह के पा सकब? शद्दय के अंत ले पहुँच सकब?",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "खोज से"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पा सकब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पहुँच सकब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:24.154015515Z",
+  "model": "glm-5.3"
+}

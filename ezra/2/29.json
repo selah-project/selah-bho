@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "नेबो के बेटाबन, बानवे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ बानवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:54.168387947Z",
+  "model": "glm-5.3"
+}

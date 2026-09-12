@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "राजा के नौजवान सभे ओकरा कहलें, देखऽ, हामान आँगन में खड़ा बा; आ राजा कहलन, ओ आवे।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "नौजवान सभे के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "हामान"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "खड़ा बा"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "आँगन में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:33:00.207867900Z",
+  "model": "glm-5.3"
+}

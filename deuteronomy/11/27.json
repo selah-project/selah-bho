@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "⟨את⟩ आशीस — जब रउआ सभे रउआ के एलोहीम यहवे के आज्ञा सभे के सुनब, जवन हम आज ⟨את⟩ रउआ सभे के आज्ञा देत बानी।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आशीस"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "आशीस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "सुनब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा सभे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा देत बानी"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ रउआ सभे के"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:58.422418213Z",
+  "model": "glm-5.3"
+}

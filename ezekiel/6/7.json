@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ घायल तुअंहू के बीच में गिरेला, आ तुअंहू जानब कि हम यहवे ⟨बनी⟩।",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "आ गिरेला"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "घायल"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "तुअंहू के बीच में"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "आ तुअंहू जानब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:47:51.980428642Z",
+  "model": "glm-5.3"
+}

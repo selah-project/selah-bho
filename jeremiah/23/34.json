@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ ओ नबी, आ ओ कोहेन, आ ओ आजाम जवन कहेला “यहवे के बोझा”, ओकरा पर — ओ मनई पर आ ओकर घर पर — हम दंड देब।",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "आ ओ नबी"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "आ ओ कोहेन"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "आ ओ आजाम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "משא",
+      "gloss": "बोझा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "आ हम दंड देब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ओ मनई"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर पर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:31:54.628164787Z",
+  "model": "glm-5.3"
+}

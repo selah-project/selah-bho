@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "काहेंकि निमरीम के पानी उजाड़ हो जाई; काहेंकि घांस सूख जाई, दूब खतम हो जाई, हरियर कुछ ना बचत।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेंकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "निमरीम के"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "हो जाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेंकि"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "सूख जाई"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घांस"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "खतम हो जाई"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "दूब"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "हरियर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बचत ⟨होखे⟩"
+    }
+  ],
+  "timestamp": "2026-09-11T20:05:09.279652532Z",
+  "model": "glm-5.3"
+}

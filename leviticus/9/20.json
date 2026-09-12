@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ऊ लोग ⟨את⟩ चरबी छाती के ऊपर रखल, आ ऊ चरबी के बलि-वेदी पर धुआँ कइलन।",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "रखल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "छाती के"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "धुआँ कइलन"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बलि-वेदी पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:33.076233494Z",
+  "model": "glm-5.3"
+}

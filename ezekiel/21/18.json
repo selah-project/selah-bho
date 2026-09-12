@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "काहे कि परख होखला ला, आ का अगर ऊ छड़ी के त्यागो कइला — ऊ फेर ना रही, अदोनाय यहवे के वचन ⟨ह⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "परख"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "גם",
+      "gloss": "फेर भी"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "छड़ी"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "त्यागो कइला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:55:11.317690550Z",
+  "model": "glm-5.3"
+}

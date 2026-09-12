@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "मोशे के बेटा — गेरशोम आ एलिएज़र रहलें।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेरशोम"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "आ एलिएज़र"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:08.609738123Z",
+  "model": "glm-5.3"
+}

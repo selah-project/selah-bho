@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "अवराहाम के बेटा: यित्छाक आ यिश्माएल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्छाक"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "आ यिश्माएल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:31.320894567Z",
+  "model": "glm-5.3"
+}

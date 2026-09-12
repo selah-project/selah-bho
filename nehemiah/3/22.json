@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ओकर बाद पुरोहित लोगन, मैदान के मनई, ठीक कइलन।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "आ ओकर बाद"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ठीक कइलन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित लोगन"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "मैदान के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:46:36.190501687Z",
+  "model": "glm-5.3"
+}

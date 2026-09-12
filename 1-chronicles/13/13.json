@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ दाऊद ⟨את⟩ सन्दूक के आपने लगे दाऊद के नगर में ना लगाने दिहलन, बाकिर ओकरा गत्ती ओबेद-एदोम के घर मोड़ दिहलन।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "लगाने दिहलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सन्दूक"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "आपने लगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "मोड़ दिहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के घर के ओर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ओबेद"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "गत्ती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:15.743021253Z",
+  "model": "glm-5.3"
+}

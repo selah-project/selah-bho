@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ पुरोहित ओकरा वेदी पर धुआँ बनावेला — अग्नि-बलि के खाना, यहवे खातिर।",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "धुआँ बनावेला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "वेदी पर"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अग्नि-बलि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:43.696572438Z",
+  "model": "glm-5.3"
+}

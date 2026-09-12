@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "अवगुन के बिचार रचे वाला मन, बुराई के ओर दौड़े में फुर्तील पैर।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "रचे वाला"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "बिचार"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवगुन के"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पैर"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "फुर्तील"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "दौड़े में"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "बुराई के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:50.965096064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ऊ हमनी का मदिरा के घर में ले गेलन, आ ओकर झंडा हमनी का ऊपर प्यार ह।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ऊ ले गेलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "היין",
+      "gloss": "मदिरा के"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "आ ओकर झंडा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमनी का ऊपर"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "प्यार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:58.866007049Z",
+  "model": "glm-5.3"
+}

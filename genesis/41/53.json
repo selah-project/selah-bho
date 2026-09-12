@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ मिस्रयिम (मिस्र) के धरती में जे सात गो साल के भरपूरी रहल, ऊ खतम हो गइल।",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "खतम हो गइल"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שני",
+      "gloss": "साल"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "भरपूरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र)"
+    }
+  ],
+  "timestamp": "2026-09-11T23:18:01.628928074Z",
+  "model": "glm-5.3"
+}

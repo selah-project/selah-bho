@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "ऊ ना चीखी, ना आवाज चढ़ावी, आ ना गली में ओकर आवाज सुनाई पड़ी.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "चीखी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "(आवाज) चढ़ावी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "सुनाई पड़ी"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "गली में"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ओकर आवाज"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:02.479634948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 48:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ लुटेरा हर एक नगर पर आ जाई, आ कवनो नगर ना बची; घाटी बिनस जाई आ पठार उजाड़ दिहल जाई — जइसे यहवे कहले।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आ जाई"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "लुटेरा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "आ कवनो नगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמלט",
+      "gloss": "बची"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "बिनस जाई"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "घाटी"
+    },
+    {
+      "surface": "ונשמד",
+      "gloss": "उजाड़ दिहल जाई"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "पठार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:42.288284543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ पुरोहित के हर मन्ना-भेंट पूरा जरावल जाव — ओकरा खाइल ना जाव।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "मन्ना-भेंट"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित के"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरा जरावल"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाइल जाव"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:50.320011753Z",
+  "model": "glm-5.3"
+}

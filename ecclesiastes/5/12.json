@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एक बुराई ⟨बा⟩ जे दुख से छलकल, ओकरा हम धूप के नीचे देखलन बानी: धन ओकर मालिक के बिगाड़ खातिर रखल गइल।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "एक ... बा"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "दुख से छलकल"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखलन बानी"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "धूप के"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "रखल गइल"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ओकर मालिक के"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "बिगाड़ खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:40.554115568Z",
+  "model": "glm-5.3"
+}

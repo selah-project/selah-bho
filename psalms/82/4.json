@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 82,
+  "translation": "कमजोर आ गरीब के छुटकारा दीं; दुष्टन के हाथ से बचा के निकालीं।",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "छुटकारा दीं"
+    },
+    {
+      "surface": "דל",
+      "gloss": "कमजोर"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "आ गरीब के"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टन के"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "बचा के निकालीं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:30.630478869Z",
+  "model": "glm-5.3"
+}

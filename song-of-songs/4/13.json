@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तोहार टहनला अनार के बगीचा, उत्तम फल सभ के संगे, हिन्ना के झुण्ड, नारद के संगे।",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "तोहार टहनला"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "बगीचा"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "अनार"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "हिन्ना के झुण्ड"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "नारद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:36.591731234Z",
+  "model": "glm-5.3"
+}

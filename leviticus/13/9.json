@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "जब मनुष्य में कवनो चोट के त्वचा-रोग बा, तब ओकरा काहुन के पास ले जाइल जाई।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "त्वचा-रोग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बा"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुष्य में"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ले जाइल जाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "काहुन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:45.573329093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 31:13",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ओकर गिरावट के ऊपर अकास के सब चिरई बसल रहलीं, आ ओकर डाँट सभ के पास खेत के सब जानवर रहलें।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "ओकर गिरावट"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "बसल रहलीं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चिरई"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... के पास"
+    },
+    {
+      "surface": "פארתיו",
+      "gloss": "ओकर डाँट सभ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חית",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:01:50.506117015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बिन्यामीन के गोत्र खातिर — पल्ती, राफू के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "पल्ती"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "राफू"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:38.395325131Z",
+  "model": "glm-5.3"
+}

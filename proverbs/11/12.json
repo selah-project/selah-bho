@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "जे आपन संगी के तुच्छ समझेला, ऊ हिया से घट बा; बाकिर समझदार मनखे चुप रहेला।",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "तुच्छ समझेला"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "आपन संगी के"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "घट"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "बाकिर मनखे"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "चुप रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:20.224619628Z",
+  "model": "glm-5.3"
+}

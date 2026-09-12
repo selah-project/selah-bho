@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 82,
+  "translation": "तैयो, आदम नियर तू सभे मरब, आ सरदार सभे में से एक नियर गिरब।",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "तैयो"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "आदम नियर"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "तू सभे मरब"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "आ ... एक नियर"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदार सभे"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "गिरब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:24.021712927Z",
+  "model": "glm-5.3"
+}

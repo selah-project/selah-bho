@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ⟨את⟩ अर्वादी, आ ⟨את⟩ त्सेमारी, आ ⟨את⟩ खमाती।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अर्वादी"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "अर्वादी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "त्सेमारी"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "त्सेमारी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "खमाती"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "खमाती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:42.864270592Z",
+  "model": "glm-5.3"
+}

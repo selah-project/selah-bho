@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओकर सेना, आ ओकर गिनल लोग — चार आ पचास हजार आ चार सौ।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "आ ओकर सेना"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "आ ओकर गिनल लोग"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:15.795389352Z",
+  "model": "glm-5.3"
+}

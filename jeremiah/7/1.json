@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "हवनी शब्द जवन यिर्मियाहू के यहवे ⟨את⟩ के ओर से आइल, ई कहत कहल:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "हवनी शब्द"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर से"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ के ओर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत कहल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:41.330189546Z",
+  "model": "glm-5.3"
+}

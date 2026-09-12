@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "एहिसे रउरा सेवक सावधान होखेला भी; इनहन के रखै में ढेर इनाम बा।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "रउरा सेवक"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "सावधान होखेला"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "एहिसे"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "इनहन के रखै में"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "इनाम के फल"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:53.248905378Z",
+  "model": "glm-5.3"
+}

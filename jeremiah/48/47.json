@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "jeremiah 48:47",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "बाकिर दिन के अंत में हम मोआब के बंधुआई फेर लावब — यहवे के वचन। एहिजे ले मोआब के सजा बा।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "हम फेर लावब"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "बंधुआई"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "अंत में"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "एही ले"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "एहिजे ले"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "सजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:18.916894553Z",
+  "model": "glm-5.3"
+}

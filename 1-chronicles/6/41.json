@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ⟨את⟩ नगर के खेत आ ⟨את⟩ ओकर बाड़ी सभे के दइलन खालब (कालेब) यपुन्नेह के बेटा के।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "बाड़ी सभे"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "ओकर बाड़ी सभे"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दइलन"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "खालब (कालेब) के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "यपुन्नेह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:57.530493495Z",
+  "model": "glm-5.3"
+}

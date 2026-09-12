@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ सम्माय के बेटा माओन रहलन, आ माओन बेथ-त्सूर के पिता रहलन।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "आ…के बेटा"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "सम्माय"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "माओन"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "आ माओन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सूर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:58.682302939Z",
+  "model": "glm-5.3"
+}

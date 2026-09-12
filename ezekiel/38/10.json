@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 38:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "एना कहलन अदोनाय यहवे: आ ओहि दिन होई, तब बात सभे तोहार मन पर चढ़ीहें, आ रउआ बुराई के मतलब बनाब।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ होई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़ीहें"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात सभे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोहार मन"
+    },
+    {
+      "surface": "וחשבת",
+      "gloss": "आ रउआ बनाब"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "मतलब"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:20.556906427Z",
+  "model": "glm-5.3"
+}

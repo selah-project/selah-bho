@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ राजा कहलन, “एकरे लां खिसक जा, इहें खड़ा रह।” आ ऊ खिसकलन आ खड़ा भ गइल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "סב",
+      "gloss": "खिसक जा"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "खड़ा रह"
+    },
+    {
+      "surface": "כה",
+      "gloss": "इहें"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "खिसकलन"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "खड़ा भ गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:29:07.977197622Z",
+  "model": "glm-5.3"
+}

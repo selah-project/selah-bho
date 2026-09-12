@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आऊन ओ समझौता-पोथी लेके कानन के पढ़लन, आ ऊ सभे कहलें: जवन सब यहवे कहलन ह, ओकरा हमनी का करब आ ओकर सुनब।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "लेके"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पोथी"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "समझौता-पोथी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "पढ़लन"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कानन"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "सुनब"
+    }
+  ],
+  "timestamp": "2026-09-12T00:03:25.450149336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अबीगैल ⟨את⟩ अमासा के जनम दिहली; आ अमासा के पिता येतर हवें, ⟨जे⟩ इश्माएली रहलें।",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "आ अबीगैल"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम दिहली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमासा"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "अमासा"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "आ पिता"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "अमासा के"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतर"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "इश्माएली"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:12.465913585Z",
+  "model": "glm-5.3"
+}

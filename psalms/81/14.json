@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 81,
+  "translation": "काश कि हमर परजा हमरा सुनता, इस्राएल हमर ओरिया सभे में टगता!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "काश कि"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमर परजा"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनता"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "हमर ओरिया सभे में"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "टगता"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:47.944332457Z",
+  "model": "glm-5.3"
+}

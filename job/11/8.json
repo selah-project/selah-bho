@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "अकास के ऊँचाई — का करब? शेओल से गहिरा — का जानब?",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "करब"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "गहिरा"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "जानब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:24.154308730Z",
+  "model": "glm-5.3"
+}

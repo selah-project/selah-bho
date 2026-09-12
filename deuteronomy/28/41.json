@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "लड़का आ लड़की के तू जनम देबू, बाकिर ऊ ⟨तोहार⟩ ना रहिहें, काहे कि ऊ बंदी बनि के चल जिहें।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लड़की"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "तू जनम देबू"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर … ना"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहिहें"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "चल जिहें"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "बंदी बनि के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:54.448184420Z",
+  "model": "glm-5.3"
+}

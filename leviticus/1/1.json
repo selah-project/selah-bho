@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ऊ मोशेह के ओर पुकारलन, आ यहवे ओकरा से मिलने के तम्बू से बोललन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आ … बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "तम्बू से"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलने के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:57:20.078566257Z",
+  "model": "glm-5.3"
+}

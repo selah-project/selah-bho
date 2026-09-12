@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ दाविद ओ जगह के बदला में अरनान के छह सौ सोना के शेकेल, तौल के हिसाब से, दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "अरनान के"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ओ जगह के बदला में"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "तौल के हिसाब से"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:57.488059525Z",
+  "model": "glm-5.3"
+}

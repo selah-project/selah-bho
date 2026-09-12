@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ याकोब उठलन, आ ⟨את⟩ आपन लड़कन आ ⟨את⟩ आपन औरतन के ऊँटन पर चढ़ा देलन।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "आ उठलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "आ चढ़ा देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन लड़कन"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "आपन लड़कन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "आपन औरतन"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "आपन औरतन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ऊँटन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:08.240178041Z",
+  "model": "glm-5.3"
+}

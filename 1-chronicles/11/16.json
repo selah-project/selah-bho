@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ दाऊद तखन गढ़ में रहलें, आ फिलिश्टी लोगन के चौकी तखन बेतलेहम में रहल।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "आ दाऊद"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तखन"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "गढ़ में"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "आ चौकी"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "फिलिश्टी लोगन के"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तखन"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेतलेहम"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "बेतलेहम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:08.317314250Z",
+  "model": "glm-5.3"
+}

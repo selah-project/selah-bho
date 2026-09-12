@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ यहवे में आनन्द मनऽ, आ ऊ तोर मन के माँग दिहिहें।",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "आ आनन्द मनऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "आ दिहिहें"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोर खातिर"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "माँग"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "मन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:19.106730384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ कनान जनम दियलन ⟨את⟩ सीदोन अपने पहिलका बेटा के आ ⟨את⟩ चेत के।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "आ कनान"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम दियलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सीदोन"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "सीदोन"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "अपने पहिलका बेटा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चेत"
+    },
+    {
+      "surface": "חת",
+      "gloss": "चेत के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:17.749339568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "गाद खातिर — एल्यासाफ, देउएल के बेटा।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "गाद खातिर"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:02.021428184Z",
+  "model": "glm-5.3"
+}

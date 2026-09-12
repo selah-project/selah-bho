@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ साँझ पड़े पर ऊ पानी से नहावे, आ सूरज डूबे पर मछान के भीतर आवे।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "पड़े पर"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "नहावे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी से"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "मछान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:19.606794080Z",
+  "model": "glm-5.3"
+}

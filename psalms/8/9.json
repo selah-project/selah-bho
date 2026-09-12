@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "अकास के चिरई आ समुंदर के माछा, जे समुंदर के रास्तन के पार जाला।",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "चिरई"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "आ समुंदर के माछा"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार जाला"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "रास्तन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुंदर के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:12.846287878Z",
+  "model": "glm-5.3"
+}

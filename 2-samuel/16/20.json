@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ अबशालोम अहीतोफेल से कहलन: “तोहानी सभे खातिर सलाह दिअऽ — का कइल जाव?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अहीतोफेल"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दिअऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहानी सभे खातिर"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "कइल जाव"
+    }
+  ],
+  "timestamp": "2026-09-11T19:27:38.703720718Z",
+  "model": "glm-5.3"
+}

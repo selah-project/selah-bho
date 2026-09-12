@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "राजा ओकरा से कहलन: कतना बेरा हम रउआ के शपथ देब जे रउआ हम से खाली सच बोलब, यहवे के नाँव में?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कतना…तक"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कतना बेरा"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "शपथ देब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोलब"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाँव में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:08:05.813947990Z",
+  "model": "glm-5.3"
+}

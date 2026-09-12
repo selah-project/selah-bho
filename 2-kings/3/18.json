@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ई यहवे के आँखि में छोट बात बा, आ ऊ मोआब के ⟨את⟩ तोहार हाथ में दे देई।",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "आ छोट बात बा"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के आँखि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आ दे देई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआब"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "तोहार हाथ में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:47:59.572885446Z",
+  "model": "glm-5.3"
+}

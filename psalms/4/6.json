@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "सही-सही बलि चढ़ाऽ आ यहवे पर भरोसा रखऽ।",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "बलि चढ़ाऽ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "सही-सही"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "आ भरोसा रखऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:58.249864957Z",
+  "model": "glm-5.3"
+}

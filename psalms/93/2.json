@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 93,
+  "translation": "रउआ के सिंहासन ओही से टिकल बा; अनादि काल से रउआ बानी।",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "टिकल बा"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "रउआ के सिंहासन"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "अनादि काल से"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:36.093187162Z",
+  "model": "glm-5.3"
+}

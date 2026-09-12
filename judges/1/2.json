@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ यहवे कहलन: यहूदा चढ़ी; देखऽ, हम ⟨את⟩ धरती के ओकर हाथ में देले बानी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ी"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "देले बानी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:56:15.001421016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "लड़ाईन से आ लूट के माल से ऊ लोग यहवे के घर के मजबूत करे खातिर पवित्र कइले रहले।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "लड़ाईन"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "लूट के माल"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "पवित्र कइले रहले"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "मजबूत करे खातिर"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:15.541825578Z",
+  "model": "glm-5.3"
+}

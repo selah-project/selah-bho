@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "जल्दी करऽ हमर मदत खातिर, हे अदोनाय, हमर बचाव।",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "जल्दी करऽ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "हमर मदत खातिर"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "हमर बचाव"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:32.635351468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमार बेटा, हमार तोरा के ना बिसरा, आ हमार आज्ञा सभे के तोहार हिया राखू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हमार बेटा"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "हमार तोरा के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसरा"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "आ हमार आज्ञा सभे के"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "राखू"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोहार हिया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:22.883650429Z",
+  "model": "glm-5.3"
+}

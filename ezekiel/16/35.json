@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "एही से, हे वेश्या, यहवे के बचन सुनऽ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "हे वेश्या"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:09.717581824Z",
+  "model": "glm-5.3"
+}

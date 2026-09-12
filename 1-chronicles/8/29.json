@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ गिबओन में गिबओन के पिता रहलें, आ ओकर घरवाही के नाम माआखा रहे।",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "आ गिबओन में"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबओन के"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आ नाम"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ओकर घरवाही के"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माआखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:35.780863599Z",
+  "model": "glm-5.3"
+}

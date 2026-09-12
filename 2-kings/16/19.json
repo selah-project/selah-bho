@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 16:19",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ बाकी बात सभ जे आहाज कइलन, का ऊ सभ यहूदा के राजा लोगन के दिन के बात सभ के किताब पर लिखल नइखे?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "आ बाकी"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आहाज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का… नइखे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ सभ"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "लिखल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात सभ के"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजा लोगन के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:55:01.487661062Z",
+  "model": "glm-5.3"
+}

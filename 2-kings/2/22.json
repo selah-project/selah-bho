@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ ओ पानी अइही दिन ले भला भ गइल, एलीशा के बात के अनुसार जे ऊ बोलले रहलें।",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "भला भ गइल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ओ पानी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "अइही"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बात के अनुसार"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलीशा के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलले रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T19:47:20.195087547Z",
+  "model": "glm-5.3"
+}

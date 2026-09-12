@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 13:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ ऊ हुनका के बतौलन आ कहलन: हम ओ धरती में आइल रही जेकरा रउआ हमनी का भेजले; आ सचमुच ओ दूध आ मधु से बहेले, आ ई ओकर फल बा।",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "बतौलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "हुनका के"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "हम आइल रही"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "שלחתנו",
+      "gloss": "रउआ भेजले"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ सचमुच"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "बहेले"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "आ मधु"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:54.951176701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 41:38",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "फराउन आपन नोकरन से कहलन, “का हमनी का एन्नहर कवनो मरद मिली जेहमें एलोहीम के रूह बाड़े?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फराउन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "आपन नोकरन"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "का मिली"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "एन्नहर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहमें"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "בו",
+      "gloss": "बाड़े"
+    }
+  ],
+  "timestamp": "2026-09-11T17:32:29.864104750Z",
+  "model": "glm-5.3"
+}

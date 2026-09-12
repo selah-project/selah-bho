@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ जउन आपन पिता चाहे माता के मारय, ऊ मौत से मरवाइ दिहल जाय।",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "आ जउन मारय"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "चाहे माता"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत से"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मरवाइ दिहल जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:05.198172380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ घर के सामने के चौड़ाई आ ओ अलग जगह, पूरुब के ओर — सौ हाथ।",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "आ चौड़ाई"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "आ ओ अलग जगह"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "पूरुब के ओर"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:01.268783441Z",
+  "model": "glm-5.3"
+}

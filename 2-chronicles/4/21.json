@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ओ फूल, आ ओ दिया, आ ओ सँड़सी — सोना; ऊ खरा सोना रहल।",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "आ ओ फूल"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "आ ओ दिया"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "आ ओ सँड़सी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "खरा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    }
+  ],
+  "timestamp": "2026-09-11T23:02:55.071420494Z",
+  "model": "glm-5.3"
+}

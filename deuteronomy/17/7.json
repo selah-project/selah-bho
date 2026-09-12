@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "गवाहन के हाथ ओकरा ऊपर पहिले रही, ओकरा मारे खातिर, आ सब जनता के हाथ बाद में; आ रउआ बुराई के अपना बीच से मेटाब।",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "गवाहन के"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ओकरा मारे खातिर"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "आ हाथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "बाद में"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "मेटाब"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "अपना बीच से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:47.282988330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "चढ़ीं ना, काहेकि यहवे रउआ के बीच नइखे, आ रउआ सभे दुश्मन के आगे ना कुचलाल जाईं।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "चढ़ीं"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "रउआ के बीच"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "कुचलाल जाईं"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "दुश्मन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:04.976986668Z",
+  "model": "glm-5.3"
+}

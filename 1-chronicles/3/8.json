@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ एलिशामा, आ एलियादा आ एलिफलेत — नौ गो।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "आ एलिशामा"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "आ एलियादा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "आ एलिफलेत"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:34.261598769Z",
+  "model": "glm-5.3"
+}

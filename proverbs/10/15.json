@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "धनी के दौलत ओकर मजबूत गाँव बा; गरीबन के बरबादी ओकर गरीबी बा।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "दौलत"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी के"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "गाँव"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "मजबूत"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "गरीबन के"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "गरीबी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:10.696559218Z",
+  "model": "glm-5.3"
+}

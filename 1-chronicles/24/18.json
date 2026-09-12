@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "तेइसवाँ दलायाहू खातिर, चौबीसवाँ माअज़्याहू खातिर।",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "दलायाहू"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "माअज़्याहू खातिर"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:59.070787697Z",
+  "model": "glm-5.3"
+}

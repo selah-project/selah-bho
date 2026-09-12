@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ मिश्मा के बेटा लोग: चम्मुएल ओकर बेटा, जक्कूर ओकर बेटा, शिमी ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा लोग"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "मिश्मा"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "चम्मुएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "जक्कूर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:15.528153863Z",
+  "model": "glm-5.3"
+}

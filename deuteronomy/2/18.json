@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "“आज रउआ ⟨את⟩ मोआब के सीमा के पार करत — ⟨את⟩ आर (अर) के।”",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार करत"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआब के सीमा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आर (अर)"
+    },
+    {
+      "surface": "ער",
+      "gloss": "आर (अर)"
+    }
+  ],
+  "timestamp": "2026-09-11T18:28:58.482379551Z",
+  "model": "glm-5.3"
+}

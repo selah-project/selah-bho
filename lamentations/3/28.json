@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ अकेले बइठेला आ चुप रहेला, काहेकि ऊ ओकर ऊपरे उठालन।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बइठेला"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "आ चुप रहेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "उठालन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपरे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.210100759Z",
+  "model": "glm-5.3"
+}

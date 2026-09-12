@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "काहें कि राजा यहवे पर भरोसा रखेला आ एल्योन के हेसेद में ओ हिलेला ना।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा रखेला"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "आ हेसेद में"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन के"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "हिलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:59.467343732Z",
+  "model": "glm-5.3"
+}

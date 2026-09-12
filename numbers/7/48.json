@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 7:48",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "सातवाँ दिने एफराइम के बेटा सभ के नासी — एलिशामा, अम्मीहूद के बेटा।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवाँ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सभ के"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफराइम"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "एलिशामा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मीहूद"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:52.280866600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ यहवे अगिला दिन ⟨את⟩ ओ बात कइलन, आ मिस्रयिम के सब पसू मर गइल; बाकिर इसरायल के लड़िकन के पसू में एको ना मरल।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "अगिला दिन"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "पसू"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "पसू में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़िकन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एको"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:09.893353579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "राजा के क्रोध बघियाह के दहाड़ नियर बा, बाकिर ओकर अनुग्रह घास पर ओस नियर बा।",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "दहाड़"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "बघियाह नियर"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "आ ओस नियर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घास"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ओकर अनुग्रह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:01.992715580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 24:7",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "काबर कि ओकर खून ओकर भीतरे रहल; ओकरा नंगा चट्टान पर रखली, ओकरा धरती पर नइखे ढारल, कि ओकरा ऊपर माटी ओढ़ावल जाव।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ओकर भीतरे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "नंगा"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "שמתהו",
+      "gloss": "रखली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "שפכתהו",
+      "gloss": "ढारल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "ओढ़ावे खातिर"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "माटी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:43.323885842Z",
+  "model": "glm-5.3"
+}

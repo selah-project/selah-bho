@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "माटी पर रेंगे वाली हर चीज के आकृति, धरती के नीचे पानी में रहल हर मछली के आकृति।",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "रेंगे वाली चीज"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "माटी पर"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "मछली"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में रहल"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:58.274996860Z",
+  "model": "glm-5.3"
+}

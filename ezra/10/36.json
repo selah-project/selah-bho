@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "वन्या, मेरेमोत, एल्याशीब।",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "वन्या"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "मेरेमोत"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "एल्याशीब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:44:18.384697714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अकास में बैठला वाला हँसेला; अदोनाय ओनन के उपहास करेला।",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "बैठला वाला"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "हँसेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "उपहास करेला"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओनन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:20.707603533Z",
+  "model": "glm-5.3"
+}

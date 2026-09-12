@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "यहवे रउआ के पागलपन से, अन्धेपन से आ हिया के घबराहट से मारेलन।",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "मारेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "पागलपन से"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "अन्धेपन से"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "घबराहट से"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हिया के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:07.682232949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "काहेकि ई दू साल से अकाल धरती के बीच बा, आ अउरो पाँच साल बाड़ें जेहमा ना हल-बुवाई होखी आ ना कटाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दू साल"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "आ अउरो"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेहमा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "हल-बुवाई"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "आ ना कटाई"
+    }
+  ],
+  "timestamp": "2026-09-11T17:35:19.071765606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ याकोब अकेले बचल रहलें, आ कवनो मनुख ओकरा संगे भिड़ल रहलें, भोर चढ़ले तक।",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "बचल रहलें"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "भिड़ल रहलें"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनुख"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संगे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "चढ़ले"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:35.145488094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "ऊ लोग यहवे के सामने सदा रहे; आ ऊ धरती से ऊ लोगन के यादगार काट देहें।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ऊ लोग रहे"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "आ काट देहें"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ऊ लोगन के यादगार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:29.005152306Z",
+  "model": "glm-5.3"
+}

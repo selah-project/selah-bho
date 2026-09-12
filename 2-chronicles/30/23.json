@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ पूरा सभा सलाह कइलन कि आरो सात दिन कइजा; आ ऊ सात दिन खुशी से मनइलन।",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "सलाह कइलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "आरो\/दूसर"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "आ मनइलन"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुशी से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:55.664042329Z",
+  "model": "glm-5.3"
+}

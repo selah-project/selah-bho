@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "कवनो बिधवा आ अनाथ के पीड़ा ना देबू।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "बिधवा"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "आ अनाथ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "पीड़ा देबू"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:39.475791164Z",
+  "model": "glm-5.3"
+}

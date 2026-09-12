@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "यिर्मियाहू ओ लोगन से कहलन: “एहन कहब, त्सिदकियाहू से।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओ लोगन से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "कहब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिदकियाहू"
+    }
+  ],
+  "timestamp": "2026-09-11T20:30:42.374483515Z",
+  "model": "glm-5.3"
+}

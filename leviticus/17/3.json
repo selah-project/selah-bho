@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "इस्राएल के घर के कवनो भी मनुख — जऊ शिविर के भीतर गाय चाहे मेढ़ा चाहे बकरी काटे, चाहे जऊ शिविर के बाहर काटे —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "कवनो भी मनुख"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो भी"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "के घर के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "काटे"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बकरी"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "शिविर के भीतर"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "काटे"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "के बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविर से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:49.332497377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमनी का अपराध कइलियन आ बगावत कइलियन — तूँ माफ ना कइलऽ।",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "अपराध कइलियन"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "आ बगावत कइलियन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "माफ कइलऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:14.038082039Z",
+  "model": "glm-5.3"
+}

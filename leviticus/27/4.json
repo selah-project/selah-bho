@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अगर ऊ मादी होखे, तऽ तूँ के मोल लगावल दाम तीस शेकेल होखे।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "मादी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "तूँ के मोल लगावल दाम"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:05.817132636Z",
+  "model": "glm-5.3"
+}

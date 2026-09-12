@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "हुकुम-समझ आ अनुशासन के जाने खातिर, बुझ वाला बात सभ के समझे खातिर।",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "जाने खातिर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "हुकुम-समझ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "आ अनुशासन"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "समझे खातिर"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बात सभ के"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुझ वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:54.818853284Z",
+  "model": "glm-5.3"
+}

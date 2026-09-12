@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ मोशे ओइसनेच कइलन जइसन यहवे आज्ञा दिहले रहलें; आ ऊ सभे पूरा मंडली के आँखन के आगू होर पहाड़ पर चढ़ल।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिहले रहलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "चढ़ल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "आँखन के आगू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "मंडली"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:41.409268340Z",
+  "model": "glm-5.3"
+}

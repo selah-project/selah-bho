@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ शाऊल के बतावल गइल कि दाऊद गत भाग गइला बा, आ ऊ फेर से ओकरा खोजे खातिर कुछू ना जोड़लन।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "बतावल गइल"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भाग गइला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "जोड़लन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर से"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ओकरा खोजे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:19:38.601247718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "आ ऊ योसेफ के डेरा ठुकरा दिहलन, आ एफ्रयिम के गोत के ना चुनलन।",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "ठुकरा दिहलन"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "के डेरा"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "आ के गोत"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रयिम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुनलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:06.747417794Z",
+  "model": "glm-5.3"
+}

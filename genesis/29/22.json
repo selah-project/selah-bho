@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ लाबान ⟨את⟩ ओ जगह के सब मरद जुटालन, आ एगो पेय-भोज कइलन।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "जुटालन"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ जगह के सब मरद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ओ जगह"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "पेय-भोज"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:40.914576231Z",
+  "model": "glm-5.3"
+}

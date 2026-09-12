@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ सोना के एगो करछुल, दस शेकेल के, धूप से भरल।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "करछुल"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:17.784614207Z",
+  "model": "glm-5.3"
+}

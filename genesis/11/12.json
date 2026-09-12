@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ अर्पक्षद पाँच आ तीस बरिस जिअलें, आ ⟨את⟩ शेलख के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "आ अर्पक्षद"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिअलें"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेलख के"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलख"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:44.456880571Z",
+  "model": "glm-5.3"
+}

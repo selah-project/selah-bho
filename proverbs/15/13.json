@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "खुशी भरल दिल चेहरा सजावेला, बाकिर दिल के दुख से प्राण कुचलल रहेला।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "खुशी भरल"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "सजावेला"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "बाकिर दिल के दुख से"
+    },
+    {
+      "surface": "לב",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "कुचलल रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:56.944202379Z",
+  "model": "glm-5.3"
+}

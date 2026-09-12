@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "काहे कि यहवे के हिस्सा ऊकर परजा बा, याकोब ऊकर बिरसत के माप-डोर बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ऊकर परजा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "माप-डोर"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ऊकर बिरसत के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:55.406495159Z",
+  "model": "glm-5.3"
+}

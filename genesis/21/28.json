@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अवराहाम ⟨את⟩ सात गो भेड़ के बछिया के झुंड में अलगा रखलन।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "अलगा रखलन"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सात गो भेड़ के बछिया"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "भेड़ के बछिया"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "झुंड"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "अलगा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:11.717753233Z",
+  "model": "glm-5.3"
+}

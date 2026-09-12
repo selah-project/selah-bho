@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ कहब: “कइसने हम ताड़ना से नफरत कइनी, आ हमरा मन फटकार के तिरस्कार कइलन!”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहब"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "हम नफरत कइनी"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ताड़ना से"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "आ फटकार"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "तिरस्कार कइलन"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमरा मन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:40.715456819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "एह से हम मिस्रयिम (मिस्र) में दण्ड कइब, आ ऊ जानी गेला कि हम यहवे हउ।",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "एह से हम कइब"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "दण्ड"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम (मिस्र) में"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "आ ऊ जानी गेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:16.522280972Z",
+  "model": "glm-5.3"
+}

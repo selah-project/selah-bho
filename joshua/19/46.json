@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ मे-हय्यारकोन, आ रक्कोन, ओह सीमा के संगे जवन याफो के सामने बाड़ी।",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "आ मे"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "हय्यारकोन"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "आ रक्कोन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ओह सीमा"
+    },
+    {
+      "surface": "מול",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "याफो"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:48.776921960Z",
+  "model": "glm-5.3"
+}

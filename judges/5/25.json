@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "पानी ऊ माँगलन, दूध देहली; बड़का थार में माखन अगुवाहली।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "माँगलन"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "देहली"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "थार में"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "अगुवाहली"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "माखन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:33.758069744Z",
+  "model": "glm-5.3"
+}

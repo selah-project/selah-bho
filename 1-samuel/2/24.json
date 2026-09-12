@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ना, हमार बेटा सभे; काहें कि जवन खबर हम सुनत बानी ऊ नीक नइखे — यहवे के जनता के पाप करावे वाला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमार बेटा सभे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "खबर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनत बानी"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "पाप करावे वाला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:06:59.913263183Z",
+  "model": "glm-5.3"
+}

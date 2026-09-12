@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ई पाँच राजा भाग गाइन आ मक्केदा के गुफा में छिप गाइन।",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "भाग गाइन"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "छिप गाइन"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "गुफा में"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "मक्केदा के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:49:53.811895447Z",
+  "model": "glm-5.3"
+}

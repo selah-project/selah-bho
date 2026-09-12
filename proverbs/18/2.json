@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "कुम्हलागर के समझ में मन ना लागेला, बाकिर ओकर मन के खुलासा करवावे में मन लागेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "मन लागेला"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "कुम्हलागर"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "समझ में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "खुलासा करवावे में"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर मन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:43.098177377Z",
+  "model": "glm-5.3"
+}

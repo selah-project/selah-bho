@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ खुशई अबशालोम से कहलन, “जवन सलाह अहीतोफेल ए बेरा दीन नइखे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "खुशई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई…नइखे"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अहीतोफेल"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ए बेरा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-09-11T23:57:22.150249207Z",
+  "model": "glm-5.3"
+}

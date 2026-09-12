@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "सत्य धरती से उगेला, आ न्याय अकास से झाँक के ताकेला।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "धरती से"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "उगेला"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "आ न्याय"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "अकास से"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "झाँक के ताकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:02.547481328Z",
+  "model": "glm-5.3"
+}

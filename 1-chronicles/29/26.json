@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ दाविद, यिशै के बेटा, पूरा इसरायल के ऊपर राज कइलन।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "आ दाविद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:43.311325884Z",
+  "model": "glm-5.3"
+}

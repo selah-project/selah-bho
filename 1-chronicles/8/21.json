@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ अदायाह, आ बेरायाह, आ शिमरात — ई शिमई के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "आ अदायाह"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "आ बेरायाह"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "आ शिमरात"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:49.137661934Z",
+  "model": "glm-5.3"
+}

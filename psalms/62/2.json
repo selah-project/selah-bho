@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 62,
+  "translation": "खाली एलोहीम के ओर हमार नफश मौन बा; ओही से हमार उद्धार आवेला।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "मौन"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार नफश"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "हमार उद्धार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:29.625837652Z",
+  "model": "glm-5.3"
+}

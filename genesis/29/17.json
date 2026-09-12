@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ लेआह के आँख नरम रहलीं, बाकिर राखेल रूप में सुन्दर आ देखे में सुन्दर रहल।",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "नरम"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "राखेल"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "रूप में"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "देखे में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:32.576724304Z",
+  "model": "glm-5.3"
+}

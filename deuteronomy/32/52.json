@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "काहें कि दूर से ही रउआ ⟨את⟩ ओ धरती के देखब, आ ओहिजा रउआ ना जाऽ पाब, ओ धरती में जेकरा हम इसराएल के बेटालोग के देवत बानी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "दूर से सामने"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आ ओहिजा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "जाऽ पाब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवत बानी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटालोग के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:57.977865627Z",
+  "model": "glm-5.3"
+}

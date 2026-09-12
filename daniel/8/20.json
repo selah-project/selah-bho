@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "⟨सूर⟩ जेकरा रउआ देखलऽ रहलऽ — दू सींग वाला — ऊ मादय आ फारस के राजा लोगन ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "सूर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "रउआ देखलऽ रहलऽ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "… वाला"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "सींग"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा लोगन"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "मादय"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "फारस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:38:23.038041745Z",
+  "model": "glm-5.3"
+}

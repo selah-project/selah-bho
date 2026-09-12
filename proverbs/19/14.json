@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "घर आ दौलत पूर्खन के बपौती बा, बाकिर समझदार औरत यहवे के ओर से मिलेला।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "והון",
+      "gloss": "आ दौलत"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "बपौती"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "पूर्खन के"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "बाकिर यहवे के ओर से"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "समझदार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:11.225212549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 24:3",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ ऊ आपन उखान उठौलन आ कहलन: बिलाम, बेओर के बेटा के वचन; आ ओ मरद के वचन जेकर आँखि खुलल बाड़ी:",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठौलन"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "आपन उखान"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बेओर"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "आ वचन"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ओ मरद के"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "העין",
+      "gloss": "आँखि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:57.218917739Z",
+  "model": "glm-5.3"
+}

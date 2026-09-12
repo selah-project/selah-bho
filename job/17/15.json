@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ तब हमार आस कहाँ बा? हमार आस के कौन देखेला?",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "आ कहाँ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "हमार आस"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "हमार आस"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "देखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:14:21.388601324Z",
+  "model": "glm-5.3"
+}

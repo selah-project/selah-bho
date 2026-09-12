@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "पहाड़ के गड़ल जाए से पहिले, पहाड़ी सभ के आगे हम जनमल रहिनी।",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "गड़ल जाए"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "पहाड़ी सभ"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "हम जनमल रहिनी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:45.905530891Z",
+  "model": "glm-5.3"
+}

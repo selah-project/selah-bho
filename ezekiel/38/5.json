@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "परस, कूश आ फूत ⟨את⟩ उनहन के संग; सभे ढाल आ लोहे के टोप धारण कइले बाड़ें।",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "परस"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "आ फूत"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ संग",
+      "marks": "परस, कूश आ फूत के सेना"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "आ लोहे के टोप"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:44.692651850Z",
+  "model": "glm-5.3"
+}

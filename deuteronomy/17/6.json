@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "दू गवाहन के मुँह से अथवा तीन गवाहन के मुँह से ओ जे मारल जाय ओकर मारल जाय; एक गवाह के मुँह से ओ मारल ना जाय।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "गवाहन"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "गवाहन"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मारल जाय"
+    },
+    {
+      "surface": "המת",
+      "gloss": "जे मारल जाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मारल जाय"
+    },
+    {
+      "surface": "על",
+      "gloss": "से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:47.282751426Z",
+  "model": "glm-5.3"
+}

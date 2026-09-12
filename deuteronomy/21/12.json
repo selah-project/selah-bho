@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "तूँ ओकरा आपन घर के भीतर ले आवब, आ ऊ ⟨את⟩ आपन मुँड़न मुँड़ी करी आ ⟨את⟩ आपन नाखून काटी।",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "ले आवब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "मुँड़ी करी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन मुँड़"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "आपन मुँड़"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "करी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन नाखून"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "आपन नाखून"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:11.571003891Z",
+  "model": "glm-5.3"
+}

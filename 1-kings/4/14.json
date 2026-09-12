@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "अचीनादाब, इद्दो के बेटा, माछानाइम में रहल।",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "अचीनादाब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "इद्दो"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "माछानाइम में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:28:37.264735881Z",
+  "model": "glm-5.3"
+}

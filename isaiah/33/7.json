@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "देखऽ, ऊ बीर लोग बाहिर चीखलें; सुलह के दूत कड़वाही से रोवेलें।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "ऊ बीर लोग"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "चीखलें"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सुलह के"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कड़वाही से"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "रोवेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:18.817631015Z",
+  "model": "glm-5.3"
+}

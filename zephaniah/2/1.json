@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "जुटावा, जुटावा, हे जाति जेकरा केहू ना चाहत बा —",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "जुटावा"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "जुटावा"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "हे जाति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "चाहत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:23:15.145082072Z",
+  "model": "glm-5.3"
+}

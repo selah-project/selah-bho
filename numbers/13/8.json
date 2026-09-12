@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "एफ्रायिम के गोत्र से — होशेआ, नून के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "के गोत्र से"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "होशेआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:21.539055786Z",
+  "model": "glm-5.3"
+}

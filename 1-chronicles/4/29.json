@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ बिल्हा (बाला) में, आ एत्सेम में, आ तोलद में।",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "आ बिल्हा (बाला) में"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "आ एत्सेम में"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "आ तोलद में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:18.961763877Z",
+  "model": "glm-5.3"
+}

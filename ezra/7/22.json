@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "चांदी सौ किकरिन तक, गहूँ सौ कोरिन तक, दारू सौ बतिन तक, तेल सौ बतिन तक, आ नमक — जेवन लिखल (सीमा) नइखे।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चांदी"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "किकरिन"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ … तक"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "गहूँ"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "कोरिन"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ … तक"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "दारू"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "बतिन"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ … तक"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "बतिन"
+    },
+    {
+      "surface": "משח",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "आ नमक"
+    },
+    {
+      "surface": "די",
+      "gloss": "जेवन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "लिखल (सीमा)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:45:29.529566573Z",
+  "model": "glm-5.3"
+}

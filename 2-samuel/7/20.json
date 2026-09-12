@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ दाऊद रउआ से का आ बोल सकेला? काहे कि रउआ ⟨את⟩ रउआ के सेवक के जानेलीं, अदोनाय यहवे।",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "आ बोल सकेला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जानेलीं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ के सेवक के"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "रउआ के सेवक"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:13.451512324Z",
+  "model": "glm-5.3"
+}

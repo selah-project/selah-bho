@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अगर ई तीनो गो चीज ओकरा खातिर ना करेला, त ऊ बिना पइसा के मुफ्त निकल जाई।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीनो गो"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई चीज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा खातिर"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "त ऊ निकल जाई"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "मुफ्त"
+    },
+    {
+      "surface": "אין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "पइसा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:14.613212833Z",
+  "model": "glm-5.3"
+}

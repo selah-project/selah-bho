@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "तोहार आँखि पराई चीज देखिहें, आ तोहार मन उलटा-बात कहिहें।",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "तोहार आँखि"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देखिहें"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "पराई चीज"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "आ तोहार मन"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "कहिहें"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "उलटा-बात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:27.364375692Z",
+  "model": "glm-5.3"
+}

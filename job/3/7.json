@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "देखऽ, ओहि रात बाँझ रहे; ओकरा में खुसी के आवाज ना आवे।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "खुसी के आवाज"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:36.529050123Z",
+  "model": "glm-5.3"
+}

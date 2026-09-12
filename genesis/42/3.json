@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ योसेफ के दस भाई अनाज किने मिस्रयिम (मिस्र) से उतर गाइन।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "उतर गाइन"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ के"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "अनाज किने खातिर"
+    },
+    {
+      "surface": "בר",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम (मिस्र) से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:33:42.558769463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "खमीज के संग हमर बलि के नइखे मारल जाय, आ पसह के परब के बलि भोरिया तक नइखे रहल जाय।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "मारल जाय"
+    },
+    {
+      "surface": "על",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "खमीज"
+    },
+    {
+      "surface": "דם",
+      "gloss": "नइखे... (देहात) बलि के नइखे"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "हमर बलि"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "रहल जाय"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "भोरिया तक"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:00.248364667Z",
+  "model": "glm-5.3"
+}

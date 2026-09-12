@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "यहवे के आवाज़ जंगल (मरुभूमि) के काँप देले; यहवे कादेश के जंगल के काँप देले।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज़"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "काँप देले"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "काँप देले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:45.081227862Z",
+  "model": "glm-5.3"
+}

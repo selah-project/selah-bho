@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ए सबे दाऊद के बेटा रहलें, पिलगेश सभे के बेटा सभे के छोड़ के, आ तामार इनहनी के बहिन रहली।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "छोड़ के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभे के"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "पिलगेश सभे के"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "आ तामार"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "इनहनी के बहिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:35.738250371Z",
+  "model": "glm-5.3"
+}

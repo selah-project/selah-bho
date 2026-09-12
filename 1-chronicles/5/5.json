@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "मिखा ओकर बेटा, रआया ओकर बेटा, बाल ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "मिखा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "रआया"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:40.403220538Z",
+  "model": "glm-5.3"
+}

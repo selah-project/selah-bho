@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "सोलहवाँ खातिर हनन्याहू, ओकर बेटा आ ओकर भाई — बारह गो रहलें।",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "सोलहवाँ खातिर"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "सोलह"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "हनन्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:39.203549123Z",
+  "model": "glm-5.3"
+}

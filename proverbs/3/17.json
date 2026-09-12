@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ओकर रस्ता सुहावन रस्ता बाड़ें, आ ओकर सबही गलियारा सलामती के बाड़ें।",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "ओकर रस्ता"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "सुहावन"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सबही"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "ओकर गलियारा"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "सलामती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:21.920259017Z",
+  "model": "glm-5.3"
+}

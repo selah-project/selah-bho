@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 77,
+  "translation": "रउआ हमर आँखि के परदा पकड़ले रखऽ; हम घबरा गइली आ बोलि ना पावती।",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "पकड़ले रखऽ"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखि के"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "घबरा गइली"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलि पावती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:56.839549810Z",
+  "model": "glm-5.3"
+}

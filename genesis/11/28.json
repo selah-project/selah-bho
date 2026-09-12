@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ हारान आपन पिता तेरह के आगे मर गइल, आपन जनम-भूमि में, ऊर में कसदिमन के।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "על",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…के सामने"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमि में"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "आपन जनम के"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ऊर में"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कसदिमन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:40.884689930Z",
+  "model": "glm-5.3"
+}

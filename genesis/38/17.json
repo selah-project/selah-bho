@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "उ कहलन — हम झुंड से बकरी के बछरू भेजब। आ उ कहलीं — अगर रउआ गिरवी देब, जब तक के रउआ भेजब।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "उ कहलन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "भेजब"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "बछरू"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "झुंड"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "आ उ कहलीं"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "रउआ देब"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "गिरवी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक के"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "रउआ भेजब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:52.837216631Z",
+  "model": "glm-5.3"
+}

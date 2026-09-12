@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ जे मांस आ रोटी में बची जाई, ओकरा आगी में जराबू।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "आ जे बची जाई"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "मांस में"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "आ रोटी में"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगी में"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "जराबू"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:33.462542968Z",
+  "model": "glm-5.3"
+}

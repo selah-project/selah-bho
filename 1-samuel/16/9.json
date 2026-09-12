@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ यिशै शम्मा के आगू गुजारलन; ऊ कहलन, “एकरो में यहवे ना चुनले बाड़ें।”",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "गुजारलन"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "शम्मा के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एकरो में"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "एकरो में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुनले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:27:16.817822863Z",
+  "model": "glm-5.3"
+}

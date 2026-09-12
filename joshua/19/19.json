@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ हफरायिम, आ शियोन, आ अनाहरत।",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "आ हफरायिम"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "आ शियोन"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "आ अनाहरत"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:21.665840287Z",
+  "model": "glm-5.3"
+}

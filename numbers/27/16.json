@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "“यहवे — सब देह के आतमा सभ के एलोहीम — गिरोह के ऊपर कवनो मनखे नियुक्त करेलन।”",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "नियुक्त करेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "आतमा सभ के"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनखे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "गिरोह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:30.489794214Z",
+  "model": "glm-5.3"
+}

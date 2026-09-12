@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 80,
+  "translation": "जंगल के सूअर ओके चबा जाएल, आ खेत के जीव ओकरे के चरेला।",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ओके चबा जाएल"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "सूअर"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "आ जीव"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ओकरे के चरेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:45.425505102Z",
+  "model": "glm-5.3"
+}

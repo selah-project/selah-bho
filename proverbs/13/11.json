@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "हवासे मिलल धन घट जाला, बाकिर जवन हाथे जोड़ेला ऊ बढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "हवासे मिलल"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "घट जाला"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "बाकिर जवन जोड़ेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "हाथे"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ़ावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:33.473359944Z",
+  "model": "glm-5.3"
+}

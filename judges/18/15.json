@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 18:15",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ लोग ओहिजे मुड़लें आ ओ जवान लविया के घर में — मीखा के घर — आइलें, आ ओकर कुशल-क्षेम पूछलन।",
+  "tokens": [
+    {
+      "surface": "ויסורו",
+      "gloss": "मुड़लें"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आइलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के घर में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "जवान"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लविया"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "पूछलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "कुशल-क्षेम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:46.835339528Z",
+  "model": "glm-5.3"
+}

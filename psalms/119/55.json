@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रात में याद कइली, यहवे, तोहार नांव, आ रखली तोहार तौरत के।",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "याद कइली हम"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तोहार नांव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "आ रखली"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "तोहार तौरत के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:41.742138316Z",
+  "model": "glm-5.3"
+}

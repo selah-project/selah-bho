@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "मरारी के बेटवन खातिर — याज़ियाहू के ओर से: ओकर बेटा, शोहम आ ज़क्कूर आ इव्री।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटवन"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "याज़ियाहू के ओर से"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "आ शोहम"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "आ ज़क्कूर"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "आ इव्री"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:42.247466493Z",
+  "model": "glm-5.3"
+}

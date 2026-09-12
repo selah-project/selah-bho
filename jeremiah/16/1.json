@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ यहवे के शब्द हमरा लगा आइल, ई कहऽ के खातिर:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आइल (भइल)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लगा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:20.562095903Z",
+  "model": "glm-5.3"
+}

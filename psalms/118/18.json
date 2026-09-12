@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "ताड़ना देके याह हमरा ताड़लन, बाकिर मउत के हमरा ना देलन।",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ताड़ना देके"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "हमरा ताड़लन"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "आ मउत के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "हमरा देलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:23.320196739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ रउआ ⟨את⟩ एक ठो मेढ़ा लेब; आ अहरोन आ ओकर बेटा सभे ⟨את⟩ आपन हाथ ओ मेढ़ा के मुड़ी पर रखब।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एक ठो मेढ़ा"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक ठो"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लेब"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "रखब"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "आ ओकर बेटा सभे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हाथ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुड़ी"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ओ मेढ़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:56:57.635746333Z",
+  "model": "glm-5.3"
+}

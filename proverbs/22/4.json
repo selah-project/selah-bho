@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "विनम्रता के ⟨फल⟩ यहवे के भय ⟨बा⟩ — धन, आ मान, आ जिनगी।",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "⟨फल⟩"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "विनम्रता के"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आ मान"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "आ जिनगी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:53.351891949Z",
+  "model": "glm-5.3"
+}

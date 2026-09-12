@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "किश के — किश के बेटा यरहमेल रहलन।",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "किश के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "किश"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमेल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:21.870297933Z",
+  "model": "glm-5.3"
+}

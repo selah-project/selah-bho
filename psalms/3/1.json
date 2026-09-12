@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "दाऊद के मजमूर, जब ऊ आपन बेटा अबशालोम के मुँह से भागल रहलें।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मजमूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "जब ऊ भागल रहलें"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "आपन बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:18.393252484Z",
+  "model": "glm-5.3"
+}

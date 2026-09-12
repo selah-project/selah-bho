@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ कौन बड़का जाति बा जेकरा ला धर्मी विधि आ न्याय — ए तमाम विधि-शास्त्र के समान, जवन हम आज रउआ सभे के आगू रखित बानी।",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "आ कौन"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "जेकरा ला"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "आ न्याय"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ए तमाम के समान"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "विधि-शास्त्र"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखित बानी"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "रउआ सभे के आगू"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:35.016880425Z",
+  "model": "glm-5.3"
+}

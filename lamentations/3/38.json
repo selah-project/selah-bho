@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "का बुराई आ भलाई एल्योन के मुँह से ना निकलत?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "के मुँह से"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलत"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "आ भलाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.231691174Z",
+  "model": "glm-5.3"
+}

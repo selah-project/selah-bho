@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "निर्दोष हम बानी, आपन प्राण के ना जानब, आपन जिनगी के त्याग देब।",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "निर्दोष"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जानब"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "आपन प्राण"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "त्याग देब"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "आपन जिनगी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:57.419300027Z",
+  "model": "glm-5.3"
+}

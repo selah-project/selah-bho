@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ तहोम के झरना आ अकास के झरोखा बंद हो गइलें, आ अकास से मेहराब बंद हो गइल।",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "बंद हो गइलें"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "तहोम"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "आ झरोखा"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "बंद हो गइल"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "मेहराब"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:34.379900033Z",
+  "model": "glm-5.3"
+}

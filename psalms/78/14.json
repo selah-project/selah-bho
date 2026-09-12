@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "दिन के समय ऊ लोगन के बादर से चलवलन, आ पूरा रात आगि के उजियार से।",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "चलवलन"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादर से"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन के समय"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "באור",
+      "gloss": "उजियार से"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगि के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:46.978113982Z",
+  "model": "glm-5.3"
+}

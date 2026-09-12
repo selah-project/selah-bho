@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जत्तू के बेटालोग आठ सौ चालीस आ पाँच।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "जत्तू"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आ पाँच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.498972151Z",
+  "model": "glm-5.3"
+}

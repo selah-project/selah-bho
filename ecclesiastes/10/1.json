@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "मरल माखी सुगन्धि तेल के बास बिगाड़ देला; अलिक नादानी बुद्धि आ मान दुनों से बेसी भारी परत ला।",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "माखी सभे"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "बास बिगाड़ेला"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "उड़ेला"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "सुगन्धि बनावइया के"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "भारी परत ला"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "बुद्धि से"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "मान से"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "नादानी"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "अलिक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:19.236509163Z",
+  "model": "glm-5.3"
+}

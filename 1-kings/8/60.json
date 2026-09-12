@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "ताकि धरती के सब जाति सभे जान सके कि यहवे ऊहें एलोहीम बाड़ें — ऊकर अलावा कउनो नइखे।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जान सके"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "जाति सभे"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहें"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "कउनो अउर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:37:44.211284496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "बाकिर नोआा यहवे के नजर में अनुग्रह पावलन।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "बाकिर नोआा"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "पावलन"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "नजर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:38.953291847Z",
+  "model": "glm-5.3"
+}

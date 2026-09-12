@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ऊ बेकर के बछवा के साथे एक मन्ना सोलत तीन इसरोन परोसेला, तेल में मिलावल — आधा हिन।",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "आ ऊ परोसेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बछवा"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बेकर के"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मन्ना"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "सोलत"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "इसरोन"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "मिलावल"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "हिन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:19.754290220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "जिउत हम बानी — अदोनाय यहवे के अगमवाणी — अब आगे रउआ सभे इसरायल में ई मुहावरा कबो ना चलाब।",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "जिउत"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "अगमवाणी"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "चली"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब आगे"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मुहावरा चलाब"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "ई मुहावरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसरायल में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:37:41.474463364Z",
+  "model": "glm-5.3"
+}

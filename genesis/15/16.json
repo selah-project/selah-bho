@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ चउथा पीढ़ी इहाँ ले वापस आवेला, कारण हामोरी लोग के अधर्म अबहीं ले पूरा ना भइल बा।",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "आ…पीढ़ी"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "वापस आवेला"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इहाँ ले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "हामोरी लोग के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अबहीं ले"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "इहाँ ले"
+    }
+  ],
+  "timestamp": "2026-09-11T17:19:12.390270805Z",
+  "model": "glm-5.3"
+}

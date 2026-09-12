@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ मार्देखाय चलल गइनें, आ ऊ सब कइलन जवन एस्तेर ओकरा आज्ञा दिहले रहल।",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "चलल गइनें"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्देखाय"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "आज्ञा दिहले रहल"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:25.808087841Z",
+  "model": "glm-5.3"
+}

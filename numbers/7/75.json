@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक बछड़ा, गाय के बेटा; एक मेढ़ा, एक भेड़ा, एक बरिस के बेटा, जलाव-भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भेड़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "जलाव-भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:59.753155308Z",
+  "model": "glm-5.3"
+}

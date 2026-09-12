@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "खेत के मुह पर तूँ गिरग, काहें से हम बोलल बानी — अदोनाय यहवे के कथन।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "गिरग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बोलल बानी"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:03:30.599632920Z",
+  "model": "glm-5.3"
+}

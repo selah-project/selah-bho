@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ सामसन के घरवाली ओकर संगी के भा जाए लगल, जे ओकर चिन्हार रहल।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "आ भा गई"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाली"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "सामसन के"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "ओकर संगी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "चिन्हार"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:02:03.455073999Z",
+  "model": "glm-5.3"
+}

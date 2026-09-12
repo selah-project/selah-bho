@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यिसास्कार के बेटा सभ के — तोला, पुआ, याशूब आ शिमरोन — चार रहलें।",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "आ … के बेटा सभ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्कार"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "तोला"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "आ पुआ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "याशूब"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "आ शिमरोन"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:45.688773581Z",
+  "model": "glm-5.3"
+}

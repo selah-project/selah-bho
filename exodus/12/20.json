@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "खमीर वाला के कुछु ना खाब; रउआ आपन बसे के जगह सभ में मत्ज़ा खाब।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कुछु भी"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "खमीर वाला के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सभ में"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "रउआ आपन बसे के जगह"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्ज़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:43:10.842347881Z",
+  "model": "glm-5.3"
+}

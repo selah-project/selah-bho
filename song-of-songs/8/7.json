@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "ढेर पानी ⟨את⟩ प्रेम के बुझा ना सकेलें, आ नदिन ओकरा बहा ना सकेलीं; जउन केहु ⟨את⟩ आपन घर के सारा धन प्रेम बदले देवे, ओकरा तिरस्कार करत लोग।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "सकेलें"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "बुझावे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रेम"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "प्रेम"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "आ नदिन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "ओकरा बहावें"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "केहु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारा धन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर के"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "प्रेम बदले"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "तिरस्कार"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "करत लोग"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:25:46.109090898Z",
+  "model": "glm-5.3"
+}

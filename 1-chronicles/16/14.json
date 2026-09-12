@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ऊ यहवे हमनी के एलोहीम बाड़ें; ओकर मिसाप ⟨सब⟩ धरती में बा।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨सब⟩ में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ओकर मिसाप"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:29.015011490Z",
+  "model": "glm-5.3"
+}

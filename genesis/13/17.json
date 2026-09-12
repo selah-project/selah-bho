@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "उठू, धरती में एकर लमाई आ एकर चौड़ाई ले टहलू, काहें कि एकरा हम रउआ के देब नी।”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठू"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "टहलू"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "एकर लमाई ले"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "आ एकर चौड़ाई ले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "देब नी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:17.212065945Z",
+  "model": "glm-5.3"
+}

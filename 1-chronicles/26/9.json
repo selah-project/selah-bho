@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ मशलेम्याहू के बेटा आ भाई रहलें — बलवान बेटा — अठारह गिनती में।",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "आ मशलेम्याहू के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "आ भाई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(गिनती में)"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:33.016314361Z",
+  "model": "glm-5.3"
+}

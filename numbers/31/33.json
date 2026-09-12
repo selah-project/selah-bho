@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ गाइ-बइरोगन सँ दू हजार बहत्तर हजार,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "आ गाइ-बइरोगन सँ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "बहत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:47.920504096Z",
+  "model": "glm-5.3"
+}

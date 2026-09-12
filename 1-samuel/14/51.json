@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ कीश शाऊल के पिता रहलें, आ नेर अब्नेर के पिता रहलें, अबीएल के बेटा।",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "आ कीश"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "आ नेर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अब्नेर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "अबीएल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:12:10.979441044Z",
+  "model": "glm-5.3"
+}

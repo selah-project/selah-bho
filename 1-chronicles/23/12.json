@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "कहत के बेटा — अमराम, इत्सहार, खेबरोन आ उज्जिएल, चारि गो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "इत्सहार"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेबरोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "आ उज्जिएल"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चारि गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:55.972931911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "शब्बत-विश्राम ई रउआ सभे खातिर बा, आ रउआ ⟨את⟩ आपन नफश दुखाबा — सदा ले चले वाली विधि।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "शब्बत"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "विश्राम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "दुखाबा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन नफश"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "आपन नफश"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा ले चले वाली"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:09.856645796Z",
+  "model": "glm-5.3"
+}

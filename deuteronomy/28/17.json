@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "शापित रहल तोर टोकरी आ तोर गूंथे के भाँड।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "शापित"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तोर टोकरी"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "आ तोर गूंथे के भाँड"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:42.529942032Z",
+  "model": "glm-5.3"
+}

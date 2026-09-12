@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "आ यूसेफ कहलन पराओ से, “पराओ के सपना एक ⟨बा⟩ — जवन एलोहीम करेला, ऊ ⟨את⟩ पराओ के बतावलन ह।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसेफ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "पराओ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "पराओ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जवन एलोहीम करेला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बतावलन ह"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "पराओ के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:01.396179068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "भलामन के मुँह जिनगी के झरना बा, आ बुरामन के मुँह जोर-जबरदस्ती के छुपावेला।",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी के"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "भलामन के"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "आ मुँह"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरामन के"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "छुपावेला"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "जोर-जबरदस्ती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:01.848601102Z",
+  "model": "glm-5.3"
+}

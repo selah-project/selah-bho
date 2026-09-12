@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ अहरोन ⟨את⟩ ओ बकरी के पेश करेला जेकरा ऊपर यहवे खातिर गोरल चढ़ल, आ ओकरा पापबलि बनावेला।",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "पेश करेला"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बकरी"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ओ बकरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ल"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ओकरा बनावेला"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापबलि"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:16.183327021Z",
+  "model": "glm-5.3"
+}

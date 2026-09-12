@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "ऊ अकेले अकास के फइलावेलें आ समुंदर के ऊँचाई पर चलेलें।",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "फइलावेलें"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "आ चलेलें"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:44.363680084Z",
+  "model": "glm-5.3"
+}

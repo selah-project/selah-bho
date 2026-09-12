@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "उनका डरू ना, काहे कि यहवे तोहनी के एलोहीम, ऊहें तोहार बर लड़ेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "उनका डरू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तोहनी के एलोहीम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहें"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "लड़ेला"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तोहार बर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:26.620066530Z",
+  "model": "glm-5.3"
+}

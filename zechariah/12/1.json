@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 12:1",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "यहवे के वचन के बोझ इस्राएल पर; यहवे के कहनामा — ऊ अकास के तानेला, धरती के नींव रखेला, आ मनुष्य के रूह के ओकर भीतर गढ़ेला।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कहनामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "तानेला"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ויסד",
+      "gloss": "नींव रखेला"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "गढ़ेला"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ओकर भीतर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:35.813341046Z",
+  "model": "glm-5.3"
+}

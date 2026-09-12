@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ दाविद ऊननी का लेवी के बेटान के गोत्र-भेद में बाँटलन — गेरशोन, कहत आ मरारी।",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "आ ... बाँटलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "गोत्र-भेद में"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "गेरशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आ मरारी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:43.660239661Z",
+  "model": "glm-5.3"
+}

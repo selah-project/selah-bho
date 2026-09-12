@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ समुएल ⟨את⟩ जनता के सब बात सुनलन, आ ऊ ओकरा यहवे के काना में बोललन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "समुएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनता के सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "आ ऊ ओकरा बोललन"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "काना में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:07:24.310988155Z",
+  "model": "glm-5.3"
+}

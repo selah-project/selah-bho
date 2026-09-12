@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ रउआ सभे आपन बेटान के मांस खाब, आ आपन बेटिन के मांस रउआ सभे खाब।",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "आ रउआ सभे खाब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "आपन बेटान के"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "आ मांस"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "आपन बेटिन के"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "रउआ सभे खाब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:08.693192159Z",
+  "model": "glm-5.3"
+}

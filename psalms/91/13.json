@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 91,
+  "translation": "शहल आ साँप पर तूँ दहिन्ना करबू, चेतावनी आ तन्नीन के रौरही जाबू।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "शहल"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "आ साँप"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "तूँ दहिन्ना करबू"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "रौरही जाबू"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "चेतावनी"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "आ तन्नीन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:31.893296447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ एलिहू जवाब दइलन आ कहलन:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दइलन"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "एलिहू"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:44.399973339Z",
+  "model": "glm-5.3"
+}

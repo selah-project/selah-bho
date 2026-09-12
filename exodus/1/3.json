@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "इस्साकार, ज़बूलून आ बिन्यामीन।",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "इस्साकार"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बूलून"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आ बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:30.627362370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ उज्जी ⟨את⟩ जरह्याह के जनम दिहलन, आ जरह्याह ⟨את⟩ मरायोत के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "आ उज्जी"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जरह्याह"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "जरह्याह"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "आ जरह्याह"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मरायोत"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "मरायोत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:06.573699931Z",
+  "model": "glm-5.3"
+}

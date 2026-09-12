@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "काबर कि यहवे ⟨את⟩ याकोब के छुड़ाइले आ ओकरा ओसे बलवान के हाथ से छुड़वइले।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "छुड़ाइले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याकोब के"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "आ ओकरा छुड़वइले"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "के हाथ से"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओसे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:00.844546796Z",
+  "model": "glm-5.3"
+}

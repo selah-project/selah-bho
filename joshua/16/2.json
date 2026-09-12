@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ ओ निकलेला बेत-एल से लूजा ले, आ पार होखेला अर्की के सीमा ले, अतारोत ले।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बेत-एल से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(बेत-)एल"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "लूजा ले"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "आ पार होखेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "अर्की के"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "अतारोत"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:36.237197929Z",
+  "model": "glm-5.3"
+}

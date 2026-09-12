@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 17:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहवे के बचन हमरा ले आइल, कहेला:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ले"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:53:33.929931167Z",
+  "model": "glm-5.3"
+}

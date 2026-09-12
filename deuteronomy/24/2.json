@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ ऊ ओकर घर से निकलेली, आ जाएली, आ कवनो दूसर आदमी के हो जाएली।",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "आ निकलेली"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ओकर घर से"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "आ जाएली"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आ हो जाएली"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "कवनो आदमी के"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:59.631871155Z",
+  "model": "glm-5.3"
+}

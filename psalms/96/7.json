@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 96,
+  "translation": "यहवे के देई दिया, हे जनता सभे के परिवार सभे; यहवे के देई दिया महिमा आ बल।",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "देई दिया"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "परिवार सभे"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जनता सभे के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देई दिया"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "आ बल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:27.706686766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "काहे कि जे खून के पीछा करेला, ऊ ⟨את⟩ ओकरा याद राखेला; ऊ दुखियन के पुकार ना बिसरेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "पीछा करेला"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "खून"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "याद राखेला"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "याद राखेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "बिसरेला"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "पुकार"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दुखियन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:53.855264549Z",
+  "model": "glm-5.3"
+}

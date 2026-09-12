@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जइसन ए दिन कइल गइल बा, तइसने यहवे हुकम दइलन रउआ के छुड़ावा खातिर करे के।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइल गइल बा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ए दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकम दइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "करे के"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "छुड़ावा खातिर"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "रउआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:07.099157314Z",
+  "model": "glm-5.3"
+}

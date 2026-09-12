@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 32:16",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ पट्टी सभ एलोहीम के काम रहली, आ लेखन — एलोहीम के लेखन रहल — पट्टी सभ पर खोदल गइल।",
+  "tokens": [
+    {
+      "surface": "והלחת",
+      "gloss": "आ पट्टी सभ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "המה",
+      "gloss": "रहली"
+    },
+    {
+      "surface": "והמכתב",
+      "gloss": "आ लेखन"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "लेखन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "חרות",
+      "gloss": "खोदल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "पट्टी सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:52:36.415996212Z",
+  "model": "glm-5.3"
+}

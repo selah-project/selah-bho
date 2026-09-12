@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "कारण ऊ याद कइलन कि ऊ लोग मांस रहलें — एक घुर्रा जवन बहेला आ फिर ना लौटेला।",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "आ ऊ याद कइलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "घुर्रा"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "बहेला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:53.598419464Z",
+  "model": "glm-5.3"
+}

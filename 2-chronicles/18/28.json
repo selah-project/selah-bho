@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ इसरायल के राजा आ यहूदा के राजा यहोशाफात रामोत-गिलाद के ओर चढ़ गइन।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ गइन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "रामोत"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-09-11T23:08:11.600695846Z",
+  "model": "glm-5.3"
+}

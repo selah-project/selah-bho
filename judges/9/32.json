@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ अब रात में उठऽ — तूँ आ ऊ लोग जउन ⟨את⟩ तोरारे संग बा — आ खेत में घात लगावऽ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "आ ऊ लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ संग"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "घात लगावऽ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:59:36.207984640Z",
+  "model": "glm-5.3"
+}

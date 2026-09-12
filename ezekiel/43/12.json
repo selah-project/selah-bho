@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "एहे घर के विधि ⟨बा⟩: पहाड़ के शिखर पर ओकर सगरी सीमा चारो ओर चारो ओर पवित्र-अति-पवित्र ⟨बा⟩। देखऽ, एहे घर के विधि ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "शिखर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़ के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो ओर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो ओर"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "अति-पवित्र"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:58.876702675Z",
+  "model": "glm-5.3"
+}

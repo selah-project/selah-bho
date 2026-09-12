@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "हमरे द्वारा सरदार राज करेलें, आ बड़ लोग — धरती के सब न्याय करेवइया — न्याय करेलें।",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "हमरे द्वारा"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "राज करेलें"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "आ बड़ लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "न्याय करेवइया"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:23.543101615Z",
+  "model": "glm-5.3"
+}

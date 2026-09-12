@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ⟨את⟩ चट्टानी गोह — काहे कि ऊ पागुर चबावेला बाकिर खुर ना फाड़े — ऊ रउआ सभे खातिर अशुद्ध बा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "चट्टानी गोह"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "चट्टानी गोह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "चबावेला"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "पागुर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "आ खुर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "फाड़े"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:31.051714301Z",
+  "model": "glm-5.3"
+}

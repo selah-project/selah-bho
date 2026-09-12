@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ओन गिनल लोगन में से गाद के गोत्र खातिर पाँच आ चालीस हजार आ छह सौ पचानबे रहलें।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओन गिनल लोगन में से"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद के"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "आ चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "आ छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "पचानबे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:00.097050375Z",
+  "model": "glm-5.3"
+}

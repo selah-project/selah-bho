@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ जब कवनो मरद चाहे औरत में सिर पर चाहे दाढ़ी में कवनो नगढ़ी होखे।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ कवनो मरद"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "में"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "नगढ़ी"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "सिर पर"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "दाढ़ी में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:54.461648800Z",
+  "model": "glm-5.3"
+}

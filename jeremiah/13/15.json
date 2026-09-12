@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "सुनऽ आ कान लगावऽ, अकड़ मत करऽ, काबाँकि यहवे बोलले बाड़ें।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "आ कान लगावऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "अकड़ करऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबाँकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलले बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T20:27:43.067443923Z",
+  "model": "glm-5.3"
+}

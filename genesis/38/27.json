@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ जब ओकर जनम होए के समय आइल, त देखऽ — ओकर पेट में जुड़वाँ बाड़े।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "ओकर जनम होए के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "त देखऽ"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "जुड़वाँ"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "ओकर पेट में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:35.781706644Z",
+  "model": "glm-5.3"
+}

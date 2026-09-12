@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ यहवे मोशे से बात कइलन, कहेला —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:55.729448058Z",
+  "model": "glm-5.3"
+}

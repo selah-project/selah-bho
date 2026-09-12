@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 136,
+  "translation": "जेकरा धरती के पानी के ऊपर तानलन — काहे कि सदा ले ओकर हेसेद बा।",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "तानईन वाला के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:43.978658006Z",
+  "model": "glm-5.3"
+}

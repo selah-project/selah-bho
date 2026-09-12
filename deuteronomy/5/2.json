@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "यहवे, हमनी के एलोहीम, होरेब में हमनी के संग समझौता काटलन।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी के एलोहीम"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटलन"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी के संग"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "समझौता"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "होरेब में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:32:12.652295482Z",
+  "model": "glm-5.3"
+}

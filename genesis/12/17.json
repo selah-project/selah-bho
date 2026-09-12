@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ यहवे ⟨את⟩ परोह के मारलन — बड़-बड़ मार से — आ ⟨את⟩ ओकर घर के, सराय, अबराम के घरवाही के बात के कारण।",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परोह"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परोह"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "मार"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़-बड़"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर घर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ओकर घर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सराय"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाही"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अबराम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:14.954244726Z",
+  "model": "glm-5.3"
+}

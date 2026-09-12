@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "अगर चोर ना मिले, त घर के मालिक एलोहीम के नजदीक आवेला — का ऊ आपन संगी के चीज पर हाथ बढ़वकले ना बढ़वकले।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "मिले"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "चोर"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "त … आवेला"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के नजदीक"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "बढ़वकले"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "चीज पर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:46.872913176Z",
+  "model": "glm-5.3"
+}

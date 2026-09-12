@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "हवा हवावन के, कोहेलेत कहलन — हवा हवावन के; सब कुछ हवा बा।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "हवावन के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "हवावन के"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:07.286381040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "का हम रउआ खातिर तीन बेर लिखलियन नइखन — सलाह आ जानकारी में?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का … नइखन"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "हम लिखलियन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ खातिर"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "तीन बेर"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "सलाह में"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "आ जानकारी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:53.203303566Z",
+  "model": "glm-5.3"
+}

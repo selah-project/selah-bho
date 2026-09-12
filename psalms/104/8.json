@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "पहाड़ उठलें, घाटी उतरलीं — ओहि जगह ले जवन रउआ ओकरा खातिर स्थापित कइलऽ।",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "उठलें"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "उतरलीं"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "घाटी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "स्थापित कइलऽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकरा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:59.399970832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ अहरोन दुनो बकरन के ऊपर गोरल पावे — एक गोरल यहवे खातिर, आ एक गोरल अजाजेल खातिर।",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "पावे"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "על",
+      "gloss": "… के ऊपर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुनो"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "बकरन"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "एक गोरल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "आ एक गोरल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "अजाजेल खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:22.047147206Z",
+  "model": "glm-5.3"
+}

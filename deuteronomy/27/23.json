@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "“अभिसाप ओहला जे आपन सास के साथे सोवेला।” आ कुल जनता कहेला — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिसाप ओहला"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सोवेला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "आपन सास"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:27.961324701Z",
+  "model": "glm-5.3"
+}

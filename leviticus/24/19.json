@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ जब कवनो मनुष्य आपन संगी के चोट पहुँचावेला, जइसन ऊ कइलन ओइसने ओकरा संग कइल जाय।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ मनुष्य"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "पहुँचावेला"
+    },
+    {
+      "surface": "מום",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "आपन संगी के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओइसने"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "कइल जाय"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा संग"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:59.461919295Z",
+  "model": "glm-5.3"
+}

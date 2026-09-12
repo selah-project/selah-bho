@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ अकास के पूरा सेना खातिर यहवे के घर के दुनू आँगन में वेदिसभ बनवलन।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "वेदिसभ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "पूरा … खातिर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "दुनू … में"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:14:08.124015873Z",
+  "model": "glm-5.3"
+}

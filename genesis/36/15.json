@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 36:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "ई रहलें एसाव के बेटा सभ के अलुफ: एलिफाज़ के बेटा — एसाव के पहिलका — अलुफ तेमान, अलुफ ओमार, अलुफ ज़ेफो, अलुफ कनज़।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ के"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाज़"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिलका"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ओमार"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ज़ेफो"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलुफ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनज़"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:37.194455017Z",
+  "model": "glm-5.3"
+}

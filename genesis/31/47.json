@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "लाबान ओकर नाँव यगर-सहदूता (गवाही के ढेर) धइलन, आ याकोब ओकर नाँव गलएद (गवाही के ढेर) धइलन।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "धइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "यगर"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "सहदूता"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "आ याकोब"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "धइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गलएद"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:46.845170985Z",
+  "model": "glm-5.3"
+}

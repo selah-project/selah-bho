@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ ओकरा में से कवनो चीज सुबह तक ना छोड़ब; जवन ओकरा में से सुबह तक बच जाई, ओकरा आगि में जरा देब।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "छोड़ब"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा में से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "सुबह"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "आ जवन बचल"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा में से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "सुबह"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगि में"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "जरा देब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:07.381227784Z",
+  "model": "glm-5.3"
+}

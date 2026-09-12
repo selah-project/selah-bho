@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 27:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ ऊँटन के ऊपर ओबील हयिश्माएली; आ गधन के ऊपर यहदेयाहू हमेरोनोथी।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ऊँटन"
+    },
+    {
+      "surface": "אוביל",
+      "gloss": "ओबील"
+    },
+    {
+      "surface": "הישמעלי",
+      "gloss": "हयिश्माएली"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "गधन"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "यहदेयाहू"
+    },
+    {
+      "surface": "המרנתי",
+      "gloss": "हमेरोनोथी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:31.518822526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जउने ऊ दीवार बाड़ी, त हमनी का ओकरा ऊपर चाँदी के बुर्ज बनाबी; आ जउने ऊ दुआर बाड़ी, त हमनी का ओकरा देवदार के तख्ता से बन्न रखी।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जउने"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "बनाबी"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "बुर्ज"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी के"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "आ जउने"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "बन्न रखी"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "देवदार के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:43:54.201935Z",
+  "model": "glm-5.3"
+}

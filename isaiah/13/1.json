@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बाबेल (बेबीलोन) के बोझा, जवन यशायाहू, अमोत्स के बेटा, देखलन।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "बोझा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "अमोत्स"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:52.613455124Z",
+  "model": "glm-5.3"
+}

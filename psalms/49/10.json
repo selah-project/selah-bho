@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "आ ऊ फेर सदा ले जिये, गड़हा (पिट) के ना देखेला।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आ जिये"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखेला"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "गड़हा (पिट)"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:20.933503631Z",
+  "model": "glm-5.3"
+}

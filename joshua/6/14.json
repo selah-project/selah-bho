@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "दूसरा दिन ऊ पनिहारन ⟨את⟩ नगर के एक बेर घेरलन, आ छावनी लवट गइन; कइलन एहने छह दिन तक।",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "घेरलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नगर के"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "लवट गइन"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन तक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:47:37.907954850Z",
+  "model": "glm-5.3"
+}

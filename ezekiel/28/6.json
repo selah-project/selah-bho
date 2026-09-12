@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "एही से एहना कहेला अदोनाय यहवे: काहें से कि तूँ ⟨את⟩ तोर हियआ के एलोहीम के हियआ नियर रखल ह।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יען",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "रखल ह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोर हियआ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोर हियआ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:58:38.948386230Z",
+  "model": "glm-5.3"
+}

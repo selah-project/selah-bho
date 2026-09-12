@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "याद रखऽ, हम केतना छोट जिनगी के जिअत बानी — कवनो बेकार बात खातिर रउआ आदम के सन्तान सभे के सिरजलऽ?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "छोट जिनगी"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "बेकार"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "रउआ सिरजलऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:15.100476070Z",
+  "model": "glm-5.3"
+}

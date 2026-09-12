@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "देखऽ, रउआ सभे आपन भरोसा झूठ के बातन पर कइल बाड़ें — कवनो लाभ ना होखी।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "भरोसा कइल"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आपन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ना"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "लाभ होखी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:22.819388776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "अगर यहवे के मदद हमार ना रहित, तऽ लगभग हमार नफश चुप्पी (दुम्मा) में बसि गइल रहित।",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "अगर ना"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "मदद"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "बसि गइल रहित"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "चुप्पी"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार नफश"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:57.597329156Z",
+  "model": "glm-5.3"
+}

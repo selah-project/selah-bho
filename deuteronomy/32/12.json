@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "यहवे अकेले ऊकरा रासता देखावलन, आ ऊकर संग कवनो परदेसी एल नइखे रहल।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ऊकरा रासता देखावलन"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे रहल"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ऊकर संग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेसी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:55.407274064Z",
+  "model": "glm-5.3"
+}

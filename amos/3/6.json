@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "का सहर में सींग बजे आ लोग ना काँपथिन? का सहर में कवनो बुराई होखे आ यहवे ओकरे ना कइले होखे?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "बजे"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "सींग"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहर में"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ लोग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "काँपथिन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहर में"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:13:34.645621088Z",
+  "model": "glm-5.3"
+}

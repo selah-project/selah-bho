@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "काशित कि ऊ सियाने होखतें, ए बात समझ लिहितें, आपन आगू के बात बूझ लिहितें!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "काशित कि"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "सियाने होखतें"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "समझ लिहितें"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ए बात"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "बूझ लिहितें"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "आपन आगू के बात"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:29.217949956Z",
+  "model": "glm-5.3"
+}

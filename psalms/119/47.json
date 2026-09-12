@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "आ हम रउआ के आज्ञा सभ में मगन रहब, जिनका हम चाहली आ।",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "आ हम मगन रहब"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "रउआ के आज्ञा सभ में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनका"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "हम चाहली आ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:55.776770343Z",
+  "model": "glm-5.3"
+}

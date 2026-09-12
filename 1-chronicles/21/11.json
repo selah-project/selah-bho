@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "गाद दाविद लगे आइलन आ ओकरा कहलन: “एहने कहेला यहवे — आपन खातिर ले लऽ —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लगे"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ले लऽ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:13.039084676Z",
+  "model": "glm-5.3"
+}

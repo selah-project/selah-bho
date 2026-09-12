@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ आठवाँ दिने ऊ लोग ⟨सभा-समारोह⟩ कइलन, काहेजे वेदी के दीक्षा सात दिन कइलन आ तिहारो सात दिन।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिने"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठवाँ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "सभा-समारोह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेजे"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "दीक्षा"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "आ तिहारो"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:22.067166746Z",
+  "model": "glm-5.3"
+}

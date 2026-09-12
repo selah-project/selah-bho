@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 83,
+  "translation": "एदोम के डेरा, आ इस्माएली; मोआब आ हागरी लोग।",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "के डेरा"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "आ इस्माएली"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "आ हागरी लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:43.961157595Z",
+  "model": "glm-5.3"
+}

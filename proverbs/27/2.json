@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "पराया तोंहार बढ़ावा देवेला, तोहार मुँह ना; अनजान — तोहार ओंठ ना।",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "तोंहार बढ़ावा देवेला"
+    },
+    {
+      "surface": "זר",
+      "gloss": "पराया"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तोहार मुँह"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "अनजान"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "तोहार ओंठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:03.283368958Z",
+  "model": "glm-5.3"
+}

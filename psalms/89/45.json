@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "रउआ ओकर तेज बन्द कइलें आ ओकर गद्दी धरती पर गिरा दिहलें।",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "रउआ बन्द कइलें"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ओकर तेज"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "आ ओकर गद्दी"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "गिरा दिहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:15.099870096Z",
+  "model": "glm-5.3"
+}

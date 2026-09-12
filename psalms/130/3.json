@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 130,
+  "translation": "जुदा रउआ अधर्म के गिनती रखब, याह, तब अदोनाय, कौन टिक पावेला?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जुदा"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रउआ गिनती रखब"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "टिक पावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:51.578754461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 17:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ धरमी आपन राह पकड़ेला, आ साफ हाथ वाला ताकत बढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "ויאחז",
+      "gloss": "पकड़ेला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "आपन राह"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "आ साफ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ वाला"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "बढ़ावेला"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "ताकत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:51.287429897Z",
+  "model": "glm-5.3"
+}

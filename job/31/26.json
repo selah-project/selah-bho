@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "अगर हम उजियार के देखनी जब ऊ चमकेला, आ उजिला चाना के जब ऊ आगू बढ़ेला,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "देखनी"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उजियार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "चमकेला"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "आ चाना"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "उजिला"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "आगू बढ़ेला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:43:10.123146223Z",
+  "model": "glm-5.3"
+}

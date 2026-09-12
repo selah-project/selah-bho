@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "मिस्रयिम (मिस्र) के हमनी का हाथ देनी जाल, अस्सूर के रोटी पेट भर के खाए खातिर।",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "हमनी का देनी जाल"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "पेट भर के खाए खातिर"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.188417719Z",
+  "model": "glm-5.3"
+}

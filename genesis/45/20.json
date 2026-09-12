@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "“आ आपन आँख आपन सामान पर दया ना देव, काबर कि मिस्रयिम के सारे धरती के नीक चीज रउआ सभे के ⟨बा⟩।”",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "आ आपन आँख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "दया देव"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "आपन सामान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक चीज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:35:40.644865253Z",
+  "model": "glm-5.3"
+}

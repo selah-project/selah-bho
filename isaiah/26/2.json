@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "द्वार सभे खोलू, आ धरमी जाति अंदर आवें, जे भरोसा के राखेले।",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "खोलू"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "द्वार सभे"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आ अंदर आवें"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "राखेले"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "भरोसा के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:06:59.013340190Z",
+  "model": "glm-5.3"
+}

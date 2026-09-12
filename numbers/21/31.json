@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ इसरायल अमोरी के धरती में बस गइल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आ ... बस गइल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "अमोरी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:56.361075286Z",
+  "model": "glm-5.3"
+}

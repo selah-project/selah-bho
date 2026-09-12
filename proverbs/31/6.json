@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "नास होखे वाला के दारू दियऽ, आ कड़वा-प्राण के लोगन के मदिरा।",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "दियऽ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "दारू"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "नास होखे वाला के"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "आ मदिरा"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "कड़वा-प्राण के लोगन के"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:59.045992287Z",
+  "model": "glm-5.3"
+}

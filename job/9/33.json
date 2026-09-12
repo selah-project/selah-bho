@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 9:33",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "हमनी का बीच कवनो बिचौलिया ना बा, ऊ आपन हाथ हमनी का दुनों पर रखे।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "हमनी का बीच"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "बिचौलिया"
+    },
+    {
+      "surface": "ישת",
+      "gloss": "रखे"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "हमनी का दुनों"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:30.362459197Z",
+  "model": "glm-5.3"
+}

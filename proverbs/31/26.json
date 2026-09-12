@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "ओकर मुँह बुद्धि से खुलेला, आ हेसेद के तोरा ओकर जिब्भा पर रहेला।",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "ओकर मुँह"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "खुलेला"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "बुद्धि से"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "आ … के तोरा"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "ओकर जिब्भा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:58.230809970Z",
+  "model": "glm-5.3"
+}

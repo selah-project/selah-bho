@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "गीतन के गीत, जवन शलोमोह के ह।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीतन के गीत (पहिला 'गीत' — गीतन के)"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह के ह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:35.721870890Z",
+  "model": "glm-5.3"
+}

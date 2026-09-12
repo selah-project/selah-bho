@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ यहवे हमरा से कहिलन: “फेर चाहे तूँ एक मूरख गवाहा के सामान आपन खातिर ले ले।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ... कहिलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर चाहे"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "सामान"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "गवाहा के"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "मूरख"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:33.949144363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ नोआ सगरी वस्तु कइलन जवन एलोहीम ⟨את⟩ इनहना के आज्ञा दिहले रहलें; तहिना कइलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ कइलन"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सगरी वस्तु के अनुसार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिहले रहलें"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "इनहना के"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तहिना"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:30.856350839Z",
+  "model": "glm-5.3"
+}

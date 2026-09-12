@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बारकोस के लड़का-लड़की, सीसरा के लड़का-लड़की, तमह के लड़का-लड़की।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लड़का-लड़की"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "बारकोस"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का-लड़की"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "सीसरा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का-लड़की"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "तमह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:37.723550243Z",
+  "model": "glm-5.3"
+}

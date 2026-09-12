@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "ऊ हम का ⟨את⟩ अंगना के दुआर के पास ले गइन; आ हम देखलिनी, आ देखू — दीवार में एक गड़हा।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ले गइन"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हम का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "अंगना के"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "देखलिनी"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखू"
+    },
+    {
+      "surface": "חר",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "दीवार में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:48:21.394661106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "यहवे के धरम ज्ञान के सुरुआत ह; अनाड़ी लोग होशियारी आ अनुशासन के तुच्छ समझेला।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "धरम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "सुरुआत"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "होशियारी"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "आ अनुशासन"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "अनाड़ी लोग"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "तुच्छ समझेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:01.263310817Z",
+  "model": "glm-5.3"
+}

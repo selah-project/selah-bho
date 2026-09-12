@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ तऽ अय्यूब के मौत भइल, बूढ़ हो के आ दिनन से तृप्त हो के।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मौत भइल"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "बूढ़"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "तृप्त"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनन से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:44.749013450Z",
+  "model": "glm-5.3"
+}

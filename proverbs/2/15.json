@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "जेकर रस्ता टेढ़ बाड़ें आ जे आपन गली-पगडंड़ी में लापरवाह बाड़ें",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "रस्ता"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "टेढ़"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "आ लापरवाह"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "आपन गली-पगडंड़ी में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:50.928106355Z",
+  "model": "glm-5.3"
+}

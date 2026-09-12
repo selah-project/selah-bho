@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "त हम उतरलीं कुम्हार के घर में, आ देखलीं — ऊ पत्थरन पर काम करत बाटे।",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "त हम उतरलीं"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "कुम्हार के"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "आ देखलीं"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करत बाटे"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "पत्थरन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:30:42.327534026Z",
+  "model": "glm-5.3"
+}

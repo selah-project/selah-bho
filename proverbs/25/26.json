@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "रौड़ा गेल झरना आ बिगाड़ल स्रोत — ओही बा रशिया के आगे लड़खड़ावे वाला धर्मी।",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "रौड़ा गेल"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "आ स्रोत"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "बिगाड़ल"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "מט",
+      "gloss": "लड़खड़ावे वाला"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "रशिया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:00.659672468Z",
+  "model": "glm-5.3"
+}

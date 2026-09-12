@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 106,
+  "translation": "धरती खुजल आ दातान के निगल लिहलस, आ अवीराम के सभा के ऊपर ढक दिहलस।",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "खुजल"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "आ निगल लिहलस"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "दातान"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "आ ढक दिहलस"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "अवीराम के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:01.097766089Z",
+  "model": "glm-5.3"
+}

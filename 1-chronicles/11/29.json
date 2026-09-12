@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "सिब्बेकै हुशाती के, इलै अहोही के।",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "सिब्बेकै"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "हुशाती के"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "इलै"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "अहोही के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:23.299751986Z",
+  "model": "glm-5.3"
+}

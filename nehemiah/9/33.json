@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ रउआ धरमी बानी ऊ सब चीज पर जवन हमनी का ऊपर आइल, काहे कि रउआ सच्च कइल बानी, आ हमनी का अधरम कइलनी।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ रउआ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी का ऊपर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच्च"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइल बानी"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आ हमनी का"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "अधरम कइलनी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:04.871163281Z",
+  "model": "glm-5.3"
+}

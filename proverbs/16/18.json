@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "बिनास के पहिले गर्व आवेला, आ गिरे के पहिले अकड़ भरल मन।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "के पहिले"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "बिनास"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "गर्व"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "आ के पहिले"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "अकड़ भरल"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "मन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:20.540931195Z",
+  "model": "glm-5.3"
+}

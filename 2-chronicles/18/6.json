@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तऽ यहोशाफाट कहलन, का इहाँ यहवे के आरू कवनो नबी नइखे, जेकरा से हमनी का ⟨את⟩ पूछी?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफाट"
+    },
+    {
+      "surface": "האין",
+      "gloss": "का ... नइखे"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आरू"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "आ हमनी का पूछी"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "जेकरा से ⟨את⟩",
+      "marks": "ऊ (नबी)"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:58.359270361Z",
+  "model": "glm-5.3"
+}

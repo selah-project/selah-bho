@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "आऊर ऊ ⟨את⟩ अंगना के नापलन — लमाई सौ कोहित आ चौड़ाई सौ कोहित, चौकोर; आ वेदी घर के आगे रहल।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "नापलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अंगना"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "अंगना"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहित"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ चौड़ाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहित"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "चौकोर"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "आ वेदी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:25.491220866Z",
+  "model": "glm-5.3"
+}

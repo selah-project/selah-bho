@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ मोशे अइसनेच कइलन जइसने यहवे ओकरा ⟨את⟩ आज्ञा दिहले रहलन; आ सभा जमा भइल मिलन-तम्पो के दुआर पर।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसने"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिहले रहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ओकरा ⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "आ जमा भइल"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के तरफ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्पो"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:16.271230925Z",
+  "model": "glm-5.3"
+}

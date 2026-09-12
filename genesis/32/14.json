@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ ऊ ओही रात उहिजे रुकल, आ अपना हाथ में आवल चीज से अपना भाई एसाव खातिर भेंट लिहलन।",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "आ ऊ रुकल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहिजे"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "आ लिहलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "आवल चीज"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "अपना हाथ में"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "एसाव खातिर"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपना भाई"
+    }
+  ],
+  "timestamp": "2026-09-11T17:26:46.794930634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "चारों दिशा में पहरेदार रहलें — पूरुब, पच्छिम, उत्तर आ दक्खिन।",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "चारों"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "दिशा में"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "पहरेदार"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पच्छिम"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "आ दक्खिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:11.942461169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ ऊ लोग एकरा ऊपर हाथ धरलें; आ ऊ राजा के घर के घोड़ा-दुआर के प्रवेश तक आईल, आ ऊ लोग ओकरा ओहिजे मार डारली।",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "ऊ लोग धरलें"
+    },
+    {
+      "surface": "לה",
+      "gloss": "एकरा ऊपर"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "आ ऊ आईल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "प्रवेश"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआर के"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "मार डारली"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:57.211688840Z",
+  "model": "glm-5.3"
+}

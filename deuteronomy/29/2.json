@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "ओ बड़ परीक्षा सभे, जवन रउआ के आँखि देखलस; ओ चिन्ह आ ओ बड़ आश्चर्य के काम, ओही सभे:",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "ओ परीक्षा सभे"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखलस"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "रउआ के आँखि"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ओ चिन्ह"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "आ ओ आश्चर्य के काम"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ओही सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:00.467926749Z",
+  "model": "glm-5.3"
+}

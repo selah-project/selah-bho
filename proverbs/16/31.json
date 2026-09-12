@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "बुढ़ापा शोभा के ताज ह, जवन नेकी के रास्ता पर मिलेला।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ताज"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "शोभा के"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "बुढ़ापा"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रास्ता पर"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "नेकी के"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "मिलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:14.881944239Z",
+  "model": "glm-5.3"
+}

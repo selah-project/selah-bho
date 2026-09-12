@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "यरीहो के बेटा — तीन सौ चालीस आ पाँच।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "आ पाँच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.713490299Z",
+  "model": "glm-5.3"
+}

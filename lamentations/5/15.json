@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमनी का हिया के खुसी रुक गइल, हमनी का नाच सोग में बदल गइल।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "रुक गइल"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हमनी का हिया के"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "बदल गइल"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "सोग में"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "हमनी का नाच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:22.480492007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ आसा आ यिसरायल के राजा बाशा के बीच उनहन के सब दिन लड़ाई चलत रहल।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "आ लड़ाई"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "चलत रहल"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बाशा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसरायल के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "उनहन के दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T19:42:58.850498521Z",
+  "model": "glm-5.3"
+}

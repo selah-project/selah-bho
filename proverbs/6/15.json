@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एही से अचानक ओकर सताना आवेला, झटपट ऊ टूट जाई आ ओकर कवनो इलाज नइखे।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एकरे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "ओकर सताना"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "झटपट"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "टूट जाई"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ ... नइखे"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "इलाज"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:00.227425267Z",
+  "model": "glm-5.3"
+}

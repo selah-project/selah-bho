@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "अदोनाय ओकरा ऊपर हँसेलन, काहें कि ऊ देखलन हवें कि ओकर दिन आ रहल बा।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "हँसेलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन हवें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आ रहल बा"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ओकर दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:05.728174117Z",
+  "model": "glm-5.3"
+}

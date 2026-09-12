@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 9:8",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ई घर उझड़ जाई; हर कोनो जे एकरा पार जाई ताज्जब होई आ सिट्टी मारी, आ कही — यहवे ए धरती आ ए घर से एहन काहे कइलन?",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "उझड़"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर कोनो"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार जाई"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "एकरा"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ताज्जब होई"
+    },
+    {
+      "surface": "ושרק",
+      "gloss": "आ सिट्टी मारी"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "आ कही"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-09-11T19:38:35.142248320Z",
+  "model": "glm-5.3"
+}

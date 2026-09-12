@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "भरोसेमंद गवाह झूठ ना कहेला, आ झूठा गवाह झूठ फूँकेला।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "भरोसेमंद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "कहेला (झूठ)"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "आ … फूँकेला"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:15.107434201Z",
+  "model": "glm-5.3"
+}

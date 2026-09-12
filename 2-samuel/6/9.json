@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ दाऊद ओहि दिन ⟨את⟩ यहवे से डरित भइल, आ कहलन, “यहवे के सन्दूक हमरे ले कइसने आई?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "डरित भइल"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आई"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरे ले"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:23.672376487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 29:11",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "ओकरा में आदमी के चरना पार ना होई, ना पशु के चरना ओकरा में पार होई, आ ऊ चालीस बरिस ले बसल ना रही।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "पार होई"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "चरना"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "आ ... चरना"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "पार होई"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बसल रही"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:59.954276108Z",
+  "model": "glm-5.3"
+}

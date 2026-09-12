@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ओही दिने ओकरा खावल जाव; ओकरा सँ कछु बिहिन सवेरा ले ना छोड़ब — हम यहवे बनी।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिने"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खावल जाव"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "छोड़ब"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा सँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "सवेरा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:28.356729788Z",
+  "model": "glm-5.3"
+}

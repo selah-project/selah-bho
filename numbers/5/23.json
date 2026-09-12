@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ छोहेन ऊ श्राप सभे ⟨את⟩ किताब में लिखेलन, आ ऊ कड़वाह पानी के मेटा देलन।",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "आ लिखेलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "श्राप सभे"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "श्राप सभे"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "छोहेन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "छोहेन"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "किताब में"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "आ मेटा देलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "कड़वाह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:46.282588394Z",
+  "model": "glm-5.3"
+}

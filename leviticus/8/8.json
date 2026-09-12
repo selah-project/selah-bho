@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ओकर ऊपर ⟨את⟩ छाती-पट्टा रखलन, आ छाती-पट्टा में ⟨את⟩ उरीम आ ⟨את⟩ तुम्मीम रखलन।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "छाती-पट्टा"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टा"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टा में"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उरीम"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "उरीम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "तुम्मीम"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "तुम्मीम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:01:05.952395637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "कहर आवत बा; आ ऊ लोग शान्ति खोजिहें, बाकिर कवनो नइखे।",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "कहर"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवत बा"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "आ ऊ लोग खोजिहें"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बाकिर कवनो नइखे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:47:08.623908751Z",
+  "model": "glm-5.3"
+}

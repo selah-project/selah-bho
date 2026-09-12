@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "का हम समुंदर हई, का हम तन्नीन, कि रउआ हमरा ऊपर पहरा रखल बा?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "तन्नीन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "रखल बा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरा ऊपर"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "पहरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:28.171665119Z",
+  "model": "glm-5.3"
+}

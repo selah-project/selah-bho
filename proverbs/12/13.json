@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "ओठ के पाप में बुराई के फँदा ⟨बा⟩, आ धरमी संकट से निकल जाला।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "पाप में"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठ के"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फँदा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "आ निकल जाला"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "संकट से"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:48.973314396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 78,
+  "translation": "बाकिर ऊ चुनलन ⟨את⟩ यहूदा के गोत, ⟨את⟩ जियोन पहाड़ जिनका ऊ प्यार कइलन।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "चुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहूदा के गोत"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "गोत"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जियोन पहाड़"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनका"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्यार कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:06.747570954Z",
+  "model": "glm-5.3"
+}

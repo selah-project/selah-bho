@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "हम, हमे यहवे बानी, आ हमरे अलावा कवनो बचइया नइखे।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हमे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "हमरे अलावा"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचइया"
+    }
+  ],
+  "timestamp": "2026-09-11T23:33:36.394746778Z",
+  "model": "glm-5.3"
+}

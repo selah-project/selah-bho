@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 63,
+  "translation": "जइसन चरबी आ घी से हमार प्राण भर जाई, आ गीत से भरल ओंठ मुँह तोहार प्रसंसा करी।",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "आ घी"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "भर जाई"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार प्राण"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "आ ओंठ"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "गीत से भरल"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "प्रसंसा करी"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:31.506625891Z",
+  "model": "glm-5.3"
+}

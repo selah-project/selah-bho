@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "काहे कि रउआ मोर अकार देखे खातिर आवऽ, रउआ के हाथे एकरा के के माँगलै — कि रउआ मोर अंगना नापऽ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "आवऽ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे खातिर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अकार"
+    },
+    {
+      "surface": "מי",
+      "gloss": "के"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "माँगलै"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एकरा के"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "रउआ के हाथे"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "नापऽ"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "अंगना"
+    }
+  ],
+  "timestamp": "2026-09-11T19:59:02.724101803Z",
+  "model": "glm-5.3"
+}

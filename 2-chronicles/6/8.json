@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे हमर पिता दाविद से कहलन: काहें कि तोहार मन में ई रहल कि हमर नाम खातिर घर बनाव, तूँ नीक कइलन काहें कि तोहार मन में ई रहल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ… कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर पिता"
+    },
+    {
+      "surface": "יען",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोहार मन"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "हमर नाम खातिर"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "नीक कइलन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तोहार मन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:08.052191922Z",
+  "model": "glm-5.3"
+}

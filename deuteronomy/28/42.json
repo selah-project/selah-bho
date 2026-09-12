@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "रउआ के सब गाछ आ रउआ के जमीन के फल ⟨उनकर⟩ हाथ ले लिहिहें हज़ ज़ींका-पंखी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "रउआ के गाछ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "आ ... फल"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "रउआ के जमीन के"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "हाथ ले लिहिह"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "हज़ ज़ींका-पंखी"
+    }
+  ],
+  "timestamp": "2026-09-12T00:44:49.833689373Z",
+  "model": "glm-5.3"
+}

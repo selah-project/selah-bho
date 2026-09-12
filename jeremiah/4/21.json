@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "कब ले हम झंडा देखत रहब, सींगहा के आवाज सुनत रहब?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "देखत रहब"
+    },
+    {
+      "surface": "נס",
+      "gloss": "झंडा"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "सुनत रहब"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "सींगहा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:18.783534697Z",
+  "model": "glm-5.3"
+}

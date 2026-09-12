@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "बस ए बात में मजबूत रहब कि खून ना खाए के, काहे कि खून ⟨ह⟩ प्राण; आ प्राण के मांस के संग ना खालब।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बस"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "मजबूत रहब"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाए के"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ह⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खालब"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "प्राण के"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:50.232125838Z",
+  "model": "glm-5.3"
+}

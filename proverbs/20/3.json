@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "झगड़ा से रुकल मनुखिया के मान ⟨ह⟩, बाकिर हर मूरख झगड़ा में उतरेला।",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "मान"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुखिया के"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "रुकल"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "झगड़ा से"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "बाकिर हर"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "मूरख"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "झगड़ा में उतरेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:39.845544372Z",
+  "model": "glm-5.3"
+}

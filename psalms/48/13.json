@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "जियोन के चक्कर लगावऽ, ओकरा घेरऽ, ओकर मीनार सभ के गिनऽ।",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "चक्कर लगावऽ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "ओकरा घेरऽ"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "गिनऽ"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "ओकर मीनार सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:02.150675890Z",
+  "model": "glm-5.3"
+}

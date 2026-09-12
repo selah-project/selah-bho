@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 76,
+  "translation": "उहों ओ कमान के जलत तीरन के तोड़ दिहलन — ढाल आ तलवार आ लड़ाई के। सेला।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "उहों"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ दिहलन"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "जलत तीरन"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "कमान के"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "आ तलवार"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "आ लड़ाई के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:03.081219902Z",
+  "model": "glm-5.3"
+}

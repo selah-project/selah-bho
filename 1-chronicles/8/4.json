@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ अबीशुआ, आ नामान, आ अहोह।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "आ अबीशुआ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "आ नामान"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "आ अहोह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:18.705486138Z",
+  "model": "glm-5.3"
+}

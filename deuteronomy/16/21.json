@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "तूँ आपन खातिर अशेराह ना रोपबू — कवनो गाछ के — यहवे आपन एलोहीम के माथेबर के बगल में, जवन तूँ आपन खातिर बनाबू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "रोपबू"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "अशेराह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "बगल में"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "माथेबर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आपन एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनाबू"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:33.930496509Z",
+  "model": "glm-5.3"
+}

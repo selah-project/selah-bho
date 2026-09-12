@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ शेलाह जियलन, ⟨את⟩ एबर के जनम देले के बाद तीन साल आ चार सौ साल, आ लरिका आ लड़की सभे के जनम देलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जियलन"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलाह"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लड़की सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:37.939990310Z",
+  "model": "glm-5.3"
+}

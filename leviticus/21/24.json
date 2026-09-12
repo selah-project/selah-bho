@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ मोशे अहरोन से कहलन, आ ओकर बेटा सभ से, आ इसराएल के बेटा सभ से।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा सभ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:08.403848420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "एलोहीम, छुड़ा दिअऽ ⟨את⟩ इस्राएल के ओकर सब संकट से।",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "छुड़ा दिअऽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ओकर सब से"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "संकट"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:27.791980444Z",
+  "model": "glm-5.3"
+}

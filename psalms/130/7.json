@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 130,
+  "translation": "हे इस्राएल, यहवे पर आस रख — काबर कि यहवे के साथे हेसेद बा, आ ओकरा साथे छुड़ावी बहुत बा।",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "आस रख"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "हे इस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "आ बहुत"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा साथे"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "छुड़ावी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:07.391458656Z",
+  "model": "glm-5.3"
+}

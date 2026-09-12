@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "हमार जाति, हम तोरा का कइली आ का थका दिअनी तोके? हमसे जवाब दे।",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "हमार जाति"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "कइली"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "थका दिअनी तोके"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "जवाब दे"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमसे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:14.458660449Z",
+  "model": "glm-5.3"
+}

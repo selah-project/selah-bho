@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ ऊ नगर जवन रउआ सभे देब, छह शरण-नगर रउआ का खातिर होखतीं।",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "आ ऊ नगर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "रउआ सभे देब"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "शरण-नगर"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "होखतीं"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ का खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:28:05.215389100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "जवन आपन काम में सुस्त होखेला, ऊ बर्बाद करे वाला के भाई ह।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "सुस्त होखेला"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "आपन काम में"
+    },
+    {
+      "surface": "אח",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "…के"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "बर्बाद करे वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:28.790009732Z",
+  "model": "glm-5.3"
+}

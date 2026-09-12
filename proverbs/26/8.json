@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "जइसन मारगेमा पाथर के लपेटे वाला, तइसने मूरख के मान देवे वाला।",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "जइसन … लपेटे वाला"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पाथर के"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "मारगेमा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "देवे वाला"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "मूरख के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "मान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:26.490262030Z",
+  "model": "glm-5.3"
+}

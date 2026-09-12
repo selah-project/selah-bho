@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "मोशे ⟨את⟩ गोदा सभे के यहवे के सामने गवाही के डेरा में रख दइलन।",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "रख दइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गोदा सभे के"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "गोदा सभे के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "डेरा में"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:59.199156251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहे कि रउआ कवनो गहिरा ओठ आ भारी जीभ वाला जाति के ओर ना, इस्राएल के घर के ओर भेजल गइल बानी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "गहिरा"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "आ भारी"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "भेजल गइल बानी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:48:41.944694931Z",
+  "model": "glm-5.3"
+}

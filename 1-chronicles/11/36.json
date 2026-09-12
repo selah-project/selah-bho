@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "हेफर मेखेरातीवाला, अहिय्या पेलोनीवाला।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "हेफर"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "मेखेरातीवाला"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "अहिय्या"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "पेलोनीवाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:21.679010076Z",
+  "model": "glm-5.3"
+}

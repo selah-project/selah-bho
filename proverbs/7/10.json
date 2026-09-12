@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ देखऽ — एगो औरत ओकर सामने आई, जूतिन के भेस में सजल, धोखेबाज हिया के।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एगो औरत"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ओकर सामने आई"
+    },
+    {
+      "surface": "שית",
+      "gloss": "भेस में सजल"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "जूतिन के"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "धोखेबाज"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:00.983691978Z",
+  "model": "glm-5.3"
+}

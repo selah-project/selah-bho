@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "यहवे दयालु आ कृपालु बा, गुस्से में धीमा, आ बड़ हेसेद वाला।",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "दयालु"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "आ कृपालु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "धीमा"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "गुस्से में"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "आ बड़"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:33.971572507Z",
+  "model": "glm-5.3"
+}

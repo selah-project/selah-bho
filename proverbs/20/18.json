@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "योजना सल्लाह से टिकेला, आ चालाकी से जुद्ध करऽ।",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "योजना"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "सल्लाह से"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "टिकेला"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "आ चालाकी से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "जुद्ध"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:11.534553946Z",
+  "model": "glm-5.3"
+}

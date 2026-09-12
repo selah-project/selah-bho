@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "हरामा आ गिबआ के मनई — छह सौ इक्कीस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के मनई"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "हरामा"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "आ गिबआ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "आ एक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:42.904251672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "तऽ आदमी तऽ केहू होखेला — किड़ा बा, आ आदमी के बेटा — एक तोलेवा।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "केहू"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "किड़ा"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "तोलेवा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:19.270534654Z",
+  "model": "glm-5.3"
+}

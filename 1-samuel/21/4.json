@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अब रउरा हाथ के नीचे का बा? हमरा हाथ में पाँच रोटी दीं, चाहे जे मिलेला।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "रउरा हाथ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "दीं"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "हमरा हाथ में"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "जे मिलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:19.886852475Z",
+  "model": "glm-5.3"
+}

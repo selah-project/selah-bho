@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "बादर के खम्भा दिन के समय आ आग के खम्भा रात के समय — ⟨ऊ⟩ जनता के आगे से कबो ना हटल।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "कबो ना"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "हटल"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादर के"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन के समय"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "आ खम्भा"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात के समय"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:06.762236290Z",
+  "model": "glm-5.3"
+}

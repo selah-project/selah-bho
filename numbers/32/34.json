@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ गाद के लरिका ⟨את⟩ दीबोन, आ ⟨את⟩ अतारोत, आ ⟨את⟩ अरोएर बनाइलें।",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "बनाइलें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लरिका"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दीबोन"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "दीबोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अतारोत"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अतारोत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अरोएर"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "अरोएर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:26:04.388367815Z",
+  "model": "glm-5.3"
+}

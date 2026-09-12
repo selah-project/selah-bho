@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "भूखाल सभ आ तिरहाल सभ — इनहन के जिया ओनहीं भीतर बुझाव लागल।",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "भूखाल सभ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "तिरहाल सभ"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "इनहन के जिया"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओनहीं भीतर"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "बुझाव लागल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:25.586039569Z",
+  "model": "glm-5.3"
+}

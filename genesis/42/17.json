@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "आ ऊ ⟨את⟩ इनहन के तीन दिन के हिरासत में रखलन।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "जमा कइलन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "इनहन के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "हिरासत"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:33:04.740872985Z",
+  "model": "glm-5.3"
+}

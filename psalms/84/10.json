@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 84,
+  "translation": "हमनी का ढाल, एलोहीम, देखऽ आ अपना मसीहा के चेहरा के ताकऽ।",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "हमनी का ढाल"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "आ ताकऽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरा के"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "अपना मसीहा के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:45.172614174Z",
+  "model": "glm-5.3"
+}

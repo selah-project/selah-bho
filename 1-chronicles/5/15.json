@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "अखी — अव्दिएल के बेटा, गूनी के पोता — ऊ लोगन के पिता-घर के मुखिया रहलें।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "अखी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "अव्दिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "गूनी"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ऊ लोगन के पिता के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:02.652407756Z",
+  "model": "glm-5.3"
+}

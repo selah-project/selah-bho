@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 26:31",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ अश्रिएल के, ह-अश्रिएली के कुल; आ शेखेम के, ह-शिख्मी के कुल।",
+  "tokens": [
+    {
+      "surface": "ואשריאל",
+      "gloss": "आ अश्रिएल"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "האשראלי",
+      "gloss": "ह-अश्रिएली"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "आ शेखेम"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השכמי",
+      "gloss": "ह-शिख्मी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:38.680309889Z",
+  "model": "glm-5.3"
+}

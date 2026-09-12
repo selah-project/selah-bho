@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "रचूम, चशबना, माअसेयाह।",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "रचूम"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "चशबना"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "माअसेयाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:37.001818465Z",
+  "model": "glm-5.3"
+}

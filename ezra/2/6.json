@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "पखत मोआब के बेटालोग, येशुआ आ योआब के बेटालोग में से, अठारह सौ बारह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पखत"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटालोग में से"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशुआ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "आ योआब"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "अठारह सौ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(बारह)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:56.573539456Z",
+  "model": "glm-5.3"
+}

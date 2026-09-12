@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हर चीज खातिर एक ठीक समय बा, आ अकास के नीचे हर मन-के-इच्छा खातिर एक वक्त बा।",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "हर चीज खातिर"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "एक ठीक समय"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ एक वक्त"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "मन-के-इच्छा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:20.834151293Z",
+  "model": "glm-5.3"
+}

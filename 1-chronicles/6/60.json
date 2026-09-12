@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ⟨את⟩ हुक्कोक आ ⟨את⟩ ओकर चरागाह, आ ⟨את⟩ रेखोब आ ⟨את⟩ ओकर चरागाह।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "हुक्कोक"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "हुक्कोक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "रेखोब"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "रेखोब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ओकर चरागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ओकर चरागाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.570303433Z",
+  "model": "glm-5.3"
+}

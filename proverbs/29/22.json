@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "गुस्सै वाला मनुष्य झगड़ा भड़कावेला, आ क्रोध के साथी बहुत अवज्ञा करेला।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "אף",
+      "gloss": "गुस्सै वाला"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "भड़कावेला"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "आ ... के साथी"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अवज्ञा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:12.124325102Z",
+  "model": "glm-5.3"
+}

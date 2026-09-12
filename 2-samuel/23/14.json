@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 23:14",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ दाऊद तखन गढ़ में रहलें, आ पलिश्ती के चौकी तखन बेत-लेखेम में रहल।",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "आ दाऊद"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तखन"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "गढ़ में"
+    },
+    {
+      "surface": "ומצב",
+      "gloss": "आ …के चौकी"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तखन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:29.687404538Z",
+  "model": "glm-5.3"
+}

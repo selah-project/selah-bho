@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आरख के बेटालोग, सात सौ पाँच आ अत्तहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "आरख"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आ अत्तहत्तर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:56.573284797Z",
+  "model": "glm-5.3"
+}

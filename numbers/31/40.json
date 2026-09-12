@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ मनुष्य के जान सोलह हजार रहल, आ ओकर महसूल यहवे खातिर बत्तीस जान भईल।",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आ जान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "सोलह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "आ ओकर महसूल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:36.259656137Z",
+  "model": "glm-5.3"
+}

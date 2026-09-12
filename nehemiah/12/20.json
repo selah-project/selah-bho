@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "सल्लाय के घराना के कल्लाय; अमोक के घराना के एवेर।",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "सल्लाय के घराना के"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "कल्लाय"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "अमोक के घराना के"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:24.904640552Z",
+  "model": "glm-5.3"
+}

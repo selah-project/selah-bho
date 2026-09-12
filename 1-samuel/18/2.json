@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ सौल ओही दिन ओकरा ले लिहलन आ ओकरा के आपन पिता के घर लवटे ना दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "ले लिहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "सौल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "लवटे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:15:01.678598045Z",
+  "model": "glm-5.3"
+}

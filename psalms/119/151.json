@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "तूँ नज़दीक बानी, हे यहवे; आ तोर सब आज्ञा सभे सच बाड़ी।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "नज़दीक"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तोर आज्ञा सभे"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:05.939078988Z",
+  "model": "glm-5.3"
+}

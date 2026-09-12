@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ओकर स्मरण धरती से नष्ट हो जाई, आ ओकर कवनो नाँव बाहर ⟨ना⟩ रही।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ओकर स्मरण"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नष्ट हो जाई"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ⟨ना⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:14:20.177097735Z",
+  "model": "glm-5.3"
+}

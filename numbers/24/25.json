@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ बिलाम उठलन, चललन आ आपन जगह लौट गइलन; आ बालाको आपन राह पर चल दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "लौट गइलन"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "आपन जगह"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ बालाको के „ओहो\""
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चल दिहलन"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "आपन राह पर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:47.052465504Z",
+  "model": "glm-5.3"
+}

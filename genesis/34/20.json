@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 34:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "हमोर आ ओकर बेटा शेखेम आपन नगर के गेट पर आइलन, आ आपन नगर के मरद लोगन से बतियावलन, कहेलन —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "हमोर"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "आ… शेखेम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שער",
+      "gloss": "गेट"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "आपन नगर के"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "बतियावलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद लोगन"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "आपन नगर के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:44.402790016Z",
+  "model": "glm-5.3"
+}

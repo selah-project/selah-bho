@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 56,
+  "translation": "एलोहीम पर हम भरोसा कइनी, हम ना डरब — मनुष्य हमार का करिहें?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीम पर"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "हम भरोसा कइनी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "हम डरब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करिहें"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:47.351446225Z",
+  "model": "glm-5.3"
+}

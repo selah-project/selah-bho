@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "मूर्ख मरद के सामने से चलि जा, काहेकि ज्ञान के ओठ ना जान पावेला।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "चलि जा"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "सामने से"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मरद के"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "काहेकि ना"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "जान पावेला"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:15.107820637Z",
+  "model": "glm-5.3"
+}

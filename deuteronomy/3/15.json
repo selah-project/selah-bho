@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ माखीर के हम ⟨את⟩ गिलाद दिहली।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "आ माखीर के"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम दिहली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिलाद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:44.512724686Z",
+  "model": "glm-5.3"
+}

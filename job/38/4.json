@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 38:4",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "धरती के नींव रखल जाए के बखत तूँ कहाँ रहल? समझ रखत तो बता।",
+  "tokens": [
+    {
+      "surface": "איפה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "ביסדי",
+      "gloss": "नींव रखल जाए के बखत"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "बता"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "रखत"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:33.840800786Z",
+  "model": "glm-5.3"
+}

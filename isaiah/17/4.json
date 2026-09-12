@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 17:4",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ ओहि दिन जाकोब के महिमा दुबला हो जाई, आ ओकर देह के चरबी गल जाई।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ होई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "ידל",
+      "gloss": "दुबला हो जाई"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "जाकोब के"
+    },
+    {
+      "surface": "ומשמן",
+      "gloss": "आ चरबी"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "देह के"
+    },
+    {
+      "surface": "ירזה",
+      "gloss": "गल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:06:00.443343457Z",
+  "model": "glm-5.3"
+}

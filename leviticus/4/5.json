@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आउ माखल कोहेन बैल के खून में से लेलन, आउ ⟨את⟩ ओकरा मिलन-तम्बू में ले आवेलन।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "आउ लेलन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "माखल"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "खून में से"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल के"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "आउ ले आवेलन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा (खून)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:37.770595598Z",
+  "model": "glm-5.3"
+}

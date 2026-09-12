@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ यहवे के महिमा नगरी के बीच से चढ़ गइल आ ⟨ओ⟩ पहाड़ पर ठाढ़ भइल जे नगरी के पूरुब में बा।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "आ चढ़ गइल"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से ऊपर से"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगरी के"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "आ ठाढ़ भइल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पूरुब में"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगरी के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:49:41.350212559Z",
+  "model": "glm-5.3"
+}

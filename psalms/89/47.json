@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "अब तक कब ले, यहवे? रउआ सदा ले छुपल रहबू? रउआ के कोप आगिया नियर जरत रहेला का?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "अब तक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "रउआ छुपल रहबू"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "जरत रहेला"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगिया"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "रउआ के कोप"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:15.100323011Z",
+  "model": "glm-5.3"
+}

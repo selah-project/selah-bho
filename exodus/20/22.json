@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ यहवे मूसा से कहलन: एहने तूँ इस्राएल के लरिकन से कहब — रउआ सभे देखने बा कि हम अकास से रउआ सभे ले बात कइनी बानी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "कहब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिकन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "देखने बा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बात कइनी बानी"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "रउआ सभे ले"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:52.656347323Z",
+  "model": "glm-5.3"
+}

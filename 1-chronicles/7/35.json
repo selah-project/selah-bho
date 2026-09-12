@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ओकर भाई हेलेम के बेटा ⟨रहलें⟩: त्सोफख, आ यिमना, आ शेलेश, आ अमाल।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "हेलेम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोफख"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "आ यिमना"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "आ शेलेश"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "आ अमाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.218514818Z",
+  "model": "glm-5.3"
+}

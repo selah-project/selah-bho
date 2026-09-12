@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ समझदारी कहाँ से आवेला? आ समझ के जगह ई कहाँ बा?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "आ समझदारी"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कहाँ से"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "आ कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:31.448287654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ शोवाल के — किर्यत-यारिम के पिता — बेटा भइलें: हारोए आ मनूहोत के आधा।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आ भइलें"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "शोवाल के"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के पिता"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "यारिम"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "हारोए"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "मनूहोत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:00.980103938Z",
+  "model": "glm-5.3"
+}

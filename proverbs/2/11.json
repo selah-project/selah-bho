@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "समझदारी अहाँ के रखबाली करी, सूझ-बूझ अहाँ के सँभाली।",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "समझदारी"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रखबाली करी"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "अहाँ के"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "सूझ-बूझ"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "सँभाली"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:37.264174654Z",
+  "model": "glm-5.3"
+}

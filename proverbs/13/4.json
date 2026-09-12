@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आळसी के ⟨जीव⟩ तड़पेला आ ⟨किछु ना⟩ मिलेला, बाकिर मेहनती लोगन के जीव धनी होखेला।",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "तड़पेला"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨किछु ना⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "के जीव"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आळसी"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "के जीव"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "मेहनती लोगन"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "धनी होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:10.964136060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "एल्पाल के बेटा एबेर आ मिशाम आ शामेद रहलें — ईहे ⟨את⟩ ओनो आ ⟨את⟩ लोद आ ओकर गाँवन के बनवले।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एल्पाल"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "आ मिशाम"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "आ शामेद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ईहे"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओनो"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "ओनो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "लोद"
+    },
+    {
+      "surface": "לד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "आ ओकर गाँवन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:56.389586249Z",
+  "model": "glm-5.3"
+}

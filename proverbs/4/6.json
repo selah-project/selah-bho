@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "एके ना छोड़, ऊ तोहार राखबे; एके प्यार कर, ऊ तोहार रखबे-संभालबे।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "एके छोड़"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ऊ तोहार राखबे-संभालबे"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "प्यार कर"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ऊ तोहार रखबे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:58.801375214Z",
+  "model": "glm-5.3"
+}

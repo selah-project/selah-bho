@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "समुंदर गरजऽ आ ओकर पूरा भराव; खेत उछल-उछल के खुशी करऽ आ जे कुछ ओकरा भीतर बा।",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गरजऽ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "आ ओकर पूरा भराव"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "उछल-उछल के खुशी करऽ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा भीतर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:03.691825753Z",
+  "model": "glm-5.3"
+}

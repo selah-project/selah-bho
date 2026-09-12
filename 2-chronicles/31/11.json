@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 31:11",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ यहिजकियाहू यहवे के घर में कोठरी सभे तैयार करे के कहलन, आ ऊ तैयार कइलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "यहिजकियाहू"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "तैयार करे के"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "कोठरी सभे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "तैयार कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:44.106886197Z",
+  "model": "glm-5.3"
+}

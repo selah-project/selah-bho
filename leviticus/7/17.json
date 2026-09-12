@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ जबाच के मांस के जवन बचल बा, ऊ तीसरा दिन आगि में जरावल जाई।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "आ जवन बचल बा"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "मांस के"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "जबाच के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगि में"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "जरावल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:23.589042187Z",
+  "model": "glm-5.3"
+}

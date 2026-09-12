@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ जे पहिलका ओ जनमे ऊ ओकर मरल भाई के नाम पर खड़ा जाव, आ ओकर नाम इसरायेल से मेटावल ना जाव।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ जाव (त)"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहिलका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "ओ जनमे"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "खड़ा जाव"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "המת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "मेटावल जाव"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इसरायेल से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:50.260014035Z",
+  "model": "glm-5.3"
+}

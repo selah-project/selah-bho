@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "दुष्ट मनई के मरला पर ओकर आस नष्ट हो जाला; आ बलिया लोगन के बिसास खतम हो जाला।",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "के मरला पर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनई के"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "नष्ट हो जाला"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आस"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "आ बिसास"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "बलिया लोगन के"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "खतम हो जाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:25.414329895Z",
+  "model": "glm-5.3"
+}

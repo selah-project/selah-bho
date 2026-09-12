@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ⟨את⟩ तू सभे के संग हर फरक से एक-एक मनई होखी — हर एक ऊहे ऊनका बाप के घर के मुखिया।",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "आ ⟨את⟩ तू सभे के संग"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक-एक"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "फरक के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…के घर के"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ऊनका बाप"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:17.555711359Z",
+  "model": "glm-5.3"
+}

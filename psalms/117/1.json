@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 117,
+  "translation": "सराहऽ ⟨את⟩ यहवे के, हे सब जाति सभे; ओकर जय-जयकार करऽ, हे सब प्रजा सभे।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "सराहऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सभे"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "ओकर जय-जयकार करऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "प्रजा सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:36.011340140Z",
+  "model": "glm-5.3"
+}

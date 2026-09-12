@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊ लोग ओहिजे से एफ्राइम के पहाड़ के पार भइल आ मीखा के घर ले आइल।",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "पार भइल"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिजे से"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्राइम"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:59.940157140Z",
+  "model": "glm-5.3"
+}

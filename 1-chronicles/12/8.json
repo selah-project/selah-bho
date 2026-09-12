@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ योएलाह आ ज़बद्याह, येरोखाम के बेटा, गेदोर से;",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "आ योएलाह"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "आ ज़बद्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "येरोखाम"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "गेदोर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:39.546627311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ एलाम तीर-दान उठइलक, आदमी के रथ में घुड़सवारन के साथे, आ किर ढाल नंगा कइलक।",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "आ एलाम"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठइलक"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "तीर-दान"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "रथ में"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "घुड़सवारन"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "आ किर"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "नंगा कइलक"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:05:31.118953077Z",
+  "model": "glm-5.3"
+}

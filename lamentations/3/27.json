@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "भला बा मनखे खातिर काहेकि ऊ आपन जवानी में जुआ उठावेला।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "मनखे खातिर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठावेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "जुआ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "आपन जवानी में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.209990263Z",
+  "model": "glm-5.3"
+}

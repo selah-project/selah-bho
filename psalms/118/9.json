@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "भला बा यहवे में शरण लेवल, नदीम सभे में भरोसा कइल से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "शरण लेवल"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "भरोसा कइल से"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "नदीम सभे में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:03.122852369Z",
+  "model": "glm-5.3"
+}

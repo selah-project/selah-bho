@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "रउआ यहवे रउआ के एलोहीम के लइका बाड़; मरला खातिर आपन शरीर के घाव ना देवऽ आ आँखन के बीच गंजापन ना करऽ।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "लइका"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ बाड़"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "रउआ के एलोहीम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "शरीर के घाव देवऽ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "गंजापन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "आँखन के"
+    },
+    {
+      "surface": "למת",
+      "gloss": "मरला खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:16.089187388Z",
+  "model": "glm-5.3"
+}

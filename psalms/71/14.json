@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 71,
+  "translation": "बाकिर हम निरंतर आस करब, आ रउआ के सब तारीफ़ पर आ बढ़ावब।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "बाकिर हम"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरंतर"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "आस करब"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "आ बढ़ावब"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "रउआ के तारीफ़"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:39.020736108Z",
+  "model": "glm-5.3"
+}

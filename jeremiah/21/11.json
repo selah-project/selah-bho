@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ यहूदा के राजा के घराना से — सुनऽ यहवे के बचन।",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "आ घराना से"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:29:18.435851654Z",
+  "model": "glm-5.3"
+}

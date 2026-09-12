@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ यहूदा के घर के जे बचल बचल रहित, ऊ फेर नीचे जरा धरेला आ ऊपर फल करेला।",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "बचल बचल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "जे रहित"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "जरा"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:57:20.069699330Z",
+  "model": "glm-5.3"
+}

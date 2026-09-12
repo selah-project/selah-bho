@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "कि निर्धर्मी मनुख राज ना करे, कि जनता जाल में फँसे ना।",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "राज करे से"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "निर्धर्मी"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "जाल से"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:10.465305391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ तीसरा पंक्ति: लेशेम, शेवो आ अहलामा।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "आ पंक्ति"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "लेशेम"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "शेवो"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "आ अहलामा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:49:21.696107601Z",
+  "model": "glm-5.3"
+}

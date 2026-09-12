@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "खाली पसु हमनी का आपन खातिर लूटली, आ जवन नगर हमनी का कब्जा कइली इनहन के लूट के माल।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पसु"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "लूटली"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का आपन खातिर"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "आ लूट के माल"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर सभे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "कब्जा कइली"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:01.137345400Z",
+  "model": "glm-5.3"
+}

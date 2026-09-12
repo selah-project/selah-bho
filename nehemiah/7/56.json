@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "नतसीआह के लड़का-लड़की, हतीफा के लड़का-लड़की।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लड़का-लड़की"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "नतसीआह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का-लड़की"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "हतीफा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:37.723673975Z",
+  "model": "glm-5.3"
+}

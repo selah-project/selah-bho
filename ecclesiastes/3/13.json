@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ एहो हरेक आदमी जे खावे आ पियावे आ आपन सब मेहनत में भलाई देखावे — ऊ एलोहीम के देन बा।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ एहो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "जे खावे"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "आ पियावे"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आ देखावे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब … में"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "आपन मेहनत"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "देन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ … बा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:28.625287714Z",
+  "model": "glm-5.3"
+}

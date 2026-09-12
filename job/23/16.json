@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 23:16",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ एल हमर मन के नरम कइलन, आ शद्दय हमरा घबरा दिहलन।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आ एल"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "नरम कइलन"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर मन के"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "आ शद्दय"
+    },
+    {
+      "surface": "הבהילני",
+      "gloss": "घबरा दिहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:32.266237713Z",
+  "model": "glm-5.3"
+}

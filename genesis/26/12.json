@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 26:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ इसहाक ओ धरती में बीज बोललन, आ ओही साल में सौ गुना पावलन; आ यहवे ओकरा आशीर्वाद देलन।",
+  "tokens": [
+    {
+      "surface": "ויזרע",
+      "gloss": "बीज बोललन"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "पावलन"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "साल में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "गुना"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "आशीर्वाद देलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:27.731990829Z",
+  "model": "glm-5.3"
+}

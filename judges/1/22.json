@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ यूसुफ़ के घराना, ऊहो, बेत-एल के ऊपर चढ़ल; आ यहवे उनकर साथे रहल।",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ऊपर चढ़ल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ़"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ऊहो"
+    },
+    {
+      "surface": "הם",
+      "gloss": "उनहूँ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-एल के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "बेत-एल"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "उनकर साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:55:41.984882800Z",
+  "model": "glm-5.3"
+}

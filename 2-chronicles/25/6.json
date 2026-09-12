@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ ऊ इसराएल से एक लाख बलवान जुआन एक सौ किक्कर चाँदी पर किराए पर लिहलन।",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "किराए पर लिहलन"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इसराएल से"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "जुआन (शक्ति-सम्पन्न)"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "एक सौ पर"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:07.865973513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ ऊनके चालीस आधार चाँदी के — दू आधार एक तख्ता के नीचे आ दू आधार एक तख्ता के नीचे।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "आ चालीस"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "ऊनके आधार"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी के"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "एक तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "आ दू"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:48:25.664546739Z",
+  "model": "glm-5.3"
+}

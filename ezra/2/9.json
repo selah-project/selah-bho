@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ज़क्कै के बेटा लोग, सात सौ साठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ज़क्कै"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "साठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.140394400Z",
+  "model": "glm-5.3"
+}

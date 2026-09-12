@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "हुकूम रखय वाला कवनो बुरा गड़ ना जानेला, आ समझदार के मन अवसर आ न्याय के जानेला।",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "रखय वाला"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "हुकूम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "गड़"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ अवसर"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आ न्याय"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "समझदार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:21.660761682Z",
+  "model": "glm-5.3"
+}

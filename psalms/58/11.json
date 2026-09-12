@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 58,
+  "translation": "धरमी खुस होई काहे कि ऊ बदला के देखेला; ऊ अपने कदम बेईमान के लोहू में धोई।",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "खुस होई"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखेला"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "बदला के"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "अपने कदम"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "धोई"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "लोहू में"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "बेईमान के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:53.808052977Z",
+  "model": "glm-5.3"
+}

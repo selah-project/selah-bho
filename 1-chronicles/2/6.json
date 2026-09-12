@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ जेराह के बेटा लोग: जिमरी आ एतान आ हेमान आ कलकोल आ दारा — सभे मिल के पाँच।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा लोग"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेराह"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "जिमरी"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "आ एतान"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "आ हेमान"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "आ कलकोल"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "आ दारा"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:28.592689783Z",
+  "model": "glm-5.3"
+}

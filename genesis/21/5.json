@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अवराहाम सौ बरिस के रहलें, जब ओकरा के ⟨את⟩ इसहाक ओकर बेटा जनमल।",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "आ अवराहाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस के रहलें"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इसहाक"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:05.816474548Z",
+  "model": "glm-5.3"
+}

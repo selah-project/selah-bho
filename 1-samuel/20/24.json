@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ दाउद खेत में छिप गइल; आ नया महीना भइल, आ राजा खाना खातिर बइठल।",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "छिप गइल"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "नया महीना"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बइठल"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "…के ऊपर"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:14:21.117331429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ कपड़ा में जब कोढ़ के दाग होखे — ऊन के कपड़ा में चाहे सन के कपड़ा में —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "आ कपड़ा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "एमें"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "कोढ़ के"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "कपड़ा में"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ऊन के"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "कपड़ा में"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "सन के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:52.053770663Z",
+  "model": "glm-5.3"
+}

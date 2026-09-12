@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 62,
+  "translation": "खाली ऊहेई हमार चट्टान आ हमार मुक्ति हवें, हमार ऊँच गढ़; हम कबो ना हिलब।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहेई"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "हमार चट्टान"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "आ हमार मुक्ति"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "हमार ऊँच गढ़"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "हिलब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:23.896427412Z",
+  "model": "glm-5.3"
+}

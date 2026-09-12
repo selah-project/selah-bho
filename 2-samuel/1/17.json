@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ दाऊद ⟨את⟩ ई विलाप-गीत रचलन — शाऊल ऊपर आ यहोनातान ओकर बेटा ऊपर।",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "विलाप-गीत रचलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई विलाप-गीत"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ई विलाप-गीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … ऊपर"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:21:09.201889045Z",
+  "model": "glm-5.3"
+}

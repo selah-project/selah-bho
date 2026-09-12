@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "habakkuk 3:18",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "तैं भी हम यहवे में उछल-कूद करब, हमर बचाव के एलोहीम में रंगब।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "तैं भी हम"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "אעלוזה",
+      "gloss": "उछल-कूद करब"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "रंगब"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "एलोहीम में"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "हमर बचाव के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:22:11.744339518Z",
+  "model": "glm-5.3"
+}

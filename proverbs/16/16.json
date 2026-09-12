@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "चुन्ना समझदारी — सोना से केतना बढ़िया! आ चुन्ना बुद्धि चाँदी से बेसी पसंद बा!",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "चुन्ना"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "समझदारी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "सोना से"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "आ चुन्ना"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "बेसी पसंद"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "चाँदी से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:55.708893448Z",
+  "model": "glm-5.3"
+}

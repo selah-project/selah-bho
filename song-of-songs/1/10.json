@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तोर गाल सुन्दर बाड़ें तोर-माला सभ के साथ, तोर गरदन मनका सभ के साथ।",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "सुन्दर बाड़ें"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "तोर गाल"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "तोर-माला सभ के साथ"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "तोर गरदन"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "मनका सभ के साथ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:08.850341511Z",
+  "model": "glm-5.3"
+}

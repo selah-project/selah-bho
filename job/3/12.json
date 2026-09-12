@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहे घुटना हमरा ले आगे भागल? आ का स्तन, कि हम दूध पिअलीं?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "आगे भागल"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "घुटना"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "स्तन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "दूध पिअलीं"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:31.329785167Z",
+  "model": "glm-5.3"
+}

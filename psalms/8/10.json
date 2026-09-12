@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "यहवे, हमनी का अदोनाय, रउआ के नाउँ केतना महान बा पूरा धरती में!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "हमनी का अदोनाय"
+    },
+    {
+      "surface": "מה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "महान"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "रउआ के नाउँ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:12.846539319Z",
+  "model": "glm-5.3"
+}

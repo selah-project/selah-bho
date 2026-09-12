@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ यहोशुआ ⟨את⟩ कोहानियन के हुक्म दिहलन कहऽ के — यरदन से ऊपर चढ़ा।",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "हुक्म दिहलन"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कोहानियन"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहानियन के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "चढ़ा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यरदन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:35.078508965Z",
+  "model": "glm-5.3"
+}

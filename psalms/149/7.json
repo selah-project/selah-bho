@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 149,
+  "translation": "जातियन में बदला लेवे खातिर, समुदाय सभे में डाँट-फटकार करे खातिर —",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जातियन में"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "डाँट-फटकार"
+    },
+    {
+      "surface": "בל",
+      "gloss": "समुदाय"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:18.392605158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ एही महिना के पन्द्रह के दिन मा मत्सह के परब यहवे खातिर ⟨बा⟩; सात दिन ले मत्सह खालऽ।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "आ पाँच (में)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस (के)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिना के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "मत्सह के"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्सह"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खालऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:11.949990792Z",
+  "model": "glm-5.3"
+}

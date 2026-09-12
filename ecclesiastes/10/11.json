@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "अगर साँप बिना मंतर पढ़वले डस देला, त जुबान के मालिक (मंतर पढ़े वाला) खातिर कवनो फायदा नइखे।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "डस देला"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "मंतर"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ कवनो…नइखे"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "फायदा"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "…के मालिक खातिर"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "जुबान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:00.574624514Z",
+  "model": "glm-5.3"
+}

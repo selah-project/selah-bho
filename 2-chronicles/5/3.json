@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ इसराएल के सब आदमी परब के समय राजा के पास जुड़ गइलें — ऊ सातवाँ महीना रहे।",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "आ जुड़ गइलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "परब के समय"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "महीना"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातवाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:04:28.686599451Z",
+  "model": "glm-5.3"
+}

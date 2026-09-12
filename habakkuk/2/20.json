@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ यहवे आपन पबितर मंदिर में बाड़ें — चुप! ओकरे आगे पूरा धरती।",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "आ यहवे"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "मंदिर में"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "आपन पबितर"
+    },
+    {
+      "surface": "הס",
+      "gloss": "चुप!"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ओकरे आगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:21:06.270389197Z",
+  "model": "glm-5.3"
+}

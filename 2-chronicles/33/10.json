@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ यहवे मनश्शे आ ओकर जाति लोगन से बात कइलन, बाकिर ऊ लोग कान न धरलें।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... से"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर जाति लोग"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ... न"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "कान धरलें"
+    }
+  ],
+  "timestamp": "2026-09-11T23:12:46.933692093Z",
+  "model": "glm-5.3"
+}

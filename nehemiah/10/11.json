@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ इनकर भाई लोग: शेबन्याह, होदिय्याह, केलिता, पेलाय्याह, चनान।",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "आ इनकर भाई लोग"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "शेबन्याह"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "होदिय्याह"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "केलिता"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "पेलाय्याह"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "चनान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:36.233231182Z",
+  "model": "glm-5.3"
+}

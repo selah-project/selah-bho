@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 5:22",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "तब घोड़ा के खुर धम-धम बजले — ओकर बलवान घोड़ा सभे के दौर-दौर।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "הלמו",
+      "gloss": "धम-धम बजले"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "खुर"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "घोड़ा के"
+    },
+    {
+      "surface": "מדהרות",
+      "gloss": "दौर-दौर सभे के"
+    },
+    {
+      "surface": "דהרות",
+      "gloss": "दौर-दौर"
+    },
+    {
+      "surface": "אביריו",
+      "gloss": "ओकर बलवान घोड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:16.819934143Z",
+  "model": "glm-5.3"
+}

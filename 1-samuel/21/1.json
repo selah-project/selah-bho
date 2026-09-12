@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ ऊ उठलन आ चल दिहलन, आ यहोनातन सहर में आइलन।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चल दिहलन"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "आ यहोनातन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:19.886136482Z",
+  "model": "glm-5.3"
+}

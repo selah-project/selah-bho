@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तब रउआ कादेश में बहुत दिन रहले रहलें — ओहे दिन के बराबर जितना दिन रउआ ओहिजे रहल रहलें।",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "रहले रहलें"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "कादेश में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "ओहे दिन के बराबर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जितना"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "रहल रहलें"
+    }
+  ],
+  "timestamp": "2026-09-11T18:28:41.154613323Z",
+  "model": "glm-5.3"
+}

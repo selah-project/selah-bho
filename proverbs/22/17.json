@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "तनाके कान झुकाव आ गुनह लोकन के बात सुन, आ हमार जानकारी पर तनाके हिया लगाव।",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "झुकाव"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "तनाके कान"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आ सुन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "गुनह लोकन के"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "आ तनाके हिया"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "लगाव"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "हमार जानकारी पर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:53.202430149Z",
+  "model": "glm-5.3"
+}

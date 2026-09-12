@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आपन ढोका के भीतर तूँ ओकरा खाब; अशुच आ शुच दुनों संगे खाहें, जइसन चितरा आ जइसन हिरन।",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "आपन ढोका के भीतर"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "खाब"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "अशुच"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "शुच"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "संगे"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "जइसन चितरा"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "जइसन हिरन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:12.660122955Z",
+  "model": "glm-5.3"
+}

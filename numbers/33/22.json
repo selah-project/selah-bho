@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ रिस्साह से चल गिनलां, आ कहेलाताह में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चल गिनलां"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "रिस्साह से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "कहेलाताह में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:08.779247267Z",
+  "model": "glm-5.3"
+}

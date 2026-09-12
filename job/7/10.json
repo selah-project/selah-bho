@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "ऊ फिर से आपन घरे ना लवटेला, आ ओकर जगह ओकरा फिर से ना पहिचानेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लवटेला"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर से"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "आपन घरे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "पहिचानेला"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर से"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:28.171304865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "judges 6:38",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ तहीं भ गइल; अगिला सुबह ऊ जल्दी उठलन आ ⟨את⟩ गड़ी के निचोड़लन, आ गड़ी से ओसर निचुरल — सादी भर पानी।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भ गइल"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तहीं"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "जल्दी उठलन"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "अगिला सुबह"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "निचोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गड़ी के"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "गड़ी"
+    },
+    {
+      "surface": "וימץ",
+      "gloss": "निचुरल"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओसर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "गड़ी"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "भर"
+    },
+    {
+      "surface": "הספל",
+      "gloss": "सादी"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:57:37.877590809Z",
+  "model": "glm-5.3"
+}

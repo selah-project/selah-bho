@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ हमर पिता दाविद के मन में ई रहल कि इसरायेल के एलोहीम यहवे के नाम खातिर एगो घर बनावे।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ… रहल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमर पिता"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनावे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "नाम खातिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:08.052052029Z",
+  "model": "glm-5.3"
+}

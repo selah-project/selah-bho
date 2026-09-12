@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ एनोश के सगरी दिन पाँच बरिस आ नौ सौ बरिस भइल, आ ऊ मर गइलें।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश के"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आ नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइलें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:47.881636322Z",
+  "model": "glm-5.3"
+}

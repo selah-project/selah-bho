@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "हाय! कि ओहि दिन बड़ बा, ओकरे जइसन कवनो नइखे; ऊ याकोब खातिर संकट के समय बा, बाकिर ओकरे से ऊ बच जाई।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨ओहि⟩"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कवनो नइखे"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ओकरे जइसन"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ ... समय"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब खातिर"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "बाकिर ओकरे से"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "बच जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:51.890216525Z",
+  "model": "glm-5.3"
+}

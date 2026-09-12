@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ करूबिमन में आदमी के हाथ के आकृति दिखल — ओकर परियन के नीचे।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आ दिखल"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "करूबिमन में"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ओकर परियन के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:15.253377921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 31:51",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ लाबन याकोब से कहलस: देख, ई ढेर आ देख, ई खम्भा जवना हम मोर आ तोहार बीच खड़ा कइलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ... कहलस"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबन"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब से"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "ई ढेर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देख"
+    },
+    {
+      "surface": "המצבה",
+      "gloss": "ई खम्भा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना"
+    },
+    {
+      "surface": "יריתי",
+      "gloss": "खड़ा कइलन"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "मोर बीच"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "आ तोहार बीच"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:06.995433081Z",
+  "model": "glm-5.3"
+}

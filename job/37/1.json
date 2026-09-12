@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 37:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "अउर एहिजा से ही हमार हिया काँपेला आ ओकर जगह से हट जाला।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "एहिजा से ही"
+    },
+    {
+      "surface": "יחרד",
+      "gloss": "काँपेला"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमार हिया"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "आ हटेला"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "ओकर जगह से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:21.368371026Z",
+  "model": "glm-5.3"
+}

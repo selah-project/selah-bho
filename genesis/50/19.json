@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "आ योसेफ ओ लोग से कहलन: “डरू ना, काबर जे का हम एलोहीम के जगह बानी?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ओ लोग से"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डरू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर जे"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "के जगह"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:39.732977142Z",
+  "model": "glm-5.3"
+}

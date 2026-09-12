@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "पश्हूर के बेटावन, एक हजार दू सौ चवालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "पश्हूर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "आ सात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.561007475Z",
+  "model": "glm-5.3"
+}

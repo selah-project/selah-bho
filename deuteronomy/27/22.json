@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "“अभिसाप ओहला जे आपन बहिन के साथे सोवेला — आपन पिता के बेटी चाहे आपन माय के बेटी।” आ कुल जनता कहेला — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिसाप ओहला"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सोवेला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "आपन बहिन"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता के"
+    },
+    {
+      "surface": "או",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "आपन माय के"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:27.961150149Z",
+  "model": "glm-5.3"
+}

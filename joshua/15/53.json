@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ यानूम, आ बेत-तप्पुआ, आ अफेका।",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "आ यानूम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ बेत-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "तप्पुआ"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "आ अफेका"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:10.752659489Z",
+  "model": "glm-5.3"
+}

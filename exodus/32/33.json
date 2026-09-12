@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ यहवे मोशे से कहलन: जउन हमार ऊपर चूक कइलन, ओकरा हम अपना किताब में से मिटाब।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "מי",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "चूक कइलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार ऊपर"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "मिटाब"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "हमार किताब में से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:21:54.030897358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हे सियोन के बेटी, जोर से गावऽ आ खुस होऽ, काहे कि देखऽ, हम आवत बानी आ तोहार बीच में रहब — यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "जोर से गावऽ"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "आ खुस होऽ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवत बानी"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "आ रहब"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "तोहार बीच में"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:07.966739212Z",
+  "model": "glm-5.3"
+}

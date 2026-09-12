@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ज़ेरख के बेटा लोग में से: येउएल, आ उनुका भाई लोग — छह सौ नब्बे।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "आ … में से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरख"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "येउएल"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "आ उनुका भाई लोग"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "आ नब्बे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:24.573645543Z",
+  "model": "glm-5.3"
+}

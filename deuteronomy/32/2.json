@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "हमर सिखावा बरसत नियर टपकब, हमर बचन ओस नियर टपक-टपक गिरब; घास पर बूँदा नियर, आ तरुआ घास पर झड़ी नियर।",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "टपकब"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "बरसत नियर"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "हमर सिखावा"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "टपक-टपक गिरब"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ओस नियर"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हमर बचन"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "बूँदा नियर"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "घास"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "आ झड़ी नियर"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "तरुआ घास"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:07.466427052Z",
+  "model": "glm-5.3"
+}

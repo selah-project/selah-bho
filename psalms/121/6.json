@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 121,
+  "translation": "दिन के सूरज तोहा के ना मारी; आ रात के चंद्रमा भी ना।",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "मारी"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "आ चंद्रमा"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:29.465686355Z",
+  "model": "glm-5.3"
+}

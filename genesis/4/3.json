@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ दिन के अंत में भई कि काइन धरती के फल में से यहवे खातिर भेंट ले आएलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भई"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अंत में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ले आएलन"
+    },
+    {
+      "surface": "קין",
+      "gloss": "काइन"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "फल में से"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:58.562957613Z",
+  "model": "glm-5.3"
+}

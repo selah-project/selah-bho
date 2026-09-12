@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "जिनकर हाथ के ताकत हमरा का काम आवत? ऊ लोग में जवानी नास भ गइल रहे।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "जिनकर"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "למה",
+      "gloss": "का काम आवत"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ऊ लोग में"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नास भ गइल"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "जवानी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:29.364872139Z",
+  "model": "glm-5.3"
+}

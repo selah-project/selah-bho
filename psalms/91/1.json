@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 91,
+  "translation": "जवन एल्योन के छुपाव में बसेला, ओहे शद्दय के छाँव में रात काटेला।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बसेला"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "छुपाव में"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "छाँव में"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "रात काटेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:01.012866407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "हमरा खोलऽ न्याय के दुआर सभे; हम ओइना में घुसब, याह के धन्यवाद करब।",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "खोलऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "दुआर सभे"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्याय के"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "घुसब"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओइना में"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "धन्यवाद करब"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:23.320354327Z",
+  "model": "glm-5.3"
+}

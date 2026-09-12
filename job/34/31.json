@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "का कवनो एल से कह चुकल बा: “हम दण्ड उठानी जा, हम अब बिगाड़ब ना”?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "करा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "कहल गइल"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "हम उठानी जा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "हम बिगाड़ब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:10.465434634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 65,
+  "translation": "प्रार्थना के सुनेनिहार, रउआ ले सगरी देह आवी।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनेनिहार"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "प्रार्थना"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "रउआ ले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आवी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:31.321876230Z",
+  "model": "glm-5.3"
+}

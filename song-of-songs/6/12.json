@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "हम जाने-बूझे ना — हमार जिया हमका हमार सभे के नदीव के रथ सभे में रख दिहलस।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जाने-बूझे"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार जिया"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "हमका रख दिहलस"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "रथ सभे"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमार सभे के"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "नदीव (भला मनमी वाला)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:36.565578576Z",
+  "model": "glm-5.3"
+}

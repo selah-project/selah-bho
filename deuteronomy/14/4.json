@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "ई ⟨ह⟩ जानवर ह जवन रउआ खा सकत — गाय, भेड़ के मेमना आ बकरी के बछरा।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खा सकत"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गाय-बैल"
+    },
+    {
+      "surface": "שה",
+      "gloss": "मेमना-बछरा"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "भेड़ के"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "आ मेमना-बछरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:16.089758547Z",
+  "model": "glm-5.3"
+}

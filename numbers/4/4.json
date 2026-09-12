@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ई केहात के बेटान के सेवा बा मिलन के तम्बू में — पवित्र-पवित्र चीजन के बारे में।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्र चीजन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:09.259306691Z",
+  "model": "glm-5.3"
+}

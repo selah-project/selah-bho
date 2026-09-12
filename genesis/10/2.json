@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "याफेत के बेटावन — गोमेर आ मागोग आ मादय आ यावान आ तुबल आ मेशेख आ तीरास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटावन"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "आ मागोग"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "आ मादय"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "आ यावान"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "आ तुबल"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "आ मेशेख"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "आ तीरास"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:44.548635664Z",
+  "model": "glm-5.3"
+}

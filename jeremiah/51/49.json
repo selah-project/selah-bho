@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "बबल ⟨से⟩ गिरी इस्राएल के घायल लोग; बबल में गिरल बाड़ें पूरा धरती के घायल लोग।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "बबल तक"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बबल"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "गिरे खातिर"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "घायल लोग के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ओइसहीं"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "बबल में"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरल बाड़ें"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "घायल लोग के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:45:19.458378543Z",
+  "model": "glm-5.3"
+}

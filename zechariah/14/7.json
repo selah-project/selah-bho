@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ एक दिन होई — ऊ यहवे के जानल जाई; ना दिन आ ना रात; बाकिर साँझ के बेरा उज्जाल होई।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ होई"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानल जाई"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "बाकिर होई"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उज्जाल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:26:28.551010806Z",
+  "model": "glm-5.3"
+}

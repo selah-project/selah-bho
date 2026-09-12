@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "चक्की के दुनो पाट गिरवी ना रखल जाव, काहे कि ओही त जीव-प्राण गिरवी रखला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "गिरवी रखल जाव"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "चक्की के दुनो पाट"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "आ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीव-प्राण"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओही त"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "गिरवी रखला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:18.470324140Z",
+  "model": "glm-5.3"
+}

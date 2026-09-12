@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ बेला, अजाज के बेटा, शेमा के बेटा, योएल के बेटा — ऊ अरोएर (आरोएर) में रहेलें, नेबो ले आ बाल-मेओन ले।",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "आ बेला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "अजाज"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "शेमा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "रहेलें"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "अरोएर में"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "आ बाल"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "मेओन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:40.403795644Z",
+  "model": "glm-5.3"
+}

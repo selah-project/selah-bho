@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "तेहने ओ मनई बा जे आपन संगी के धोखा देला ⟨את⟩, आ कहेला: “का हम खेलत नइखी?”",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "तेहने"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "धोखा देला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन संगी के"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का… नइखी"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "खेलत"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:32.627799942Z",
+  "model": "glm-5.3"
+}

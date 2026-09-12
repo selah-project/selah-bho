@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जिनके थूथन में जियत जिन के सांस रहल — सूकल डाहर जमीन पर जे कुछ रहल — सब मर गइल।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनके"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "सांस"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "जिन"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जियत"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "थूथन में"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "सूकल डाहर जमीन पर"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:59.099012604Z",
+  "model": "glm-5.3"
+}

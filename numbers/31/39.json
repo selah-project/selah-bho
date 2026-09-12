@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ गधा तीस हजार पाँच सौ रहलें, आ ओकर महसूल यहवे खातिर इकसठ भईल।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "आ गधा"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "आ ओकर महसूल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:36.259520522Z",
+  "model": "glm-5.3"
+}

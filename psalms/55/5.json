@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 55,
+  "translation": "हमर हिया हमर भीतरे घुमट खावे लागल, आ मौत के भय हम पर गिर गइल।",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "हमर हिया"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "घुमट खावे लागल"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "हमर भीतरे"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "आ … के भय"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिर गइल"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हम पर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:34.049696997Z",
+  "model": "glm-5.3"
+}

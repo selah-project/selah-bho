@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "बाकिर जब काइन के बिलावल जाई, कब ले? अस्सूर रउआ के बन्धी बनावेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बाकिर जब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "बिलावल"
+    },
+    {
+      "surface": "קין",
+      "gloss": "काइन के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब ले"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कब ले?"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "रउआ के बन्धी बनावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:59.557610905Z",
+  "model": "glm-5.3"
+}

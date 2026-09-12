@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ ई बा जे तूँ बेदी पर करबू: मेमना, एक बरिस के, दू गो रोज, निरन्तर।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करबू"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…के (बच्चा)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक बरिस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "रोज"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:50:32.292301062Z",
+  "model": "glm-5.3"
+}

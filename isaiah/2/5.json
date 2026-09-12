@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हे याकोब के घराना, चलऽ — आ हमनी का यहवे के उजियार में चली।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "चलऽ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "आ हमनी का चली"
+    },
+    {
+      "surface": "באור",
+      "gloss": "उजियार में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:59:15.988746033Z",
+  "model": "glm-5.3"
+}

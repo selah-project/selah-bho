@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "हम झूठ के मरद सभे के संगे बइठल नाहीं बानी, आ छुपा के चले वाला सभे के संगे ना जाब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नाहीं"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "बइठल बानी"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संगे"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "मरद सभे"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ के संगे"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "छुपा के चले वाला सभे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "जाब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:18.205219098Z",
+  "model": "glm-5.3"
+}

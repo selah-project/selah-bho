@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "न्याय कइल सज्जन खातिर खुसी बा, बाकिर बुराई करे वालिन के बर्बादी।",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "खुसी"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "सज्जन खातिर"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "कइल"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "बाकिर बर्बादी"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "करे वालिन के"
+    },
+    {
+      "surface": "און",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:02.483695371Z",
+  "model": "glm-5.3"
+}

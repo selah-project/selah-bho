@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ कैन आ ओकर मन्हत के ⟨ऊ⟩ ताकले ना; ए से कैन बहुते जल गइल, आ ओकर मुँह गिर गइल।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कैन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "ओकर मन्हत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "ताकले"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "जल गइल"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "कैन के"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "गिर गइल"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:39.012584355Z",
+  "model": "glm-5.3"
+}

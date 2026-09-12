@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ याकोब आपन पिता आ आपन माई के बात मानलस, आ चल गइलें पद्दान-अराम मा।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आ मानलस"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के बात"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ के बात"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "आपन माई"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आ चल गइलें"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "पद्दान"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:03.987302586Z",
+  "model": "glm-5.3"
+}

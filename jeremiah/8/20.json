@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "कटाई बीत गइल, गरमी खतम हो गइल, आ हमनी का नइखे बचावल गइल।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "बीत गइल"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "कटाई"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "खतम हो गइल"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "गरमी"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आ हमनी का"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "बचावल गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:26:24.344248627Z",
+  "model": "glm-5.3"
+}

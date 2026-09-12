@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "धरमी के फल जीवन के गाछ बा, आ जे जियान के लेला ऊ चतुर बा।",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन के"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "आ लेला"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "जियान के"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "चतुर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:58.404917221Z",
+  "model": "glm-5.3"
+}

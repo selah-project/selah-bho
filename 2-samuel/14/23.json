@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ योआब उठलन, गेशूर गेलन, आ यरूशलयिम ले आइलन ⟨את⟩ अबशालोम के।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "गेशूर"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ले आइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अबशालोम के"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:58.553789852Z",
+  "model": "glm-5.3"
+}

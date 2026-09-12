@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ नबी लोग हवा बन जाहें, आ ओकरा में कवनो बचन नइखे; एहने ओकरा सभे के साथे होखी।",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "आ नबी लोग"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "बन जाहें"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "आ बचन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकरा सभे के साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:13.384420313Z",
+  "model": "glm-5.3"
+}

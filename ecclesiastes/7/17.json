@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बहुते दुष्कर्म मत करऽ, आ मूर्ख मत बनऽ — काहे के तूँ आपन समय से पहिले मरऽ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "दुष्कर्म करऽ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बनऽ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे के"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरऽ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "आपन समय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:41.255775984Z",
+  "model": "glm-5.3"
+}

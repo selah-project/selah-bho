@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बढ़िया नाँव अच्छा तेल से बेहतर बा, आ मौत के दिन जनम के दिन से बेहतर बा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बेहतर बा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "बढ़िया नाँव"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "अच्छा तेल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा (से)"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "आ … दिन"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "जनम के दिन से"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "जनमे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:55.269996801Z",
+  "model": "glm-5.3"
+}

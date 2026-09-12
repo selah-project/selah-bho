@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "भय आ गड़हा आ जाल — तोहार ऊपर, हे मोआब में बसे वाला, यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "आ गड़हा"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "आ जाल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार ऊपर"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "हे बसे वाला"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब में"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:15.881300903Z",
+  "model": "glm-5.3"
+}

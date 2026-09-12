@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "निन्द के प्यार ना करऽ, काहे कि गरीब हो जाब; आपन आँख खोल, रोटी से तृप्त होइह।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "प्यार करऽ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "निन्द"
+    },
+    {
+      "surface": "פן",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "गरीब हो जाब"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "आपन आँख"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "तृप्त होइह"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:29.870411477Z",
+  "model": "glm-5.3"
+}

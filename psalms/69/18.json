@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 69,
+  "translation": "आ अपना सेवक से अपन अनहार मत छिपावऽ, काहे कि हम तंगी में बानी; जल्दी हमर जवाब दे।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आ … मत"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "छिपावऽ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "अपन अनहार"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "अपना सेवक से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "צר",
+      "gloss": "तंगी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "हमर जवाब दे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:58.583391861Z",
+  "model": "glm-5.3"
+}

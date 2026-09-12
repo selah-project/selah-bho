@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लोग रफीदीम से चललें, आ सीनय के जंगल में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "रफीदीम से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनय के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:13.176894953Z",
+  "model": "glm-5.3"
+}

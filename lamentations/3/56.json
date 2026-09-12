@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "तूँ हमर आवाज सुनलस; हमर हाँफत के बेरा आ हमर चीख के बेरा तोहार कान ना छिपावऽ।",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "हमर आवाज"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुनलस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "छिपावऽ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "तोहार कान"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "हमर हाँफत के बेरा"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "हमर चीख के बेरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:50.486767415Z",
+  "model": "glm-5.3"
+}

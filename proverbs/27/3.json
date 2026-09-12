@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "पाथर के भार आ बालू के बोझ, बाकिर मूर्ख के गुस्सा इन्हनी दुनों से भारी बा।",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "भार"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पाथर"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "आ बोझ"
+    },
+    {
+      "surface": "החול",
+      "gloss": "बालू"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "आ गुस्सा"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "इन्हनी दुनों से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:03.283496488Z",
+  "model": "glm-5.3"
+}

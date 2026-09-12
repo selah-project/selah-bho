@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक बछड़ा, गाय के बेटा; एक मेढ़ा, एक भेड़ा के बच्चा, एक साल के, होम-भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भेड़ा के बच्चा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक साल के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "होम-भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:50.391409043Z",
+  "model": "glm-5.3"
+}

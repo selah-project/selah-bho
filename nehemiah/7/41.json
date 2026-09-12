@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "पश्चूर के बेटाबन मन के, एक हजार दू सौ चालीस आ सात।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन मन के"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "पश्चूर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "आ सात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.993882922Z",
+  "model": "glm-5.3"
+}

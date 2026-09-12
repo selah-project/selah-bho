@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "उनके आँखन के सोझा तूँ दीवार में खोद, आ ओकरे से ⟨बाहर⟩ निकालबे।",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "उनके आँखन के सोझा"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "खोद"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "दीवार में"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "आ निकालबे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरे से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:49:49.148135859Z",
+  "model": "glm-5.3"
+}

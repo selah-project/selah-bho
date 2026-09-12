@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ शिमोन के सीमा के सहारे, पूरुब ओर से पच्छिम ओर ले — यिसास्खार खातिर एक हिस्सा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के सहारे"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पच्छिम"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक हिस्सा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:38:29.881546323Z",
+  "model": "glm-5.3"
+}

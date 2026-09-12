@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ एह सभे से रउआ अशुद्ध हो जाब: जउन हुनका मुरदा के छुई, ऊ साँझ ले अशुद्ध रही।",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "आ एह सभे से"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "अशुद्ध हो जाब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जउन (हर)"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "छुए वाला"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "हुनका मुरदा के"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध रही"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:07.258589562Z",
+  "model": "glm-5.3"
+}

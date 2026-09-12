@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ दाविद पूरा इस्राएल पर राज कइलन, आ ऊ आपन पूरा कौम खातिर न्याय आ धर्म कइलन।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "धर्म"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "पूरा … खातिर"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "कौम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:01.792111557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "सूरज उगेला — ऊ सभे लौट जालें आ आपन गुफा में लेट जालें।",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "उगेला"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "लौट जालें"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... में"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "आपन गुफा"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "लेट जालें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:44.340614624Z",
+  "model": "glm-5.3"
+}

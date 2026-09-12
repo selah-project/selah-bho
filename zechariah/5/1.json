@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ हम फेर घुरलीं, आ हम आपन आँखि उठालीं आ देखलीं, आ देखऽ, एगो उड़त पोथी बा।",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "आ हम फेर घुरलीं"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "आ उठालीं"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आपन आँखि"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "आ देखलीं"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "एगो पोथी"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "उड़त"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:14.335527532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ दाऊद गाद के बात के अनुसार चढ़ गइल, जइसे यहवे हुकुम देले रहले।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़ गइल"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "बात के अनुसार"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम देले रहले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:30.586923556Z",
+  "model": "glm-5.3"
+}

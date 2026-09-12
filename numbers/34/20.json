@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ शिमोन के बेटा सभ के गोत्र खातिर: शमुएल, अम्मीहूद के बेटा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "आ गोत्र खातिर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ के"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मीहूद"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:36.600506052Z",
+  "model": "glm-5.3"
+}

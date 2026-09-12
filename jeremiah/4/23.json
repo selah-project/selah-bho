@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "हम ⟨את⟩ धरती के देखलियन आ देखब त ऊ उजाड़ आ बिना रूप बा; आ अकास के ओर देखलियन — ओकर उजियार नइखे।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "देखलियन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखब"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "आ बिना रूप"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ … के ओर"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ओकर उजियार"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:18.784041478Z",
+  "model": "glm-5.3"
+}

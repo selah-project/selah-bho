@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ तच्पनचेस में यिर्मियाहू के ओर यहवे के सबद आयल, कहेलक।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ⟨बा⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "सबद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "तच्पनचेस में"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेलक"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:43.629748788Z",
+  "model": "glm-5.3"
+}

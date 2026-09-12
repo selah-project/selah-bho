@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "काहे कि दीवार में से पथरा चिचियावेला, आ काठ में से कड़ी ओकरे जवाब देले।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पथरा"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "दीवार में से"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "चिचियावेला"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "आ कड़ी"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "काठ में से"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ओकरे जवाब देले"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:26.621569378Z",
+  "model": "glm-5.3"
+}

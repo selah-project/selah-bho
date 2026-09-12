@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रउआ सुनले बाड़ उनखर बेइज्जती के, हे यहवे, उनखर सब कुटिल विचार हमार ऊपर।",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "रउआ सुनले बाड़"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "उनखर बेइज्जती के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "उनखर कुटिल विचार"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमार ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:29.662737188Z",
+  "model": "glm-5.3"
+}

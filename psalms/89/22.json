@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "जेकरा संग हमरा हाथ टिकल रही, आ हमरा भुजा ओकरा मजबूत करत।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा संग"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हमरा हाथ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "टिकल रही"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा संग"
+    },
+    {
+      "surface": "אף",
+      "gloss": "आ (हाँ)"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "हमरा भुजा"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ओकरा मजबूत करत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:32.236012634Z",
+  "model": "glm-5.3"
+}

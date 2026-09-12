@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "⟨את⟩ हर ऊँच चीज के ऊ देखेला; ऊ सब घमंडी लोगन के ऊपर राजा बा।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हर ऊँच चीज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ऊँच चीज"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखेला"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लोगन"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "घमंडी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:55.081234899Z",
+  "model": "glm-5.3"
+}

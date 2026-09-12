@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "का बलवान के लूट छीनल जा सकेला? अ का धरमी के बन्धुआ बच निकलेला?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "का छीनल जा सकेला"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "बलवान के"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "अ का"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बन्धुआ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी के"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बच निकलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:15:36.074551970Z",
+  "model": "glm-5.3"
+}

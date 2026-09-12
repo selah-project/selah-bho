@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "मेहनती लोग के हाथ राज करेला, बाकिर आलस्य करदहा बन जाला।",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "मेहनती लोग के"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "राज करेला"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "बाकिर आलस्य"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बन जाला"
+    },
+    {
+      "surface": "למס",
+      "gloss": "करदहा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:20.529365798Z",
+  "model": "glm-5.3"
+}

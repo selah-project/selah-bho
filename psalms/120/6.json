@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 120,
+  "translation": "बहुत दिने हमरा प्राण रहल बा शांति से नफरत करे वाला के साथे।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "बहुत दिने"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "रहल बा"
+    },
+    {
+      "surface": "לה",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "नफरत करे वाला"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांति से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:55.123222854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ माप के डोरा फेर से निकसेला, ओकरे सामने, गारेब के पहाड़ी के ऊपर, आ घूम जाय गोआ (गोआ जगह) ले।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आ निकसेला"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर से"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "डोरा"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "माप के"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ओकरे सामने"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "पहाड़ी"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "गारेब"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "आ घूम जाय"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "गोआ ले"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:22.683998791Z",
+  "model": "glm-5.3"
+}

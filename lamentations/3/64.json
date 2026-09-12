@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रउआ उनका बदला लौटाब, हे यहवे, उनखर हाथ के काम के हिसाब से।",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "रउआ लौटाब"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनका"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "काम के हिसाब से"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "उनखर हाथ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:29.663242145Z",
+  "model": "glm-5.3"
+}

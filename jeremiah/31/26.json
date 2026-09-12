@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "एकरा पर हम जाग गइली आ देखलियन, आ हम के नींद मीठ लागल।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एकरा पर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "जाग गइली"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "आ देखलियन"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "आ हम के नींद"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "मीठ लागल"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:33:51.698665132Z",
+  "model": "glm-5.3"
+}

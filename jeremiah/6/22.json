@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एही तरह यहवे कहेला: देखऽ, ए कोम उत्तर के देस से आवत बा, आ ए बड़ जाति धरती के छोर से जाग जाई।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एही तरह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "कोम"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवत बा"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर के"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "आ जाति"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "जाग जाई"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "छोर से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:43.403284179Z",
+  "model": "glm-5.3"
+}

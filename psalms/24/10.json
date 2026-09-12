@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "को ह, ई महिमा के राजा? यहवे त्सेवाओत — ऊहे महिमा के राजा। सेला।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ह"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सेवाओत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:24.405019939Z",
+  "model": "glm-5.3"
+}

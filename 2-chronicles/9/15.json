@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ मलिक शलोमोह दू सौ ढाल बनवलन — पिटल सोना के; एक ठन ढाल प छह सौ ⟨शेकेल⟩ पिटल सोना चढ़ेला।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ बनवलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "मलिक"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "पिटल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "पिटल"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "प"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक ठन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:15.526168038Z",
+  "model": "glm-5.3"
+}

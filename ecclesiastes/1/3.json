@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आदमी के का लाभ ओकर सब मेहनत में, जवन ऊ सूरज के नीचे मेहनत करेला?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब ... में"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ओकर मेहनत"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "जवन ऊ मेहनत करेला"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:07.286508892Z",
+  "model": "glm-5.3"
+}

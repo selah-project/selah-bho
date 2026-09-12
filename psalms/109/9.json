@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "ओकर लड़का अनाथ बाने आ ओकर औरत विधवा।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "बाने (होखेला)"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर लड़का"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "आ ओकर औरत"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:02.026554299Z",
+  "model": "glm-5.3"
+}

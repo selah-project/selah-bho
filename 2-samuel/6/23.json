@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ शाऊल के बेटी मिखल के, ओकर मरना के दिन तक, कवनो सन्तान नइखे भव।",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "आ मिखल के"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भव"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "मरना के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:22:38.505336852Z",
+  "model": "glm-5.3"
+}

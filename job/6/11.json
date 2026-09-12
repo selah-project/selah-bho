@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "हमार ताकत का बा कि हम आस करब? आ हमार अंत का बा कि हम आपन प्राण लम्बा करब?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "हमार ताकत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "हम आस करब"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "हमार अंत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "हम लम्बा करब"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "आपन प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:49.383467154Z",
+  "model": "glm-5.3"
+}

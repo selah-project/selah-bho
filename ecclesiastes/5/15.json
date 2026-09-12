@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ईओ बुरा बेमारी नियर बा — जइसे ऊ आइल ओइसनें ऊ जाई; आ ओकरा के का फायदा जवन ऊ हवा खातिर मेहनत करेला?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ ईओ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एहे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "बेमारी नियर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ऊ आइल"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ओइसनें"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "आ का"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "फायदा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा के"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "मेहनत करेला"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "हवा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:09.462670339Z",
+  "model": "glm-5.3"
+}

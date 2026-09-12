@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "jeremiah 51:60",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "आ यर्मियाह ⟨את⟩ ओ सारा बिगार लिखलन जे बाबेल पर आवे, एक्के किताब में — ⟨את⟩ ई सारा बचन जे बाबेल के बारे में लिखल गइल बा।",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "लिखलन"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यर्मियाह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारा बिगार"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "बिगार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई सारा बचन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "लिखल गइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:46:37.474847383Z",
+  "model": "glm-5.3"
+}

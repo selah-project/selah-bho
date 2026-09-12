@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 148,
+  "translation": "जपी ⟨את⟩ यहवे के नाम, काहें कि ऊ आज्ञा कइलन आ ऊ सिरजा गइलें।",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "जपी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा कइलन"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "आ सिरजा गइलें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:02.104246188Z",
+  "model": "glm-5.3"
+}

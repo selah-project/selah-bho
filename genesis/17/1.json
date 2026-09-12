@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 17:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "अबराम नब्बे बरिस के भइलन आ नउ बरिस, आ यहवे अबराम के दरसन दिहलन आ ओकरा से कहलन: “हम एल शद्दय; हमार आगे टहलऽ आ बिना दाग के रहऽ।”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भइलन"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अबराम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "आ नउ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "दरसन दिहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अबराम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "टहलऽ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "हमार आगे"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "रहऽ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "बिना दाग के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:29.824323562Z",
+  "model": "glm-5.3"
+}

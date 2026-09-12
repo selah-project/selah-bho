@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "हम अकेले ए पूरा लोग के ⟨את⟩ ना उठाइ सकत बानी, काहें से ई हमार खातिर बहुते भारी बा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सकत बानी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम अकेले"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "उठाइ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा लोग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी बा"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमार खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:23.765099131Z",
+  "model": "glm-5.3"
+}

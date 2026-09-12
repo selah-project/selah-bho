@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "मुँह के फल से मनुख भलाई खाला, बाकिर बिस्वासघाती लोगन के ⟨जीव⟩ हिंसा ⟨खाला⟩।",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "के फल से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "के ⟨जीव⟩"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "बिस्वासघाती लोगन"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:10.963760937Z",
+  "model": "glm-5.3"
+}

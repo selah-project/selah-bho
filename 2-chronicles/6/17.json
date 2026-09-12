@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ अबियो यहवे, इस्राएल के एलोहीम, रउआ के बचन साबित होखे जवन रउआ आपन सेवक दाऊद से कहलन।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अबियो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "साबित होखे"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "रउआ के बचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "आपन सेवक से"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दाऊद"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:37.293147838Z",
+  "model": "glm-5.3"
+}

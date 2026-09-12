@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 96,
+  "translation": "यहवे के देई दिया ओकर नाम के महिमा; भेंट उठाई आ ओकर आँगन सभे में आई जाई।",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "देई दिया"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम के"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "उठाई"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "आ आई जाई"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "ओकर आँगन सभे में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:27.706792963Z",
+  "model": "glm-5.3"
+}

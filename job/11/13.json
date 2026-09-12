@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "जँ तूँ आपन मन तैआर कइलहूँ, आ ओकरा ओर आपन हथेली फइलाइलहूँ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "तैआर कइलहूँ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "आपन मन"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "आ फइलाइलहूँ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा ओर"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "आपन हथेली"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:40.637499734Z",
+  "model": "glm-5.3"
+}

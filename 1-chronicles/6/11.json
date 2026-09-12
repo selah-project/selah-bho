@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एलकानाह — एलकानाह के बेटा सोफै ओकर बेटा, आ नाहत ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकानाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकानाह"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "सोफै"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "आ नाहत"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:20.951623288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "चतुराई नासमझ खातिर बहुत ऊँच बा; डेढ़ी में ऊ आपन मुँह ना खोलेला।",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "बहुत ऊँच"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "नासमझ खातिर"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "चतुराई"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "डेढ़ी में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोलेला"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "आपन मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:06.861755555Z",
+  "model": "glm-5.3"
+}

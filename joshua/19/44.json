@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ एल्तेके आ गिब्बेतोन आ बाअला।",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "आ एल्तेके"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "आ गिब्बेतोन"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "आ बाअला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:09.692652719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ एबर चौंतीस साल जियलन, आ ⟨את⟩ पेलेग के जनम देलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जियलन"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम देलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेलेग"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पेलेग"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:37.940118200Z",
+  "model": "glm-5.3"
+}

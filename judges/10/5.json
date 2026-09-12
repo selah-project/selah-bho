@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ याईर के मउत भइल, आ ऊ कामोन में गाड़ल गइलें।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मउत भइल"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याईर"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "गाड़ल गइलें"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "कामोन में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:00:25.521215013Z",
+  "model": "glm-5.3"
+}

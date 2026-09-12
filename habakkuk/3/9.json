@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "नाङगेपन से खुलल बा तोहार कमान; छड़ी सभे के सौँह — सबद ⟨ह⟩। सेला। नदी सभे से धरती फाटल।",
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "नाङगेपन"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "तोहार कमान"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "के सौँह"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "छड़ी सभे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "सबद"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "नदी सभे से"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "फाटल"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:52.107092686Z",
+  "model": "glm-5.3"
+}

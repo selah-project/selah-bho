@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "जइसे कुकुर अपना उल्टी पर लौटेला, तइसे मूर्ख अपना मूर्खता दोहरावेला।",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "जइसे कुकुर"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "उल्टी"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "दोहरावेला"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "अपना मूर्खता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:28.556862902Z",
+  "model": "glm-5.3"
+}

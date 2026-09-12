@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 33:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लोग सीनय के जंगल से चललें, आ किबरोत-हत्तावाह में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "जंगल से"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनय के"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בקברת",
+      "gloss": "किबरोत में"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "हत्तावाह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:13.177049605Z",
+  "model": "glm-5.3"
+}

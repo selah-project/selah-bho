@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "रउआ आपन जनता के अधर्म उठा लीहली, रउआ इनहन के सब पाप ढाक दीहल। सेला।",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "उठा लीहली"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "आपन जनता"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "ढाक दीहल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:33.480689663Z",
+  "model": "glm-5.3"
+}

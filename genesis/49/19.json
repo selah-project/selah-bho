@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "गद — टोली ओपर धावा बोलेले, बाकिर ऊ एड़ी पर धावा बोलेला।",
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "गद"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "टोली"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "ओपर धावा बोलेले"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "बाकिर ऊ"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "धावा बोलेला"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "एड़ी पर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:31.679561174Z",
+  "model": "glm-5.3"
+}

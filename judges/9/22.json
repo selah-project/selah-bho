@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ अबिमेलेक तीन बरिस ले इस्राएल पर राज कइलन।",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेलेक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस ले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:59:32.255133017Z",
+  "model": "glm-5.3"
+}

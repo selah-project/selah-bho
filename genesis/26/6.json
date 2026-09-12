@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ इसहाक गरार में रहल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आ रहल"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "गरार में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:24.770659766Z",
+  "model": "glm-5.3"
+}

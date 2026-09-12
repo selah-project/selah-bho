@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezekiel 40:41",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "चारि मेज एधर से आ चारि मेज उधर से, दुआर के काँधा लगे — आठ मेज, ओहिने पर ऊ बलि काटेलें।",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "एधर से"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चारि"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "उधर से"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "के काँधा लगे"
+    },
+    {
+      "surface": "השער",
+      "gloss": "दुआर के"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओहिने पर"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "काटेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:34.747633846Z",
+  "model": "glm-5.3"
+}

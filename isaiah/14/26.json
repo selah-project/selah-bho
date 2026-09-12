@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "ई ⟨ह⟩ सलाह बा जवन सब धरती पर सलाहल गइल बा, आ ई हाथ बा जवन सब जाति सभ पर तानल गइल बा।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "जवन सलाहल गइल बा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "היד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "जवन तानल गइल बा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:51.167389889Z",
+  "model": "glm-5.3"
+}

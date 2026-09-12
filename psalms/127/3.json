@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 127,
+  "translation": "देखऽ — लरिका यहवे के उत्तराधिकार बाड़ें, पेट के फल इनाम बा।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "उत्तराधिकार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "इनाम"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "पेट के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:15.830251828Z",
+  "model": "glm-5.3"
+}

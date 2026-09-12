@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ बेवा आ छोड़ल गइल औरत के नेदर — हर ऊ चीज जवन ऊ आपन नफश पर बान्धले — ओकरा पर कायम रहेला।",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "आ नेदर"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "बेवा"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "आ छोड़ल गइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "बान्धले"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "कायम रहेला"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:45.327255875Z",
+  "model": "glm-5.3"
+}

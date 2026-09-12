@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "तोर मन पापी लोगन के ईर्ष्या ना करे; बाकिर यहवे के भय में रहे, पूरा दिन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ईर्ष्या करे"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोर मन"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "पापी लोगन के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨मात्र⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "भय में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:55.898280651Z",
+  "model": "glm-5.3"
+}

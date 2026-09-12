@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ऊ पहिला बेरा चललें, यहवे के मुँह ⟨के अनुसार⟩, मोशे के हाथ के द्वारा।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "पहिला बेरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨के अनुसार⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ के द्वारा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:14.067426716Z",
+  "model": "glm-5.3"
+}

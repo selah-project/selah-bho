@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "जवन यहवे के बचन नबी यिर्मियाहू के ओर गोय-सभे के बारे में आइल रहल।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइल रहल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "गोय-सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:38.272205275Z",
+  "model": "glm-5.3"
+}

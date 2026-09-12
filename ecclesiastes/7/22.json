@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "काहें से तोहार हिया बहुत बेर जानेला जे तूँ आउ दूसरन के धिक्कारलऽ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोहार हिया"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "धिक्कारलऽ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दूसरन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:35.224379305Z",
+  "model": "glm-5.3"
+}

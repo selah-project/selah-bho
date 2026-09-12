@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 36:31",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "कारण इनहन से ऊ जाति सभ के न्याय करेला, भरपूर खाना देला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "בם",
+      "gloss": "इनहन से"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "न्याय करेला"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सभ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देला"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "למכביר",
+      "gloss": "भरपूर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:14.081108516Z",
+  "model": "glm-5.3"
+}

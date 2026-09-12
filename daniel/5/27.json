@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "तेकेल — रउआ तराजू में तोलल गइल बानी आ कमी पावल गइल बानी।",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "तेकेल"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "तोलल गइल बानी"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "तराजू में"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "पावल गइल बानी"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "कमी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:35:58.569864360Z",
+  "model": "glm-5.3"
+}

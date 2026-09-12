@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ऊ ⟨את⟩ बछरा के मिलन-तम्बू के दुआर ला यहवे के सामने लौटावेला, आ ⟨את⟩ आपन हाथ बछरा के मुड़ी पर रखेला, आ ⟨את⟩ बछरा के यहवे के सामने बलि करेला —",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "लौटावेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बछरा"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछरा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "रखेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन हाथ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आपन हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "मुड़ी"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछरा के"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "बलि करेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बछरा"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछरा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:57:18.831875913Z",
+  "model": "glm-5.3"
+}

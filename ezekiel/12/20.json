@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 12:20",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ बसल नगर सभे उजाड़ हो जाईं, आ धरती उजाड़ बनी जाई; आ रउआ जान जाब कि हम यहवे हऽ।",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "आ ... नगर सभे"
+    },
+    {
+      "surface": "הנושבות",
+      "gloss": "बसल"
+    },
+    {
+      "surface": "תחרבנה",
+      "gloss": "उजाड़ हो जाईं"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "आ धरती"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "उजाड़"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बनी जाई"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "आ रउआ जान जाब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:07.033761114Z",
+  "model": "glm-5.3"
+}

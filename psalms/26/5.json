@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "हम बुरा काम करे वालन के भीड़ के घृणा कइली अनी, आ दुष्ट सभ के संग ना बइठब।",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "घृणा कइली अनी"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "भीड़"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "बुरा काम करे वालन के"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ … संग"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट सभ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "बइठब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:56.612921700Z",
+  "model": "glm-5.3"
+}

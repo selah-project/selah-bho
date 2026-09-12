@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "पिता लोग के लरिकन खातिर मारल ना जाव, आ लरिकन के पिता लोग खातिर मारल ना जाव; हर एक आदमी आपन पाप में मारल जाव।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मारल जाव"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "पिता लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिकन"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "आ लरिकन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मारल जाव"
+    },
+    {
+      "surface": "על",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "पिता लोग"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक आदमी"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "आपन पाप में"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मारल जाव"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:28.203502735Z",
+  "model": "glm-5.3"
+}

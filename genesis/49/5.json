@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "शिमओन आ लेवी भाई बाड़ें — हिंसा के औजार ऊनकर तलवार सभ हवें।",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "शिमओन"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "आ लेवी"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "भाई बाड़ें"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "औजार"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा के"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "ऊनकर तलवार सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:36.225181936Z",
+  "model": "glm-5.3"
+}

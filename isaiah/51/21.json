@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "एही से, हे पीड़ित दुखिनी आ घुर्रावल — बाकिर शराब से ना — ए बात के सुनऽ नाँ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "नाँ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ए बात के"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "पीड़ित दुखिनी"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "आ घुर्रावल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर… ना"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "शराब से"
+    }
+  ],
+  "timestamp": "2026-09-11T20:16:28.475552556Z",
+  "model": "glm-5.3"
+}

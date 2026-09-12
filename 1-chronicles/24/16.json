@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "उन्नीसवाँ पेतह्याह खातिर, बीसवाँ येहेज़ेकेल खातिर।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "पेतह्याह खातिर"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "उन्नीस"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨वाँ⟩"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "येहेज़ेकेल खातिर"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "बीसवाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:53.335185800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "जब ले दिन फुरी आ छाया-सभे भाग जाईं, तब ले हम मुर के पहाड़ आ लिबोना (धूप) के टीला के ओर चल जाइब।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "फुरी"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "आ भाग जाईं"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "छाया-सभे"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "चल जाइब"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "המור",
+      "gloss": "मुर"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ के ओर"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "टीला"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "लिबोना"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:36.741399259Z",
+  "model": "glm-5.3"
+}

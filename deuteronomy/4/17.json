@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "धरती में रहल हर जानवर के आकृति, अकास में उड़े वाली हर पंखवाली चिरई के आकृति —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में रहल"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चिरई"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "पंखवाली"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "उड़े वाली"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "अकास में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:58.274775737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ मूसा एगो बेदी बनवलन, आ ओकर नाँव रखलन यहवे-निस्सी (यहवे हमार झंडा)।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "एगो बेदी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "आ नाँव रखलन"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "-निस्सी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:20.242000537Z",
+  "model": "glm-5.3"
+}

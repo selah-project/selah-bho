@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "गहूँ आ जौ, अंगूर के बेल आ अंजीर आ अनार वाली धरती; तेल के जैतून आ मधु वाली धरती।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गहूँ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "आ जौ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "आ अंगूर के बेल"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "आ अंजीर"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "आ अनार"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "आ मधु"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:28.660266261Z",
+  "model": "glm-5.3"
+}

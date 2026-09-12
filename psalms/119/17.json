@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "अपन सेवक पर भलाई करिस, हम जियब आ तोहार बचन के रखब।",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "भलाई करिस"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "अपन सेवक"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "हम जियब"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "आ रखब"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "तोहार बचन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:35.088610556Z",
+  "model": "glm-5.3"
+}

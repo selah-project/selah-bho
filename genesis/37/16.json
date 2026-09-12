@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "ओ कहलन: “हम ⟨את⟩ अपना भाई लोग के खोजत बानी। बतावऽ ना, ऊ लोग कते गोरू चरावत बाड़ें?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना भाई लोग के"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "अपना भाई लोग"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "खोजत बानी"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बतावऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(मोके)"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "कते"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ लोग"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "गोरू चरावत बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:36.318757449Z",
+  "model": "glm-5.3"
+}

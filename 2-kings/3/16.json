@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ऊ कहलन, “यहवे एइसने कहेलें: एही नाला के गड़्हा-गड़्हा खनल जाय।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एइसने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "खनल जाव"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "गड़्हा"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "गड़्हा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:47:58.141610178Z",
+  "model": "glm-5.3"
+}

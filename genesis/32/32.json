@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ जब ऊ ⟨את⟩ पेनुएल पार क गइल, तखन ओकरा ला सूरज चढ़ल, आ ऊ आपन जाँघ टेक के लंगड़ावत रहल।",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "चढ़ल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा ला"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरज"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार क गइल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेनुएल"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "पेनुएल"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "लंगड़ावत रहल"
+    },
+    {
+      "surface": "על",
+      "gloss": "टेक के"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "आपन जाँघ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:27:32.059730460Z",
+  "model": "glm-5.3"
+}

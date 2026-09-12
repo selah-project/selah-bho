@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "आ सब राजा ओकरे आगे दण्डवत करेलें; सब जाति लोग ओकर सेवा करेलें।",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "आ दण्डवत करेलें"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरे आगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति लोग"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ओकर सेवा करेलें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:22.907933175Z",
+  "model": "glm-5.3"
+}

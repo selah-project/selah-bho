@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आपन आँखन के निंदी ना देव, आ आपन परनन के झपकी ना देव।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देव"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "निंदी"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "आपन आँखन के"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "आ झपकी"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "आपन परनन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:43.754348318Z",
+  "model": "glm-5.3"
+}

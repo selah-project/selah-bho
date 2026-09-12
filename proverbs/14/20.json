@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "गरीब त आपन संगी लोगनो से घृणित बा, आ धनी के प्रेमी बहुत बाड़ें।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "त"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "आपन संगी लोगनो से"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "घृणित बा"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "आ प्रेमी"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी के"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:20.520642992Z",
+  "model": "glm-5.3"
+}

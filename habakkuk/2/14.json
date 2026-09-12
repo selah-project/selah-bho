@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "कारण धरती भर जाई यहवे के महिमा के जानकारी से — जानल ⟨את⟩ यहवे के कबोद के — जइसे पानी समुंदर के ढाक देला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भर जाई"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जानल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के कबोद"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "कबोद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "जइसे पानी"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ढाक देला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुंदर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:20:45.217315727Z",
+  "model": "glm-5.3"
+}

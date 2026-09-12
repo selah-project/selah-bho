@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ऊ तीन हजार मसल बोललन, आ ओकर गीत के गिनती पाँच हजार रहल।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मसल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहल"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ओकर गीत"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:30:24.025880221Z",
+  "model": "glm-5.3"
+}

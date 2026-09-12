@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ काट दिहलस; आ मोशे ⟨את⟩ खून के वेदी पर चारों ओर छिड़क दिहलन।",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "काट दिहलस"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "छिड़क दिहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खून"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:29.469136481Z",
+  "model": "glm-5.3"
+}

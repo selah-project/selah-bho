@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 30:15",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ हम आपन गुस्सा सीन — मिस्रयिम के गढ़ — पर उड़ेलब, आ हम ⟨את⟩ नो के भीड़ के काट देब।",
+  "tokens": [
+    {
+      "surface": "ושפכתי",
+      "gloss": "आ हम उड़ेलब"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "आपन गुस्सा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "סין",
+      "gloss": "सीन"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "आ हम काट देब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नो के भीड़"
+    },
+    {
+      "surface": "המון",
+      "gloss": "भीड़"
+    },
+    {
+      "surface": "נא",
+      "gloss": "नो"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:39.470029947Z",
+  "model": "glm-5.3"
+}

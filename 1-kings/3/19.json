@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ई औरत के लड़का रात में मर गइल, काहे कि ऊ ओकरे ऊपर लेटल रहले।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "औरत के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "लेटल रहले"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरे ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:34:44.059165265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "क्रोध के दिन धन कामे ना आवेला; बाकिर नेकी मउत से बचावेले।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "कामे आवेला"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "क्रोध के"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "बाकिर नेकी"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "बचावेले"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मउत से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:15.803821359Z",
+  "model": "glm-5.3"
+}

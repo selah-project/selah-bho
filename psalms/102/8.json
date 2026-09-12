@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 102,
+  "translation": "हम जागत रहल बानी, आ अकेल चिरै नियर हो गइल बानी छत के ऊपर।",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "जागत रहल बानी"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "आ हो गइल बानी"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "चिरै नियर"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "अकेल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:23.956990478Z",
+  "model": "glm-5.3"
+}

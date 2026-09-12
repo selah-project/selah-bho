@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "उनकर हाथ पर रपाया, हूर के बेटा, यरूशलयिम (यरूशलेम) के आध जिला के सरदार, सुदृढ़ कइलन।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "के हाथ पर"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "उनकर हाथ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "सुदृढ़ कइलन"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "रपाया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חור",
+      "gloss": "हूर"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आध"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "जिला"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:46:36.203585297Z",
+  "model": "glm-5.3"
+}

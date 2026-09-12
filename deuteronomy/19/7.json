@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "एही से हम रउआ के हुकुम देनी जा रहल बानी, के कहल जाव — तीन गो नगरी रउआ आपन खातिर अलग करब।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एह"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "हुकुम देनी जा रहल बानी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहल जाव"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन गो"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "अलग करब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ आपन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:48.897103212Z",
+  "model": "glm-5.3"
+}

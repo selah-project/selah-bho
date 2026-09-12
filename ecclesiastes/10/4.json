@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "जब राजा के गुस्सा रउआ पर चढ़े, अपना जगह ना छोड़ऽ — काहेकि ठंड-भरल मरम्मत बड़ बड़ गलती सभे के शांत कर देला।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "चढ़े"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "रउआ पर"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "अपना जगह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "छोड़ऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "मरम्मत (ठंडक)"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "शांत कर देला"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "गलती सभे के"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "बड़ बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:19.237126040Z",
+  "model": "glm-5.3"
+}

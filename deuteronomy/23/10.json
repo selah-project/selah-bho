@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "जब तूँ छाउनी लेके आपन दुश्मन के ऊपर निकलेला, तऽ हरेक बुरा बात से अपना बचाबू।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलेला"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "छाउनी"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "आपन दुश्मन"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "आ अपना बचाबू"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हरेक से"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:01.236118676Z",
+  "model": "glm-5.3"
+}

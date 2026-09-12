@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ राजा सुलेमान धरती के सब राजा सभे से दौलत आ समझ दुनो में बड़ भइल।",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "बड़ भइल"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब से"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "दौलत में"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "आ समझ में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:38:47.128563407Z",
+  "model": "glm-5.3"
+}

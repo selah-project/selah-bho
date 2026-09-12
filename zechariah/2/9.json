@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हम ओकर खातिर बानी, यहवे के कथन ⟨बा⟩ — चारो ओर आग के दीवाल, आ महिमा बन के हम ओकर बीच में रहब।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवाल"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारो ओर"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "आ महिमा बन के"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ओकर बीच में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:09.613575992Z",
+  "model": "glm-5.3"
+}

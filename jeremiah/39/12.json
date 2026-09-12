@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "ओकरा ले जाऽ, आ आपन नेनी ओकरा ऊपर राखऽ, आ ओकरा सँग कवनो बुराई ना करऽ; बल्कि जइसन ऊ रउआ से कहेला, तइसने ओकरा सँग करऽ।",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "ओकरा ले जाऽ"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "आ आपन नेनी"
+    },
+    {
+      "surface": "שים",
+      "gloss": "राखऽ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा सँग"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसने"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करऽ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरा सँग"
+    }
+  ],
+  "timestamp": "2026-09-11T20:38:36.502951472Z",
+  "model": "glm-5.3"
+}

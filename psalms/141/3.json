@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 141,
+  "translation": "यहवे, हमर मुँह खातिर पहरेदार रखऽ; हमर ओठन के दुआर पर पहरा देत रहऽ।",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "रखऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "पहरेदार"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "हमर मुँह खातिर"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "पहरा देत रहऽ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "हमर ओठन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:45.175358800Z",
+  "model": "glm-5.3"
+}

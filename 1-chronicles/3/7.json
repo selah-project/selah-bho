@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ नोगाह, आ नेफेग आ याफिया —",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "आ नोगाह"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "आ नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "आ याफिया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:34.261504885Z",
+  "model": "glm-5.3"
+}

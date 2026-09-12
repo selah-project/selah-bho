@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "जीभ के कोरा से तूँ छुप जाब, आ बरबादी से ना डरब जब ऊ आई।",
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "के कोरा से"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "तूँ छुप जाब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "तूँ डरब"
+    },
+    {
+      "surface": "משד",
+      "gloss": "बरबादी से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ऊ आई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:51.448703735Z",
+  "model": "glm-5.3"
+}

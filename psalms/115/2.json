@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 115,
+  "translation": "काहे जाति सभे कहेलें — “कने गो हुनका एलोहीम?”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "कहेलें"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सभे"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कने"
+    },
+    {
+      "surface": "נא",
+      "gloss": "गो"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "हुनका एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:49.052794861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "जवनो प्राण कवनो खून खाई, ओही प्राण आपन लोगन में से काटल जाई।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जवनो"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "आ काटल जाई"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ओही प्राण"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "आपन लोगन में से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:07.555645569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 33:13",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लोग दाफकाह से चललें, आ अलूश में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "מדפקה",
+      "gloss": "दाफकाह से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "באלוש",
+      "gloss": "अलूश में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:13.176374945Z",
+  "model": "glm-5.3"
+}

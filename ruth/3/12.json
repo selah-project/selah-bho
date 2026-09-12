@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "“आ अब, सच बा कि हम गोएल बानी, बाकिर एक गोएल आ बा जे हमसे नज़दीक बाने।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "सच"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "बा कि"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "गोएल"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "गोएल"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नज़दीक"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमसे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:24:36.433919278Z",
+  "model": "glm-5.3"
+}

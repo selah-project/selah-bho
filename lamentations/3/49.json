@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमार आँख बहले, आ ओकर बहाव बिना कवनो राहत के टिकल ना जाला।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "हमार आँख"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "बहले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "टिकल जाला"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "कवनो राहत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:15.825588206Z",
+  "model": "glm-5.3"
+}

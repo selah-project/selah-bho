@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहवे मूसा से बोललन, एहन कहिके —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ … बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से (के ओर)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "एहन कहिके —"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:20.598411020Z",
+  "model": "glm-5.3"
+}

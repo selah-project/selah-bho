@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ऊ ऊनखा कहलन: “अउर तीन दिन, फेर रउआ हमरा लौट आवऽ।” आ जनता चलल गइल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ऊनखा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "फेर आवऽ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लौट"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चलल गइल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:26.299266346Z",
+  "model": "glm-5.3"
+}

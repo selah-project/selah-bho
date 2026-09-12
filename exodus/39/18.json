@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 39:18",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ ⟨את⟩ दू जंजीरन के दू सिरा के दू जड़ावन पर रखलन, आ ऊकरा एफोद के दू काँधन पर रखलिन — ओकर सामने के ओर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दू सिरा"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "सिरा"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "जंजीरन के"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "जड़ावन"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "रखलिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "काँधन"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מול",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुख के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:19.191371152Z",
+  "model": "glm-5.3"
+}

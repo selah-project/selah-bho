@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ रूपें इसराएल दाऊद के घराना के बिरुद्ध बगावत कइलस, एही दिन तक ले।",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "बगावत कइलस"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישראל"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "के घराना के बिरुद्ध"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "एही दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:19.850768850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "जउन नेकी आ हेसेद के पीछा करेला, ऊ जिन्दगी, नेकी आ मान-सम्मान पाई।",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "पीछा करेला"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "नेकी"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "आ हेसेद"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पाई"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिन्दगी"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "नेकी"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आ मान-सम्मान"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.305692515Z",
+  "model": "glm-5.3"
+}

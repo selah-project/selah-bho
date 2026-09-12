@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "मूर्ख खातिर बुराई कइले हँसी नियर बा, आ समझदार मनुष्य खातिर चतुराई बा।",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "हँसी नियर"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "मूर्ख खातिर"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "आ चतुराई"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुष्य खातिर"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "समझदार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:11.112543211Z",
+  "model": "glm-5.3"
+}

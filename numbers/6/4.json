@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "जब तक ओकर नजर (अलग रहे के दिन) बा, अंगूर के बेल से जो कुछ बने ओकर भी ना खाय, बीज से ले के छिलका तक।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनन"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ओकर अलग रहे के"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "बने"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "अंगूर के बेल से"
+    },
+    {
+      "surface": "היין",
+      "gloss": "मद के"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "बीज से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के … तक"
+    },
+    {
+      "surface": "זג",
+      "gloss": "छिलका"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाय"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:36.682978627Z",
+  "model": "glm-5.3"
+}

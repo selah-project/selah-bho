@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 18:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ यहवे मूसा से बात कइलन, कहित —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बात कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहित"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:57.542580340Z",
+  "model": "glm-5.3"
+}

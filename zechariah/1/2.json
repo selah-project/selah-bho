@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "यहवे रउआ सभे के पुरखा लोगन पर बड़ क्रोधित भइल — क्रोध कइलन।",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "क्रोधित भइल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "रउआ सभे के पुरखा लोगन"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "क्रोध कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:23:34.287362070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ यहवे डेरा में बादल के खम्भा में दिखाई पड़लन, आ बादल के खम्भा डेरा के दुआर पर खड़ा रहल।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आ दिखाई पड़लन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "डेरा में"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "खम्भा में"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल के"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "आ खड़ा रहल"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "डेरा के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:46:08.649961003Z",
+  "model": "glm-5.3"
+}

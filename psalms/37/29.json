@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "धर्मी लोग धरती के बिरासत में लेहेला, आ सदा एही के ऊपर रहेला।",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मी लोग"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "बिरासत में लेहेला"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "आ रहेला"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "एही के ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:26.001223232Z",
+  "model": "glm-5.3"
+}

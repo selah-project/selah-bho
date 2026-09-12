@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अबहियाँ, हमार बेटा, हमार आवाज सुनऽ, उठऽ आ भाग जा, चलो लावन के पास, हमार भाई के, छर्रान में।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अबहियाँ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमार बेटा"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "हमार आवाज"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भाग जा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "चलो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लावन"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हमार भाई के"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "छर्रान में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:45.193517176Z",
+  "model": "glm-5.3"
+}

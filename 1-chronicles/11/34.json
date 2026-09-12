@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "हाशेम गीज़ोनीवाला के बेटा लोग, योनातन सागेह हरारीवाला के बेटा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "השם",
+      "gloss": "हाशेम"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "गीज़ोनीवाला"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "सागेह"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हरारीवाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:21.678666874Z",
+  "model": "glm-5.3"
+}

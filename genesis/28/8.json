@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ एसव देखलक कि इसहाक आपन पिता के नजर मा कनान के बेटिन बुरा लागेला।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "आ देखलक"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटिन"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "नजर मा"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "इसहाक"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:03.987446949Z",
+  "model": "glm-5.3"
+}

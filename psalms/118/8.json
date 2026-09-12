@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 118,
+  "translation": "यहवे के शरण लेवे नीक बा, मनुख पर भरोसा करे से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "शरण लेवे"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "भरोसा करे से"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुख पर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:53:00.210273556Z",
+  "model": "glm-5.3"
+}

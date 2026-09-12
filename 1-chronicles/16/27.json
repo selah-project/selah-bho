@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ओकर सामने तेज आ महिमा बा, ओकर जगह में बल आ खुसी बा।",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आ महिमा"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकर सामने"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "आ खुसी"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "ओकर जगह में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:49.886661130Z",
+  "model": "glm-5.3"
+}

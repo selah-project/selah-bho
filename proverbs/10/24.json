@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "दुष्ट के डर ओही ओकरा आ जाई, आ धर्मी लोगन के चाहत पूरी कइल जाई।",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "ओकरा आ जाई"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "आ चाहत"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मी लोगन के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "पूरी कइल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:11.112653697Z",
+  "model": "glm-5.3"
+}

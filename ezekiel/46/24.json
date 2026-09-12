@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "ऊ हमसे कहलें: ई पकावे के घर हवें, जहाँ घर के सेवक लोग ओहिजे ⟨את⟩ प्रजा के बलि पकावेला।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "पकावे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "पकावेला"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "सेवक लोग"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रजा के बलि"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:06:28.825422457Z",
+  "model": "glm-5.3"
+}

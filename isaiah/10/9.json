@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "“का कालनो करकमिश सन नइखे? का हमात अर्पद सन नइखे? का शोमरोन दमिश्क सन नइखे?”",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "करकमिश सन"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "कालनो"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "अर्पद सन"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "हमात"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "दमिश्क सन"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:02:49.885329694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "किर्यत येअरिम, केफिरा आ बेरोत के मनई — सात सौ चालीस आ तेइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के मनई"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "येअरिम"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "केफिरा"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "आ बेरोत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तेइस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:42.904026421Z",
+  "model": "glm-5.3"
+}

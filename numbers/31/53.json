@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "काहें कि सेना के मरद लूटलेन, हर एक आपन खातिर।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना के"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "लूटलेन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:27.904691865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "एही से घमंड ऊ के गला के माला बा, हिंसा कपड़ा नियन ओ के ढकेले।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "गला के माला बा"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ढकेले"
+    },
+    {
+      "surface": "שית",
+      "gloss": "कपड़ा नियन"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ओ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:38.087045545Z",
+  "model": "glm-5.3"
+}

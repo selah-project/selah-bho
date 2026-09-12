@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ यहूदा के ⟨את⟩ परदा हटा दीनल गइल, आ तूँ ओहि दिन जंगल के घर के हथियारन के ओर ताकल केहु।",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "हटा दीनल गइल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परदा"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "आ तूँ ताकल केहु"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "हथियारन के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जंगल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:05:31.119291078Z",
+  "model": "glm-5.3"
+}

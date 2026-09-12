@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "काहें से कि नबी भी आ पुरोहित भी कपट करेला; हम इनहन के बुराई आपन घर में भी पाईनी — यहवे के कथन बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "कपट करेला"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "आपन घर में"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "पाईनी"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "इनहन के बुराई"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:31:45.546269053Z",
+  "model": "glm-5.3"
+}

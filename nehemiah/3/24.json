@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ओकर बाद बिन्नुई, हेनादाद के बेटा, दुसरा माप ठीक कइलन — अजर्याह के घर से ले के मोड़ ले आ कुना ले।",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "ओकर बाद"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ठीक कइलन"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "बिन्नुई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "हेनादाद के"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "माप"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दुसरा"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से ले के"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "मोड़"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ … ले"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "कुना"
+    }
+  ],
+  "timestamp": "2026-09-11T22:46:36.190825572Z",
+  "model": "glm-5.3"
+}

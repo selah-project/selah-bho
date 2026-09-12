@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "ओहिंसे ऊ लोग चलले आ ज़ेरेद नाला में डेरा लगावले।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ओहिंसे"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "चलले"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा लगावले"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाला में"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ज़ेरेद"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:01.965727386Z",
+  "model": "glm-5.3"
+}

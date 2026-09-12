@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 139,
+  "translation": "काहें से हमार जीभ पर कवनो शब्द नइखे — देखऽ, यहवे, रउआ ओकर पूरा जानले बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें से"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "कवनो शब्द"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "हमार जीभ पर"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "रउआ जानले बा"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ओकर पूरा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:15.635506236Z",
+  "model": "glm-5.3"
+}

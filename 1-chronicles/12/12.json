@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "अत्तय छठवाँ, एलिएल सातवाँ।",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "अत्तय"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "छठवाँ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "एलिएल"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातवाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:29.243297333Z",
+  "model": "glm-5.3"
+}

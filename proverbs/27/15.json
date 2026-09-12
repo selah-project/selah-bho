@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "बरसात के दिन लगातार टपकत पानी आ झगड़ा करेवाली औरत ⟨बाड़ी⟩ बराबर।",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "टपकत पानी"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "बरसात"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "आ औरत"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "झगड़ा करेवाली"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "बराबर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:36.068352951Z",
+  "model": "glm-5.3"
+}

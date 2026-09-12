@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 140,
+  "translation": "हम जानत बानी कि यहवे दीन के निआ करेहें आ गरीब लोगन के अधिकार करेहें।",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "जानत बानी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेहें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דין",
+      "gloss": "निआ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीन के"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "अधिकार"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "गरीब लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:55.252098752Z",
+  "model": "glm-5.3"
+}

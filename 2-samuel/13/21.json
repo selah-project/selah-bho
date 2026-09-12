@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ राजा दाऊद ⟨את⟩ सब ई बात सुनलन, आ ओकरा बड़ी क्रोध भइल।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "आ राजा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब ई बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "क्रोध भइल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T19:25:49.793559429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "काहे कि हम कवनो मरद से बेसी जानवर बानी, आ मरद के समझ मोरा नइखे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בער",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "कवनो मरद से बेसी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ... नइखे"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "समझ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मरद के"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:51.573363732Z",
+  "model": "glm-5.3"
+}

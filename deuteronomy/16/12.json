@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ रउआ याद रखब कि रउआ मिस्रयिम (मिस्र) में दास रहनी; आ रउआ ⟨את⟩ एही विधिमन के मानब आ करब।",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "आ रउआ याद रखब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "היית",
+      "gloss": "रहनी"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रयिम (मिस्र) में"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "आ रउआ मानब"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "आ करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एही विधिमन"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "विधिमन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:12.843149247Z",
+  "model": "glm-5.3"
+}

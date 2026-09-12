@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हम आपन सभे लोग खातिर हँसी बन गइली, ऊ सभे के गीत ⟨बानी⟩ — पूरा दिन।",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "हम रहली"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "हँसी"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सभे खातिर"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा लोग"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "ऊ सभे के गीत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:30.969582577Z",
+  "model": "glm-5.3"
+}

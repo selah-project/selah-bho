@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "केरोस के लड़का, सियाहा के लड़का, पादोन के लड़का।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "केरोस"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "सियाहा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "पादोन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:21.083677703Z",
+  "model": "glm-5.3"
+}

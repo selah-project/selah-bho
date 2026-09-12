@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ यहवे के महिमा घर के चौखट से ऊपर निकलल, आ करूबिम के ऊपर ठाढ़ भइल।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आ निकलल"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से ऊपर से"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "चौखट"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "आ ठाढ़ भइल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "करूबिम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:23.825324699Z",
+  "model": "glm-5.3"
+}

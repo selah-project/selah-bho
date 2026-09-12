@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 34:20",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "एहसे एहना कहेला अदोनाय यहवे उनखा: देखऽ, हम, हमें हम, तगड़ भेड़ आ दुबल भेड़ के बीच फैसला करेनी।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एहसे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनखा"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "फैसला करेनी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "שה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "בריה",
+      "gloss": "तगड़"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ के बीच"
+    },
+    {
+      "surface": "שה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "दुबल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:40.776331095Z",
+  "model": "glm-5.3"
+}

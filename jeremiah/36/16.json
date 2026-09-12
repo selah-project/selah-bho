@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 36:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ जब ऊ सुनलन ⟨את⟩ सब बातन, त डर गइलन, हरेक आपन संगी के ओर; आ उननी बरूख के कहलन: “राजा के जरूर बताईं ⟨את⟩ सब ई बातन।”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ऊ सुनलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बातन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "डर गइलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "उननी कहलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बरूख"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बताईं"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "जरूर बताईं"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब ई बातन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:38:07.939409006Z",
+  "model": "glm-5.3"
+}

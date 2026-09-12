@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "देखऽ, रउआ सुन्दर बानी, हमार संगिनी; देखऽ, रउआ सुन्दर बानी; रउआ के आँखिया कबूतर ⟨बाड़ी⟩।",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "हमार संगिनी"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "रउआ के आँखिया"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "कबूतर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:16.240998734Z",
+  "model": "glm-5.3"
+}

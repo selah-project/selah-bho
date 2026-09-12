@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ओकर दक्खिन के सीमा छेलक साझा-समुद्र के छोर से, ओ जीभ से जवन दक्खिन के ओर मुँह कइले रहे।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ छेलक"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "दक्खिन के"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "छोर से"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र के"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "साझा-"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "मुँह कइले रहे"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "दक्खिन के ओर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:51:53.347431870Z",
+  "model": "glm-5.3"
+}

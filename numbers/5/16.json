@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ काहून ⟨את⟩ ओकरा नजदीक ले आवेला आ ओकरा यहवे के आगे खड़ा करेला।",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "नजदीक ले आवेला"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "काहून"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "खड़ा करेला"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:00.286660017Z",
+  "model": "glm-5.3"
+}

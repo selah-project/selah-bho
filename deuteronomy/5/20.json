@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ तूँ आपन संगी के बिरुद्ध झूठा गवाही ना देबू।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "जवाब देबू"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "आपन संगी के बिरुद्ध"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:41.314182171Z",
+  "model": "glm-5.3"
+}

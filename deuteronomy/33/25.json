@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "लोहा आ पीतल तोहार कुंडी ⟨होखे⟩, आ जइसन तोहार दिन, तइसने तोहार बल।",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "आ पीतल"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "तोहार कुंडी"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "आ जइसन तोहार दिन"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "तोहार बल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:23.575582357Z",
+  "model": "glm-5.3"
+}

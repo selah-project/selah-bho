@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "अत्याचारी मनई से कबो डाह (ईर्ष्या) ना करऽ, आ ओकर गलन के कवनो गल ना बीछऽ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "कबो डाह ना करऽ"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "मनई से"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "अत्याचारी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "बीछऽ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ओकर गल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:09.274908973Z",
+  "model": "glm-5.3"
+}

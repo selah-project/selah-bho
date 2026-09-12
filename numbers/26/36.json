@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ ई सभे शूतेलाह के बेटा बाड़ें: एरान खातिर एरानी सभ के कुनबा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई सभे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "शूतेलाह के"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "एरान खातिर"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "एरानी सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:48.543759449Z",
+  "model": "glm-5.3"
+}

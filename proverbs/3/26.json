@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहेकि यहवे टोहार भरोसा रहिहें, आ टोहार पइर के फँसावे से बचावेलन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहिहें"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "टोहार भरोसा में"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "आ बचावेलन"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "टोहार पइर के"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "फँसावे से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:20.288024284Z",
+  "model": "glm-5.3"
+}

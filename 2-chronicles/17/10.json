@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 17:10",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहवे के डर सभे देसन के राज्यन पर गिरल जवन यहूदा के चारों ओर रहलें, आ ऊ यहोशाफात से ना लड़लें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … गिरल"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "डर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "राज्यन"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "देसन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "लड़लें"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:48.985584202Z",
+  "model": "glm-5.3"
+}

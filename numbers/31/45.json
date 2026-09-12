@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ गधा तीस हजार आ पाँच सौ।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "आ गधा"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:24.458960558Z",
+  "model": "glm-5.3"
+}

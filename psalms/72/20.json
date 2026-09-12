@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "खतम हो गइल दाऊद के प्रार्थना सभे — यिशै के बेटा के।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "खतम हो गइल"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "प्रार्थना सभे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    }
+  ],
+  "timestamp": "2026-09-11T21:42:59.758528686Z",
+  "model": "glm-5.3"
+}

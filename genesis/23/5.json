@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ खेत के बेटा लोग अवराहाम के ⟨את⟩ जवाब दिहलन, ओकरा से कहते।",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराहाम"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:26.027604810Z",
+  "model": "glm-5.3"
+}

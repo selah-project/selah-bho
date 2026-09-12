@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "बेबै के बेटा लोग, छह सौ तेईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "बेबै"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.140909180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जब ले ऊ धरती नइखे बनवले, ना खुला जगह सभ, ना धरती के धूनि के मुहाना।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवले"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "आ खुला जगह सभ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "आ मुहाना"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "धूनि के"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "धरती (बसल दुनिया)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:45.905821640Z",
+  "model": "glm-5.3"
+}

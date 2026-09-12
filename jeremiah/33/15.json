@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 33:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "उनही दिन मन में आ ओही समय हम दाऊद खातिर नेकी के एक टहनी उगाबब, आ ऊ धरती पर न्याय आ नेकी करिहे।",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिन मन में"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "उनही"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "हम उगाबब"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद खातिर"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "टहनी"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "नेकी के"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ ऊ करिहे"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आ नेकी"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती पर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:36:17.695612574Z",
+  "model": "glm-5.3"
+}

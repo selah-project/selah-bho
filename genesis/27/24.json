@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ कहलन: “तूँहूँ एहेइ हमार लड़का एसाव बा?” आ कहलन: “हम बानी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँहूँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एहेइ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमार लड़का"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:47.416821646Z",
+  "model": "glm-5.3"
+}

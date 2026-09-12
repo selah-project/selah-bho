@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ओहि दिन भा, कवनो मनुक्ख एगो बछवा गाय आ दू गो भेड़ के पालेला।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ भा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "पालेला"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मनुक्ख"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "बछवा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "आ दू गो"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:54.061511855Z",
+  "model": "glm-5.3"
+}

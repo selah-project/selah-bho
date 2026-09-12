@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहवे के बचन योना ला दुसरा बेर आइल, ई कहिके:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दुसरा बेर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T21:17:58.814026421Z",
+  "model": "glm-5.3"
+}

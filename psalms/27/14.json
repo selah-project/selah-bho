@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "यहवे के आस जोहऽ; मजबूत होऽ, आ रउआ के मन के हौसला बढ़ावऽ; आ हाँ, यहवे के आस जोहऽ।",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "आस जोहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "मजबूत होऽ"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "आ हौसला बढ़ावऽ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "रउआ के मन के"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "आ आस जोहऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:27.040508382Z",
+  "model": "glm-5.3"
+}

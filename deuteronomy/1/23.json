@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ई बात हमरा नयनि में भाल, आ हम तोहनी से बारह गो मनई लेलनी — हरेक सबता खातिर एक।",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "आ भाल"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "हमरा नयनि में"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "आ हम लेलनी"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "तोहनी से"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…गो"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "सबता खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:04.078560375Z",
+  "model": "glm-5.3"
+}

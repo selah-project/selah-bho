@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "हुक्मत आपन घर बनवले; ऊ आपन खम्भा सात गो तरासले।",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "हुक्मत"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "बनवले"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "तरासले"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "आपन खम्भा"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:39.210791146Z",
+  "model": "glm-5.3"
+}

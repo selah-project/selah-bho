@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 97,
+  "translation": "उजियाला धरमी लोग खातिर बोयल बा, आ सीधा मन वाला लोग खातिर खुशी।",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "उजियाला"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बोयल बा"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धरमी लोग खातिर"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "आ सीधा खातिर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुशी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:29.286532422Z",
+  "model": "glm-5.3"
+}

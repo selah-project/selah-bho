@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ रउआ ⟨את⟩ ओका राखब मीजार के किनारा के तल में, आ जाली रही मीजार के आधे तक।",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "आ रउआ राखब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ओका (जाली के)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "किनारा (कार्कोब)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "मीजार के"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "तल में"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "आ रही"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "जाली"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधे"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "मीजार के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:49:07.189000101Z",
+  "model": "glm-5.3"
+}

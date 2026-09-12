@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "रउआ के बचाव में ओकर महिमा बड़ बा; तेज आ सोहज रउआ ओकरा ऊपर रखेला।",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ओकर महिमा"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "रउआ के बचाव में"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आ सोहज"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "रखेला"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:59.466909845Z",
+  "model": "glm-5.3"
+}

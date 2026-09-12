@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "चाँदी से गार हटावऽ, आ गलाने वाला खातिर एगो बर्तन निकलेला।",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "हटावऽ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "गार"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "चाँदी से"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "आ निकलेला"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "गलाने वाला खातिर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:02.524856720Z",
+  "model": "glm-5.3"
+}

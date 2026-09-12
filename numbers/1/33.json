@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "इनहन के गिनती, एफ्रायिम के गोत्र खातिर, चालीस हजार आ पाँच सौ रहल।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "इनहन के गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "आ पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:30.188547387Z",
+  "model": "glm-5.3"
+}

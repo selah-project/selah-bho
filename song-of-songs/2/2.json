@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "जइसे काँड़ा सभ के बीचे कुमुदिनी, तइसे हमर प्यारी लड़की सभ के बीचे बाड़ी।",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "जइसे कुमुदिनी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीचे"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "काँड़ा सभ के"
+    },
+    {
+      "surface": "כן",
+      "gloss": "तइसे"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "हमर प्यारी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीचे"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "लड़की सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:58.865727733Z",
+  "model": "glm-5.3"
+}

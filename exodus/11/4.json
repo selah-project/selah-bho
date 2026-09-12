@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ मोशे कहलन: एहने कहेलन यहवे — आधी रात के बेरा हम निकलत नीं मिस्रयिम के बीच में।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "आधी…के बेरा"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "निकलत नीं"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:01.081268705Z",
+  "model": "glm-5.3"
+}

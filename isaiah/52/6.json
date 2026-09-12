@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "एही से हमार जनता हमार नाम के जानेला; एही से ओ दिन ऊ जानेला कि हमू हउ जे बोलेला — देखऽ, हम बानी।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमार जनता"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "हमार नाम"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हमू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हउ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "जे बोलेला"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखऽ, हम बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:17:20.635017207Z",
+  "model": "glm-5.3"
+}

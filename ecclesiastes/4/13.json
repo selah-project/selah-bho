@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ए गरीब आ समझदार लइका ओ बूढ़ आ मूरख राजा से बढ़िया बा, जे अब चेतावनी सीखे के नइखे।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "लइका"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "आ समझदार"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "राजा से"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "बूढ़"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "आ मूरख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "सीखे के"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "चेतावनी"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:58.945932171Z",
+  "model": "glm-5.3"
+}

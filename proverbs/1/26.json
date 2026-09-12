@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "गम अउरी हम रउआ के बिपत्ति में हँसब, रउआ के दहशत आवला पर ठट्ठा मारब।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "गम अउरी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "रउआ के बिपत्ति में"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "हँसब"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ठट्ठा मारब"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "आवला पर"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "रउआ के दहशत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:45.920942704Z",
+  "model": "glm-5.3"
+}

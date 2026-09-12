@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ओकर सब्बो दिन अँधियारी में खाना खावेला, आ बहुत चिढ़, आ ओकर बेमारी आ क्रोध।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब्बो"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ओकर दिन"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "अँधियारी में"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाना खावेला"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "आ चिढ़"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "आ ओकर बेमारी"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "आ क्रोध"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:09.462798622Z",
+  "model": "glm-5.3"
+}

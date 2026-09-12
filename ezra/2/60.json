@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "देलायाह के बेटा, तोबियाह के बेटा, नकोदा के बेटा — छह सौ बावन आ दू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "देलायाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "तोबियाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नकोदा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "बावन"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:27.433670359Z",
+  "model": "glm-5.3"
+}

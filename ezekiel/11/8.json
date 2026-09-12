@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "तलवार से डरल रहीं रउआ, आ हम तलवार रउआ के ऊपर लावत बानी, अदोनाय यहवे के वचन ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "डरल रहीं रउआ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "आ तलवार"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "हम लावत बानी"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "रउआ के ऊपर"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:49:38.913081349Z",
+  "model": "glm-5.3"
+}

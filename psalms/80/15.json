@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 80,
+  "translation": "हे सेनासभा के एलोहीम, लौट आ तऽ, अकास से देख आ एही बेल के धियान दे।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनासभा के"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौट आ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "देख"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "अकास से"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "आ देख"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "आ धियान दे"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "बेल के"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एही"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:45.425650226Z",
+  "model": "glm-5.3"
+}

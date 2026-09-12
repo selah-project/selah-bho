@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "कवनो हम खातिर बुरकामा लोगन के संग उठी? कवनो हम खातिर अधर्म करे वालन के संग खड़ा रही?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम खातिर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "बुरकामा लोगन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "खड़ा रही"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हम खातिर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "करे वालन"
+    },
+    {
+      "surface": "און",
+      "gloss": "अधर्म"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:50.091585206Z",
+  "model": "glm-5.3"
+}

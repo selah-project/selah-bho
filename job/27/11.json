@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "हम ⟨את⟩ रउआ सभे के एल के हाथ से सिखाबी; जवन शद्दय के संग बा, ओकर ना छिपाबी।",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "सिखाबी"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "रउआ सभे के"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "छिपाबी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:06.178967088Z",
+  "model": "glm-5.3"
+}

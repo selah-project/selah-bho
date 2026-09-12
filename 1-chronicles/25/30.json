@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "तेइसवाँ महजियोत के — ओकर बेटा आ ओकर भाई, बारह गो।",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "तेइसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "למחזיאות",
+      "gloss": "महजियोत के"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(मिला के)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:57.438053241Z",
+  "model": "glm-5.3"
+}

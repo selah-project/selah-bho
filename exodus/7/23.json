@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ फिरौन घुरलन आ आपन घर में चलल गइलन, आ एह बात पर भी आपन हिया ना धरलन।",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "आ घुरलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आ चलल गइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שת",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "आपन हिया"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "एह बात पर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:32.913207090Z",
+  "model": "glm-5.3"
+}

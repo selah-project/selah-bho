@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ शिमोन के बेटा रहलें: अमनोन आ रिन्नाह, बेन-खानान आ तिलोन; आ यिशी के बेटा रहलें: जोखेत आ बेन-जोखेत।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "अमनोन"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "रिन्नाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "तिलोन"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशी"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "जोखेत"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आ बेन"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "जोखेत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:33.126411364Z",
+  "model": "glm-5.3"
+}

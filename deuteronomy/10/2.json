@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "“आ हम ओ पट्टी पर लिखिहौं ⟨את⟩ ऊ बातन के जवन पहिला पट्टी पर रहल, जवन तूँ तोड़ल रहला; आ तूँ इनहन के सन्दूक में रखऽ।”",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "आ हम लिखिहौं"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ओ पट्टी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ बातन के"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ऊ बातन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "पट्टी"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "तूँ तोड़ल रहला"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "आ तूँ रखऽ"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "सन्दूक में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:35:27.444061211Z",
+  "model": "glm-5.3"
+}

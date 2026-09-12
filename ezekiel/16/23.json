@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ ए सब बुराई के बाद भइल — हाय! हाय! तोहार खातिर! अदोनाय यहवे के कथन बा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:52:22.849894107Z",
+  "model": "glm-5.3"
+}

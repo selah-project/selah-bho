@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "हर समय तोहार कपड़ा सभे सफेद रहे, आ तोहार मथा पे तेल के कमी ना होखे।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "तोहार कपड़ा सभे"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "सफेद"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "आ … तेल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पे"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तोहार मथा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "के कमी होखे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:08.087378999Z",
+  "model": "glm-5.3"
+}

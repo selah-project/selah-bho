@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ त्सरुयाह के बेटा अबिशय नमक के घाटी में ⟨את⟩ एदोम के मारल — आठ दस (अठारह) हजार।",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "आ अबिशय"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरुयाह"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "मारल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोम"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "घाटी में"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "नमक"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:09.560219978Z",
+  "model": "glm-5.3"
+}

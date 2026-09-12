@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ हनन्याह, आ एलाम, आ अन्तोतियाह —",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "आ हनन्याह"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "आ एलाम"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "आ अन्तोतियाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:49.138192133Z",
+  "model": "glm-5.3"
+}

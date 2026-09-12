@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "एलीफाज के बेटाबन: तेमान आ ओमार, त्सफी आ गाताम, कनाज, आ तिमना आ अमालेक।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफाज"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "आ ओमार"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "त्सफी"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "आ गाताम"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनाज"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "आ तिमना"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "आ अमालेक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:43.402177901Z",
+  "model": "glm-5.3"
+}

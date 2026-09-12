@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "गबर के भवन औरत पर ना रहे, ना गबर औरत के भवन पहिरे, काहे कि जे केहू एहन करेला ऊ यहवे तोहार एलोहीम के घिनौना बा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गबर के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "पहिरे"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गबर"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहार एलोहीम के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करे वाला"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एहन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:30.637107416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ उम्मा, आ अपेक, आ रहोब — बाईस नगर आ इनहन के गाँव।",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "आ उम्मा"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "आ अपेक"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ रहोब"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "आ दू — बाईस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ इनहन के गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:33.745050696Z",
+  "model": "glm-5.3"
+}

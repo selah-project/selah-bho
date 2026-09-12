@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ⟨את⟩ माँस आ ⟨את⟩ चमड़ा के आगि में जरा दिहलन, डेरा के बाहिर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "माँस"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "माँस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चमड़ा"
+    },
+    {
+      "surface": "העור",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जरा दिहलन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगि में"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "डेरा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:55.123812350Z",
+  "model": "glm-5.3"
+}

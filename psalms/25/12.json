@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "कौन ई मनई जे यहवे से डरेला? ऊ ओकरा ओ राह में सिखावेला जेकर चुनाव ऊ करेला।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "ऊ ओकरा सिखावेला"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "राह में"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "जेकर चुनाव ऊ करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:34.332585609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "आ हम ओकर बगावत के छड़ी से देखब, आ ओकर अधर्म के मार से।",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "आ हम देखब"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "छड़ी से"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ओकर बगावत"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "आ मार से"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ओकर अधर्म"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:03.769193842Z",
+  "model": "glm-5.3"
+}

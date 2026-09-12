@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ यहूदा के घर के जे बचा-खुसा बचल बा, ऊ फेर से नीचे जड़ धरेला आ ऊपर फल करेला।",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "आ ... फेर से"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "बचा-खुसा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "जे बचल बा"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "जड़"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:10:46.123940768Z",
+  "model": "glm-5.3"
+}

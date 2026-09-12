@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "⟨את⟩ मेज आ ⟨את⟩ एकर छड़ी सभ आ ⟨את⟩ एकर सामान सब, आ ⟨את⟩ सामने के रोटी,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेज"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "एकर छड़ी सभ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "एकर छड़ी सभ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "एकर सामान सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "एकर सामान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "सामने के रोटी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "सामने के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:21:42.096965378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "काहे कि अपराधी मनुष्य के राह टेढ़ी आ अजीब होखेला; बाकिर जवन साफ ह, ओकर काम सीधा होखेला।",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "टेढ़ी आ अजीब"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "राह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "अपराधी"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "बाकिर जवन साफ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ओकर काम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:57.856491204Z",
+  "model": "glm-5.3"
+}

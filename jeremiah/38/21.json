@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ अगर रउआ बाहर जाए के इनकार करब, त ई ह ओ बात ह जेकर यहवे हमनी का देखवइलें।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "इनकार करब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "बाहर जाए के"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "देखवइलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:40:14.023717662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ओ एल, जे हमरा बदला देले, आ जाति सभे के हमरा नीचे दबा देले।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ओ एल"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "जे देले"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आ दबा देले"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सभे के"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "हमरा नीचे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:32:23.508407015Z",
+  "model": "glm-5.3"
+}

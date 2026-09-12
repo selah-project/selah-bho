@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "शेम के बेटा रहलें: एलाम आ अश्शूर आ अर्पकशद आ लूद आ अराम आ उज आ हूल आ गेतर आ मेशेक।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "आ अश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "आ अर्पकशद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "आ लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "आ अराम"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "आ उज"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "आ हूल"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "आ गेतर"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "आ मेशेक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:44.040397403Z",
+  "model": "glm-5.3"
+}

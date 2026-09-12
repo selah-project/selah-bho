@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "मनुख के समझ ओकर क्रोध ढिला करेला, आ ओकर महिमा अपराध के उपर से टपक जाई।",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "समझ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "ढिला करेला"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर क्रोध"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "आ ओकर महिमा"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "टपक जाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "के उपर से"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अपराध"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:01.992551900Z",
+  "model": "glm-5.3"
+}

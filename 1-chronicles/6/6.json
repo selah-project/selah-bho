@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "योआच ओकर बेटा, इद्दो ओकर बेटा, जेरच ओकर बेटा, येआतराय ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "योआच"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "इद्दो"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरच"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "येआतराय"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:25.661317154Z",
+  "model": "glm-5.3"
+}

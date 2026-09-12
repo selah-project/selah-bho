@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 52:29",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "नबूकद्रेसर के अठारहवाँ बरिस में यरूशलयिम (यरूशलेम) से प्राण आठ सौ तीस दुई।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "बरिस में"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "नबूकद्रेसर के"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "यरूशलयिम से"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दुई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:47:06.775961218Z",
+  "model": "glm-5.3"
+}

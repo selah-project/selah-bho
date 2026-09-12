@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "काहे कि फिर से एदोमी लोग आइल, यहूदा में मारलन, आ बंदी बना के ले गइल।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "फिर से"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "एदोमी लोग"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "मारलन"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदा में"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "बंदी बना के ले गइल"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बंदी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:27.018067292Z",
+  "model": "glm-5.3"
+}

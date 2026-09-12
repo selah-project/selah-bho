@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "हम त न्याय में तोर मुख देखब; जागल पर तोर सूरत से तृप्त होईब।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "न्याय में"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोर मुख"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "तृप्त होईब"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "जागल पर"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "तोर सूरत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:29:44.399241738Z",
+  "model": "glm-5.3"
+}

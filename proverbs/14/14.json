@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "फिर गइल मन वाला आपन रस्तन से भर जाला, आ नीक मरद ओकरा से भरपेट होखेला।",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "आपन रस्तन से"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "भर जाला"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "फिर गइल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "आ ओकरा से"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:10.888592307Z",
+  "model": "glm-5.3"
+}

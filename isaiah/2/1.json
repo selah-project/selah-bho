@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हो वचन जवन यशायाहू, अमोत्स के बेटा, यहूदा आ यरूशलयिम (यरूशलेम) के बारे में देखलन।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "अमोत्स"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "आ यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:13.468724630Z",
+  "model": "glm-5.3"
+}

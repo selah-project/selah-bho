@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आदम, शेत, एनोश —",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "आदम"
+    },
+    {
+      "surface": "שת",
+      "gloss": "शेत"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:17.404308706Z",
+  "model": "glm-5.3"
+}

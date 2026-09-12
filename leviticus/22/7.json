@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ जब सूरुज डूबेला आ ओ सुच्चा हो जाला, तबे ओ पबितर चीज में से खावेला, काहे कि ऊ ओकर खाना बा",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आ जब आवेला"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूरुज"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "आ सुच्चा हो जाला"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "तबे"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खावेला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पबितर चीज"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ओकर खाना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:43.167749647Z",
+  "model": "glm-5.3"
+}

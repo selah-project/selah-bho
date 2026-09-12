@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "यहवे पर सदा ले भरोसा राखू, काहे कि याह यहवे सदा-सदा के चट्टान बाड़ें।",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "भरोसा राखू"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "सदा-सदा के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:06:59.013690295Z",
+  "model": "glm-5.3"
+}

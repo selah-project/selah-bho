@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 136,
+  "translation": "जे सुफ के सागर के टुकड़ा में काटलन, काहें कि सदा लेखा ओकर हेसेद बा।",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "जे काटलन"
+    },
+    {
+      "surface": "ים",
+      "gloss": "सागर"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सुफ के"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "टुकड़ा में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा लेखा"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:51.870574023Z",
+  "model": "glm-5.3"
+}

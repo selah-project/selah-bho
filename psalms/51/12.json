@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "हे एलोहीम, हमार भीतर साफ दिल सिरजू, आ हमार भीतर ठीक आत्मा नवा दीं।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "साफ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "सिरजू"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार भीतर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आ आत्मा"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ठीक"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नवा दीं"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "हमार भीतर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:34.334402825Z",
+  "model": "glm-5.3"
+}

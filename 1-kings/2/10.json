@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ दाविद आपन पुरखन के संग सो गइलन, आ ओकर दफनाव दाविद के नगर में भइल।",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सो गइलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "आपन पुरखन"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "दफनाव भइल"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:33:23.077012063Z",
+  "model": "glm-5.3"
+}

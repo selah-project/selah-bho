@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "का रउआ के झरना बाहर फटिके बिखर जावें, गली-गली में पानी के धारा?",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "फटिके बिखर जावें"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "रउआ के झरना"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "गली-गली में"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "धारा"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:54.920056592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 74,
+  "translation": "दिन तोहार बा, रातो तोहार बा; तूँ जोत आ सूरज के बनवलन।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אף",
+      "gloss": "रातो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "जोत"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "आ सूरज"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:24.819449406Z",
+  "model": "glm-5.3"
+}

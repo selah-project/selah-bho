@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ एली ⟨את⟩ चीख के आवाज सुनलन आ कहलन, ई हल्ला के आवाज का बा? आ ऊ मनई तुरते आइल आ एली के बतावलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "आ सुनलन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चीख के आवाज"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "चीख के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का बा?"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "हल्ला के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "आ ऊ मनई"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "तुरते"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतावलन"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "एली के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:08:13.652547673Z",
+  "model": "glm-5.3"
+}

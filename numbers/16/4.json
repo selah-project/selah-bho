@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ मोशे सुनलन, आ आपने मुँह के ऊपरे गिरलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपरे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आपने मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:36.997616996Z",
+  "model": "glm-5.3"
+}

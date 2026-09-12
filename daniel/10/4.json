@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ पहिला महीना के चौबीस दिन के हम ओ बड़ नदी के किनारे रहलन — ऊ हवे हिद्देकेल।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "आ ... दिन के"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीना के"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "रहलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "יד",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "हिद्देकेल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:39:36.722376373Z",
+  "model": "glm-5.3"
+}

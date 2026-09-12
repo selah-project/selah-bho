@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ नाओमी ⟨את⟩ लरिका के लिनी, ओकरा आपन गोद में रखलस, आ ऊ ओकरा लागि धाय बनल।",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "लिनी"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "नाओमी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लरिका"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "रखलस"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "आपन गोद में"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "बनल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा लागि"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "धाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:24:48.814373867Z",
+  "model": "glm-5.3"
+}

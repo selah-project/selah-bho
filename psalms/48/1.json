@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "एगो गीत, एगो स्तुति-गीत, कोरह के लड़िकन सभे के खातिर।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "एगो गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एगो स्तुति-गीत"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के लड़िकन सभे के खातिर"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:59.512127106Z",
+  "model": "glm-5.3"
+}

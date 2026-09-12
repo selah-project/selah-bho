@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ओकर बहिन हम्मोलेखेत ⟨את⟩ आइजहोद के, ⟨את⟩ अबीएजेर के आ ⟨את⟩ माहला के जनम दिहलस।",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "आ ओकर बहिन"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "हम्मोलेखेत"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम दिहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आइजहोद"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "आइजहोद"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अबीएजेर"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "अबीएजेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "माहला"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "माहला"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:54.145336378Z",
+  "model": "glm-5.3"
+}

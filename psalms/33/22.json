@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "रउआ के हेसेद हमनी का ऊपर रहे, यहवे, जइसे हमनी का रउआ ऊपर आस रखली जा।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "रउआ के हेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी का ऊपर"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "हमनी का आस रखली जा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ ऊपर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:04.709275317Z",
+  "model": "glm-5.3"
+}

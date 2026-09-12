@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "काहें ई कि मूर्ख के हाथे में दाम बा — ज्ञान खरीदे खातिर — जबकि मन नइखे?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "काहें"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "दाम"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथे में"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "खरीदे खातिर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "आ मन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:58.172260535Z",
+  "model": "glm-5.3"
+}

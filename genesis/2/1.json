@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "अकास आ धरती पूरा हो गइलें, आ इनहन के सारा सेना।",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "पूरा हो गइलें"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "आ धरती"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सारा"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "इनहन के सेना"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:11.766946210Z",
+  "model": "glm-5.3"
+}

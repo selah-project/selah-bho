@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ गाद के गोत्र, आ गाद के लरिकन के सरदार एल्यासाफ, रेउएल के बेटा।",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "आ गोत्र"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "आ सरदार"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के लरिकन के"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:31.617568224Z",
+  "model": "glm-5.3"
+}

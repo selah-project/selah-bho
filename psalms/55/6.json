@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 55,
+  "translation": "भय आ काँपन हमर भीतर घुसल, आ दहशत हमरा छोप लिहलस।",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "आ काँपन"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "घुसल"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमर भीतर"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "आ छोप लिहलस"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "दहशत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:34.050087540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ जवान के कुछ ना मालूम रहल; खाली यहोनातान आ दाविद ⟨את⟩ बात जानलें।",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "आ जवान के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "मालूम रहल"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "आ दाविद"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानलें"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-09-11T19:17:38.889280910Z",
+  "model": "glm-5.3"
+}

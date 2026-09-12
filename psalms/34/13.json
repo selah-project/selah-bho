@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "कवनो आदमी बा जे जिनगी चाहेला, दिनन के प्रेम करेला, ताकि नीकि देख सके?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "चाहेला"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करेला"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देख सके"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीकि"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:24.806376423Z",
+  "model": "glm-5.3"
+}

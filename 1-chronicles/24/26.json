@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "मरारी के बेटवन में मखली आ मूशी; याज़ियाहू के बेटवन — ओकर बेटा बेनो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटवन"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "मखली"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "आ मूशी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटवन"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "याज़ियाहू"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:42.247331519Z",
+  "model": "glm-5.3"
+}

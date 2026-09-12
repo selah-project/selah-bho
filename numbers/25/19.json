@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ भव गइल महामारी के बाद।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भव गइल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "महामारी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:55.128014021Z",
+  "model": "glm-5.3"
+}

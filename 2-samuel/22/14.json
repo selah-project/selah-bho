@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "यहवे अकास से गड़गड़ावलन, आ एल्योन आपन आवाज दिहलन।",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गड़गड़ावलन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "आ एल्योन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "आपन आवाज"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:41.834315656Z",
+  "model": "glm-5.3"
+}

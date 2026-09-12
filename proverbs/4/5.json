@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "बुझाइ के कमाई कर, समझ के कमाई कर; ना बिसरा आ हमारा मुँह के बात से ना झुक जा।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "कमाई कर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुझाइ के"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "कमाई कर"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समज तार ना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिसरा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुक जा"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "बात से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:58.801130415Z",
+  "model": "glm-5.3"
+}

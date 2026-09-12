@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ ऊ इनहन के बछवा नियर नचावेला — लेबानोन आ सिर्योन जंगली बैल के बछवा नियर।",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "नचावेला"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "बछवा"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लेबानोन"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "आ सिर्योन"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "नियर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बछवा"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "जंगली बैल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:45.080904119Z",
+  "model": "glm-5.3"
+}

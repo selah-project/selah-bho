@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ एगो ओड़ धरती से उठल, आ ⟨את⟩ पूरा माटी के मुह के सींच दीहलस।",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "आ एगो ओड़"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "उठल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "सींच दीहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा माटी के मुह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "माटी के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:53.522987023Z",
+  "model": "glm-5.3"
+}

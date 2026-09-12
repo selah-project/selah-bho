@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ ई लोग श्राप खातिर एबाल पहाड़ी प खड़ा रहिहें — रउबेन, गाद आ अशेर, आ जबूलुन, दान आ नप्तली।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "खड़ा रहिहें"
+    },
+    {
+      "surface": "על",
+      "gloss": "प"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "श्राप"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ी"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "एबाल"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउबेन"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आ अशेर"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "आ जबूलुन"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "आ नप्तली"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:48.473633294Z",
+  "model": "glm-5.3"
+}

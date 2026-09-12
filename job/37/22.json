@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "उत्तर से सोनहा-चमक आवेला; एलोअह के ऊपर भय-जनक महिमा बा।",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोनहा-चमक"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भय-जनक"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "महिमा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:42.990792686Z",
+  "model": "glm-5.3"
+}

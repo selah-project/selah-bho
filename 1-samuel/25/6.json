@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ तू सभे एहन कहब: “जियत रहऽ! आ तूँ के शालोम, आ तोहार घर के शालोम, आ जे कुछ तोहार बा, ओकरो शालोम।”",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "कहब"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "जियत रहऽ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "तोहार घर"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुछ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:18:16.931954574Z",
+  "model": "glm-5.3"
+}

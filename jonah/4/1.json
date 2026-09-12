@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ योना के ई बहुते बड़ बुराई लागल, आ ऊ गुस्से से भर गइल।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "बुराई लागल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "बहुते बड़"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "गुस्से से भर गइल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके मन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:19.604780985Z",
+  "model": "glm-5.3"
+}

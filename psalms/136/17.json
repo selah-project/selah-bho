@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 136,
+  "translation": "जे बड़ राजा लोगन के मारलन, काहे कि सदा तक ओकर हेसेद बा।",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "जे … मारलन"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा लोगन के"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा तक"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:47.209555770Z",
+  "model": "glm-5.3"
+}

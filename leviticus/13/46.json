@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "जतना दिन ले ओ नगवार ओकरा में बा, ओ अशुद्ध रही; ऊ अशुद्ध बा, अकेले रही, छावनी के बाहिर ओकर रहे के जगह होखी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जतना"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन ले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ओ नगवार"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध रही"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ बा"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "रही"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "के बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "ओकर रहे के जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:55.363983935Z",
+  "model": "glm-5.3"
+}

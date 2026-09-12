@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "सात नीक गाइ सात बरिस ⟨बाड़ी⟩, आ सात नीक बाली सात बरिस ⟨बाड़ी⟩ — सपना एक ⟨बा⟩।",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "गाइ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "बाड़ी"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "बाली सभ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "बाड़ी"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:31:01.396510467Z",
+  "model": "glm-5.3"
+}

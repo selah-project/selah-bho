@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "आँखी शराब से लाल-लाल चमकेली बाड़ी, आ दाँत दूध से उज्जर बाड़न।",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "लाल-लाल चमकेली"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखी"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "शराब से"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "आ उज्जर"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "दूध से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:50.388736924Z",
+  "model": "glm-5.3"
+}

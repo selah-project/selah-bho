@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 10:19",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "हमरा घाव के त्रास बा! हमरा पिटाई भारी भइल बा; आ हम कहने — “सचेत ई हमर बेमारी ह, आ हम एके उठाब।”",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "त्रास"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "שברי",
+      "gloss": "घाव के"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "भारी भइल बा"
+    },
+    {
+      "surface": "מכתי",
+      "gloss": "हमरा पिटाई"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहने"
+    },
+    {
+      "surface": "אך",
+      "gloss": "सचेत"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "बेमारी"
+    },
+    {
+      "surface": "ואשאנו",
+      "gloss": "उठाब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:18.458033543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 66,
+  "translation": "अवन — अगर हम ओकरा हिया में देखली, त अदोनाय सुनेला ना।",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "अवन (बुराई)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखली (हम)"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "हमार हिया में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:21.061374942Z",
+  "model": "glm-5.3"
+}

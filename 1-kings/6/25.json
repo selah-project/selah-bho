@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ दूसरा करूब दस हाथ के बाट — एकै माप आ एकै आकार दुनोहो करूब सभे खातिर रहल।",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "माप"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एकै"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "आ आकार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एकै"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "दुनोहो खातिर"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "करूब सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:27.529008318Z",
+  "model": "glm-5.3"
+}

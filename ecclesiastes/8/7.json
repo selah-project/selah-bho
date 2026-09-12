@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "काहे कि ऊ जानेला ना का होखी, काहे कि जब ऊ होई, ओकरा के के बतावेला?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    },
+    {
+      "surface": "מי",
+      "gloss": "के"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बतावेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:21.661254082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "याकोब के गौरव के सहवारे यहवे सौगनह कइलन — “हम ओकर सब काम कबो ना भूलब।”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "सौगनह कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "के गौरव के सहवारे"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "भूलब"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "कबो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "काम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:15:24.695943075Z",
+  "model": "glm-5.3"
+}

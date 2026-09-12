@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "ऊ लोग कहले: “का वेश्या नियर ⟨את⟩ हमर बहिन के साथे कइल जाय?”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ऊ लोग कहले"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "वेश्या नियर"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "कइल जाय"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमर बहिन"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "हमर बहिन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:11.916983024Z",
+  "model": "glm-5.3"
+}

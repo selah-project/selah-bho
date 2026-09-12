@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "काहें कि वेश्या के कारण मरद रोटी के एगो टुकड़ा ले गिर जाला, आ दूसर के घरवाली परम जान के शिकार करेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "एगो गोल रोटी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "आ घरवाली"
+    },
+    {
+      "surface": "איש",
+      "gloss": "दूसर के मरद के"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जान"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "परम"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "शिकार करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:23.688901224Z",
+  "model": "glm-5.3"
+}

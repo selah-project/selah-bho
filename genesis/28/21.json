@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ हम शान्ति से हमरा पिता के घर लवटब, आ तऽ यहवे हमरा खातिर एलोहीम बनी।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "आ हम लवटब"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शान्ति से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमरा पिता के"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ तऽ होई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम बनी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:36.065720228Z",
+  "model": "glm-5.3"
+}

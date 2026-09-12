@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "ऊ सब एकठे जुटलें यहोशूआ आ इस्राएल के बिरुद्ध लड़े खातिर — एक मुँह।",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "जुटलें"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकठे"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड़े खातिर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के बिरुद्ध"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशूआ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "आ के बिरुद्ध"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T18:49:22.328292462Z",
+  "model": "glm-5.3"
+}

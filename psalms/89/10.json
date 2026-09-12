@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "रउआ समुंदर के उफान पर राज करेला; ओकर लहर जब उठेला, तऽ रउआ ओकरा थिर कर देला।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "राज करेला"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "उफान पर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर के"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "जब उठेला"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ओकर लहर"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "थिर कर देला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:07.981943025Z",
+  "model": "glm-5.3"
+}

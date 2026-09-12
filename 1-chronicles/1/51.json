@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ हदद मर गइल; आ एदोम के सरदार भइलें — सरदार तिमना, सरदार अल्वा, सरदार येतेत।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आ मर गइल"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "आ भइलें"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम के"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिमना"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "अल्वा"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "येतेत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:41.173013973Z",
+  "model": "glm-5.3"
+}

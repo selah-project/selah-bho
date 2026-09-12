@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ अब, ए लड़कन, हमर बात सुनऽ, काबर कि जे हमर राह धरे राखेला ऊ धन्य बा।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ए लड़कन"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमर बात"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "काबर कि … धन्य बा"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "हमर राह"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "धरे राखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:56.386136670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 12:20",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ योआश के बाकी बात, आ सब जवन ऊ कइलन — का ऊ सब यहूदा के राजन के दिन के बात के किताब पर लिखल नइखे?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "आ बाकी"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ऊ कइलन"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का … नइखे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ सब"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "लिखल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "किताब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात के"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजन के"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:52:41.584800794Z",
+  "model": "glm-5.3"
+}

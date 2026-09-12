@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 15:41",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ गेदेरोत, बेत-दागोन, आ नामा, आ माकेदा — नगर सोलह आ इनहन के गाँव।",
+  "tokens": [
+    {
+      "surface": "וגדרות",
+      "gloss": "आ गेदेरोत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "दागोन"
+    },
+    {
+      "surface": "ונעמה",
+      "gloss": "आ नामा"
+    },
+    {
+      "surface": "ומקדה",
+      "gloss": "आ माकेदा"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "आ इनहन के गाँव"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:02.347029982Z",
+  "model": "glm-5.3"
+}

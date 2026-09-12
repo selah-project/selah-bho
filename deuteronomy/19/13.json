@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "तोर आँखी ओ पर दया ना करे, आ तूँ निर्दोष के खून यिस्राएल में से मेट देहऽ, आ तोर खातिर भला होखी।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया करे"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तोर आँखी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओ पर"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "आ मेट देहऽ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "निर्दोष के"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएल में से"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "आ भला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोर खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:53.228203875Z",
+  "model": "glm-5.3"
+}

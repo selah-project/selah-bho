@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ शलोमोह के बेटा रेहबाम, अबिय्याह ओकर बेटा, असा ओकर बेटा, यहोशाफात ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रेहबाम"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिय्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "असा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:35.738484751Z",
+  "model": "glm-5.3"
+}

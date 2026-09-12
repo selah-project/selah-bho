@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "ढीला हाथ सभ के मजबूत करऽ, आ कांपत घुटना सभ के ताकत दऽ।",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "मजबूत करऽ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ सभ"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "ढीला"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "आ घुटना सभ"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "कांपत"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ताकत दऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:10:54.548463192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "मेहनत से ओ थक गइल बा, बाकिर ओकर ढेर मोरचा ओकरा से नइखे निकलत — आग में ओकर मोरचा।",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "मेहनत से"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "थक गइल बा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर नइखे"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निकलत"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "मोरचा"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "मोरचा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:56:31.524987368Z",
+  "model": "glm-5.3"
+}

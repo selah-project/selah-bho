@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "ई शेम के वंशावली ह — शेम सौ बरिस के बेटा रहलें आ ⟨את⟩ अर्पक्षद के जनम दिहलन, महाबाढ़ के दू साल बाद।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम के"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अर्पक्षद के"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "अर्पक्षद"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दू साल"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "महाबाढ़ के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:44.456579031Z",
+  "model": "glm-5.3"
+}

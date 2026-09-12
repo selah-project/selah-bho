@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "अवराम — ऊहें अवराहाम हवें।",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊहें"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:31.320787277Z",
+  "model": "glm-5.3"
+}

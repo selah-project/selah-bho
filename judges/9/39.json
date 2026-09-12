@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ गाल शकेम के मुखिया लोग के आगे निकलले आ अबिमेल्क से लड़ले।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलले"
+    },
+    {
+      "surface": "געל",
+      "gloss": "गाल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "मुखिया लोग"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शकेम के"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "आ लड़ले"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "अबिमेल्क से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:59:00.070809507Z",
+  "model": "glm-5.3"
+}

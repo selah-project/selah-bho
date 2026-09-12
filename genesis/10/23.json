@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ अराम के बेटा रहलें: उत्स, आ हुल, आ गेथर, आ माश।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "आ हुल"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "आ गेथर"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "आ माश"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:01.486511547Z",
+  "model": "glm-5.3"
+}

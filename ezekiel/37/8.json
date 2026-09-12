@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 37:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ हम देखली, आ देखऽ, ऊ लोगन पर नसे, आ मांस चढ़ल, आ चमड़ी ऊ पर ऊपर से चढ़ गइल — बाकिर ऊ में रूह नइखे।",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "आ हम देखली"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊ लोगन पर"
+    },
+    {
+      "surface": "גדים",
+      "gloss": "नसे"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "आ मांस"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ल"
+    },
+    {
+      "surface": "ויקרם",
+      "gloss": "आ चढ़ गइल"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊ पर"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ी"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आ रूह"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ऊ में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:03:34.217561579Z",
+  "model": "glm-5.3"
+}

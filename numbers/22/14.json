@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ मोआब के सरदारन उठले आ बालाक ले आइले आ कहले: बिलाम हमनी के साथे जाय से मना कइलन बा।",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "उठले"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारन"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब के"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आइले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहले"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "मना कइलन"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जाय"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमनी के साथे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:37.657740594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "एल के साँस से बरफ देला जाला, आ जमे लागेला पानी के चौड़ाई।",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "के साँस से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देला जाला"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "बरफ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "आ ... चौड़ाई"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "जमे लागेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:42.578421167Z",
+  "model": "glm-5.3"
+}

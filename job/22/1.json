@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ एलीफाज हतेमानी जवाब दिहलन आ कहलन —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "आ … जवाब दिहलन"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफाज"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "हतेमानी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:02.301120163Z",
+  "model": "glm-5.3"
+}

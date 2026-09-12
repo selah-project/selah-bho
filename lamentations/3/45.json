@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "कूड़ा-कर्कट आ फेंकल चीज हमनी का बना दिहलऽ ईला जनता सभे के बीचा में।",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "कूड़ा-कर्कट"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "आ फेंकल चीज"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "बना दिहलऽ ईला"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीचा में"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "जनता सभे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:13.196848311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "तऽ इसरायेल ⟨את⟩ ई गीत गावलन: “बेटि, चढ़!”, ओकरा ला गावऽ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तऽ"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "गावलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ई गीत"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ई गीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "चढ़"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेटि"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "गावऽ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा ला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:26.491826527Z",
+  "model": "glm-5.3"
+}

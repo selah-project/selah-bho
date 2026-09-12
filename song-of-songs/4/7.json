@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "पूरा तूँ सुन्दर बानी, हमार सँगिनी, आ तोहार मा कवनो दाग नइखे।",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "पूरा तूँ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "हमार सँगिनी"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "आ दाग"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तोहार मा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:43:36.188405091Z",
+  "model": "glm-5.3"
+}

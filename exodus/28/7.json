@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "दू काँधा-पट्टी जुड़ल होखे — ओकरे दू किनारा से जुड़े खातिर — आ ऊ जुड़ल रही।",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "काँधा-पट्टी"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जुड़ल होखे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरे खातिर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "आ ऊ जुड़ल रही"
+    }
+  ],
+  "timestamp": "2026-09-11T17:49:38.614332871Z",
+  "model": "glm-5.3"
+}

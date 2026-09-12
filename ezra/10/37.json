@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "मत्तन्याह, मत्तेनाय आ याआसाव —",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "मत्तन्याह"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "मत्तेनाय"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "आ याआसाव"
+    }
+  ],
+  "timestamp": "2026-09-11T22:44:17.117659056Z",
+  "model": "glm-5.3"
+}

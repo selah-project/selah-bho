@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ भवल कि जब काशदिझ के सेना फिरौन के सेना से डर के यरूशलयिझ से पीछे हटल,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ भवल"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "जब हटल"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "काशदिझ के"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिझ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "से डर के"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:38:36.342342368Z",
+  "model": "glm-5.3"
+}

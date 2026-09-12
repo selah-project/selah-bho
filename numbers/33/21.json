@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ लिबना से चल गिनलां, आ रिस्साह में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चल गिनलां"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "लिबना से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "रिस्साह में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:08.779059520Z",
+  "model": "glm-5.3"
+}

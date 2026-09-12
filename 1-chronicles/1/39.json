@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ लोतान के बेटा रहलें: होरी आ होमाम; आ लोतान के बहिन तिम्ना रहली।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … बेटा रहलें"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "होरी"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "आ होमाम"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "आ … बहिन"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिम्ना"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:27.727246579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ शाउल मर गइल, आ ओकर जगह अकबोर के बेटा बाल-हनन राज कइलन।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "आ मर गइल"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "आ राज कइलन"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "हनन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "अकबोर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:41.172548281Z",
+  "model": "glm-5.3"
+}

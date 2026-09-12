@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 10:7",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ऊ ओकरा कहलें: “अगर रउआ ए जनता खातिर नीक रहब, आ ऊनखा खुस करब, आ ऊनखा नीक बात कहब, त ऊ रउआ के सेवक बन जाहें सभे दिन।”",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रहब"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "להעם",
+      "gloss": "जनता खातिर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ורציתם",
+      "gloss": "खुस करब"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "कहब"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ऊनखा"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बात"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "बन जाहें"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:26.299695244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ पानी बेदी के चारों ओर बहत गइल, आ ⟨את⟩ गड्ढा गो त पानी से भर गइल।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "बहत गइल"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "बेदी के"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ … गो त"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गड्ढा"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "गड्ढा"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर गइल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:44:37.471445674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 19:36",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "त सन्हेरीब, अश्शूर के राजा, चलल आ गइन आ लौट गइन, आ नीनवे में रहल।",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गइन"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "लौट गइन"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "सन्हेरीब"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर के"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "नीनवे में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:56:32.610373324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "अठारहवाँ बरिस राजा यरावाम के, तब अबिय्या यहूदा पर राज कइलन।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "के बरिस"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(अठारह के हिस्सा)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरावाम"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "तब राज कइलन"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिय्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:43.457157944Z",
+  "model": "glm-5.3"
+}

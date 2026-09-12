@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ अशुद्धता के अलगाव में औरत के लग तूँ ना जाबू, ओकर नंगता खोले खातिर।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "आ के लग"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "अलगाव में"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "अशुद्धता के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "तूँ जाबू"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "खोले खातिर"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ओकर नंगता"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:18.576548897Z",
+  "model": "glm-5.3"
+}

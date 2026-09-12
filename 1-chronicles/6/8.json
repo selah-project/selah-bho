@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एलकाना ओकर बेटा, एव्यासाफ ओकर बेटा, आ अस्सीर ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकाना"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "आ एव्यासाफ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "आ अस्सीर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:25.661640808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "ऊ मुँड़ जाई, बाकिर ⟨את⟩ नेतेक के ऊ ना मुँड़ाई; आ कोहेन ⟨את⟩ नेतेक वाला के सात दिन दूसरा बेर बंद रखी।",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "मुँड़ जाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "नेतेक"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "मुँड़ाई"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "बंद रखी"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नेतेक वाला"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक वाला"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दूसरा बेर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:16.372854154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ओ एल — जे मोरा के बदला देलें आ जाति सभ के मोर तले उतारेला।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ओ एल"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "जे देलें"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरा के"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "आ उतारेला"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जाति सभ"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "मोर तले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:43.771180713Z",
+  "model": "glm-5.3"
+}

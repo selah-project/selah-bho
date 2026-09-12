@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "कवनो रास्ता मनुख के सामने सीधा लागेला, बाकिर ओकर अंत ⟨बा⟩ मौत के रास्ता।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "कवनो रास्ता"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "बाकिर ओकर अंत"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "रास्ता"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:44.830043258Z",
+  "model": "glm-5.3"
+}

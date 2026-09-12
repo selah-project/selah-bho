@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "जा, ए आलसी, चींटी के पास; ओकर रास्तन के देख आ बुद्धिमान बन।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "चींटी"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ए आलसी"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ओकर रास्तन के"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "आ बुद्धिमान बन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:50.450271156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 6:29",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ सभे एक दूसरा से कहलें, “कौन ई काम कइलन?” आ ऊ सभे खोजलें, पूछलें, आ कहलें, “गिदओन, योआश के बेटा, ई काम कइलन।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक दूसरा से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "दूसरा के"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "וידרשו",
+      "gloss": "खोजलें"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "पूछलें"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "कहलें"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदओन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:58:22.204202811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अगर असन (नुकसान) होखे, तँ तूँ प्राण के बदला प्राण देव।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "असन (नुकसान)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "तूँ देव"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-09-11T17:46:34.504332370Z",
+  "model": "glm-5.3"
+}

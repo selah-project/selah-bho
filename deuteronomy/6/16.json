@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तोहानी सभे ⟨את⟩ आपन यहवे एलोहीम के परीक्षा में ना डारब, जइसे मास्सा में परीक्षा दिहले रहल।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "परीक्षा में डारब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "आपन एलोहीम"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसे"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "परीक्षा दिहले रहल"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "मास्सा में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:31:54.777645284Z",
+  "model": "glm-5.3"
+}

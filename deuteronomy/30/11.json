@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "काबर कि जे आज्ञा हम आज तोहार के देवतऽ ऊ तोहार से परे नइखे, आ ऊ दूरे नइखे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "जे आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तोहार के देवतऽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "परे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहार से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "दूरे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:16.029326993Z",
+  "model": "glm-5.3"
+}

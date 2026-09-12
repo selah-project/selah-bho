@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "चीख के आवाज बाबेल से आवेला, आ बड़ तबाही के आवाज काशदी के देस से।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "चीख के"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "बाबेल से"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "आ तबाही के"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देस से"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "काशदी के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:45:47.666042493Z",
+  "model": "glm-5.3"
+}

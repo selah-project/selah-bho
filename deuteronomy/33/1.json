@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ई ओ आशीस ह जवन मोशे, एलोहीम के मनुख, ⟨את⟩ इसराएल के लरिकन के आपन मरन से पहिले दीहलन।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "आशीस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "दीहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इसराएल के लरिकन के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिकन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "आपन मरन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:18.893445657Z",
+  "model": "glm-5.3"
+}

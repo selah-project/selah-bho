@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ त्सिक्लग, आ बेत-हम्मरकाबोत, आ खत्सर-सूसाह।",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "आ त्सिक्लग"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ बेत"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "हम्मरकाबोत"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "आ खत्सर"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "सूसाह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:00.308027795Z",
+  "model": "glm-5.3"
+}

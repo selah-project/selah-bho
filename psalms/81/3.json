@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 81,
+  "translation": "मंगलगान उठावऽ, आ ढोल बजावऽ, बहुत मधुर बीन, वीणा के संगे।",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "उठावऽ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "मंगलगान"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "आ ... बजावऽ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ढोल"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "बीन"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "मधुर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संगे"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "वीणा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:45.114594200Z",
+  "model": "glm-5.3"
+}

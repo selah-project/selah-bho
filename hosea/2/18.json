@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "hosea 2:18",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ होई ओही दिन में, यहवे के वचन — तूँ हमके आपन मरद कहबू, आ हमके फेर कबो आपन बाली ना कहबू।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ होई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "तूँ कहबू"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "आपन मरद"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תקראי",
+      "gloss": "तूँ कहबू"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमके"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर कबो"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "आपन बाली"
+    }
+  ],
+  "timestamp": "2026-09-11T21:10:04.089564244Z",
+  "model": "glm-5.3"
+}

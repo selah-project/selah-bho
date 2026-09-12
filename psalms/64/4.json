@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 64,
+  "translation": "जउन लोग आपन जिभरा के तरवार नियर तेज कइलन, आपन तीर के तन कइलन — कड़वा बचन।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जउन"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "तेज कइलन"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "तरवार नियर"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "आपन जिभरा के"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "तन कइलन"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "आपन तीर के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कड़वा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:41.026408849Z",
+  "model": "glm-5.3"
+}

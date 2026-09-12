@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ पुरोहित लोग यहवे के घर में ना जा सकलें, काहे कि यहवे के महिमा यहवे के ⟨את⟩ घर के भर दिहले रहे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "सकलें"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित लोग"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर दिहले रहे"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:04:30.126067952Z",
+  "model": "glm-5.3"
+}

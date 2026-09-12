@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ यहवे मूसा से बात कइलन, कहलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:33.870654595Z",
+  "model": "glm-5.3"
+}

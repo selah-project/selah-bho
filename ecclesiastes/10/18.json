@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आलस्य से छत गिर जाला, आ हाथ के सुस्ती से घर टपकेला।",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "आलस्य से"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "गिर जाला"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "छत"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "आ … के सुस्ती से"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "टपकेला"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:24.488812370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ समुदाय खातिर पानी ना रहल, आ ऊ लोग मोशे के ऊपर आ अहारोन के ऊपर जमा भइल।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "समुदाय खातिर"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "जमा भइल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ के ऊपर"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:09.504081023Z",
+  "model": "glm-5.3"
+}

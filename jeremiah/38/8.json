@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "तब एवेद मेलेक राजा के घर से बाहर निकललें आ राजा से बोलल, कहेले —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकललें"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "एवेद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "मेलेक"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "बोलल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेले"
+    }
+  ],
+  "timestamp": "2026-09-11T20:39:41.268526685Z",
+  "model": "glm-5.3"
+}

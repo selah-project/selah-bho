@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ लामेख आपन खातिर दू गो औरत बियाह लिहलन — पहिलकी के नाम आदा आ दुसरकी के नाम सिला।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "बियाह लिहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लामेख"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "पहिलकी"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "आदा"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "आ नाम"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दुसरकी"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "सिला"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:35.444047611Z",
+  "model": "glm-5.3"
+}

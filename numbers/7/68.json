@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "सोना के एक गो कलछी, दस शेकेल के वजन वाली, धूप से भरल।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "कलछी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक गो"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:14:58.698190743Z",
+  "model": "glm-5.3"
+}

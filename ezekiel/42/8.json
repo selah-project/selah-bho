@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "काहेकि बाहरी अंगना वाली कोठरी सभ के लमाई पचास आर रहल, आ देखू — हेकल के आमने सौ आर।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "कोठरी सभ के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "अंगना वाली"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "बाहरी"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "आर"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखू"
+    },
+    {
+      "surface": "על",
+      "gloss": "अगाऊ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आमने"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "हेकल के"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "आर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:16.565311329Z",
+  "model": "glm-5.3"
+}

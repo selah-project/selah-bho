@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ मोशे गाद के खपरा के, गाद के बेटान के, ओकर परिवारन के हिसाब से दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "खपरा के"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ओकर परिवारन के हिसाब से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:51:07.458495675Z",
+  "model": "glm-5.3"
+}

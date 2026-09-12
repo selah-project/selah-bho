@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 84,
+  "translation": "बाका के घाटी पार करत ऊ गइल पर ओहिजा झरना बनावेलें; अगम-पानी भी ओकरा आशीस से ढक देला।",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "पार करत"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "बाका"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "बनावेलें"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "आशीस"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ढक देला"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "अगम-पानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:22.588777844Z",
+  "model": "glm-5.3"
+}

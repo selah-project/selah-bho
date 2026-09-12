@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "विधवा आ परदेसी के मारथिन, आ अनाथ लोगन के काट डारथिन।",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "आ परदेसी"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "मारथिन"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "आ अनाथ लोगन"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "काट डारथिन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:59.003925656Z",
+  "model": "glm-5.3"
+}

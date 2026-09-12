@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "अदा एसाव के ⟨את⟩ एलीफाज के जनम दिहलस; आ बसमत ⟨את⟩ रेउएल के जनम दिहलस।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जनम दिहलस"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदा"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "एसाव के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलीफाज"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफाज"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "आ बसमत"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनम दिहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रेउएल"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:47.153055207Z",
+  "model": "glm-5.3"
+}

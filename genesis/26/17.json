@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ यित्सचाक ओहिजे से गइन आ गरार के नाल में डेरा डइलन, आ उहिजे रहला बनल।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गइन"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ओहिजे से"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सचाक"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "डेरा डइलन"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाल में"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "गरार के"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बनल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहिजे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:31.075516371Z",
+  "model": "glm-5.3"
+}

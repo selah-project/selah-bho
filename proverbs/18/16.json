@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "मनुख के भेंट ओकर खातिर जगह खोलेला, आ बड़ लोगन के आगे ओकर ले जावेला।",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "भेंट"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "जगह खोलेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "आ ... के आगे"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़ लोगन"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ओकर ले जावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:42.890068145Z",
+  "model": "glm-5.3"
+}

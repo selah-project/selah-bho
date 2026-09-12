@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "छोट आ बड़ ओहिजे बाड़ें, आ दास आपन मालिक से आजाद होखेला।",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "आ बड़"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨बाड़ें⟩"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "आ दास"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "आजाद"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "आपन मालिक से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:23.205201847Z",
+  "model": "glm-5.3"
+}

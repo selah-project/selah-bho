@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ योयादा ⟨את⟩ योनातन के जनम दिहलन; आ योनातन ⟨את⟩ यद्दूआ के।",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "आ योयादा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योनातन"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "आ योनातन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यद्दूआ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "यद्दूआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:06.060972906Z",
+  "model": "glm-5.3"
+}

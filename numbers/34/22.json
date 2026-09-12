@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ दान के लड़कन के गोत्र के सरदार बुक्की, योग्ली के बेटा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "आ … के गोत्र के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़कन के"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "योग्ली"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:19.113999046Z",
+  "model": "glm-5.3"
+}

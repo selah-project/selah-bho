@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ ऊ दू सोना के लपेटल जंजीरन के दू छल्लन में रखलन — छाती-पट्टा के दू किनारन पर।",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "लपेटल जंजीरन"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "छल्लन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "किनारन"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-पट्टा के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:19.191096163Z",
+  "model": "glm-5.3"
+}

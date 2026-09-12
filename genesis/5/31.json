@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आऊर लमेक के सगरी दिन सात आ सत्तर साल आ सात सौ साल भलन, आ ऊ मर गइन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आऊर भलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लमेक के"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आ सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आ ऊ मर गइन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:45.978765611Z",
+  "model": "glm-5.3"
+}

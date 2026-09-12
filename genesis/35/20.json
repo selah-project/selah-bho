@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ याकोब ओकर कब्र के ऊपर एगो स्तम्भ गाड़लन; ओहेच राहेल के कब्र के स्तम्भ, आज ले।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "आ … गाड़लन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "एगो स्तम्भ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "ओकर कब्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओहेच"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "कब्र के"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "आज ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:59.011627722Z",
+  "model": "glm-5.3"
+}

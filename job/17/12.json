@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "ऊ लोग रात के दिन बना देलें; अँजोर अँधियारा के नजदीक बा।",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "बना देलें"
+    },
+    {
+      "surface": "אור",
+      "gloss": "अँजोर"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नजदीक"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँधियारा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:51.287976696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "ऊ कहलन आ टिड्डी आ गइल, आ येलेक बिना गिनती के।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आ गइल"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "टिड्डी"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "आ येलेक"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:42.631601753Z",
+  "model": "glm-5.3"
+}

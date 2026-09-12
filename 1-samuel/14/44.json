@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 14:44",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ साउल कहलन — “एहने एलोहीम करेला आ एहने बढ़ावेला, काहें कि मरते मरब तूँ, हे योनातन।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "साउल"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "आ एहने"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "बढ़ावेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरते"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरब"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    }
+  ],
+  "timestamp": "2026-09-11T19:12:06.711128139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "हेसेद आ सच्चाई राजा के रक्षा करेला, आ हेसेद से ओकर सिंहासन टिकल रहेला।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आ सच्चाई"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "रक्षा करेला"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "आ…टिकवेला"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "हेसेद से"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ओकर सिंहासन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:15.438196292Z",
+  "model": "glm-5.3"
+}

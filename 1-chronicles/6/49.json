@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यिसराएल के बेटा लवियन के लोग के दइलन ⟨את⟩ ऊ नगर आ ⟨את⟩ ऊ के चारा-जमीन।",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "आ दइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसराएल"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "लवियन के लोग के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ नगर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ऊ नगर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "ऊ के चारा-जमीन"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "ऊ के चारा-जमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:08.367773016Z",
+  "model": "glm-5.3"
+}

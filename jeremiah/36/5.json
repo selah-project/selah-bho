@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ यिर्मेयाहू ⟨את⟩ बारूख के हुकुम दइलन के कहऽ: हम रोकल गइल बानी, हम यहवे के घर में जा ना सकेला।",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "आ हुकुम दइलन"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बारूख"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूख"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहऽ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "रोकल गइल बानी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सकेला"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "जा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:37:58.706603367Z",
+  "model": "glm-5.3"
+}

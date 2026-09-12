@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आपन कुआँ के पानी पिआ, आ आपन बावड़ी के बीच से बहै वाला पानी।",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "पिआ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "आपन कुआँ से"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "आ बहै वाला"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीच से"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "आपन बावड़ी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:54.919915867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "जवन बोझ हवाकुक नबी देखलन, ओ मसला ई बा।",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "बोझ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "हवाकुक"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:20:42.132328188Z",
+  "model": "glm-5.3"
+}

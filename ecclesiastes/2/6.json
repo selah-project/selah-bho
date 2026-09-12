@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हम पानी के तालाब आपने खातिर बनवलिनी, उनहीं से गाछ उगावे वाला जंगला सींचे खातिर।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "बनवलिनी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "आपने खातिर"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "तालाब"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "सींचे खातिर"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनहीं से"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जंगला"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "उगावे वाला"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "गाछ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:15.433823796Z",
+  "model": "glm-5.3"
+}

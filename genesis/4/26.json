@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ शेत के भी ओकरा एगो बेटा जनमल; ऊ ⟨את⟩ ओकर नाँव एनोश धरलन। तबेसे यहवे के नाँव पर पुकारल जाय लागल।",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "आ शेत के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "धरलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाँव"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तबेसे"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "लागल"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "पुकारल जाय"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाँव पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:27.070705515Z",
+  "model": "glm-5.3"
+}

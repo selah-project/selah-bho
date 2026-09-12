@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहें कि अँही दुख देला, तऽ ओकर हेसेद के बहुताय के अनुसार करुणा करेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अँही"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "दुख देला"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "करुणा करेला"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "बहुताय के अनुसार"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ओकर हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.475998422Z",
+  "model": "glm-5.3"
+}

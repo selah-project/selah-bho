@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ऊ लोग आ ऊकर बेटा सभे यहवे के घर के द्वार पर रहलें — ओ डेरा के घर — पहरा खातिर।",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "आ ऊ लोग"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "आ ऊकर बेटा सभे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "पहरा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:11.942339270Z",
+  "model": "glm-5.3"
+}

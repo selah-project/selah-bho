@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ यहवे देखलन कि आदमी के बुराई धरती में बहुत बढ़ि गइल बा, आ ओकर दिल के सोच के हरेक बिचार दिनभर खाली बुराइए बा।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बहुत बढ़ि गइल बा"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "बिचार"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "सोच के हरेक"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर दिल के"
+    },
+    {
+      "surface": "רק",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराइए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "दिनभर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिनभर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:38.952345605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "छिपकली हाथ से पकड़ल जाला, फिरउ ऊ राजा के महल में रहेला।",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "छिपकली"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "पकड़ल जाला"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "महल में"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:37.489304149Z",
+  "model": "glm-5.3"
+}

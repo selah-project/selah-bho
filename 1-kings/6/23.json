@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ दबीर में दू गो करूब बनवलन जैतून के लकड़ी के, दस गठ ओकर उंचाई।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "दबीर में"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दू गो"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "के लकड़ी के"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "गठ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "उंचाई"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:27.237239564Z",
+  "model": "glm-5.3"
+}

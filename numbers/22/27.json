@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 22:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ गधी ⟨את⟩ यहवे के दूत के देखल आ बिलाम के नीचे ढेर हो गइल; आ बिलाम के क्रोध भड़कल, आ ऊ ⟨את⟩ गधी के डंडा से मारल।",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "देखल"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "गधी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के दूत"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותרבץ",
+      "gloss": "ढेर हो गइल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "भड़कल"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "मारल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गधी"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "गधी"
+    },
+    {
+      "surface": "במקל",
+      "gloss": "डंडा से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:40.516126229Z",
+  "model": "glm-5.3"
+}

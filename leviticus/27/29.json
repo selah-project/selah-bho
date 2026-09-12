@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "जवन कवनो खेरेम जवन आदमी के धरोहर के रूप में समर्पित कइल जाला, ओकर छुटकारा ना होखी; ओकर मौत करल जाई।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जवन कवनो"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खेरेम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "समर्पित कइल जाला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "के"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "छुटकारा होखी"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "करल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:41.477940633Z",
+  "model": "glm-5.3"
+}

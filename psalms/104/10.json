@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 104,
+  "translation": "जे घाटिन में झरना सभे भेजेलें — पहाड़न के बीचे ऊ बहेला।",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "जे भेजेलें"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "झरना सभे"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "घाटिन में"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीचे"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़न"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "बहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:27.631581485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 8:8",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ लोग एक गाइ के बछरा लेवऽ आ ओकर मन्नत-भेंट — तेल में मिलाल पिसान — आ दुसर गाइ के बछरा रउआ पाप-बलि खातिर लेब।",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "लेवऽ"
+    },
+    {
+      "surface": "פר",
+      "gloss": "गाइ के बछरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "—"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाइ"
+    },
+    {
+      "surface": "ומנחתו",
+      "gloss": "मन्नत-भेंट"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "पिसान"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "मिलाल"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "ופר",
+      "gloss": "बछरा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुसर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "—"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाइ के"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लेब"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:34.852755425Z",
+  "model": "glm-5.3"
+}

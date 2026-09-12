@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "ए जनता के हम आपन खातिर गढ़लिए; हमार महिमा-गीत ऊ बतावेला।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ए"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "गढ़लिए (हम)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "आपन खातिर (हमर)"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "हमार महिमा-गीत"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "बतावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:13:30.777131529Z",
+  "model": "glm-5.3"
+}

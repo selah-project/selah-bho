@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "नासमझ लोग अपराध बर मजाक उड़ावेला, आ सीधा लोग के बीच अनुग्रह बा।",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "नासमझ लोग"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "मजाक उड़ावेला"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ के बीच"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा लोग"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "अनुग्रह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:44.829371154Z",
+  "model": "glm-5.3"
+}

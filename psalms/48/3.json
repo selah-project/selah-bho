@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "ऊँच जगह पर सुन्दर, पुरा धरती के खुशी, सियोन पहाड़, उत्तर के किनारा, बड़ राजा के नगर ⟨बाटे⟩।",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ऊँच जगह"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "खुशी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पुरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "के किनारा"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:59.512547788Z",
+  "model": "glm-5.3"
+}

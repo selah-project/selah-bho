@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "एप्रैम के अधर्म बान्हल बा; ओकर पाप छुपावल बा।",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "बान्हल बा"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम के"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "छुपावल बा"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ओकर पाप"
+    }
+  ],
+  "timestamp": "2026-09-11T21:10:39.014143132Z",
+  "model": "glm-5.3"
+}

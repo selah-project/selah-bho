@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "चोरी ना करब, झूठ ना बोलब, आ कवनो आदमी आपन संगी से ठगी ना करब।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "चोरी करब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "झूठ बोलब"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "ठगी करब"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो आदमी"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "आपन संगी से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:07.638972781Z",
+  "model": "glm-5.3"
+}

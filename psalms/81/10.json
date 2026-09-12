@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 81,
+  "translation": "रउआ के भीतर कवनो पराया एल ना रहे, आ रउआ कवनो बिदेसी एल के आगे झुकब ना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "रउआ के भीतर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "זר",
+      "gloss": "पराया"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "झुकब"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एल के आगे"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "बिदेसी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:29.691975251Z",
+  "model": "glm-5.3"
+}

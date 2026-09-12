@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 5:27",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ राजा सुलेमान पूरा इस्राएल से बेगारी उठालन; आ बेगारी तीस हजार आदमी भइल।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "उठालन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "מס",
+      "gloss": "बेगारी"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "המס",
+      "gloss": "बेगारी"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    }
+  ],
+  "timestamp": "2026-09-12T00:03:47.114522468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "जे चाँदी से प्रेम करेला ऊ चाँदी से ना भरेला, आ जे ढेर धन से प्रेम करेला ओकरा आमदनी ना मिलेला — ई भी हेबल बा।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करेला"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "भरेला"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी से"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "आ जे"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करेला"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ढेर धन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "आमदनी"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:40.553514032Z",
+  "model": "glm-5.3"
+}

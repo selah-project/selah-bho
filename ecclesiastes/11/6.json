@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "बिना में ⟨את⟩ आपन बीज बोआ, आ साँझ के अपना हाथ के ना रोकऽ — काहें से कि तूँ ना जानत बा कतहाँ एकर सफलता होखी, ईहे कि ओहे, या दुनों एक्को नियर नीक बाड़े।",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "बिना में"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बोआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन बीज"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "आपन बीज"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "आ साँझ के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "रोकऽ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपना हाथ के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें से कि"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "तूँ ना"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानत"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कतहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एकर"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "सफलता होखी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ईहे"
+    },
+    {
+      "surface": "או",
+      "gloss": "कि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ओहे"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "या"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक्को नियर"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "नीक बाड़े"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:10.084216372Z",
+  "model": "glm-5.3"
+}

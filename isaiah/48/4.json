@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "हम जानतानी कि तूँ हठी बा — तोहार गरदन के नस लोहा के आ तोहार माथ काँस के।",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "जानतानी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "हठी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "नस"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "गरदन"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "माथ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "काँस"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:56.261512761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ यहवे हमका चारि कारिगर देखाइलन।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "देखाइलन हमका"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "कारिगर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:48.959733289Z",
+  "model": "glm-5.3"
+}

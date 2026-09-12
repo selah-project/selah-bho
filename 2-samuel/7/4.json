@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ओही रात के भऽ, आ यहवे के बचन नातान के ओर आइल, कहऽ त:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भऽ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भऽ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… के ओर"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ त:"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:12.965146910Z",
+  "model": "glm-5.3"
+}

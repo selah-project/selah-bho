@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "आ ऊ खेत बोअलें, दाख के बगीचा रोपलें, आ उपज के फल पैदा कइलें।",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "बोअलें"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "रोपलें"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "दाख के बगीचा"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "पैदा कइलें"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "उपज"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:36.652459061Z",
+  "model": "glm-5.3"
+}

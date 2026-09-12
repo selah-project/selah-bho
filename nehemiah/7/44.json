@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "गावै वाला मन के: आसाफ के बेटाबन मन के, एक सौ अड़तालीस।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गावै वाला मन के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटाबन मन के"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ आठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.994436537Z",
+  "model": "glm-5.3"
+}

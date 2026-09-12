@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 6:27",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ कहलें — “यहवे तोहार बचाई, तऽ हम कहाँ से तोहार बचाई? खलिहान से या तौली के हल्ला से?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ऊ कहलें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יושעך",
+      "gloss": "बचाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कहाँ से"
+    },
+    {
+      "surface": "אושיעך",
+      "gloss": "तोहार बचाई"
+    },
+    {
+      "surface": "המן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "खलिहान"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "तौली के हल्ला"
+    }
+  ],
+  "timestamp": "2026-09-11T19:48:33.255853679Z",
+  "model": "glm-5.3"
+}

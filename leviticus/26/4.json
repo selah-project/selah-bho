@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "तब हम रउआ के बरसात ओकरा समय पर देब, आ धरती ओकर उपज देली, आ खेत के गाछ ओकर फल देला।",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "तब हम देब"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "रउआ के बरसात"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ओकरा समय पर"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "आ देली"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ओकर उपज"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "आ गाछ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देला"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ओकर फल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:18.527549306Z",
+  "model": "glm-5.3"
+}

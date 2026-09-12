@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कइसने गिरल बलवान लड़ाई के बीच में! यहोनातन, तोहार ऊँच जगहन पर घायल!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "तोहार ऊँच जगहन"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "घायल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:20:43.859452405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ ओकर संकट के बेरा ऊ यहवे के विरुद्ध बेइमानी आउर बढ़ा दिहलन — ईहे राजा अहाज़।",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "आ ... के बेरा"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "तंग\/संकट"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "बढ़ा दिहलन"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "बेइमानी"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे के विरुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ईहे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज़"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:29.136794533Z",
+  "model": "glm-5.3"
+}

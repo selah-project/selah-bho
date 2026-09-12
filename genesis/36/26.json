@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ ई दिशान के लड़का रहलें — हेमदान आ एशबान आ यितरान आ केरान।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़का"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दिशान"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "हेमदान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "आ एशबान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "आ यितरान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "आ केरान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:06.305551085Z",
+  "model": "glm-5.3"
+}

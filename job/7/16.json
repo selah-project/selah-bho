@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "घिना चलल — सदा ना जिअहीं; हम से छोड़ दे, काहेकि हमार दिन सभ हवा बाड़ें।",
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "घिना चलल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "जिअहीं"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "छोड़ दे"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "हमार दिन सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:42:59.793795118Z",
+  "model": "glm-5.3"
+}

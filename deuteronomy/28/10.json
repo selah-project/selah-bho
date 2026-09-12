@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ धरती के सब जनता सभे देखिहें कि यहवे के नाँव तोहार पर बुलावल गइल ⟨बा⟩, आ ऊ लोग तोहार से डरिहें।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "आ देखिहें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "जनता सभे"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "बुलावल गइल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार पर"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "आ डरिहें"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तोहार से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:48.079489340Z",
+  "model": "glm-5.3"
+}

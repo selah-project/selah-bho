@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "काहे कि हमार हिया खिसियावल, आ हमार गुरदा सिउरल गइन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "खिसियावल"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "हमार हिया"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "आ हमार गुरदा"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "सिउरल गइन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:00.210098126Z",
+  "model": "glm-5.3"
+}

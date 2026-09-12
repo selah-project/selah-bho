@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "मुखिया खातिर, कोरह के बेटा सभे के खातिर, एगो मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटा सभे के खातिर"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:33.480280102Z",
+  "model": "glm-5.3"
+}

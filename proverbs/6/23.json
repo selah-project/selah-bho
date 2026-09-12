@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "काहें कि आज्ञा एगो दीया बा आ तोरा प्रकाश, आ जिनगी के रास्ता फटकार के शिक्षा बा —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "נר",
+      "gloss": "दीया"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "आ तोरा"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "आ रास्ता"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जिनगी के"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "फटकार"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "शिक्षा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:24.818368041Z",
+  "model": "glm-5.3"
+}

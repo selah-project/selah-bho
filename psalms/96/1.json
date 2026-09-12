@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 96,
+  "translation": "यहवे खातिर नया गीत गावऽ; गावऽ यहवे खातिर, हे पूरा धरती।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गावऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "गावऽ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:17.252346771Z",
+  "model": "glm-5.3"
+}

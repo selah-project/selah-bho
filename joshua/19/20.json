@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ रब्बीत, आ किश्योन, आ आवेस।",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "आ रब्बीत"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "आ किश्योन"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "आ आवेस"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:21.666061029Z",
+  "model": "glm-5.3"
+}

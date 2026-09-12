@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ अहरोन के बेटासभ के हिस्सा रहलें — अहरोन के बेटा नादाब आ अबिहू, एलाजार आ इतामार।",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "आ … के बेटासभ के"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "आ अबिहू"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "आ इतामार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:21.722480368Z",
+  "model": "glm-5.3"
+}

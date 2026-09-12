@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "सुन, हे ए मोर पुत्र, आ समझदार बन, आ रास्ता में तोर मन के सीध कर।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "हे तूँ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मोर पुत्र"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "आ समझदार बन"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "आ सीध कर"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रास्ता में"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तोर मन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:55.898710993Z",
+  "model": "glm-5.3"
+}

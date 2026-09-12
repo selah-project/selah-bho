@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ येतेर के बेटा: येफुन्नेह आ पिस्पा आ अरा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ के बेटा"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "येफुन्नेह"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "आ पिस्पा"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "आ अरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:33.364521023Z",
+  "model": "glm-5.3"
+}

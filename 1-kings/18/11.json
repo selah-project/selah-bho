@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ अबहिन तूँ कहेला: जा के आपन मालिक से कह, देखऽ — एलियाहू इहाँ बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अबहिन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "आपन मालिक से"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    }
+  ],
+  "timestamp": "2026-09-11T19:43:39.339929237Z",
+  "model": "glm-5.3"
+}

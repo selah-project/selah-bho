@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "तूँ भला बानी आ भलाई करेला; तोर विधि सभे हम के सिखाव।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "आ भलाई करेला"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "हम के सिखाव"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तोर विधि सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:08.473442381Z",
+  "model": "glm-5.3"
+}

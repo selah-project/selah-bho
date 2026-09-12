@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ शेशन के कवनो बेटा ना रहलें, बाकिर बेटी रहली; आ शेशन के एगो नौकर रहलन, मिस्रयिम (मिस्र) के, आ ओकर नाँव यरहा रहे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ … ना"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "शेशन के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "आ शेशन के"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "मिस्रयिम के"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "आ ओकर नाँव"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "यरहा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:06.504174753Z",
+  "model": "glm-5.3"
+}

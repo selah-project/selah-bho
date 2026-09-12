@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "टपकावा ना, ऊ लोग कहेला — एहन लोगन के ना टपकावल जाई; लाज-भरम पीछा ना हटेला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "टपकावा"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "ऊ लोग टपकावेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "टपकावल जाई"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "एहन लोगन के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "पीछा हटेला"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "लाज-भरम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:35.571524376Z",
+  "model": "glm-5.3"
+}

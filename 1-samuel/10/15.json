@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ शाऊल के चाचा कहलन, “एहू सभे हमरा बताव — शमुएल रउआ सभे से का कहलन?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "चाचा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बताव"
+    },
+    {
+      "surface": "נא",
+      "gloss": "एहू"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे से"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:10:27.753188013Z",
+  "model": "glm-5.3"
+}

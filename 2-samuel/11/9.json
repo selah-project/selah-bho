@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "उरिय्याह राजा के घर के दुआरा पर ⟨את⟩ सब सेवक के साथे — ओकर मालिक के सेवक — सुतल, आ आपन घर के ना उतरल।",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सुतल"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्याह"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआरा के"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब सेवक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ओकर मालिक के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आपन घर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:25:13.999086555Z",
+  "model": "glm-5.3"
+}

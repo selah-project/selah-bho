@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "आ ऊ धरती पर अकाल बोलावलन, रोटी के पूरा सहारा तोड़ दीनलन।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलावलन"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "सहारा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ दीनलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:49.196070121Z",
+  "model": "glm-5.3"
+}

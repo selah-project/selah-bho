@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "केहू आदमी के न्याय के एल्योन के आगे टेढ़ करल — एकरे खातिर ना।",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "टेढ़ करल — एकरे खातिर ना"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:33.003977327Z",
+  "model": "glm-5.3"
+}

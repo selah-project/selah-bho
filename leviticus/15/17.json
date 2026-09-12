@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ हरेक कपड़ा आ हरेक चमड़ा जेपर संभोग-बीज पड़ल होखे, ओके पानी में धोल जाव आ ओ साँझ ले अशुच रहेला।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओपर"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "संभोग-बीज"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "(के) बीज"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "धोल जाव"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "अशुच रहेला"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:00.200273364Z",
+  "model": "glm-5.3"
+}

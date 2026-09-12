@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जब तूँ नावा घर बनावह, त तोहार छत खातिर मुंडेर बनाइह, आ मत धराइह खून ⟨के दोष⟩ तोहार घर में, जब केहू गिरेवाला ओहिजे से गिरे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनावह"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नावा"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "आ बनाइह"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "मुंडेर"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "तोहार छत खातिर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ मत"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "धराइह"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "खून"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "तोहार घर में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "गिरेवाला"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओहिजे से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:30.637819610Z",
+  "model": "glm-5.3"
+}

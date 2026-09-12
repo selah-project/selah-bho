@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ओकर तरकस खुलल कबर नियर बा; ऊ सभे बलवान योद्धा बाड़ें।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ओकर तरकस"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "कबर नियर"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ऊ सभे"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान योद्धा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:13.385026058Z",
+  "model": "glm-5.3"
+}

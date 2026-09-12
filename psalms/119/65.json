@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "तूँ अपना सेवक के संग भलाई कइलऽ, हे यहवे, अपना बचन के अनुसार।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के संग"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "अपना सेवक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "अपना बचन के अनुसार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:08.472966891Z",
+  "model": "glm-5.3"
+}

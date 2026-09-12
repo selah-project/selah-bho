@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ यहवे मोशे से बोललन — कहेले।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ ... बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेले"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:08.015451021Z",
+  "model": "glm-5.3"
+}

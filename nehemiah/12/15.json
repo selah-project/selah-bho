@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "चारिम के घराना में अदना; मरायोत के घराना में चेल्काय।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "चारिम के घराना में"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "अदना"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "मरायोत के घराना में"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "चेल्काय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:49:59.310060467Z",
+  "model": "glm-5.3"
+}

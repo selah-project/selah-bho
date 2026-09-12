@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "आ ऊ आपन भाई बिन्यामिन के गरदन पर गिरलन आ रोईलन; आ बिन्यामिन ओकर गरदन पर रोईलन।",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "गिरलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "गरदन"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन के"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "आपन भाई"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "रोईलन"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "आ बिन्यामिन"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "रोईलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ओकर गरदन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:35:13.570417785Z",
+  "model": "glm-5.3"
+}

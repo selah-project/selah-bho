@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "काहें कि आज्ञा प आज्ञा, आज्ञा प आज्ञा; रेखा प रेखा, रेखा प रेखा; इहाँ टिका, उहाँ टिका।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "צו",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "प आज्ञा"
+    },
+    {
+      "surface": "צו",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "प आज्ञा"
+    },
+    {
+      "surface": "קו",
+      "gloss": "रेखा"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "प रेखा"
+    },
+    {
+      "surface": "קו",
+      "gloss": "रेखा"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "प रेखा"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "टिका"
+    },
+    {
+      "surface": "שם",
+      "gloss": "इहाँ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "टिका"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:07:23.490596762Z",
+  "model": "glm-5.3"
+}

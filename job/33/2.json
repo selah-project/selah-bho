@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "देखऽ, हम अपना मुँह खोलली अउर हमार जीभ हमार तालु में बोलल।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अबहिं"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "खोलली"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "बोलल"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "तालु में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:54.841074572Z",
+  "model": "glm-5.3"
+}

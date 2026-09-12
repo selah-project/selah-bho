@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हम देखलीं कि बुद्धि में मूर्खता से फायदा बा, जइसे उजियाला में अंधियारा से फायदा बा।",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "आ हम देखलीं"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "कि बा"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "फायदा"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "बुद्धि में"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "जइसे फायदा"
+    },
+    {
+      "surface": "האור",
+      "gloss": "उजियाला"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "अंधियारा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:14.406183894Z",
+  "model": "glm-5.3"
+}

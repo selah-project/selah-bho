@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "सदोम के राजा अवराहाम से कहलन: “जान-बूझ ⟨ना⟩ — प्राणिन के हमनी का देईं, आ माल तूँ ले ले।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमनी का ले"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "प्राणिन (नफश)"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "आ माल"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:43.519711908Z",
+  "model": "glm-5.3"
+}

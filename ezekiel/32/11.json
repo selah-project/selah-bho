@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "काहे कि अदोनाय यहवे एइसने कहेला: बावुल के राजा के तरवार तोहार ऊपर आवे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एइसने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बावुल"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "तोहार ऊपर आवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:32.393491823Z",
+  "model": "glm-5.3"
+}

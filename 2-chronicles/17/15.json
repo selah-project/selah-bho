@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ ओकर हाथ के नीचे यहोहानान ⟨ह⟩सरदार, आ ओकर साथे दू सौ अस्सी हजार।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के नीचे"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "यहोहानान"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨ह⟩सरदार"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "आ ओकर साथे"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दू सौ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:52.596740900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 75,
+  "translation": "„जब हम नियत समय लेबी, हम खुद सीधे-साफ न्याय करब।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "हम लेबी"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "नियत समय"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम खुद"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सीधे-साफ"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "न्याय करब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:28.367027254Z",
+  "model": "glm-5.3"
+}

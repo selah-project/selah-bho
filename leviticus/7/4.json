@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ⟨את⟩ दू गुरदा आ ⟨את⟩ ओहि चरबी जे ऊ पर बा, जे कमर के हड्डी पर बा, आ ⟨את⟩ ओ झिल्ली जे कलेजा पर बा — गुरदा संग हटावे के होई।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "दू गुरदा"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दू"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "गुरदा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ऊ पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "कमर के हड्डी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "झिल्ली"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "झिल्ली"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "कलेजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "संग"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "गुरदा"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "हटावे के होई"
+    }
+  ],
+  "timestamp": "2026-09-12T00:44:41.336187949Z",
+  "model": "glm-5.3"
+}

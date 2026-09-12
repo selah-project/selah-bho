@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आवऽ हमार दोद, हमनी का खेत में निकली; हमनी का गाँवन में रात बिताबी।",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "आवऽ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "हमार दोद"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "हमनी का निकली"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "रात बिताबी"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "गाँवन में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:24:19.140090151Z",
+  "model": "glm-5.3"
+}

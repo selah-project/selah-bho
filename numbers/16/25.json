@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ मोशे उठलन आ दातान आ अबीराम करा गइन, आ यिस्राएल के बूढ़वा लोग उनकर पाछूँ चलले।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "आ गइन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "करा"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "दातान"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "आ अबीराम"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "चलले"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "उनकर पाछूँ"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "बूढ़वा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:45.194346807Z",
+  "model": "glm-5.3"
+}

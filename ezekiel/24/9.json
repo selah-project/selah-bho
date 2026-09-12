@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "एही से अइसने कहलन अदोनाय यहवे: हाय लहू-बहावे वाला नगर! हम भी आग के ढेर के बड़ा करब।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "लहू-बहावे वाला"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "बड़ा करब"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "आग के ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:56:31.524318732Z",
+  "model": "glm-5.3"
+}

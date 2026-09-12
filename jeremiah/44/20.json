@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 44:20",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "आ यिर्मयाहू सब जनता के — मरदलोग पर, औरतन पर आ सब ओहि जनता पर जवन ओकरा ⟨את⟩ ओहि बात के जवाब देवत रहल — कहलन:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "मरदलोग"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "औरतन"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הענים",
+      "gloss": "जवन जवाब देवत रहल"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओहि बात"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ओहि बात के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:25.278291894Z",
+  "model": "glm-5.3"
+}

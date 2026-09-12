@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "मखली के ओर से — एलाज़ार; आ ओकर कवनो बेटा ना रहल।",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "मखली के ओर से"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़ार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:42.247593241Z",
+  "model": "glm-5.3"
+}

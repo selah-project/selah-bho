@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 147,
+  "translation": "ऊ कवनो गोय (जाति) से एहन ना कइलन; नियम सभ के ऊ लोग जानेनी ना। याह के स्तुति करऽ!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "कवनो भी"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "गोय (जाति)"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "नियम सभ के"
+    },
+    {
+      "surface": "בל",
+      "gloss": "बिल्कुल"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "जानेनी ना"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करऽ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:32.992726889Z",
+  "model": "glm-5.3"
+}

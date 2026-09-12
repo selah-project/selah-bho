@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 10:14",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "हर आदमी ज्ञान में भोला बा, मूरत से हर ढलाई वाला लज्जित बा — काहेकि ओकर ढालल ठगी ह, आ ओकरा में कवनो प्राण नइखे।",
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "भोला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "ज्ञान में"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "लज्जित बा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "ढलाई वाला"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "मूरत से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ठगी"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "ओकर ढालल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:25:58.137094295Z",
+  "model": "glm-5.3"
+}

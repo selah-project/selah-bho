@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ पूरा जाति एक्को मरद सन खड़ा भइल, कहेल — कवनो मरद आपन डेरा ना जाई, आ कवनो मरद आपन घर ना लवटी।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "खड़ा भइल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "एक्को मरद सन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्को"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "जाई"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मरद"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "आपन डेरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "लवटी"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कवनो मरद"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "आपन घर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:48.283485997Z",
+  "model": "glm-5.3"
+}

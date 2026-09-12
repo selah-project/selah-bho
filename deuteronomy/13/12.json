@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ सब इसरायल सुनेला आ डरावेला, आ अइसन बुरा काम तोर बीच में दुबारा ना करेला।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुनेला"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "आ डरावेला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "दुबारा करेला"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "काम"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोर बीच में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:33.509792043Z",
+  "model": "glm-5.3"
+}

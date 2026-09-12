@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "काँपऽ आ पाप मत करऽ; अपना मन में कहऽ, अपना पियरा पर, आ चुप रहऽ। सेला।",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "काँपऽ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ मत"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "पाप करऽ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "अपना मन में"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "अपना पियरा"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "आ चुप रहऽ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:58.249632142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ नफ़्ताली के बेटाअन के गोत्र के सेना के ऊपर अहीरा, एनान के बेटा, रहलें।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … ऊपर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटाअन के"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ़्ताली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अहीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:15:11.809359769Z",
+  "model": "glm-5.3"
+}

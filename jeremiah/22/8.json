@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ढेर जाति ए नगरी के पार जाहिं, आ हरेक जन अपना संगी से कहिहें: “यहवे ए बड़ नगरी के साथे अइसन काहे कइलन?”",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "आ पार जाहिं"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जाति सभे"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ए नगरी"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "आ कहिहें"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हरेक जन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपना संगी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ए नगरी के साथे"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    }
+  ],
+  "timestamp": "2026-09-11T23:35:24.938945604Z",
+  "model": "glm-5.3"
+}

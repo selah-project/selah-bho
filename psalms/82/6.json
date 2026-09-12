@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 82,
+  "translation": "हम कहलियन: तू सभे एलोहीम हव, आ एल्योन के लरिका सभे हव — तू सभे सभे।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "कहलियन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तू सभे"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ ... के लरिका"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तू सभे सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:24.021556541Z",
+  "model": "glm-5.3"
+}

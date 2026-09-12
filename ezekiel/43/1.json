@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ ऊ हमनी का ओ दुआर ले ले गइल — ओही दुआर जवन पूरुब के रास्ता के ओर मुँह कइले रहल।",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "ले गइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ले"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ओ दुआर"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "मुँह कइले रहल"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ता के ओर"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "पूरुब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:05:41.903074417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "बाईसवाँ गिद्दल्ती के — ओकर बेटा आ ओकर भाई, बारह गो।",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "बाईसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "गिद्दल्ती के"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(मिला के)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:57.437808983Z",
+  "model": "glm-5.3"
+}

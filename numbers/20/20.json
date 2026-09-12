@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "ओ कहलस, “रउआ ना गुजर सकब।” तब एदोम घनी भीड़ आ बलवान हाथ लेके ओकर सामना निकलल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "गुजर सकब"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ओकर सामना"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "घनी भीड़ लेके"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "घनी\/बड़"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "आ हाथ लेके"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:18.006680064Z",
+  "model": "glm-5.3"
+}

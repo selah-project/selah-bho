@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "बसे-रहे परदेसी आ मजदूर — दुनों ओमे से ना खावेला।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "बसे-रहे परदेसी"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "आ मजदूर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खावेला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओमे से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:42:35.741877818Z",
+  "model": "glm-5.3"
+}

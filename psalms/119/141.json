@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "छोट हम बानी आ तुच्छ — रउआ के विधानन के हम ना भूललीं।",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "छोट"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम बानी"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "आ तुच्छ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "रउआ के विधानन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "भूललीं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:44.283960201Z",
+  "model": "glm-5.3"
+}

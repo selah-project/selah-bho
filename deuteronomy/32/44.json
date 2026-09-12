@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ मोशे आइलन, आ ए गीत के ⟨את⟩ सब बात ओ जनता के कान में बोललन — ऊ खुद आ होशेआ, नून के बेटा।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आ आइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ए गीत के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कान में"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ओ जनता के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ खुद"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "आ होशेआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:38.099825458Z",
+  "model": "glm-5.3"
+}

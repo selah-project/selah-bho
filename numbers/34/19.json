@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ उनुका आदमिन के नाम ई बा — यहूदा के गोत्र खातिर: कालेब, येफुन्नेह के बेटा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ उनुका"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "आदमिन के"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "येफुन्नेह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:36.600359886Z",
+  "model": "glm-5.3"
+}

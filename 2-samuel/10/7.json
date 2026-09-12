@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ दाऊद सुनलन आ ⟨את⟩ योआब आ ⟨את⟩ पूरा सेना — बहादुर लोग — के भेजलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योआब"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा सेना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "बहादुर लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T19:24:01.957441884Z",
+  "model": "glm-5.3"
+}

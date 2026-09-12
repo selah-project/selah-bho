@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ रउआ इनहन के आपन घर के दुआर के खम्भा पर आ आपन ढोका सभ पर लिखबू।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "आ रउआ लिखबू"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "दुआर के खम्भा"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "आपन घर के"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "आ आपन ढोका सभ पर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:06.533697563Z",
+  "model": "glm-5.3"
+}

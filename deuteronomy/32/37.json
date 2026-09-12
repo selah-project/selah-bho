@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ कहल जाला: कतु बाड़ें उनकर एलोहीम, उनकर चट्टान जेकरा में ऊ भरोसा कइले रहलें?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहल जाला"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कतु"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "उनकर एलोहीम"
+    },
+    {
+      "surface": "צור",
+      "gloss": "उनकर चट्टान"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "भरोसा कइले रहलें"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:44:37.422893529Z",
+  "model": "glm-5.3"
+}

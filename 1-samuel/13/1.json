@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "एक साल के बेटा रहलें शाऊल जब ऊ राजा बनलन, आ दू साल ऊ इस्राएल पर राज कइलन।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक साल के"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "जब ऊ राजा बनलन"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "आ दू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:11:27.514771109Z",
+  "model": "glm-5.3"
+}

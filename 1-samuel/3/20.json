@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ कुल इसरायल जानल — दान से ले बेर-शेबा ले — कि शमुएल यहवे के नबी बन के पक्का भइल।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "आ जानल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "दान से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "पक्का भइल"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "नबी बन के"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:09:03.244775186Z",
+  "model": "glm-5.3"
+}

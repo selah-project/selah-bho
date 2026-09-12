@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ एनोश नब्बे बरिस जिइलन, आ ⟨את⟩ केनान के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिइलन"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "केनान"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:47.880932204Z",
+  "model": "glm-5.3"
+}

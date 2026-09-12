@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "ओकर समझौता के सदा याद रखऽ — ओ बचन जवन ऊ हजार पीढ़ी ले आज्ञा दिहलन।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "याद रखऽ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ओकर समझौता"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिहलन"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "हजार ले"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:29.015217854Z",
+  "model": "glm-5.3"
+}

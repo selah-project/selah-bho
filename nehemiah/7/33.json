@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "दुसर नेबो के आदमी — पचास आ दू।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दुसर"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "आ दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.713069244Z",
+  "model": "glm-5.3"
+}

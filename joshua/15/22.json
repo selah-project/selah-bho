@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ कीना, आ दिमोना, आ अदादा।",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "आ कीना"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "आ दिमोना"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "आ अदादा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:02.560005078Z",
+  "model": "glm-5.3"
+}

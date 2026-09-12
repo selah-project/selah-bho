@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 101,
+  "translation": "कुटिल हिया हमरा से दूर हटेला; बुराई के हम ना जानब।",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "कुटिल"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "हटेला"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "हमरा से दूर"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जानब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:53.663636512Z",
+  "model": "glm-5.3"
+}

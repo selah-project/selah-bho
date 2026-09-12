@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "काहे कि ओकर एलोहीम ओकरा मियाद सिखावेला, ओकरा सीख देवेला।",
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "सिखावेला"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "मियाद"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ओकर एलोहीम"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "सीख देवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:23.011117972Z",
+  "model": "glm-5.3"
+}

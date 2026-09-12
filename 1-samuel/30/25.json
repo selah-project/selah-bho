@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 30:25",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ ओहिजा दिन से आगे ऊ एकरा इसराएल खातिर कायदा आ नियम बनवलन, आज के दिन ले।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ ... भइल"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "ओहिजा दिन से"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहिजा"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "कायदा"
+    },
+    {
+      "surface": "ולמשפט",
+      "gloss": "आ नियम"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इसराएल खातिर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "आज के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:18:39.437000765Z",
+  "model": "glm-5.3"
+}

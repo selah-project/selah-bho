@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 57,
+  "translation": "हम एलोहीम एल्योन के पुकारब, ओ एल के जे हमार खातिर पूरा करेला।",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारब"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ओ एल के"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "जे पूरा करेला"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमार खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:54.116881318Z",
+  "model": "glm-5.3"
+}

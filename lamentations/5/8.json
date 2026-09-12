@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "दास लोग हमनी का ऊपर राज करेला; हाथ से छुड़ावे वाला कवनो नइखे।",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "दास लोग"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "राज करेला"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमनी का ऊपर"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "छुड़ावे वाला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "हाथ से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.188730621Z",
+  "model": "glm-5.3"
+}

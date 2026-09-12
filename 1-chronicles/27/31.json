@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ भेड़-बकरी के ऊपर याजीज़ हहागरी — ई सब राजा दाविद के जायदाद के सरदार रहलें।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़-बकरी"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "याजीज़"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "हहागरी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "जायदाद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    }
+  ],
+  "timestamp": "2026-09-11T23:01:31.519006246Z",
+  "model": "glm-5.3"
+}

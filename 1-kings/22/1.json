@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ऊ तीन बरिस बइठल रहलें — अराम आ इस्राएल के बीचे कवनो लड़ाई नइखे।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "बइठल रहलें"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीचे"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "आ के बीचे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:47:00.380733863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ तूँ राजा के लगे जाबू आ ओकरा से एह बात कहबू; आ योआब ⟨את⟩ ओ बात सभन के ओकर मुँह में रखलन।",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "जाबू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "कहबू"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "एह बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओ बात सभन के"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ओ बात सभन"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ओकर मुँह में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:33.098658982Z",
+  "model": "glm-5.3"
+}

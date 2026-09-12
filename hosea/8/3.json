@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "यिस्राएल भलाई के त्याग दिहलस; बैरी ओकर पीछा करेला।",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "त्याग दिहलस"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "बैरी"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "पीछा करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:10:53.971289389Z",
+  "model": "glm-5.3"
+}

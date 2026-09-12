@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "पापी लोगन के बुराई पीछा करेला, बाकिर धरमी लोगन ⟨את⟩ भलाई दिहेल जाला।",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "पापी लोगन के"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "पीछा करेला"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "धरमी लोगन"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धरमी लोगन"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "दिहेल जाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:34.430017081Z",
+  "model": "glm-5.3"
+}

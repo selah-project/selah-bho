@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ रेकेम, आ यिर्पेएल, आ तरआला।",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "आ रेकेम"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "आ यिर्पेएल"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "आ तरआला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:51.550653684Z",
+  "model": "glm-5.3"
+}

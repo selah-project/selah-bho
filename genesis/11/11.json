@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ शेम ⟨את⟩ अर्पक्षद के जनम देले के बाद पाँच सौ बरिस जिअलें, आ बेटा-बेटी जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिअलें"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अर्पक्षद के"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "अर्पक्षद"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ बेटी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:44.456724646Z",
+  "model": "glm-5.3"
+}

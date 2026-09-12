@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ याकोब आपन गोड़ उठवलन आ चलल घाम-पूरब के बेटान के धरती के ओर।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठवलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "आपन गोड़"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चलल"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती के ओर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटान के"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "घाम-पूरब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:46.933522017Z",
+  "model": "glm-5.3"
+}

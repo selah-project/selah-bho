@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ पूरा धरती के एगो ठेला (भाषा) आ एकही बत रहल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ठेला (भाषा)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "आ बत"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "एकही"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:12.589763956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ पत्थरन के ऊपर ए विधि के सब बातन के ⟨את⟩ बड़ी साफ़-साफ़ लिखबू।",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "आ लिखबू"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "पत्थरन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ए विधि के सब बातन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन के"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ए विधि के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "באר",
+      "gloss": "साफ़-साफ़ कोरबू"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "बड़ी साफ़"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:47.816506048Z",
+  "model": "glm-5.3"
+}

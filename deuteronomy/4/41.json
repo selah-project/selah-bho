@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "तब मोशे यरदेन के ओ पार, सूरज उगला के ओर, तीन गाँव अलग कइलन।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "अलग कइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "गाँव"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "के ओ पार"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यरदेन"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सूरज उगला के ओर"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूरज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:46.752661911Z",
+  "model": "glm-5.3"
+}

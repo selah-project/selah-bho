@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ हमरा किडनी में आपन तरकश के बेटा के घुसाइलन।",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "घुसाइलन"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "हमरा किडनी में"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "आपन तरकश के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:30.969367707Z",
+  "model": "glm-5.3"
+}

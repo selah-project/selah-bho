@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रउआ देखलन — ऊ सभे के पूरा बदला, ऊ सभे के पूरा कुतरन हमरा खातिर।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "रउआ देखलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "बदला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "कुतरन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.000548829Z",
+  "model": "glm-5.3"
+}

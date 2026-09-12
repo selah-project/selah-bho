@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "हिरन आ ग़ज़ल आ चीतल आ जंगली बकरा आ दिशोन आ तेओ आ ज़मर।",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "हिरन"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "आ ग़ज़ल"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "आ चीतल"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "आ जंगली बकरा"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "आ दिशोन"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "आ तेओ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "आ ज़मर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:54.608911964Z",
+  "model": "glm-5.3"
+}

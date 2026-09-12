@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एही से, हे जाति सभे, सुनऽ, आ हे सभा, जानऽ ⟨את⟩ ऊ जवन उनहन के बारे में बा।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "हे जाति सभे"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "आ जानऽ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "हे सभा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ जवन उनहन के बारे में बा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनहन के बारे में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:24:20.111698928Z",
+  "model": "glm-5.3"
+}

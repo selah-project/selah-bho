@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "हे बेटा, यहवे ⟨את⟩ आ राजा दुनों के डरऽ, आ बदलाव वाला लोगन के साथे ना घुला-मिला।",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "डरऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे बेटा"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "आ राजा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "बदलाव वाला लोगन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "घुला-मिला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:38.642694168Z",
+  "model": "glm-5.3"
+}

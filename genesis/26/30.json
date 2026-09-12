@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ऊ इनखन खातिर दावत कइलन, आ ऊ लोग खाइल आ पिइल।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "इनखन खातिर"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "दावत"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "खाइल"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "पिइल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:11.590234664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "रूबेन, शिमोन, लेवी आ यहूदा।",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आ यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:37:30.627259989Z",
+  "model": "glm-5.3"
+}

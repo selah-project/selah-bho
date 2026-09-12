@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "गबर जवन चतुर बा ऊ बल में बाड़ा आ जवन दानी बा ऊ ताकत के आगू बढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "गबर"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "बल में"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "आ जवन मनखे"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "दानी"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "आगू बढ़ावेला"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:06.861395661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 31:35",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ मनुख के प्राण, ओ स्त्री लोग में से जे पुरुष के सयाना ना जानत रहली, सब प्राण के गिनती दू हजार बत्तीस हजार,",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "आ प्राण"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ओ स्त्री लोग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानत रहली"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "सयाना"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "पुरुष के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "बत्तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:47.920867347Z",
+  "model": "glm-5.3"
+}

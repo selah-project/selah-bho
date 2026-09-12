@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 5:15",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ओकरा कहलन: “ए बर्तन सभ के उठावऽ, जा, यरूशलयिम के मंदिर में ओकरा राखऽ, आ एलाहा के घर ओकर जगह पर बने।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "מאניא",
+      "gloss": "बर्तन सभ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उठावऽ"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "राखऽ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בהיכלא",
+      "gloss": "मंदिर में"
+    },
+    {
+      "surface": "די",
+      "gloss": "के"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ घर"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "एलाहा"
+    },
+    {
+      "surface": "יתבנא",
+      "gloss": "बने"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אתרה",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:43:19.961861406Z",
+  "model": "glm-5.3"
+}

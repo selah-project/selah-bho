@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "तोर नगरन के हम खाली उजाड़ बनाब, आ तूँ उजाड़पन बन जाहब; आ तूँ जानब कि हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "तोर नगरन के"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "खाली उजाड़"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "हम … बनाब"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "उजाड़पन"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बन जाहब"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "आ तूँ जानब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:07.591638631Z",
+  "model": "glm-5.3"
+}

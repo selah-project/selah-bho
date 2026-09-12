@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "ओकर आँखि परेवान नियर बाड़ी सभ, पानी के धारा के ओर; दूध में नहावेवाली, भरल थरथरा पर बइठल।",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "ओकर आँखि"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "परेवान नियर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "धारा के"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "नहावेवाली"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "दूध में"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "बइठल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "भरल थरथरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:09.825674791Z",
+  "model": "glm-5.3"
+}

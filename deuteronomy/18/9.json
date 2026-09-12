@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "जब तूँ ओहि धरती में आबऽ जवना के यहवे तोहार एलोहीम तोहा के देवेला, तब ओहि गोतन के घिनौना काम कइला सीखे के नइखे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आबऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओहि धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहार एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "सीखे"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "कइला"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "जइसन घिनौना काम"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ओहि गोतन के"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ओहि सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:54.325579287Z",
+  "model": "glm-5.3"
+}

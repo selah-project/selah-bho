@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "श्रापित होवे ऊ जे ए तौरत के बातन के ⟨את⟩ पूरा ना करेला, ⟨את⟩ इनहन के करे खातिर; आ पूरा जनता कहेला — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "श्रापित होवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "पूरा करेला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बातन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तौरत के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ इनहन के"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:24.309713745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ तोहार गरीबी यात्री नियर आ जाई, आ तोहार अभाव हथियारबन्द मनई नियर।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आ जाई"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "यात्री नियर"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तोहार गरीबी"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "आ तोहार अभाव"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "मनई नियर"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "हथियारबन्द"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:54.645233653Z",
+  "model": "glm-5.3"
+}

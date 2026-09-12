@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ असेर के बेटी के नाम सेरह रहल।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "आ … के नाम"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "असेर के"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "सेरह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:40.736231599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "मिखायाहू कहलन, देख, तूँ ओही दिन देखब जब तूँ छिपे खातिर कोठरी के भीतर कोठरी में जाब।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "मिखायाहू"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "देख, तूँ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "जाब"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "कोठरी के"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "भीतर कोठरी में"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "छिपे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:32.079659756Z",
+  "model": "glm-5.3"
+}

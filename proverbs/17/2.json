@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "समझदार नौकर लाज-लागे वाला बेटा पर राज करेला, आ भाई लोग के बीच बिरसात बाँटेला।",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "नौकर"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "राज करेला"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "बेटा पर"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "लाज-लागे वाला"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "आ के बीच"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "भाई लोग"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "बाँटेला"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "बिरसात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:20.000267306Z",
+  "model": "glm-5.3"
+}

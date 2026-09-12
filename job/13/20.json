@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "खाली दू गो बात रउआ हमरा संग ना करें; तब हम रउआ के सामने से ना छुपिहीं।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "खाली"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दू गो (बात)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "करें"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमरा संग"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "रउआ के सामने से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "हम छुपिहीं"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:50.256324678Z",
+  "model": "glm-5.3"
+}

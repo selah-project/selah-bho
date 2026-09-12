@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "सीधा लोगन के सड़क बुराई से टर के जाला; जउन आपन जीव के राखेला ऊ आपन राह के गवाहेला।",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "सड़क"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा लोगन के"
+    },
+    {
+      "surface": "סור",
+      "gloss": "टर के"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "राखेला"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "आपन जीव के"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "गवाहेला"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "आपन राह के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:20.540688751Z",
+  "model": "glm-5.3"
+}

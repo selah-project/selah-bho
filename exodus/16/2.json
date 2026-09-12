@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ इस्राएल के लड़िकन के पूरा सभा जंगल में मोशे आ अहारोन पर बड़बड़ कइलस।",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "बड़बड़ कइलस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लड़िकन के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ ... पर"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:44:24.012049386Z",
+  "model": "glm-5.3"
+}

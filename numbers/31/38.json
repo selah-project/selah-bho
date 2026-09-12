@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आ गाय छत्तीस हजार रहलीं, आ ओकर महसूल यहवे खातिर बहत्तर भईल।",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "आ गाय"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "छत्तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "आ ओकर महसूल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "आ सत्तर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:25:36.259399094Z",
+  "model": "glm-5.3"
+}

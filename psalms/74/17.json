@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 74,
+  "translation": "तूँए धरती के सब सीमा लगवलऽ; गरमी आ जाड़ा तूँए गढ़लऽ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तूँए"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "लगवलऽ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "गरमी"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "आ जाड़ा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँए"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "गढ़लऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:25.917893068Z",
+  "model": "glm-5.3"
+}

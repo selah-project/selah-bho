@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ उनहन के बसावट मेशा से रहल, जइसे जाई त सेफर ले — पूरुब के पहाड़।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … रहल"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "उनहन के बसावट"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "मेशा से"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "जइसे जाई त"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "सेफर ले"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "पूरुब के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:25.584024706Z",
+  "model": "glm-5.3"
+}

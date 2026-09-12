@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "जे आँखि ओकरा देखले ऊ आगू ना देखेले, आ ओकर जगह ओकरा फेर से ना ताड़ेले।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "देखले"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "आगू (फेर)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर से"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "ताड़ेले"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:30.490508404Z",
+  "model": "glm-5.3"
+}

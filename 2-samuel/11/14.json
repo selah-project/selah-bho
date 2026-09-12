@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ भोर होतहीं दाविद एगो चिट्ठी लिखलन योआब ला, आ उरिया के हाथे ओकरा भेज दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भोर होतहीं"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "लिखलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "एगो चिट्ठी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "भेज दिहलन"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "के हाथे"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "उरिया"
+    }
+  ],
+  "timestamp": "2026-09-11T19:25:48.721056632Z",
+  "model": "glm-5.3"
+}

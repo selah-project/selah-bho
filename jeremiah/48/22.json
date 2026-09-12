@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ दीबोन पर, आ नेबो पर, आ बेत-दिबलाताइम पर।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "दीबोन"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "दिबलाताइम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:58.316729737Z",
+  "model": "glm-5.3"
+}

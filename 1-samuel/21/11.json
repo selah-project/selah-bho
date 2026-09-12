@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "दाऊद उठलन आ ओही दिन शाऊल के मुँह से भागल, आ गत के राजा अकीश के लग आइलन।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "भागल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लग"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीश"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:16:40.866650775Z",
+  "model": "glm-5.3"
+}

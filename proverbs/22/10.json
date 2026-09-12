@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ठट्ठाबाज के भगावऽ, तब झगड़ा निकल जाई, आ मुकदमा आ बेइज्जती चुप हो जाई।",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "भगावऽ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ठट्ठाबाज के"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निकल जाई"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "झगड़ा"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "चुप हो जाई"
+    },
+    {
+      "surface": "דין",
+      "gloss": "मुकदमा"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "आ बेइज्जती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:02.977070214Z",
+  "model": "glm-5.3"
+}

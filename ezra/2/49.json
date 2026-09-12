@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "उज्जा के बेटा, पसेह के बेटा, बेसाय के बेटा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्जा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पसेह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "बेसाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:42:19.529449394Z",
+  "model": "glm-5.3"
+}

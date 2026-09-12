@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आज के दिन रउआ सभे निकलत बाड़े, अबीव महिना में।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "निकलत बाड़े"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महिना में"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "अबीव"
+    }
+  ],
+  "timestamp": "2026-09-11T17:43:38.590964966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ ऊ उठलन, चललन आ शोमरोन गेलन; ऊ रस्ता में गड़रिया के बेइत-एकेद पर रहल।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गेलन"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "एकेद"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गड़रिया के"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:50:23.600732322Z",
+  "model": "glm-5.3"
+}

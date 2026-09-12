@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ फिरौन के मन मजबूत भइल, आ ऊ इनहन के ना सुनलन, जइसन यहवे कहले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "मजबूत भइल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "इनहन के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहले रहलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:56.623727622Z",
+  "model": "glm-5.3"
+}

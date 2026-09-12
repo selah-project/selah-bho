@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "उ लोग ओहिजे ताकलें आ चमक उठलें, आ उनखर मुँह कबो संकोच ना खाई।",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ताकलें"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "आ चमक उठलें"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "आ उनखर मुँह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "संकोच खाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:09.290710148Z",
+  "model": "glm-5.3"
+}

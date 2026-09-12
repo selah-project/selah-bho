@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ ई शोबाल के बेटा रहलें — अलवान, आ मनाहत, आ एवाल, शेफो आ ओनाम।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "शोबाल के"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "अलवान"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "आ मनाहत"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "आ एवाल"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "शेफो"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "आ ओनाम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:29:05.078466293Z",
+  "model": "glm-5.3"
+}

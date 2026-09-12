@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "यहवे रउआ सभे खातिर लड़ी, आ रउआ सभे चुप रहब।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "लड़ी"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "आ रउआ सभे"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "चुप रहब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:43:47.473287479Z",
+  "model": "glm-5.3"
+}

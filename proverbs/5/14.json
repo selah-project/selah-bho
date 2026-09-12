@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हम करीब-करीब हरेक बुराई में पहुँचि गइल रहलीं, ⟨साँझा⟩ सभा आ इकठ्ठा के बीच में।",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "करीब-करीब"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "रहलीं"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "आ इकठ्ठा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:54.919760283Z",
+  "model": "glm-5.3"
+}

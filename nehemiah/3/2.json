@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ओकरे हाथ के साथे यरीहो के मरद लोग बनाले; आ ओकरे हाथ के साथे बनालन जक्कूर, इमरी के बेटा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के साथे"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बनाले"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मरद लोग"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो के"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … के साथे"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनालन"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "जक्कूर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "इमरी के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:47:27.279590333Z",
+  "model": "glm-5.3"
+}

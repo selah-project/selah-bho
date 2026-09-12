@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 92,
+  "translation": "मिजमोर, गीत — शब्बात के दिन खातिर।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन खातिर"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बात के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:37.308118466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "यहवे के आ ओकर ताकत के खोज करीं; ओकर मुह निरन्तर खोजीं।",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "खोज करीं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "आ ओकर ताकत के"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोजीं"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुह"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:56:26.387011678Z",
+  "model": "glm-5.3"
+}

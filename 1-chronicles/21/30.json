@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ दाविद ओकरा आगू ना जा सकलन एलोहीम के खोजे खातिर, काहेकि ऊ यहवे के दूत के तलवार के आगू डेरा गइल रहल।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "सकलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकरा आगू"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "खोजे खातिर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "डेरा गइल रहल"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:51.668091498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "आ अब सुनऽ, हमार सेवक याकोब, आ इसरायल, जेकरा हम चुनलिए।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हमार सेवक"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आ इसरायल"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "चुनलिए"
+    },
+    {
+      "surface": "בו",
+      "gloss": "जेकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:05.107677832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ मिखाएल, आ इश्पा आ योहा — बरिआह के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "आ मिखाएल"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "आ इश्पा"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "आ योहा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बरिआह के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:40.424057227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जौं तूँ भोरे-भोरे एल के खोज करऽ, आ शद्दय के अगुवा माँगऽ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जौं"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "भोरे-भोरे खोज करऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ … के अगुवा"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "माँगऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:32.402985825Z",
+  "model": "glm-5.3"
+}

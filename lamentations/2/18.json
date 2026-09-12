@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "उनका मन अदोनाय के ओर चीखल; हे जियोन के बेटी के दीवार, आँसू के नाला नियर दिन-रात बहाय दे; आपन के आराम ना दे; हे बेटी, आपन आँखि के चुप ना रुकाय दे।",
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "चीखल"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "उनका मन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी के"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "बहाय दे"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "नाला नियर"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "आँसू"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आ रात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "दे"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "आराम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "चुप रुकाय दे"
+    },
+    {
+      "surface": "בת",
+      "gloss": "हे बेटी"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "आपन आँखि"
+    }
+  ],
+  "timestamp": "2026-09-11T22:27:45.422126345Z",
+  "model": "glm-5.3"
+}

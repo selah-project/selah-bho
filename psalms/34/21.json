@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "यहवे ओकर सबहन टाँटनी के रखाव करेला; इनहन में से एको ना टूटले।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "रखाव करेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबहन"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "ओकर टाँटनी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "इनहन में से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "टूटले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:07.619043602Z",
+  "model": "glm-5.3"
+}

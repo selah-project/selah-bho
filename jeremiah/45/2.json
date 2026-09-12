@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "“एहने कहेला यहवे, इस्राएल के एलोहीम, तोहार बारे में, हे बारूख:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार बारे में"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूख"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:20.813056147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 6:14",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "ऊ उहाँ घोड़ा, रथ आ एगो भारी सेना भेजलन; ऊ राति के आइलें आ ओ नगर के घेर लिहलें।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "भेजलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "आ रथ"
+    },
+    {
+      "surface": "וחיל",
+      "gloss": "आ सेना"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आइलें"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "राति के"
+    },
+    {
+      "surface": "ויקפו",
+      "gloss": "घेर लिहलें"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ओ नगर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:49:14.626438968Z",
+  "model": "glm-5.3"
+}

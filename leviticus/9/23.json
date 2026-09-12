@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ मूसा आ अहरोन मिलने के डेरा में गइन; निकलले आ ⟨את⟩ प्रजा के आशीस दिहलन, आ यहवे के महिमा सगरी प्रजा के देखाई पड़ल।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "गइन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "आ अहरोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(के) भीतर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलने के"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "निकलले"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "आशीस दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रजा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "देखाई पड़ल"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(के) लगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:27.694710917Z",
+  "model": "glm-5.3"
+}

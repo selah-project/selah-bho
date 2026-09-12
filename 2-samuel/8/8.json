@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ हददएज़र के नगर बेता आ बेरोतयिम से राजा दाऊद ढेर सारो तामिर ले आइलन।",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "बेता से"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "बेरोतयिम से"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "हददएज़र के"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ले आइलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तामिर"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ढेर सारो"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:41.597788176Z",
+  "model": "glm-5.3"
+}

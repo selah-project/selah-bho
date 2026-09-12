@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "धनी के लगे भेड़-बकरी आ गाय-बैल बहुते ढेर रहलें।",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "धनी के लगे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़-बकरी"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "आ गाय-बैल"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ढेर"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:19.926547816Z",
+  "model": "glm-5.3"
+}

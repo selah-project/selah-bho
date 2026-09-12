@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ एगो दिन भइल कि ऊ उहाँ आइलन, आ ऊ अटारी के ओर मुड़लन आ उहाँ सो गइलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "היום",
+      "gloss": "एगो दिन"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "मुड़लन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "अटारी"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "सो गइलन"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उहाँ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:48:05.341438614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ राजा सुलेमान बिनती भेजलन आ त्सोर से हीराम के ⟨את⟩ ले आइन।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "बिनती भेजलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलेमान"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ले आइन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हीराम"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "हीराम"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "त्सोर से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:31.276363475Z",
+  "model": "glm-5.3"
+}

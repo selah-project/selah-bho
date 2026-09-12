@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ अवशालोम भाग गइल आ गशूर चलल गइल, आ ऊ ⟨उहाँ⟩ तीन साल रहल।",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "आ अवशालोम"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भाग गइल"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "चलल गइल"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "गशूर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ ⟨उहाँ⟩ रहल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:24:47.199862312Z",
+  "model": "glm-5.3"
+}

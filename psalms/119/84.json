@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "रउआ के दास के दिन केतना बानी? कब रउआ हमरो पीछा करे वालन पर न्याय करब?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "केतना"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "रउआ के दास के"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "रउआ करब"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "हमरो पीछा करे वालन पर"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:36.187589791Z",
+  "model": "glm-5.3"
+}

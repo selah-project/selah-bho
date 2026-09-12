@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ कहलन, “जा, ई मानिहार सभे से कह, ‘सुनत रहू — बाकिर समझत ना; देखत रहू — बाकिर जानत ना।’”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ ऊ कहलन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कहबू"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "से"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई मानिहार सभे"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनत रहू"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुनत"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "समझत ना"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "आ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखत रहू"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "जानत ना"
+    }
+  ],
+  "timestamp": "2026-09-11T20:01:29.724276373Z",
+  "model": "glm-5.3"
+}

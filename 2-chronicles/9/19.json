@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ बारह गो सिंह ओहिजे छहौ सीढ़ी पर ए ओर आ ओ ओर खड़ा रहलें; कवनो मुलुक खातिर अइसन ना बनावल गइल रहे।",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "आ बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-गो"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "खड़ा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "सीढ़ी"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ए ओर"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "आ ओ ओर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "बनावल गइल"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "मुलुक खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:03.936741872Z",
+  "model": "glm-5.3"
+}

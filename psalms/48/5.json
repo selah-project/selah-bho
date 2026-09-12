@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "काहें कि देखऽ, राजा लोग जुटल रहलें, एक संगे आगू बढ़ल रहलें।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा लोग"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "जुटल रहलें"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "आगू बढ़ल रहलें"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक संगे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:25.284499346Z",
+  "model": "glm-5.3"
+}

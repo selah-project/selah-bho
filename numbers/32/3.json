@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "अतारोत आ दिबोन आ याज़ेर आ निमरा आ खेशबोन आ एलआले आ सेबाम आ नेबो आ बेओन —",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "अतारोत"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "आ दिबोन"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "आ याज़ेर"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "आ निमरा"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "आ खेशबोन"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "आ एलआले"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "आ सेबाम"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "आ नेबो"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "आ बेओन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:26:25.596076186Z",
+  "model": "glm-5.3"
+}

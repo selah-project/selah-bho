@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "माओन, कारमेल, आ ज़िफ, आ यूता।",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "माओन"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "कारमेल"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "आ ज़िफ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "आ यूता"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:10.753037138Z",
+  "model": "glm-5.3"
+}

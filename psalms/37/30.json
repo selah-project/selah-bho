@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "धर्मी के मुँह ज्ञान बोलेला, आ ओकर जीभ मिसपात बोलेला।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी के"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "बोलेला"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "आ ओकर जीभ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोलेला"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "मिसपात"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:26.001519471Z",
+  "model": "glm-5.3"
+}

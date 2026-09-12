@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ बालाक बिलाम से कहलन, “ना तऽ बद्दुआ देबऽ, ना तऽ आशीर्बाद — ओकरा कबो ना।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ना तऽ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "बद्दुआ देबऽ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ओकरा (कबो ना)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ना तऽ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "आशीर्बाद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ओकरा (कबो ना)"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:59.739228235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ऊ ओकरा बेटा जनली — ⟨את⟩ येउश, ⟨את⟩ शेमर्या आ ⟨את⟩ जहम के।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जनली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येउश"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "येउश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शेमर्या"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "शेमर्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "जहम"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "जहम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:39.789313755Z",
+  "model": "glm-5.3"
+}

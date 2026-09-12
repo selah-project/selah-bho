@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 15:19",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ जब रउआ ओ धरती के रोटी खाब, तब यहवे खातिर तरुमाह ऊँच करब।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ जब होखी"
+    },
+    {
+      "surface": "באכלכם",
+      "gloss": "जब रउआ खाब"
+    },
+    {
+      "surface": "מלחם",
+      "gloss": "रोटी (खाना)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ऊँच करब"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "तरुमाह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:30.708240863Z",
+  "model": "glm-5.3"
+}

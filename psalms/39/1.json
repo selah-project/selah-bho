@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "मुखिया खातिर, येदूतुन खातिर — दाऊद के मिजमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "येदूतुन खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:12.663411915Z",
+  "model": "glm-5.3"
+}

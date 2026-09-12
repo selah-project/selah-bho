@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "दुष्ट लोग के घर उजड़ जाई, आ सीधा लोग के डेरा फूल जाई।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग के"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "उजड़ जाई"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "आ डेरा"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधा लोग के"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "फूल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:44.829870540Z",
+  "model": "glm-5.3"
+}

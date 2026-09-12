@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 97,
+  "translation": "यहवे राज कइलन, धरती खुस होख, ढेर टापू आनन्दित होखिन।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कइलन"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "खुस होख"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "आनन्दित होखिन"
+    },
+    {
+      "surface": "איים",
+      "gloss": "टापू"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:32.718239603Z",
+  "model": "glm-5.3"
+}

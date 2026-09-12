@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ दाऊद ओ गढ़ में बसल रहलें; एही से ओकरा ⟨गढ़ के⟩ “दाऊद के नगर” कहल गइल।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "आ…बसल रहलें"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ओ गढ़ में"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से…के कारण"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "कहल गइल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:13.292442512Z",
+  "model": "glm-5.3"
+}

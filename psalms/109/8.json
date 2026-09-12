@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "ओकर दिन थोरे रहँ, आ कवनो दूसर ओकर पद ले ले।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "रहँ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ओकर दिन"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "थोरे"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ओकर पद"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "कवनो दूसर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:10.680203684Z",
+  "model": "glm-5.3"
+}

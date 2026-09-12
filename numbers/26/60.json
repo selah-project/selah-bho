@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ अहरोन के घरे ⟨את⟩ नादाब, ⟨את⟩ अबीहू, ⟨את⟩ एलाजार आ ⟨את⟩ इतामार के जनम भइल।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "जनम भइल"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन के घरे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नादाब"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अबीहू"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "अबीहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलाजार"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "इतामार"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "इतामार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:24:32.834877272Z",
+  "model": "glm-5.3"
+}

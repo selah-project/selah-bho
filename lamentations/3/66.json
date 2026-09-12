@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "रउआ क्रोध में ऊ लोगन के पीछा करब आ ऊ लोगन के यहवे के अकास के नीचे से मेट देब।",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "रउआ पीछा करब"
+    },
+    {
+      "surface": "באף",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "आ ऊ लोगन के मेट देब"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "के नीचे से"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:08.167717509Z",
+  "model": "glm-5.3"
+}

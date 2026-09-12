@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 34:15",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "हम आपन भेड़ के चराब आ हमे ऊनका लेटाब — अदोनाय यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "चराब"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "आपन भेड़ के"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हमे"
+    },
+    {
+      "surface": "ארביצם",
+      "gloss": "लेटाब"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "के वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:01:11.109178248Z",
+  "model": "glm-5.3"
+}

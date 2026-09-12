@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ सब गाछन बबूल से कहलीं — जा, तूँ हमनी का पर राज कर।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "आ कहलीं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "गाछन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "बबूल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज कर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमनी का पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:59:19.818937507Z",
+  "model": "glm-5.3"
+}

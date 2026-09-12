@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "सरदार केनाज, सरदार तेमान, सरदार मिब्त्सार।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "केनाज"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "मिब्त्सार"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:13.456594594Z",
+  "model": "glm-5.3"
+}

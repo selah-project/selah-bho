@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 116,
+  "translation": "रउआ के हम धन्यवाद के बलि चढ़ाब, आ यहवे के नाँव में हम पुकारब।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "हम चढ़ाब"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "धन्यवाद"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "आ … नाँव में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:57.993527891Z",
+  "model": "glm-5.3"
+}

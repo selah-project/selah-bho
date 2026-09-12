@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "पुरुब के हवा से रउआ तरशीश के जहाज सभ के तोड़ देला।",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "हवा से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पुरुब के"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "तोड़ देला"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाज सभ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तरशीश"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:25.285063909Z",
+  "model": "glm-5.3"
+}

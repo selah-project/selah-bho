@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ओकर गिनती, बिन्यामिन के गोत्र खातिर, पाँच आ तीस हजार आ चार सौ रहल।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओकर गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "आ तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:51.030291836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 20:4",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ भल, यिशायाहू बिचला चौक से ना निकसल रहल कि यहवे के बचन ओकरा लग भइल, कहेला:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भल"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यिशायाहू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकसल"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "चौक"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "बिचला"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आ बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T19:57:47.966427459Z",
+  "model": "glm-5.3"
+}

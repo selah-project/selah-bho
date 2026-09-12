@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ रउआ ⟨את⟩ यहवे आपन एलोहीम से प्रेम करब सभटा दिल से, आ सभटा प्राण से, आ सभटा बल से।",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "आ रउआ प्रेम करब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे आपन एलोहीम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आपन एलोहीम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सभटा … से"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आ सभटा … से"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "आ सभटा … से"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "बल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:56.554855010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "सात हफ्ता रउआ आपन खातिर गिनब; जब से रउआ फाली खड़ा धान में लगाब, तब से सात हफ्ता गिनै शुरू करब।",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "हफ्ता"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "रउआ गिनब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "जब से"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "फाली"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "खड़ा धान में"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "शुरू करब"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "गिनै खातिर"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "हफ्ता"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:12.842468895Z",
+  "model": "glm-5.3"
+}

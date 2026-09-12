@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "घात लगवल — हमार दुश्मन लोग हमरा चिरई नियर, बिना कवनो कारण के, घात लगा के पकड़लन।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "घात लगवल"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "घात लगा के पकड़लन"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "चिरई नियर"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "हमार दुश्मन लोग"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "बिना कवनो कारण"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:15.826126198Z",
+  "model": "glm-5.3"
+}

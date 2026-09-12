@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ एतान के बेटा लोग: अजर्याह।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा लोग"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एतान"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:28.593003708Z",
+  "model": "glm-5.3"
+}

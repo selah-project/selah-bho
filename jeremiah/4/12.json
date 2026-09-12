@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "इन्हन से बहुते भारी हवा हमरा ले आई; अब हम भी इन्हन पर ⟨את⟩ मियादी बोलब।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "बहुते भारी"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "इन्हन से"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आई"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा ले"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलब"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "मियादी"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ इन्हन पर",
+      "marks": "इन्हन पर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:14.439664230Z",
+  "model": "glm-5.3"
+}

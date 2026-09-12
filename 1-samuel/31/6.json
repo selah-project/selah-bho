@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "तेहर शाउल मर गइल, आ ओकर तीनों बेटा, आ हथियार ढोवइया, आ ओकर सब मरद — ओही दिने एकठे।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर गइल"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "आ तीनों"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "आ हथियार ढोवइया"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ओकर हथियार"
+    },
+    {
+      "surface": "גם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ओकर मरद"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओही दिने"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकठे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:21:19.167590455Z",
+  "model": "glm-5.3"
+}

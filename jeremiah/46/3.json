@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "छोट ढाल आ बड़ ढाल सजावऽ, आ लड़ाई खातिर आगू बढ़ऽ।",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "सजावऽ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "छोट ढाल"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "आ बड़ ढाल"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "आ आगू बढ़ऽ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:38.272868513Z",
+  "model": "glm-5.3"
+}

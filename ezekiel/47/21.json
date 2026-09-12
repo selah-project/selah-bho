@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 47,
+  "translation": "आ रउआ ए ⟨את⟩ धरती आपन बीच बाँटब, इस्राएल के सब्तन के अनुसार।",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "आ रउआ बाँटब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ बीच"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "सब्तन के अनुसार"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:06:18.052216646Z",
+  "model": "glm-5.3"
+}

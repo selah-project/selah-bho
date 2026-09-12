@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "तब राजा शिमी से कहलन, “तूँ ना मरब।” आ राजा ओकरा ले कसम खइलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरब"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "कसम खइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा ले"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:29:46.799934969Z",
+  "model": "glm-5.3"
+}

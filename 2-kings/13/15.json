@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ एलिशा ओकरा कहलन, “धनुष आ तीर लऽ।” ऊ ओकरा धनुष आ तीर लेलन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिशा"
+    },
+    {
+      "surface": "קח",
+      "gloss": "लऽ"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुष"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "आ तीर"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लेलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुष"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "आ तीर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:31:36.666310742Z",
+  "model": "glm-5.3"
+}

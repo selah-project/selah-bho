@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "“अभिसाप ओहला जे कवनो जानवर के साथे सोवेला।” आ कुल जनता कहेला — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिसाप ओहला"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सोवेला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो भी"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:27.960823109Z",
+  "model": "glm-5.3"
+}

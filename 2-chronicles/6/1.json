@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तब सुलैमान कहलन: “यहवे कहलन — ऊ घनघोर अँधियार में बसे खातिर।”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलैमान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "बसे खातिर"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "घनघोर अँधियार में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:44.252408892Z",
+  "model": "glm-5.3"
+}

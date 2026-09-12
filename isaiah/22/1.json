@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "दर्शन के गोर के सुभार — एहनो का भइल तोहार, काहें कि तूँ पूरा पाखारा प चढ़ि गइल बा?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "सुभार"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "गोर"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "एहनो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "चढ़ि गइल बा"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "पूरा तूँ"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "पाखारा प"
+    }
+  ],
+  "timestamp": "2026-09-11T20:06:04.048968062Z",
+  "model": "glm-5.3"
+}

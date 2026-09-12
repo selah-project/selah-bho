@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "तब दानिएल राजा से बोललन: “हे राजा, सदा-सरदा ले जिअ।”",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानिएल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "बोललन"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "हे राजा"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "सदा-सरदा ले"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "जिअ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:38:58.400455974Z",
+  "model": "glm-5.3"
+}

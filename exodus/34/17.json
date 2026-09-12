@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "पिघिराके ढालल एलोहीम रउआ आपन खातिर ना बनाब।",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "पिघिराके ढालल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनाब"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आपन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:52:38.345019699Z",
+  "model": "glm-5.3"
+}

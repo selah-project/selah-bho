@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 144,
+  "translation": "जिनका मुँह झूठ बोलेला, आ जिनकर दहिना हाथ धोखे के हाथ बा।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जिनका"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलेला"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "आ जिनकर दहिना हाथ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "धोखे के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:58:34.952370232Z",
+  "model": "glm-5.3"
+}

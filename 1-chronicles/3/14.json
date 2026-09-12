@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आमोन ओकर बेटा, योशियाहू ओकर बेटा।",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "आमोन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाहू"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:39.876701319Z",
+  "model": "glm-5.3"
+}

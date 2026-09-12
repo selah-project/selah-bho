@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ जेरह कूशी ऊ लोग के बिरुद्ध निकसल, दस लाख के सेना आ तीन सौ रथ लेके; आ ऊ मारेशा ले आइल।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकसल"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ऊ लोग के बिरुद्ध"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरह"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "कूशी"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "सेना लेके"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "— हजार"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "आ रथ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "मारेशा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:08:07.628859073Z",
+  "model": "glm-5.3"
+}

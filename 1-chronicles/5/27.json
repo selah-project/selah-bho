@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "लेवी के बेटा लोग: गेरशोन, कहात आ मरारी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी के"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आ मरारी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:05.166586893Z",
+  "model": "glm-5.3"
+}

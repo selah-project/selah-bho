@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "देखऽ, हम आज रउआ के आगे ⟨את⟩ जिनगी आ ⟨את⟩ भलाई के रखले बानी, आ ⟨את⟩ मउत आ ⟨את⟩ बुराई के।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "हम रखले बानी"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "रउआ के आगे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जिनगी"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "भलाई"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मउत"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मउत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बुराई"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:51.854438509Z",
+  "model": "glm-5.3"
+}

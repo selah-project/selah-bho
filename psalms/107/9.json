@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "काहे कि ऊ तड़पत प्राण के तृप्त कइलन, आ भूखल प्राण के भलाई से भर दिहलन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "तृप्त कइलन"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "तड़पत"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "आ भूखल प्राण"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "भूखल"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर दिहलन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:52.492549661Z",
+  "model": "glm-5.3"
+}

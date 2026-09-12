@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहवे के बात ओकरा लग आइल, ई कहिके:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … भ गइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ई कहिके"
+    }
+  ],
+  "timestamp": "2026-09-11T19:41:58.793067778Z",
+  "model": "glm-5.3"
+}

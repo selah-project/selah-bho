@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ओबेद-एदोम खातिर दक्खिन के ओर, आ ओकर बेटन खातिर इकट्ठा-घर (बेत हाअसुप्पीम)।",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "खातिर ओबेद"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "दक्खिन के ओर"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "आ ओकर बेटन खातिर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "इकट्ठा के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:00:27.007432141Z",
+  "model": "glm-5.3"
+}

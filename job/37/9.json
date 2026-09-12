@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "कोठरी से बवंडर आवेला, आ बिखरावल हवा-सभे से ठंडक आवेला।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "कोठरी"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "बवंडर"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "आ बिखरावल हवा-सभे से"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ठंडक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:42.578181799Z",
+  "model": "glm-5.3"
+}

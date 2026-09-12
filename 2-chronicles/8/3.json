@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ सुलैमान हमात-त्सोवा के गइलन आ ओकरा पर हावी भइलन।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गइलन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "सुलैमान"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "हमात"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोवा"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "हावी भइलन"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ओकरा पर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:48.616625948Z",
+  "model": "glm-5.3"
+}

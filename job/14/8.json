@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "यदि ओकर जड़ धरती में बूढ़ हो जाव, आ ओकर तना धूल में मर जाव —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "बूढ़ हो जाव"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "ओकर जड़"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "आ धूल में"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मर जाव"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "ओकर तना"
+    }
+  ],
+  "timestamp": "2026-09-11T22:13:14.083691638Z",
+  "model": "glm-5.3"
+}

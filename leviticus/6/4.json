@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ओह ⟨את⟩ आपन कपड़ा उतारह आ दूसर कपड़ा पहिरह, आ ⟨את⟩ राख के छावनी से बाहर एगो साफ जगह ले जाह।",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "आ उतारह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन कपड़ा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आपन कपड़ा"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "आ पहिरह"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "आ ले जाह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "राख"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "राख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(के ओर)"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "साफ"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:20.476122204Z",
+  "model": "glm-5.3"
+}

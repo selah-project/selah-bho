@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "ए सब बातन के अनुसार आ ए दर्शन के अनुसारे नातन दाऊद से एहने कहलन।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ए सब के अनुसार"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "आ … के अनुसारे"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:13.450886067Z",
+  "model": "glm-5.3"
+}

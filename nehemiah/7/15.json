@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बिन्नू के बेटालोग छह सौ चालीस आ आठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटालोग"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "बिन्नू"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ आठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:24.499311666Z",
+  "model": "glm-5.3"
+}

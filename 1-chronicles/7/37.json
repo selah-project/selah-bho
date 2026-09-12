@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बेत्सर आ होद आ शम्मा आ शिलशा आ यितरान आ बेअरा।",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "बेत्सर"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "आ होद"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "आ शम्मा"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ शिलशा"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "आ यितरान"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "आ बेअरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:33.364278669Z",
+  "model": "glm-5.3"
+}

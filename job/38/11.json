@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 38:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ हम कहलन: “इतने तूँ आव, आ आगू ना बढ़; इहें तोर लहरन के घमंड रुकी।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "आ हम कहलन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "इतने"
+    },
+    {
+      "surface": "פה",
+      "gloss": "इहों"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "तूँ आव"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "बढ़"
+    },
+    {
+      "surface": "ופא",
+      "gloss": "आ इहें"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "रुकी"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "גליך",
+      "gloss": "तोर लहरन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:53.408757685Z",
+  "model": "glm-5.3"
+}

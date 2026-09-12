@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "अगि लगातार मुँहीं पर लगात रहे, ओ बुझे ना।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "अगि"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "लगात रहे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "मुँहीं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "बुझे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:58:28.540788228Z",
+  "model": "glm-5.3"
+}

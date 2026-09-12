@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अब ए आज्ञा रउआ पुरोहित सभे खातिर बा।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "रउआ सभे खातिर"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ए आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:21.066179026Z",
+  "model": "glm-5.3"
+}

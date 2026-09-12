@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 122,
+  "translation": "यहवे हमनी का एलोहीम के घर के खातिर हम तोहार भलाई खोजब।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमनी का एलोहीम"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "हम खोजब"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:20.673036210Z",
+  "model": "glm-5.3"
+}

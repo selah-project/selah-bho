@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 73,
+  "translation": "चिकनाई से ऊँ के आँखी निकलल, ऊ दिल के कल्पना सभ के पार चलि गइल बाड़ें।",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "चिकनाई से"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "आँखी"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "पार चलि गइल"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "कल्पना सभ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "दिल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:38.087196640Z",
+  "model": "glm-5.3"
+}

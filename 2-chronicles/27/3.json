@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "ऊहें यहवे के घर के ऊपरी दुआर के ⟨את⟩ बनवलन, आ ओफेल के दीवार पर ढेर बनवलन।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊहें"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के घर के ऊपरी दुआर"
+    },
+    {
+      "surface": "שער",
+      "gloss": "दुआर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ऊपरी"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "आ दीवार पर"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ओफेल"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:10:33.323881811Z",
+  "model": "glm-5.3"
+}

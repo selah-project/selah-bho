@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ जे कवनो मरद में मौत के दंड वाला पाप होखे, आ ऊ मार दिहल गइल बाटे, त तूँ ओकरा ⟨את⟩ गाछ पर टाँगेला।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जे"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "कवनो मरद में"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "दंड वाला"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत के"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "आ ऊ मार दिहल गइल बाटे"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "त तूँ टाँगेला"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ओकरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "गाछ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:59.215056065Z",
+  "model": "glm-5.3"
+}

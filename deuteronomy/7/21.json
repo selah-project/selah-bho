@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "उनकर सामने से तूँ ना डरू, काहेकि तोहार एलोहीम यहवे तोहार बीच में बाड़ें — एल, बड़हन आ भय देवेवाला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "डरू"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "उनकर सामने से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोहार एलोहीम"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तोहार बीच में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़हन"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "आ भय देवेवाला"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:30.683402683Z",
+  "model": "glm-5.3"
+}

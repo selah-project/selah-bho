@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "गड़हा खोदे वाला ओही में गिरेला, आ दीवार तोड़े वाला ले साँप डसेला।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "खोदे वाला"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "गड़हा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "गिरेला"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "आ तोड़े वाला"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "डसेला"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:09.090324112Z",
+  "model": "glm-5.3"
+}

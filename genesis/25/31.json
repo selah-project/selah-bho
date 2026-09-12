@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ याकोब कहलन: “आजुए के ⟨את⟩ तोहार जेठियारी हमका बेच दे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "बेच दे"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "आजुए के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहार जेठियारी"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "तोहार जेठियारी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमका"
+    }
+  ],
+  "timestamp": "2026-09-11T17:23:46.601859370Z",
+  "model": "glm-5.3"
+}

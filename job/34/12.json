@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "हाँ, सच्चई, एल अधर्म ना करेलन, आ शद्दय न्याय ना बिगाड़ेलन।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "हाँ"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "सच्चई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "अधर्म करेलन"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "आ शद्दय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "बिगाड़ेलन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:19.411391477Z",
+  "model": "glm-5.3"
+}

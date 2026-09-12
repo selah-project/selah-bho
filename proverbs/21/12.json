@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "धर्मी समझ-बूझ के देखेला दुष्ट के घर के; दुष्ट लोग के उखाड़ देला बुराई खातिर।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "समझ-बूझ के"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "उखाड़ देला"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "बुराई खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:04.058637954Z",
+  "model": "glm-5.3"
+}

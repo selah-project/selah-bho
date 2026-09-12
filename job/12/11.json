@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "का कान बतिया के ना जाँचेला, आ तालु आपन खातिर खाना के सवाद ना लेला?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "का... ना"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "बतिया"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "जाँचेला"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "आ तालु"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "सवाद लेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:12:39.523088710Z",
+  "model": "glm-5.3"
+}

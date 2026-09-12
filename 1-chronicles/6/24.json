@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ओकर भाई असाफ, जे ओकर दाहिने खड़ा रहल; असाफ, बेरेख्याहू के बेटा, शिमेआ के बेटा।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असाफ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "खड़ा रहल"
+    },
+    {
+      "surface": "על",
+      "gloss": "ओकरा (दाहिने)"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "दाहिने"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "बेरेख्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "शिमेआ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:52.758178348Z",
+  "model": "glm-5.3"
+}

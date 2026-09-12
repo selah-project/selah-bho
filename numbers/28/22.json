@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ एक ठो बकरा पाप-बलि खातिर, रउआ सभ के प्रायश्चित करे खातिर।",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "आ बकरा"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक ठो"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "प्रायश्चित करे खातिर"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "रउआ सभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:06.705882450Z",
+  "model": "glm-5.3"
+}

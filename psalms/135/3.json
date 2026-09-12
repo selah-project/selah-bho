@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "स्तुति करा याह के, काहे कि यहवे भला बाड़ें; गावा ओकर नाम के, काहे कि ऊ सुहावन बा।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करा"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "गावा"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ओकर नाम के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "सुहावन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:21.898085916Z",
+  "model": "glm-5.3"
+}

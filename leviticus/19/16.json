@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आपन लोगन में चुगली घुमऽ ना; आपन संगी के खून पर ठाढ़ ना रह — हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "घुमऽ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "चुगली"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "आपन लोगन में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ठाढ़ रह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "आपन संगी के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:40.204208488Z",
+  "model": "glm-5.3"
+}

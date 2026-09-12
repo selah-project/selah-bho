@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ शिमी के बेटा — याखत, जीना, आ येउश, आ बरियाह। ई चारि गो शिमी के बेटा रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ के बेटा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "याखत"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "जीना"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "आ येउश"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "आ बरियाह"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चारि गो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:55.972493804Z",
+  "model": "glm-5.3"
+}

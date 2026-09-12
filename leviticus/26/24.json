@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "त हमो रउआ सभे साथे विरोध में चलब, आ हमो ⟨את⟩ रउआ के रउआ के पाप के बदला सात गुना पीटब।",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "चलब"
+    },
+    {
+      "surface": "אף",
+      "gloss": "भी\/तो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "रउआ सभे साथे"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "विरोध में"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "पीटब"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ रउआ के",
+      "marks": "रउआ के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हमो"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात गुना"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "रउआ के पाप"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:01.430199004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "छोड़ दिअउ, हे पथैया लोग, आ जिअउ; आ समझ के रस्ता पर चलू।",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "छोड़ दिअउ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "हे पथैया लोग"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "आ जिअउ"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "आ चलू"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता पर"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:52.877098364Z",
+  "model": "glm-5.3"
+}

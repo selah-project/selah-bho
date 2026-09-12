@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "अपना रोटी पानी के ऊपर छोड़ दे, काहे कि बहुत दिन में रउआ ओकरा फेर पाब।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "छोड़ दे"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "अपना रोटी"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "फलान पर"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "रउआ ओकरा फेर पाब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:44:01.954160166Z",
+  "model": "glm-5.3"
+}

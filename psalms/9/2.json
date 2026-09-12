@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "हम यहवे के सराहब पूरा दिल से; हम रउआ के सब आश्चर्य के काम बताब।",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "हम सराहब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "दिल से"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "हम बताब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "रउआ के आश्चर्य के काम"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:28.775199985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "ऊ गुजर गइल आ देखऽ — ऊ रहले ना; हम ओकरा खोजलीं बाकिर ऊ ना मिलल।",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "ऊ गुजर गइल"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ऊ रहले ना"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "हम ओकरा खोजलीं"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "बाकिर ना"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "मिलल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:30.084848567Z",
+  "model": "glm-5.3"
+}

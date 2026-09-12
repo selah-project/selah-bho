@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "बानी के बेटा लोग, छह सौ बयालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा लोग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दू"
+    }
+  ],
+  "timestamp": "2026-09-11T22:41:06.140718155Z",
+  "model": "glm-5.3"
+}

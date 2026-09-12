@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "व्यवस्था — मोशे हमनी का हुकुम दीहलन — याकूब के सभा के उत्तराधिकार।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "व्यवस्था"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "हुकुम दीहलन"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "उत्तराधिकार"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "सभा के"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकूब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:18.894128754Z",
+  "model": "glm-5.3"
+}

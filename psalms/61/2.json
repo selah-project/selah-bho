@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 61,
+  "translation": "हमार चीख सुनबू, हे एलोहीम; हमार बिनती कान लगाइ बूझबू।",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "सुनबू"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "हमार चीख"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "कान लगाइ बूझबू"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "हमार बिनती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:35.956817649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "तूँ ओकरा राजी ना होखिस, आ ओकर ना सुनिस, आ तोर आँखी ओ पर तरस ना खाइ, आ ना छोड़िस, आ ओकरा ना छिपाइस।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "राजी होखिस"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुनिस"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "तरस खाइ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तोर आँखी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओ पर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "छोड़िस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "छिपाइस"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:33.509187970Z",
+  "model": "glm-5.3"
+}

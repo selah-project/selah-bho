@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "दाऊद के ज़बूर। यहवे हमर गड़रिया बाड़ें — हम के कवनो चीज के कमी ना भेंटत।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ज़बूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "हमर गड़रिया"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "कमी भेंटत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:33:19.586369695Z",
+  "model": "glm-5.3"
+}

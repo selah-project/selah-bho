@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "पुरोहित लोगन में से — यदआयाह, योयारिब के बेटा; याखीन।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहित लोगन"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदआयाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "योयारिब"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "याखीन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:16.139038814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 7:20",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ बाकी जवन रउआ के एलाह के घर के चीज के जरूरत पड़ी आ रउआ के देवे के होई, ओकरा राजा के खजाना से देह।",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "आ बाकी"
+    },
+    {
+      "surface": "חשחות",
+      "gloss": "जरूरत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אלהך",
+      "gloss": "रउआ के एलाह के"
+    },
+    {
+      "surface": "די",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "पड़ी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "למנתן",
+      "gloss": "देवे के लागे"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "देह"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "खजाना"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:45:13.955759264Z",
+  "model": "glm-5.3"
+}

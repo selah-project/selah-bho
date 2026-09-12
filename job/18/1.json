@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "तब बिलदाद हशूही जवाब दिहलन आ कहलन:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "जवाब दिहलन"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "बिलदाद"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "हशूही"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:14:43.506601119Z",
+  "model": "glm-5.3"
+}

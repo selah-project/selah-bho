@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "मनुख के डर फंदा देला, आ जऊन यहवे पर भरोसा करेला ऊ ऊँच-सुरक्षित रहेला।",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "डर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देला"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "आ भरोसा करए वाला"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "ऊँच-सुरक्षित रहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:05.138335675Z",
+  "model": "glm-5.3"
+}

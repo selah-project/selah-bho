@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ योआश यहवे के आँखि में सही काम अउरी यहोयादा गोरावा के सगरी दिन कइलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "सही काम"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "गोरावा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:34.355586504Z",
+  "model": "glm-5.3"
+}

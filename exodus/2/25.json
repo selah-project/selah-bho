@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ एलोहीम ⟨את⟩ इस्राएल के लड़िकन के देखलन, आ एलोहीम जान लिहलन।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल के लड़िकन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़िकन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "जान लिहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:13.045223660Z",
+  "model": "glm-5.3"
+}

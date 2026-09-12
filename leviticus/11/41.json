@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ हरेक रेंगे वाला जेहर धरती पर रेंगेला, ओ घिनौना बा; ओके ना खाइल जाय।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हरेक"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "रेंगे वाला"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "रेंगेला"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घिनौना"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाइल जाय"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:56.248823338Z",
+  "model": "glm-5.3"
+}

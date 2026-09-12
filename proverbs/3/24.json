@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "जँ तूँ लारब तब ना डरब; हाँ, लार के तोहार निनद मीठ होईहे।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "जँ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "लारब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "डरब"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "लार के"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "मीठ होईहे"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "तोहार निनद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:37.289545202Z",
+  "model": "glm-5.3"
+}

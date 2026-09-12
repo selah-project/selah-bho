@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ ऊ धरती में सुनावनिहार लगवलन — यहूदा के सब गढ़ल नगरन में, नगर-नगर।",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "लगवलन"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "सुनावनिहार"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगरन में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "गढ़ल"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर-"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:09:25.758706823Z",
+  "model": "glm-5.3"
+}

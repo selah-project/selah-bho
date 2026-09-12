@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ ऊ यहवे के नींह में जे सही काम रहल, ओहने कइलन — जइसन ओकर पिता अमत्स्याहू कइले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "जे सही काम"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "नींह में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जइसन सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले रहलें"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "अमत्स्याहू"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:10:31.007533525Z",
+  "model": "glm-5.3"
+}

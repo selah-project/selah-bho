@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एक बछड़ा, गाय के बेटा; एक मेढ़ा; एक भेड़ा के बच्चा, एक बरिस के, जलावे के भेंट खातिर।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय के"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भेड़ा के बच्चा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक बरिस के"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "जलावे के भेंट खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:57.753505553Z",
+  "model": "glm-5.3"
+}

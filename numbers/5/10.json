@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ हर मरद आपन ⟨पवितर⟩ चीज ⟨את⟩ आपने होखे; जवन केहू मरद कोहेन के देवे, ओहे ओकर होखे।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "आ हर मरद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन ⟨पवितर⟩ चीज"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "आपन ⟨पवितर⟩ चीज"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपने"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होखे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "जवन केहू मरद"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवे"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "कोहेन के"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:13:02.468844032Z",
+  "model": "glm-5.3"
+}

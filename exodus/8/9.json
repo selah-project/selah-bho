@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ यहवे मोशे के बात के अनुसार कइलन, आ छेड़का घरन से, आँगनन से आ खेतन से मरि गइल।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ यहवे कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "के बात के अनुसार"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "आ मरि गइल"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "छेड़का"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "घरन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "आँगनन"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "खेतन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:16.258200462Z",
+  "model": "glm-5.3"
+}

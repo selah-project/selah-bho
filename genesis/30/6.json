@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 30:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ राहेल कहली, “एलोहीम हमर न्याय कइलन ह, आ साथे हमर आवाज सुनलन, आ हमका एगो बेटा दिहलन; एही से ऊ ओकर नाम दान धरली।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "דנני",
+      "gloss": "हमर न्याय कइलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ साथे"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "हमर आवाज"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "दिहलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "नाम धरली"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाम"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:47.465861435Z",
+  "model": "glm-5.3"
+}

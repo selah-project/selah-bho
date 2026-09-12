@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "यहवे इस्राएल पर सुबह से नियत समय ले महामारी छोड़लन, आ दान से बेरशेबा ले लोगन में से सत्तर हजार मनुष्य मर गइल।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "छोड़लन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल पर"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "सुबह से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "नियत"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "आ मर गइल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगन"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "दान से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:58.586560628Z",
+  "model": "glm-5.3"
+}

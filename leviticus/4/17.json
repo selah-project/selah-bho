@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ पुरोहित आपन अँगुरी लहू में डुबावेला आ यहवे के आगे ⟨את⟩ पर्दा के आमने सात बेर छिड़केला।",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "डुबावेला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "आपन अँगुरी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "लहू"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "छिड़केला"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दा के आमने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आमने"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "पर्दा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:57:57.170366677Z",
+  "model": "glm-5.3"
+}

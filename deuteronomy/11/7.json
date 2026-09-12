@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "काहें कि रउआ सभे के आँखि यहवे के ⟨את⟩ पूरा बड़हक काम देखले बाड़ी जवन ऊ कइलन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "रउआ सभे के आँखि"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "देखले बाड़ी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा बड़हक काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "बड़हक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:35:48.233153858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 18:18",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ ऊनकर मांस तोहार होखी, जइसे लहरावे के छाती आ जइसे दहिना टांग — तोहार होखी।",
+  "tokens": [
+    {
+      "surface": "ובשרם",
+      "gloss": "आ ऊनकर मांस"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "כחזה",
+      "gloss": "जइसे छाती"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "लहरावे के"
+    },
+    {
+      "surface": "וכשוק",
+      "gloss": "आ जइसे टांग"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "दहिना"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:20:12.644445519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 55,
+  "translation": "जे दुनू मिल के सलाह के मीठा बनावली, एलोहीम के घर में भीड़ संग टहलली।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "मिल के"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "मीठा बनावली"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "टहलली"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "भीड़ संग"
+    }
+  ],
+  "timestamp": "2026-09-11T21:40:03.083223830Z",
+  "model": "glm-5.3"
+}

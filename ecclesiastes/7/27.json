@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "देखऽ! ई हम खोज लिनी — एहन कहेला कोहेलेत — एक के एक जोड़ के हिसाब खोजे खातिर।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "हम खोज लिनी"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "के एक जोड़ के"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "खोजे खातिर"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "हिसाब"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:42.439149914Z",
+  "model": "glm-5.3"
+}

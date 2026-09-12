@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ अब, काहेंकि ओकर कोप दंड ना देलक, ऊ बहुते घमंड के जानेला ना।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेंकि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ना"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "दंड देलक"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ओकर कोप"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:43.309377756Z",
+  "model": "glm-5.3"
+}

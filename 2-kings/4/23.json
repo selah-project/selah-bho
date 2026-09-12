@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ओ कहलन, “काहे तूँ आज ओकर पास जाए ले? ना त अमावस ⟨बा⟩ ना शब्बत।” ऊ कहली, “शालोम ⟨सब ठीक⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "जाए ले"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकर पास"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "अमावस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "शब्बत"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    }
+  ],
+  "timestamp": "2026-09-11T19:48:20.274441024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "हम जानेला पहाड़न के सब पंछी, आ खेत के जानवर हमरा संगे बाड़ें।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "हम जानेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "पंछी"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़न के"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "आ जानवर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "हमरा संगे बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:15.851804986Z",
+  "model": "glm-5.3"
+}

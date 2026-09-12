@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ऊ माक्हेलोत से चललें, आ ताहत (ताहत) में डेरा डाललें।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "माक्हेलोत से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललें"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "ताहत में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:05.352702400Z",
+  "model": "glm-5.3"
+}

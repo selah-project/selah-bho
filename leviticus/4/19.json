@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ⟨את⟩ पूरा ओकर चरबी ओकरा से उठावेला आ बेदी पर धुआँ करेला।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा ओकर चरबी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ओकर चरबी"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उठावेला"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "धुआँ करेला"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "बेदी पर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:57:57.170818191Z",
+  "model": "glm-5.3"
+}

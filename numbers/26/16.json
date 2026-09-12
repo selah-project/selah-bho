@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "ओज़्नी के — ओज़्नी के कुनबा; एरी के — एरी के कुनबा।",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ओज़्नी के"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ओज़्नी के"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "एरी के"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुनबा"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "एरी के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:23:05.067248482Z",
+  "model": "glm-5.3"
+}

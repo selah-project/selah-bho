@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "मोर ऊपर से तोहार मार हटा ले; तोहार हाथ के चोट से हम खतम हो गइल बानी।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "हटा ले"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "मोर ऊपर से"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "तोहार मार"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "चोट से"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तोहार हाथ के"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "खतम हो गइल बानी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:56.563079575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ फिरौन पठवलन, आ देखल कि इसरायल के पसू में एको ना मरल रहे; आ फिरौन के हिया भारी भइल, आ ऊ ⟨את⟩ परजाय के ना छोड़लन।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठवलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखल कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "पसू में से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एको"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "भारी भइल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "छोड़लन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परजाय के"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजाय"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:09.893507350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ राजा ओ औरत से कहलन, “जा, आपन घर चल जा, आ हम तोहार बारे में हुक्म देब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ओ औरत"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "आपन घर"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "हुक्म देब"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तोहार बारे में"
+    }
+  ],
+  "timestamp": "2026-09-11T19:26:30.206248711Z",
+  "model": "glm-5.3"
+}

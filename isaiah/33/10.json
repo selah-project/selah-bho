@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "अब हम उठब, यहवे कहेलन; अब हम ⟨के⟩ ऊँच करब; अब हम ⟨के⟩ उठाब।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "हम उठब"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहेलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "हम ⟨के⟩ ऊँच करब"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "हम ⟨के⟩ उठाब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:08:03.655854880Z",
+  "model": "glm-5.3"
+}

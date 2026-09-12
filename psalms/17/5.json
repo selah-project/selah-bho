@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "मोर कदम तोर पगडंड़ी में टिकल बाड़ें, मोर पैर ना डिघिसले।",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "टिकल बाड़ें"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "मोर कदम"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "तोर पगडंड़ी में"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "डिघिसले"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "मोर पैर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:40:16.007255557Z",
+  "model": "glm-5.3"
+}

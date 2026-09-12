@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ यहवे ओकरा से कहलन: “ई का हऽ तोहार हाथ में?” आ ऊ कहलन: “एगो छड़ी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ई का हऽ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तोहार हाथ में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "एगो छड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:38:56.117212498Z",
+  "model": "glm-5.3"
+}

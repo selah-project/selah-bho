@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "लकड़ी के ना रहे पर आग बुझ जाला, आ चुगलखोर के ना रहे पर झगड़ा थिर हो जाला।",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "के ना रहे पर"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "बुझ जाला"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "आ के ना रहे पर"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "चुगलखोर"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "थिर हो जाला"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "झगड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:32.628011014Z",
+  "model": "glm-5.3"
+}

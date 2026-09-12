@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 15:22",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ जेकरो हर ओ चीज के छुअऽ जेकरा ऊ बइठेला, ऊ आपन कपड़ा धोवे आ पानी में नहावे आ साँझ ले अशुद्ध रही।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ जेकरो हर"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "छुअए वाला"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर ओ के"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ऊ बइठेला"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "धोवे"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आपन कपड़ा"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "आ नहावे"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "आ अशुद्ध रही"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:03:42.601860971Z",
+  "model": "glm-5.3"
+}

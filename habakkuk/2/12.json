@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हाय! जे खून से नगर बनावेला, आ जे अन्याय से कस्बा टिकावेला!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनावेला"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "खून से"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "आ टिकावेला"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "कस्बा"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "अन्याय से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:26.621816473Z",
+  "model": "glm-5.3"
+}

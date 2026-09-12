@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ई ह काम के सेवा गेरशोनी परिवार सभ के — सेवा करे खातिर आ ढोवे खातिर।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "परिवार सभ के"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "गेरशोनी"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "करे खातिर"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "आ ढोवे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:12:06.834860519Z",
+  "model": "glm-5.3"
+}

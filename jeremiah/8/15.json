@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "शांति के आस रखली, बाकिर कवनो भलाई नइखे; भरपाई के बेरा के आस रखली, आ देखू — दहशत बा!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "आस रखली"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "शांति के"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बाकिर नइखे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "कवनो भलाई"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "बेरा के"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "भरपाई के"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखू"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "दहशत बा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:26:20.447115512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "तूँ ⟨את⟩ आपन भाई के गधा भा ओकर गाइ-बइर के रस्ता में गिरल देख के ओन्ही से छिप ना जाबू — जरूर ओकर संग उठाबू।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देख के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गधा"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "आपन भाई के"
+    },
+    {
+      "surface": "או",
+      "gloss": "भा"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "ओकर गाइ-बइर के"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता में"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "छिप जाबू"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ओन्ही से"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "उठाबू"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    }
+  ],
+  "timestamp": "2026-09-11T18:40:33.728846111Z",
+  "model": "glm-5.3"
+}

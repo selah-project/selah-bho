@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 52,
+  "translation": "आ ऊ नगर घेराबन्दी में आइल, ज़ेदेकियाहू राजा के ग्यारहवाँ साल ले।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ऊ नगर"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "घेराबन्दी में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ग्यारहवाँ (के)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "साल"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ज़ेदेकियाहू"
+    }
+  ],
+  "timestamp": "2026-09-11T20:45:53.837716529Z",
+  "model": "glm-5.3"
+}

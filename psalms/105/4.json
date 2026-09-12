@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 105,
+  "translation": "यहवे के खोजऽ आ ओकर ताकत के; ओकर मुख खोजऽ, लगातार।",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "खोजऽ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "आ ओकर ताकत के"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोजऽ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ओकर मुख"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    }
+  ],
+  "timestamp": "2026-09-11T21:50:54.471670189Z",
+  "model": "glm-5.3"
+}

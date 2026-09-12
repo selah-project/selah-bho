@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ जब तोहार भाई तोहार संग गरीब हो जाव आ तोहार के बिक जाव, तँ ओकरा गुलाम के सेवा-काम नइखे कराबे के।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "गरीब हो जाव"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार संग"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "आ बिक जाव"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "काम कराबू"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा-काम"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "गुलाम के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:08:40.238817275Z",
+  "model": "glm-5.3"
+}

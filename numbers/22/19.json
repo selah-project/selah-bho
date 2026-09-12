@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ अब हमरा बिनती बा कि रउआ सभे एहियों रात एही जगह रहीं, कि हम जान सकब यहवे हमरा से आगू का बोले।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "रहीं"
+    },
+    {
+      "surface": "נא",
+      "gloss": "हमरा बिनती बा कि"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "एही जगह"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एहियों"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "कि हम जान सकब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोले"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:38.883063369Z",
+  "model": "glm-5.3"
+}

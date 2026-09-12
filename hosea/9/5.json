@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "नियत समय के दिन पर रउआ का करबू, आ यहवे के परब के दिन पर?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करबू"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन पर"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "नियत समय के"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "आ दिन पर"
+    },
+    {
+      "surface": "חג",
+      "gloss": "परब के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:12:02.397011961Z",
+  "model": "glm-5.3"
+}

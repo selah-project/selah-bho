@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहवे के दूत यहोशुआ के साक्षी देके कहलन —",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "आ साक्षी देलक"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "यहोशुआ के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:48.874693660Z",
+  "model": "glm-5.3"
+}

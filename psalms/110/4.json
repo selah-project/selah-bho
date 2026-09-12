@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 110,
+  "translation": "यहवे कसम खालन आ ओकर मन ना फेरेला: “तूँ हमेशा खातिर मल्की-त्सेदेक के तरह कोहेन।”",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "कसम खालन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "मन फेरेला"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "हमेशा खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "के तरह"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "मल्की-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:31.149925180Z",
+  "model": "glm-5.3"
+}

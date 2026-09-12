@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 107,
+  "translation": "ऊ कहलन, आ तूफान के हवा खड़ा कइलन, आ ओकर लहर उठली।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ऊ कहलन"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "खड़ा कइलन"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "तूफान के"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "आ उठली"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "ओकर लहर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:29.837290268Z",
+  "model": "glm-5.3"
+}

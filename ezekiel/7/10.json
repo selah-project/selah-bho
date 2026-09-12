@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "देखऽ, ओ दिन — देखऽ, ओ अवैला; बेरा निकसल, छड़ी डाली देले, घमंड फूल दिहले।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ओ दिन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "अवैला"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "निकसल"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "बेरा"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "डाली देले"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "छड़ी"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "फूल दिहले"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "घमंड"
+    }
+  ],
+  "timestamp": "2026-09-11T20:47:43.377806913Z",
+  "model": "glm-5.3"
+}

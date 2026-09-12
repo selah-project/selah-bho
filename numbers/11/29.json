@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 11:29",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "मोशे ओकरा कहलन: का तूँ हमरा खातिर जलन करत बानी? अच्छा भेल, का साझा यहवे के सबहे लोग नबी भेलें, आ यहवे आपन रुह ⟨את⟩ ऊ सब पर देवेलें!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "המקנא",
+      "gloss": "जलन करत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा खातिर"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "का साझा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "भेल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबहे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "נביאים",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देवेलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रुह"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "आपन रुह"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊ सब पर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:40.732389824Z",
+  "model": "glm-5.3"
+}

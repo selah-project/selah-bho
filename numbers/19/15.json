@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ हर खुलल बर्तन, जेकरा पर कवनो बाँधे वाला ढकवन नइखे, ऊ अशुद्ध बा।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "बाँधे वाला ढकवन"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "बाँध के डोरी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "जेकरा पर"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ बा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:28.972575580Z",
+  "model": "glm-5.3"
+}

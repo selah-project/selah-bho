@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "मुरदा खातिर रउआ आपन शरीर में चीरा ना देब, आ गोदना-लिखावट रउआ आपन ऊपर ना धारण करब; हम यहवे बानी।",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "चीरा"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "मुरदा खातिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "देब"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "आपन शरीर में"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "गोदना-लिखावट"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "गोदना"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "धारण करब"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "आपन ऊपर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:05:41.016020202Z",
+  "model": "glm-5.3"
+}

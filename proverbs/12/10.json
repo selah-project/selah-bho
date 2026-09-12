@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "धर्मी आपन पशु के जिनगी जानेला, बाकिर दुष्ट लोग के तरस कठोर बा।",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जिनगी"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "आपन पशु"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "बाकिर ... के तरस"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट लोग"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "कठोर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:27.013055676Z",
+  "model": "glm-5.3"
+}

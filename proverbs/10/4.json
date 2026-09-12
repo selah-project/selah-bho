@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "सुस्त हाथ से काम करे ओ गरीब होखेला, बाकिर मेहनती हाथ धनी बनावेला।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "गरीब होखेला"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "काम करे"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हाथ के हथेली"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "सुस्त\/धोखा"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "आ हाथ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "मेहनती"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "धनी बनावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:03.599361098Z",
+  "model": "glm-5.3"
+}

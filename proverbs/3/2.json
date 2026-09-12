@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काबर कि दिन के लम्बा उमिर आ जियल के बरिस, आ शालोम, ऊ सब तोहार बढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बा"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "आ बरिस"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जियल के"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "आ शालोम"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "बढ़ावेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:22.883905157Z",
+  "model": "glm-5.3"
+}

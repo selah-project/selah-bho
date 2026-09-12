@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "बुरा आदमी के पाप में ⟨बा⟩ फंदा, बाकिर धरमी गावेला आ खुशी करेला।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "के पाप में"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "बाकिर धरमी"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "गावेला"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "आ खुशी करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:12.203770084Z",
+  "model": "glm-5.3"
+}

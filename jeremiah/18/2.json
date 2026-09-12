@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "“उठ, आ कुम्हार के घर में उतर, आ ओहिजे हम तोहार के ⟨את⟩ हमनी का सबद सुनाब।”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "आ उतर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "कुम्हार के"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "आ ओहिजे"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "हम तोहार के सुनाब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमनी का सबद"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "हमनी का सबद"
+    }
+  ],
+  "timestamp": "2026-09-11T20:30:42.327356979Z",
+  "model": "glm-5.3"
+}

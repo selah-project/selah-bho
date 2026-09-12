@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "का हमार ताकत पत्थरन के ताकत बा? का हमार देह पीतल के बा?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थरन के"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "हमार ताकत"
+    },
+    {
+      "surface": "אם",
+      "gloss": "का"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "हमार देह"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "पीतल के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:49.383608270Z",
+  "model": "glm-5.3"
+}

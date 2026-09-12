@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "सोना के हार सभ हम तोर खातिर बनाबी, चाँदी के बिन्दु सभ के साथ।",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "हार सभ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "हम बनाबी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोर खातिर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "बिन्दु सभ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चाँदी के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:08.850491574Z",
+  "model": "glm-5.3"
+}

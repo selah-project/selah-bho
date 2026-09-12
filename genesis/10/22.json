@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "शेम के बेटा: एलाम, आ अश्शूर, आ अर्पकशद, आ लूद, आ अराम।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "आ अश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "आ अर्पकशद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "आ लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "आ अराम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:38.112065599Z",
+  "model": "glm-5.3"
+}

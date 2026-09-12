@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "छऊ दिन रउआ काम करब आ सब आपन काम कइब,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "छऊ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "रउआ काम करब"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "आ कइब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "आपन काम"
+    }
+  ],
+  "timestamp": "2026-09-11T18:32:22.692235565Z",
+  "model": "glm-5.3"
+}

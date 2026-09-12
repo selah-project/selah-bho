@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ जेकरा पंखड़ी आ खपरैल नइखे, ऊ ना खाएल जा सकेला; ऊ तुमनी का खातिर अशुची बा।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ हर ओकरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पंखड़ी"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "आ खपरैल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाएल जा सकेला"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुची"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमनी का खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:16.102969828Z",
+  "model": "glm-5.3"
+}

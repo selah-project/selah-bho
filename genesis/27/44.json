@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ तूँ ओकरे संग कुछ दिन रहब, जब ले तोहार भाई के गुस्सा फेर ना आ जाय।",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "तूँ रहब"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकरे संग"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "कुछ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फेर आ जाय"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:45.193646900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ हम मुड़लीं आ पहाड़ से उतरलीं, आ पहाड़ आगी में बल रहल, आ समझौता के दू गो पट्टी हमरा दूनो हाथ पर रहली।",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "आ हम मुड़लीं"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "आ उतरलीं"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "आ पहाड़"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बल रहल"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगी में"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "आ दू गो"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "पट्टी"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "समझौता के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दूनो"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:59.449620473Z",
+  "model": "glm-5.3"
+}

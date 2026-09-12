@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "“आ ऊ लोग एहमे बसले आ एहमे रउआ खातिर रउआ के नाम के एक पबितर स्थान बनवले, आ कहले:”",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "बसले"
+    },
+    {
+      "surface": "בה",
+      "gloss": "एहमे"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "आ बनवले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ खातिर"
+    },
+    {
+      "surface": "בה",
+      "gloss": "एहमे"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "पबितर स्थान"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "रउआ के नाम के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "आ कहले"
+    }
+  ],
+  "timestamp": "2026-09-11T23:08:51.456292886Z",
+  "model": "glm-5.3"
+}

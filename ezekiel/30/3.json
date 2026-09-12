@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "काहे कि दिन निकट बा, आ यहवे के दिन निकट बा; बादल के दिन — गोय-जाति के समय होई.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "निकट बा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "आ ... निकट बा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोय-जाति के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:59:57.079853694Z",
+  "model": "glm-5.3"
+}

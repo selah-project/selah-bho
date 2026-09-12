@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ यहवे मूसा से बोललन, ⟨के कहेलन⟩ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨के कहेलन⟩"
+    }
+  ],
+  "timestamp": "2026-09-11T18:04:17.220242941Z",
+  "model": "glm-5.3"
+}

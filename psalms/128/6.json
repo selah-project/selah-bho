@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 128,
+  "translation": "आ तूँ अपना लरिका के लरिका देखऽ; इस्राएल पर शालोम होखे।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "अपना लरिका के"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:29.176653266Z",
+  "model": "glm-5.3"
+}

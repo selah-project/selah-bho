@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ जवन लोगन के संग ⟨את⟩ पत्थर मिलल, ऊ लोग यहवे के घर के खजान में दे दिहल — येहिएल गेरशोनी के हाथ पर।",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "आ जवन मिलल"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "आपन संग — पत्थर"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दे दिहल"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "खजान में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "येहिएल"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "गेरशोनी"
+    }
+  ],
+  "timestamp": "2026-09-11T23:02:09.162301144Z",
+  "model": "glm-5.3"
+}

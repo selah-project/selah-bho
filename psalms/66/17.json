@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 66,
+  "translation": "ओहिजे हम मुँह से पुकारली, आ ऊँच-भइल बड़ाई हमार जीभ के नीचे बा।",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह से"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "पुकारली (हम)"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "आ ऊँच भइल"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "हमार जीभ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:21.061164781Z",
+  "model": "glm-5.3"
+}

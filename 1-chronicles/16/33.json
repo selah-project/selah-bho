@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "तब जंगल के गाछ खुशी से गावेलें, यहवे के सामने से, काहें कि ऊ ⟨את⟩ धरती के न्याय करे आवेला।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "गावेलें"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "गाछ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जंगल के"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "न्याय करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धरती"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:58.652045105Z",
+  "model": "glm-5.3"
+}

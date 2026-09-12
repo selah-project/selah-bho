@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कफोर सोना के तीस, कफोर चाँदी के मिसनी चार सौ दस, आ अउर बर्तन हजार।",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "कफोर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना के"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "कफोर"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी के"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "मिसनी"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "आ दस"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अउर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-09-11T22:40:54.982118859Z",
+  "model": "glm-5.3"
+}

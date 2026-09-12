@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ सारा कहली, “हँसी एलोहीम हमार खातिर बनवलन; जेकरा सुनावे ऊ हमार खातिर हँसेला।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "आ कहली"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "हँसी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जेकरा…सब"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "सुनावे"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "हँसेला"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:05.816678607Z",
+  "model": "glm-5.3"
+}

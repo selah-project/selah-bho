@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ बिलाम एलोहीम से कहलन, बालाक, जिप्पोर के बेटा, मोआब के राजा, हमार लगे पठौलन —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "जिप्पोर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठौलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमार लगे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:21:26.439383506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "काबर जे ⟨את⟩ पूरा धरती जवना के तूँ देखत बाड़े — ओकरा हम तोरा देब, आ तोर बियावा के, सदा ले।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर जे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पूरा धरती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखत बाड़े"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "हम देब"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "आ तोर बियावा के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:53.909390138Z",
+  "model": "glm-5.3"
+}

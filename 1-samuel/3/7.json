@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ शमुएल अबहिन ⟨את⟩ यहवे के ना जानत रहलें, आ अबहिन यहवे के बचन ओकरा पर परगट ना भइल रहे।",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "आ शमुएल"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "अबहिन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानत रहलें"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "आ अबहिन"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "परगट ना भइल"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:08:11.464371191Z",
+  "model": "glm-5.3"
+}

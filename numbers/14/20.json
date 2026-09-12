@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ यहवे कहलन — माफ कइली, रउआ के बात के अनुसार।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "माफ कइली"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "रउआ के बात के अनुसार"
+    }
+  ],
+  "timestamp": "2026-09-11T18:17:00.691069420Z",
+  "model": "glm-5.3"
+}

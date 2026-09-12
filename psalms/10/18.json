@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "यतिम आ दबल-कुचलल लोग के न्याय करे खातिर, ताकि धरती के मनुष्य आगे से डरावे ना।",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "न्याय करे खातिर"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "यतिम"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "आ दबल-कुचलल लोग"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "आगे से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "डरावे"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "מן",
+      "gloss": "के"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:31:18.897689753Z",
+  "model": "glm-5.3"
+}

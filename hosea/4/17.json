@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "मूरतिन से जुड़ल बा एफरायिम — ओकरा छोड़ दिअऽ।",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "जुड़ल बा"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "मूरतिन से"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफरायिम"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "छोड़ दिअऽ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:08:30.449521050Z",
+  "model": "glm-5.3"
+}

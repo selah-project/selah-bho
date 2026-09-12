@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ बकबक्कर, हेरेश आ गलाल, आ मत्तन्याह मीका के बेटा, ज़िक्री के बेटा, आसाफ के बेटा।",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "आ बकबक्कर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "हेरेश"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "आ गलाल"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "आ मत्तन्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "मीका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ज़िक्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:26.300812117Z",
+  "model": "glm-5.3"
+}

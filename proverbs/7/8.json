@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "सड़क में गुजरत ओकर कुनी के लगे, आ ओकर घर के रास्ता पर पाँव धरत।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "गुजरत"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "सड़क में"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "के लगे"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ओकर कुनी"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "आ रास्ता"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ओकर घर के"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "पाँव धरत"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:08.392898594Z",
+  "model": "glm-5.3"
+}

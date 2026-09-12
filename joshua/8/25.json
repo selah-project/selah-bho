@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ सब जे ओहि दिन गिरल रहलें, आदमी से ले के औरत ले — बारह हजार, हाय के सब आदमी — एही भवल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भवल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "जे गिरल रहलें"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ओहि दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओहि"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "आदमी से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ले के"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत ले"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाय के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:49:16.974327647Z",
+  "model": "glm-5.3"
+}

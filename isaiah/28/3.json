@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 28:3",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "पैरन से रौंसल जाई एफ्रयिम के नशेवार लोग के गर्व के ताज।",
+  "tokens": [
+    {
+      "surface": "ברגלים",
+      "gloss": "पैरन से"
+    },
+    {
+      "surface": "תרמסנה",
+      "gloss": "रौंसल जाई"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ताज"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "गर्व के"
+    },
+    {
+      "surface": "שכורי",
+      "gloss": "नशेवार लोग के"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रयिम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:33:50.388158635Z",
+  "model": "glm-5.3"
+}

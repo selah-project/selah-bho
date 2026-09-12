@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ तूँ ओ निर्दोष खून के अपना बीच से मेट देबू, काहेकि तूँ यहवे के आँखन में जवन सही बा ऊ करब।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "आ तूँ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "मेट देबू"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "निर्दोष"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "अपना बीच से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "सही"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखन में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:11.570381632Z",
+  "model": "glm-5.3"
+}

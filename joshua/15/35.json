@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "यार्मूत, और अदुल्लाम, सोखो, और अज़ेका —",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "यार्मूत"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "और अदुल्लाम"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "सोखो"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "और अज़ेका"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:22.467414666Z",
+  "model": "glm-5.3"
+}

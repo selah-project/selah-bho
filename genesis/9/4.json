@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "बाकिर मांस — ओकर प्राण संगे, ओकर खून — रउआ ना खाईं।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बाकिर \/ खाली"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ओकर प्राण संगे"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ओकर खून"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाईं"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:26.958116625Z",
+  "model": "glm-5.3"
+}

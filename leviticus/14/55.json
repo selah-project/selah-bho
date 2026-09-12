@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ कपड़ा के नियन खातिर आ घर खातिर —",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "आ नियन खातिर"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "कपड़ा के"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "आ घर खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:02:26.338188031Z",
+  "model": "glm-5.3"
+}

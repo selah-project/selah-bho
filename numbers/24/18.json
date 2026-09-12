@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ एदोम ⟨होई⟩ बिरसत, आ सेईर ⟨होई⟩ ओकर बैरन खातिर बिरसत, आ इसरायेल बहादुरी करी।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ ⟨होई⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "बिरसत"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ ⟨होई⟩"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "बिरसत"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ओकर बैरन खातिर"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "आ इसरायेल"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करी"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बहादुरी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:52.643842338Z",
+  "model": "glm-5.3"
+}

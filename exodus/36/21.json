@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "दस मुटठी ⟨बा⟩ ओकर लमाई, ⟨आ⟩ एक मुटठी आ आध मुटठी ओकर चौड़ाई — एक तख्ता खातिर।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "मुटठी"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लमाई"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "आ एक मुटठी"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आ आध"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "मुटठी"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ाई"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:54:41.261022354Z",
+  "model": "glm-5.3"
+}

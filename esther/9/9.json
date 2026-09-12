@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ ⟨את⟩ पर्मश्ता, आ ⟨את⟩ अरीसै, आ ⟨את⟩ अरीदै, आ ⟨את⟩ वयज़ाता —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "पर्मश्ता"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "पर्मश्ता"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अरीसै"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "अरीसै"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "अरीदै"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "अरीदै"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "वयज़ाता"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "वयज़ाता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:45:23.022448567Z",
+  "model": "glm-5.3"
+}

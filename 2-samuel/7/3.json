@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ नातान राजा से कहलन, “जे तोहार मन में बा सब जा कइल करऽ, काबर कि यहवे तोहार संग बाड़ें।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तोहार मन में"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइल करऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तोहार संग"
+    }
+  ],
+  "timestamp": "2026-09-11T19:23:12.964994491Z",
+  "model": "glm-5.3"
+}

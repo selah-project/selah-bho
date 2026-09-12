@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "काल्ही के दिन में आपन आपके फूलावे के ना, काबर कि तूँ नइखे जानत कि दिन का जनम देवेला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "फूलावे के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "काल्ही के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "जानत"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जनम देवेला"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:03.283184899Z",
+  "model": "glm-5.3"
+}

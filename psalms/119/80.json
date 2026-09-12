@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 119,
+  "translation": "हमर मन रउआ के विधानन में पूरा रहे, ताकि हम ना लजावब।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमर मन"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "रउआ के विधानन में"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "लजावब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:54:54.719107123Z",
+  "model": "glm-5.3"
+}

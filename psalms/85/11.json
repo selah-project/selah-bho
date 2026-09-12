@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "हेसेद आ सत्य भेटलें; न्याय आ शान्ति एक दूसरा के चूमा लिहलन।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "आ सत्य"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "भेटलें"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "आ शान्ति"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "चूमा लिहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:02.547258722Z",
+  "model": "glm-5.3"
+}

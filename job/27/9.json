@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "का एल ओकर चीख सुनेला, जब संकट ओकर ऊपर आई?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "ओकर चीख"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आई"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकर ऊपर"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट"
+    }
+  ],
+  "timestamp": "2026-09-11T22:17:06.178499353Z",
+  "model": "glm-5.3"
+}

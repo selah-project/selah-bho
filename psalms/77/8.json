@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 77,
+  "translation": "का अदोनाय जुग-जुग ले ठुकरा देहें? का फेर कबो राजी ना होहें?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "जुग-जुग ले"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ठुकरा देहें"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "राजी होहें"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "कबो"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:56.840061581Z",
+  "model": "glm-5.3"
+}

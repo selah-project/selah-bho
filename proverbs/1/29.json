@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "काहें कि ऊ सभे ज्ञान से नफरत कइलन आ यहवे के भय ना चुनलन।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "नफरत कइलन"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "आ … भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "चुनलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:42.152907993Z",
+  "model": "glm-5.3"
+}

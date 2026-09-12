@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अबहीं, हमार लड़का, हमार बोल सुन, ओहि खातिर जवन हम तोहके ⟨את⟩ हुकुम देत बानी।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अबहीं"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमार लड़का"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "हमार बोल"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ओहि खातिर जवन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "हुकुम देत बानी"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "तोहके"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:23.893213583Z",
+  "model": "glm-5.3"
+}

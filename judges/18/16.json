@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 18:16",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ दान के बेटा सभा में से छः सौ मरद, आपन जुद्ध के हथियार से लैस, गेट के दहिने खड़ा रहलें।",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "आ छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मरद"
+    },
+    {
+      "surface": "חגורים",
+      "gloss": "लैस"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "हथियार"
+    },
+    {
+      "surface": "מלחמתם",
+      "gloss": "आपन जुद्ध के"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "खड़ा रहलें"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दहिने"
+    },
+    {
+      "surface": "השער",
+      "gloss": "गेट के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "बेटा सभा में से"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-09-11T23:26:46.835632381Z",
+  "model": "glm-5.3"
+}

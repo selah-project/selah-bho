@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ काइन यहवे से कहलन: “हमरा पाप ढोरे लायक से बेसी बा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "קין",
+      "gloss": "काइन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बेसी बा"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "हमरा पाप"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "ढोरे लायक से"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:30.918446820Z",
+  "model": "glm-5.3"
+}

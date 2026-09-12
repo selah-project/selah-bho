@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ अउरी तनी, आ दुष्ट ना रही; आ तूँ एकर जगह के ध्यान से देखबू, आ ऊ ना बा ओहिजे।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "आ अउरी"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "तनी"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ ना रही"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "आ ध्यान से देखबू"
+    },
+    {
+      "surface": "על",
+      "gloss": "के"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "एकर जगह"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "आ ऊ ना बा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:05.408745815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ दाऊद कहलन: “ई उहे ⟨ह⟩ यहवे एलोहीम के घर बा, आ ई इसरायल खातिर दाह-बलि के बेदी बा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उहे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "आ ई"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "दाह-बलि खातिर"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इसरायल खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:20.179092419Z",
+  "model": "glm-5.3"
+}

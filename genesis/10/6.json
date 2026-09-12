@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ हाम के बेटा रहलें: कूश, मिस्रयिम (मिस्र), पूत आ कनान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा रहलें"
+    },
+    {
+      "surface": "חם",
+      "gloss": "हाम"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "आ मिस्रयिम (मिस्र)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "आ पूत"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "आ कनान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:45.300203833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "जवन लड़का उनका जनमल, उनकर तीसरा पीढ़ी, ऊ यहवे के कहल में आवेला।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "लड़का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "जनमल"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनका"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आवेला"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनकर"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "कहल में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:01.235882835Z",
+  "model": "glm-5.3"
+}

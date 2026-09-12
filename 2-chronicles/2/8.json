@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हमार खातिर ढेर सारा लकड़ी तैयार करा देबऽ, काहे कि जे घर हम बनावत बानी ऊ बहुत बड़ आ अद्भुत बाटे।",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "तैयार करा देबऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार खातिर"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ढेर सारा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "बनावत बानी"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बहुत बड़"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "आ अद्भुत"
+    }
+  ],
+  "timestamp": "2026-09-11T23:04:20.930210600Z",
+  "model": "glm-5.3"
+}

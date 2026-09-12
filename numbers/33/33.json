@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "ऊ होर-हगिदगद से चललें, आ यातवाता में डेरा डाललें।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "चललें"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "होर-हगिदगद"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललें"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "यातवाता में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:18.028576416Z",
+  "model": "glm-5.3"
+}

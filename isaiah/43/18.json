@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 43:18",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "पहिलका बातन के याद मत करऽ, पुरान बातन के बारे में मत सोचऽ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "याद करऽ"
+    },
+    {
+      "surface": "ראשנות",
+      "gloss": "पहिलका बातन के"
+    },
+    {
+      "surface": "וקדמניות",
+      "gloss": "पुरान बातन के बारे में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתבננו",
+      "gloss": "सोचऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:13:11.423751007Z",
+  "model": "glm-5.3"
+}

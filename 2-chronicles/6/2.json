@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ हम रउआ खातिर एगो घर बनवलिए, एगो बसे के जगह, रउआ के सदा-सदा रहे खातिर।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "आ हम"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "बनवलिए"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "बसे के जगह"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ खातिर"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "आ ठहरे के जगह"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "रउआ के रहे खातिर"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "सदा-सदा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:44.252653941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ नहशोन ⟨את⟩ सल्मा के जनम दिहलन, आ सल्मा ⟨את⟩ बोअज़ के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "आ नहशोन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सल्मा"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "सल्मा"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "आ सल्मा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअज़"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज़"
+    }
+  ],
+  "timestamp": "2026-09-11T22:51:58.497391746Z",
+  "model": "glm-5.3"
+}

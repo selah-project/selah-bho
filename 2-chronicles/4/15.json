@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "⟨את⟩ एक सागर, आ ⟨את⟩ ओकर नीचे बारह बैल।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक सागर"
+    },
+    {
+      "surface": "הים",
+      "gloss": "सागर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "बारह बैल"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर नीचे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:15.806882616Z",
+  "model": "glm-5.3"
+}

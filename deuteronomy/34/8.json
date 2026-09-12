@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ इसरायल के बेटा लोग मोआब के मैदान में तीस दिन तक ⟨את⟩ मोशे खातिर रोलन, आ मोशे के रोवे आ विलाप के दिन पूरा भ गइल।",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "आ … रोलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "मैदान में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "आ … पूरा भ गइल"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "रोवे"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "विलाप"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:45:42.968546251Z",
+  "model": "glm-5.3"
+}

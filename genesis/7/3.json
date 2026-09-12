@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एहे तरह अकास के पंछी में से सात-सात, नर आ मादा, जेकरा से पूरा धरती के ऊपर बीउ जियत रहे।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "एहे तरह"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "…में से उड़े वाला"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "आ मादा"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "जियत रहे खातिर"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीउ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुहार के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:01.788180588Z",
+  "model": "glm-5.3"
+}

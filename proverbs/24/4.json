@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ जानकारी से कोठरी सभे भर जाहें — हर एक कीमती आ मनभावन धन से।",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "आ जानकारी से"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "कोठरी सभे"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भर जाहें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "कीमती"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "आ मनभावन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:34.760719025Z",
+  "model": "glm-5.3"
+}

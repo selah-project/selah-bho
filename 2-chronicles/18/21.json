@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 18:21",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "ऊ कहलन, हम निकलब आ ओकर सगरी नबी सभ के मुँह में झूठ के रूह बनि जाब। तब कहलन, तूँ ठगब आ तूँ सकब भी — निकल जा आ अइसने कर।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "हम निकलब"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "बनि जाब"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "मुँह में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "נביאיו",
+      "gloss": "ओकर नबी सभ के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "תפתה",
+      "gloss": "तूँ ठगब"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "आ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "तूँ सकब"
+    },
+    {
+      "surface": "צא",
+      "gloss": "निकल जा"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:32.078950379Z",
+  "model": "glm-5.3"
+}

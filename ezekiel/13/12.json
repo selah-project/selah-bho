@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ देखऽ, दीवार गिर गइल! का रउआ सभे से ना कहाल जाई — बउतान कहाँ बा जवन रउआ पोतल रहलऽ?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिर गइल"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का ... ना"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहाल जाई"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "रउआ सभे से"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ बा"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "बउतान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "रउआ पोतल रहलऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:24.882228760Z",
+  "model": "glm-5.3"
+}

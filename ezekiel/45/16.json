@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "देश के सारे लोग ए तरुमा में इसरायल के नासी खातिर सहभागी होहीं।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश के"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होहीं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "तरुमा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "नासी खातिर"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इसरायल के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:06:45.031380643Z",
+  "model": "glm-5.3"
+}

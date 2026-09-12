@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 50,
+  "translation": "धरती में लड़ाई के आवाज बा, आ बहुते बड़ तबाही के।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "लड़ाई"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "आ तबाही"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बहुते बड़"
+    }
+  ],
+  "timestamp": "2026-09-11T20:43:52.448155038Z",
+  "model": "glm-5.3"
+}

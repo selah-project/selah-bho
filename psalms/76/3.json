@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 76,
+  "translation": "आ सालेम में ओकर ओकर डेरा बा, आ ओकर रहवास जियोन में बा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "सालेम में"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ओकर डेरा"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "आ ओकर रहवास"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "जियोन में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:44:03.081084037Z",
+  "model": "glm-5.3"
+}

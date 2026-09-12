@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 5:16",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एहसे गरीब के आस भइल, आ अन्याय आपन मुँह बंद कइलस।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "गरीब के"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आस"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "आ अन्याय"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "बंद कइलस"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "आपन मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:12.126950444Z",
+  "model": "glm-5.3"
+}

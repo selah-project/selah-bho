@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ यहवे मोशे से बोललन, कहलन —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ ... बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:01.337790395Z",
+  "model": "glm-5.3"
+}

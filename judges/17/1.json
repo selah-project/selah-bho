@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ एक आदमी एफ्राइम के पहाड़ के रहला, आ ओकर नाउ मिखायहु रहल।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक आदमी"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाड़ के"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्राइम"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "आ ओकर नाउ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "मिखायहु"
+    }
+  ],
+  "timestamp": "2026-09-11T19:04:04.240504680Z",
+  "model": "glm-5.3"
+}

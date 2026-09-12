@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "दुश्मन ओकरा उपाड़े ना, आ अधर्म के बेटा ओकरा दबावेला ना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उपाड़े"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "दुश्मन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "आ बेटा"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अधर्म के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ओकरा दबावेला"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:32.236151555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "अमाम, आ शेमा, आ मोलादा।",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "अमाम"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "आ शेमा"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "आ मोलादा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:46.878638248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "मनुष्य के घमंड ओके नीचा करेला, बाकिर नम्र प्राण वाला महिमा के धरेला।",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "ओके नीचा करेला"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "बाकिर नम्र"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "प्राण वाला"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "धरेला"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:12.124443934Z",
+  "model": "glm-5.3"
+}

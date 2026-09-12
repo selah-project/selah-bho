@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "बिना हिया के मनुख हाथ पटकेला, आपन संगी के आगू जमानत बनेला।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया के"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "पटकेला"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "बनेला"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "जमानत"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगू"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आपन संगी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:17.525731021Z",
+  "model": "glm-5.3"
+}

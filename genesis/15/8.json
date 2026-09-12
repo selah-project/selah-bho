@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ऊ कहलन: अदोनाय यहवे, हम कइसे जानब जे हम ओकरा उत्तराधिकार में पावब?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "במה",
+      "gloss": "कइसे"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जानब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "उत्तराधिकार में पावब"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:27.966060019Z",
+  "model": "glm-5.3"
+}

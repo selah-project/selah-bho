@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे के बात जकरयाह (जकर्याह) के आइल, कहि के —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … भइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आइल"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "जकरयाह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहि के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:17.691924771Z",
+  "model": "glm-5.3"
+}

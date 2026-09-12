@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ सिहोन ऊ आ पूरा जनता ले के याहत्सा में लड़ाई खातिर हमनी का सामना करे निकलल।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "सिहोन"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "हमनी का सामना करे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ पूरा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर जनता"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "लड़ाई खातिर"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "याहत्सा में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:08.203556256Z",
+  "model": "glm-5.3"
+}

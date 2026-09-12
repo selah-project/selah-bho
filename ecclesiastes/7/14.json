@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बढिया दिन में बढिया रहु, आ बुरा दिन में देखऽ; एहो ⟨את⟩ एकर सामने एलोहीम बनवले बा, एहजा कि मनुष्य एकर बाद कवनो चीज ना खोज पावे।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "बढिया"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहु"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "बढिया (में)"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "आ दिन में"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "एहो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एकर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एकर"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवले बा"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहजा कि"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "(कारण कि)"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "खोज पावे"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "एकर बाद"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कवनो चीज"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:23.768219561Z",
+  "model": "glm-5.3"
+}

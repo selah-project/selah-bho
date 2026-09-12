@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 130,
+  "translation": "आ ऊ ⟨את⟩ इस्राएल के ओकर सब अधर्म सभे से छुड़ाइह।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "छुड़ाइह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब … से"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "अधर्म सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:07.391574483Z",
+  "model": "glm-5.3"
+}

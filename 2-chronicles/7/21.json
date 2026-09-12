@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 7:21",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ ई घर जे ऊँच रहल, हर केहु जे एकरा पार जाई, ओकरा उजाड़ देखाई, आ कहितै: यहवे एह धरती आ एह घर के साथे अइसने काहे कइलन?",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "आ ई घर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर केहु के खातिर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार जाई"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "एकरा के"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "उजाड़ देखाई"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहितै"
+    },
+    {
+      "surface": "במה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "अइसने"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "एह धरती के साथे"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एह"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "आ एह घर के साथे"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-09-11T23:04:49.690146142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ऊ धरती पर, जिनहन खातिर ऊ ⟨את⟩ आपन जीव उठावेलें जे उहिजे लवटीं, उहिजे ऊ लवटिब ना।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ऊ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनहन खातिर"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "उठावेलें"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन जीव"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "आपन जीव"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "जे लवटीं"
+    },
+    {
+      "surface": "שם",
+      "gloss": "उहिजे"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उहिजे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ऊ लवटिब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:30:05.210827441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 23:19",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "देखऽ, यहवे के तूफान — क्रोध निकसल — आ एगो घुमावदार तूफान, बुरा लोगन के सिर पर घूमेला।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "तूफान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "निकसल"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "आ एगो तूफान"
+    },
+    {
+      "surface": "מתחולל",
+      "gloss": "घुमावदार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोगन के"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "घूमेला"
+    }
+  ],
+  "timestamp": "2026-09-11T20:32:02.250371099Z",
+  "model": "glm-5.3"
+}

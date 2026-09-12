@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "एकै बात बा — एही से हम कहलनी कि निर्दोश के आ दुष्ट के ऊ नष्ट करेला।",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "एकै"
+    },
+    {
+      "surface": "היא",
+      "gloss": "बात बा"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहलनी"
+    },
+    {
+      "surface": "תם",
+      "gloss": "निर्दोष के"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "आ दुष्ट के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "नष्ट करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:57.419490890Z",
+  "model": "glm-5.3"
+}

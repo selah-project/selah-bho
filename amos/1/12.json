@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ हम तेमान में आग भेजब, आ ऊ बोत्सरा के महलन के खा जाई।",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "आ हम भेजब"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "तेमान में"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "आ ऊ खा जाई"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "महलन के"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "बोत्सरा के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:12:38.871525412Z",
+  "model": "glm-5.3"
+}

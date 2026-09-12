@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "दान खातिर — अहीएज़ेर, अम्मीशद्दय के बेटा।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "दान खातिर"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "अहीएज़ेर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "अम्मीशद्दय के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:13.181728721Z",
+  "model": "glm-5.3"
+}

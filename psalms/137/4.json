@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 137,
+  "translation": "कइके हमनी का गाब? यहवे के ⟨את⟩ गीत, परदेसी धरती पर?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कइके"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "हमनी का गाब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गीत"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेसी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:57:16.123928727Z",
+  "model": "glm-5.3"
+}

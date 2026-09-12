@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "एही से हम कहनी जाही — “हमरा सुनऽ, हम अपन बुझियाल रउआ सभे के आगे रखब।”",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "हम कहनी जाही"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "रखब (देखाबब)"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "बुझियाल"
+    },
+    {
+      "surface": "אף",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    }
+  ],
+  "timestamp": "2026-09-11T22:18:02.825929015Z",
+  "model": "glm-5.3"
+}

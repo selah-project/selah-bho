@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 51,
+  "translation": "रउआ आपन चेहरा हमार पाप से छिपा लीं, आ हमार सब अधर्म मिटा दीं।",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "छिपा लीं"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "रउआ के चेहरा"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "हमार पाप से"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सब"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "हमार अधर्म"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "मिटा दीं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:34.334257962Z",
+  "model": "glm-5.3"
+}

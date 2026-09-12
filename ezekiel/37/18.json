@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 37,
+  "translation": "आ जब रउआ के परिजन सभे के लड़का रउआ से कहतारे, का रउआ हमनी का ना बतावब कि ए रउआ के खातिर का हवें?",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "कहतारे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लड़का सभे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के परिजन के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "का… ना"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "बतावब"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का के"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:03:00.540320317Z",
+  "model": "glm-5.3"
+}

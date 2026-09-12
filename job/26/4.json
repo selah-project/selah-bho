@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "⟨את⟩ केकरा बताइलऽ ई बात? आ केकर साँस रउआ से निकलल?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "केकरा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "केकरा"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "बताइलऽ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "מי",
+      "gloss": "केकर"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "निकलल"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "रउआ से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:40.749425156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "हुशियारी लड़ाई के हथियार से बेसी ⟨बढ़िया⟩ ⟨बा⟩, आ एक पापी ढेर नीक चीजन के नष्ट कर देवेला।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "हुशियारी"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "हथियार से बेसी"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "लड़ाई के"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "आ पापी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नष्ट कर देवेला"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "नीक चीजन के"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:54.223773433Z",
+  "model": "glm-5.3"
+}

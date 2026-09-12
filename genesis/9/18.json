@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ नोआ के बेटा लोग, जे डिबिया से निकलल रहले — शेम आ खाम आ याफेत; आ खाम, ऊ ⟨बा⟩ कनान के बाप।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "आ…रहले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा लोग"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआ के"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "जे निकलल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "डिबिया"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "आ खाम"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "आ याफेत"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "आ खाम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:57.493732457Z",
+  "model": "glm-5.3"
+}

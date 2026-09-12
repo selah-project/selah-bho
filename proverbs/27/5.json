@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "खुलल गाली-सुझाव लुकाइल प्रेम से बेसी नीक बा।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "नीक बा"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "गाली-सुझाव"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "प्रेम से"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "लुकाइल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:39.530650024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 48:13",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ मोआब कमोश के लजाइल जाई, जइसन इसरायल के घर बेत-एल से — आपन भरोसा — लजाइल रहल।",
+  "tokens": [
+    {
+      "surface": "ובש",
+      "gloss": "आ ... लजाइल जाई"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מכמוש",
+      "gloss": "कमोश के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "लजाइल रहल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल के"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बेत-एल से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "बेत-एल"
+    },
+    {
+      "surface": "מבטחם",
+      "gloss": "आपन भरोसा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:42:47.246617657Z",
+  "model": "glm-5.3"
+}

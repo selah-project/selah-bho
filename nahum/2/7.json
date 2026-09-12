@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "नदी सभ के दरवाजा खोल दिहल गइल, आ ⟨ओ⟩ महल घुल गइल।",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "दरवाजा"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "नदी सभ के"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "खोल दिहल गइल"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "आ ⟨ओ⟩ महल"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "घुल गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:20:19.017785038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ एफरायिम के सीमा के ऊपर, पूरुब के किनारा से ले के आ पछिम के किनारा ले, रउबेन खातिर एक हिस्सा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफरायिम"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "के किनारा से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ ले के"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पछिम"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउबेन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:40.632621784Z",
+  "model": "glm-5.3"
+}

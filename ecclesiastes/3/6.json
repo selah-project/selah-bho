@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "खोजे के समय, आ गँवावे के समय; रखे के समय, आ फेंक देवे के समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "गँवावे के"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "रखे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फेंक देवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.907651502Z",
+  "model": "glm-5.3"
+}

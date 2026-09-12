@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 121,
+  "translation": "यहवे तोहार निकले के आ तोहार आवे के रखेलन, अब से आ सदा ले।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "रखेलन"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "तोहार निकले"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "आ तोहार आवे"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अब से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "आ सदा ले"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:29.465954539Z",
+  "model": "glm-5.3"
+}

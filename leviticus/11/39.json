@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ जब ऊ पशु मर जाव, जवना के रउआ खाए खातिर बा, ओकर लाश के छूवे वाला साँझ ले अशुद्ध हो जाव।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "आ जब"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मर जाव"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवना के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "खाए खातिर"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "छूवे वाला"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "ओकर लाश के"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध हो जाव"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:22:17.060925114Z",
+  "model": "glm-5.3"
+}

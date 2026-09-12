@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "तीसरा अबशालोम, माआखा के बेटा, ऊ गशूर के राजा तलमय के बिटिया रहली; चउथा अदोनियाह, हग्गीत के बेटा।",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माआखा के"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बिटिया"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "तलमय के"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "गशूर के"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चउथा"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "अदोनियाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "हग्गीत के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:51.709644901Z",
+  "model": "glm-5.3"
+}

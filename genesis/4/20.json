@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ आदा ⟨את⟩ याबाल के जनम दिहली; ऊ तंबू में रहे वाला लोग आ पशुपालन करे वाला लोग के पिता भइल।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जनम दिहली"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "आदा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याबाल के"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "याबाल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "रहे वाला"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तंबू"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "पशुपालन"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:35.444229266Z",
+  "model": "glm-5.3"
+}

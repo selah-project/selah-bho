@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 103,
+  "translation": "कारण ऊ जानेला हमनी का गढ़ल रूप, याद राखेला कि हमनी माटी-धूल बानी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "हमनी का गढ़ल रूप"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "याद राखेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "माटी-धूल"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हमनी का"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:57.439299061Z",
+  "model": "glm-5.3"
+}

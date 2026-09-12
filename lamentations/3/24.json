@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "“यहवे हमनी के हिस्सा बा”, हमार प्राण कहेला; एही से हम ओकरा बाट जोहब।",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "हमार हिस्सा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हमार प्राण"
+    },
+    {
+      "surface": "על",
+      "gloss": "एहिजा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "बाट जोहब"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:45:04.385711325Z",
+  "model": "glm-5.3"
+}

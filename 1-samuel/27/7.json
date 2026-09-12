@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ दिनन के गिनती, जवन दाऊद पलिश्ती के खेत में बसल रहल — दिन आ चार महीना।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भवल"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिनन के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसल रहल"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती के"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "महीना"
+    }
+  ],
+  "timestamp": "2026-09-11T19:19:08.374381550Z",
+  "model": "glm-5.3"
+}

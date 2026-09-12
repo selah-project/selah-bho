@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 24:21",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ऊ बाँझपन के चराला जऊन जन्म ना देले, आ विधवा के ऊ भला ना करेला।",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "चराला"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "बाँझपन के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "जन्म देले"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "आ विधवा के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "भला करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:16:44.716643003Z",
+  "model": "glm-5.3"
+}

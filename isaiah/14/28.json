@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "जवन साल राजा आहाज के मौत भइल, ओहि साल ई भार भइल।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "जवन साल ... ओहि साल"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मौत"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आहाज"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ई"
+    }
+  ],
+  "timestamp": "2026-09-11T20:03:51.167700547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 82,
+  "translation": "कमजोर आ अनाथ के न्याय करीं; दुखिया आ गरीब के धर्मी ठहराईं।",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "न्याय करीं"
+    },
+    {
+      "surface": "דל",
+      "gloss": "कमजोर"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "आ अनाथ के"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुखिया"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "आ गरीब के"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "धर्मी ठहराईं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:30.630375577Z",
+  "model": "glm-5.3"
+}

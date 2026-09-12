@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ऊ कहलन, “ओकरा बोलावऽ।” ओकरा बोलावल गइल, आ ऊ दुआर पर ठाढ़ भइल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "बोलावऽ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलावल गइल"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ठाढ़ भइल"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "दुआर पर"
+    }
+  ],
+  "timestamp": "2026-09-11T19:48:40.369577279Z",
+  "model": "glm-5.3"
+}

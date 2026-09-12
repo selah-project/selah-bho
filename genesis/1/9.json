@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ एलोहीम कहलन: अकास के नीचे के पानी एक जगह के ओर जुट जावें, आ सूखल जमीन दिखाई पड़े; आ अइसने भइल।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "जुट जावें"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "दिखाई पड़े"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "सूखल जमीन"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भइल"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:11.060100015Z",
+  "model": "glm-5.3"
+}

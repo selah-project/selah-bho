@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ अस्सूर के राजा तिगलत-पिलनेसर ओकरा ऊपर आइलन, आ ओकरा तंग कइलन — बाकिर ओकरा मजबूत ना कइलन।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आइलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "तिगलत"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "पिलनेसर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर के"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "तंग कइलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "मजबूत कइलन"
+    }
+  ],
+  "timestamp": "2026-09-11T23:11:27.018841396Z",
+  "model": "glm-5.3"
+}

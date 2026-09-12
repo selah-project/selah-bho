@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ओकर भाई एशेक के बेटा: ऊलाम ओकर पहिला जनम, येउश दूसरा, आ एलीफलेत तीसरा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ बेटा"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "एशेक"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ऊलाम"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "पहिला जनम"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "येउश"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "आ एलीफलेत"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:08.027201380Z",
+  "model": "glm-5.3"
+}

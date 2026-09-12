@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ शुप्पीम आ हुप्पीम — ईर के बेटा; हुशीम — अहेर के बेटा।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "आ शुप्पीम"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "आ हुप्पीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ईर"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "हुशीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अहेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:25.523969447Z",
+  "model": "glm-5.3"
+}

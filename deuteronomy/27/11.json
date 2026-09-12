@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ मोशा उही दिन ⟨את⟩ परजा के हुक्म दइलन, के कहे —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "हुक्म दइलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परजा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "परजा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:41:22.250133603Z",
+  "model": "glm-5.3"
+}

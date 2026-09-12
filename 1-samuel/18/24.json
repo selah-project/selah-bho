@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ शाऊल के सेवक ओकरा एही बात बतावलें: दाऊद अइसने बात कहलन।",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "आ बतावलें"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "अइसने बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एही"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    }
+  ],
+  "timestamp": "2026-09-11T19:14:10.801706026Z",
+  "model": "glm-5.3"
+}

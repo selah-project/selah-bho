@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 8:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "धरम में बाड़ी मोर मुँह के सब बात; ओकरा में कवनो टेढ़ आ कुटिल ⟨चीज⟩ नइखे।",
+  "tokens": [
+    {
+      "surface": "בצדק",
+      "gloss": "धरम में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मोर मुँह के"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओकरा में"
+    },
+    {
+      "surface": "נפתל",
+      "gloss": "टेढ़"
+    },
+    {
+      "surface": "ועקש",
+      "gloss": "आ कुटिल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:15.641144181Z",
+  "model": "glm-5.3"
+}

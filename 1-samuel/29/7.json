@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ अब लौट जाउ आ शांति से चल जाउ, आ पलिश्ती के सरदारन के आँखि में बुराई ना करब।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "आ अब"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौट जाउ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "आ चल जाउ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शांति से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "करब"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखि में"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "सरदारन के"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    }
+  ],
+  "timestamp": "2026-09-11T23:27:32.870379776Z",
+  "model": "glm-5.3"
+}

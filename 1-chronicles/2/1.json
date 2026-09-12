@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "ई इस्राएल के बेटा रहलें: रूबेन, शिमोन, लेवी आ यहूदा, इस्साकार आ ज़बूलून।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "आ यहूदा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "इस्साकार"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "आ ज़बूलून"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:14.291924488Z",
+  "model": "glm-5.3"
+}

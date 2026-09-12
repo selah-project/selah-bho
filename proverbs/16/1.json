@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आदमी के हिया के बिचार ओकरे बाड़ें, बाकिर जीभ के जबाब यहवे के ओर से आवेला।",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "बिचार"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया के"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "बाकिर यहवे के ओर से"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "जबाब"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:14.647818726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 82,
+  "translation": "उठब, एलोहीम, धरती के न्याय करब; काहें कि तू सभे जाति सभे के मीरास लेब।",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "उठब"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "न्याय करब"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "मीरास लेब"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सभे के"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सभे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:24.021903740Z",
+  "model": "glm-5.3"
+}

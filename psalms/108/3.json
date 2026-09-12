@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 108,
+  "translation": "जाग उठ, हे नेवेल आ किन्नोर; हम जगाबब भोर के।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जाग उठ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "हे नेवेल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "आ किन्नोर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "हम जगाबब"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोर के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:51:54.148582593Z",
+  "model": "glm-5.3"
+}

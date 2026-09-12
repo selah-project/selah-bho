@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "बेत लेखेम (बेथलहम) आ नेतोफा के आदमी सौ अस्सी आ आठ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के आदमी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "आ नेतोफा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ आठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.201025578Z",
+  "model": "glm-5.3"
+}

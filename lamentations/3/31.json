@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहें कि अदोनाय ⟨कर्ता⟩ सदा खातिर त्यागेला ना।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "त्यागेला"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा खातिर"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.475887315Z",
+  "model": "glm-5.3"
+}

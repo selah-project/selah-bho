@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 4:33",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ऊ सब गाँव जऊन ए नगरन के चारों ओर बाड़ें, बाल (बाल-नगर) ले — एही ऊनकर बस्ती सब हवे, आ ऊनकर वंशावली लिखल गइल।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "आ ऊ सब"
+    },
+    {
+      "surface": "חצריהם",
+      "gloss": "गाँव"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जऊन"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगरन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "מושבתם",
+      "gloss": "बस्ती सब"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "वंशावली लिखल गइल"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊनकर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:59.391895439Z",
+  "model": "glm-5.3"
+}

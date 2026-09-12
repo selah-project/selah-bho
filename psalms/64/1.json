@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 64,
+  "translation": "महरून खातिर, दाऊद के गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महरून खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:41.025823375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "ऊ घर के ओर से दुआर के बरामदा ⟨את⟩ एक सरकंडा मापलन।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "मापलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दुआर के बरामदा"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "बरामदा"
+    },
+    {
+      "surface": "השער",
+      "gloss": "दुआर के"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "घर के ओर से"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "एक सरकंडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:04:53.861516709Z",
+  "model": "glm-5.3"
+}

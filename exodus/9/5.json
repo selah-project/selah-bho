@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ यहवे एगो तय समय रखलन, कहलन: “काल्हि यहवे ए बात धरती में करेला।”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "तय समय"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "काल्हि"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:09.893077388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "ऊ मारेनिहार के आपन गाल देला, निन्दा से भर जाला।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "देला"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "मारेनिहार के"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "गाल"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "भर जाला"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "निन्दा से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:34.475753633Z",
+  "model": "glm-5.3"
+}

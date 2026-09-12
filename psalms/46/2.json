@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "एलोहीम हमनी का शरण आ बल बाड़ें, संकट सभे में बहुते मिले वाला मदद।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "शरण"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "आ बल"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "मदद"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "संकट सभे में"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "मिले वाला"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:28.786363242Z",
+  "model": "glm-5.3"
+}

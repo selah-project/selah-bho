@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ ⟨את⟩ बसमत के, इस्माइल के बिटिया के, नबायोत के बहिन के।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "बसमत"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बसमत"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बिटिया"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "इस्माइल"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "नबायोत"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:47.152846368Z",
+  "model": "glm-5.3"
+}

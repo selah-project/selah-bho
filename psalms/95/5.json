@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 95,
+  "translation": "जेकर अपना समुंदर बा — आ ऊहे एकरे बनावल — आ ओकर हाथ सूखल धरती के गढ़ले बाड़ें।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जेकर"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपना"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुंदर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "आ ऊहे"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "एकरे बनावल"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "आ सूखल धरती"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ओकर हाथ"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "गढ़ले बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:55.817451738Z",
+  "model": "glm-5.3"
+}

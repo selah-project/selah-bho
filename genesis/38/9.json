@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 38:9",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "आ ओनान जानलस कि बीज ओकरा ना होखी; आ भइल, जब ऊ आपन भाई के घरवाली के पास गइल, तऽ ऊ धरती पर गिरा दिहलस, कि भाई के बीज ना देवे।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "आ ओनान जानलस"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "ओनान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होखी"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जब"
+    },
+    {
+      "surface": "בא",
+      "gloss": "गइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "घरवाली"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "आपन भाई के"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "आ गिरा दिहलस"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "कि ना"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवे"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "भाई के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:54.229162819Z",
+  "model": "glm-5.3"
+}

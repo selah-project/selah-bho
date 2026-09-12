@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "अभिशापित बा ऊ जे परदेसी, अनाथ आ बिधवा के न्याय बिगाड़ेला; आ पूरा प्रजा कहेली — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "अभिशापित"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "बिगाड़ेला"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "आ बिधवा"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ … कहेली"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:37.283239981Z",
+  "model": "glm-5.3"
+}

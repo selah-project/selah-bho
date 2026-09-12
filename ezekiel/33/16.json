@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 33:16",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "ओकर सगरी पाप जुन ऊ पाप कइलन, ओकर खातिर स्मरण ना होखी; न्याय आ धरम कइलस, जियत जी जाई।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप कइलन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "स्मरण होखी"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आ धरम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलस"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "जियत"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जी जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:21.396589449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ जब कोहनी के बिटिया कवनो पराया मनुखिया के हो जाई, त ऊ पवित्र चीज़न के भेंट में से ना खाई।",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "आ बिटिया"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "कोहनी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हो जाई"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुखिया के"
+    },
+    {
+      "surface": "זר",
+      "gloss": "पराया"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "भेंट में से"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्र चीज़न के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाई"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:12.033187741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "उठीं, आ रात में चढ़ीं, आ ओकर महलन के उजाड़ देईं।",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "उठीं"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "आ हमनी का चढ़ीं"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "आ हमनी का ओकरा बरबाद करब"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "ओकर महलन के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:23:59.085207878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "आ पूरा सभा देखलस कि अहरोन के प्राण निकल गइल, आ पूरा इस्राएल के घर तीस दिन ले ⟨את⟩ अहरोन खातिर रोवत रहल।",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "देखलस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "के प्राण निकल गइल"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "आ रोवत रहल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहरोन खातिर"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:44.156115039Z",
+  "model": "glm-5.3"
+}

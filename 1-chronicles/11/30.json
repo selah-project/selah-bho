@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "महरै नेतोफाती के, हेलेद, बाना के बेटा, नेतोफाती के।",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "महरै"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "नेतोफाती के"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "हेलेद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "बाना"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "नेतोफाती के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:55:23.299984632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "आ अगर ओकर कवनो बेटी नइखे, तऽ रउआ सभे ⟨את⟩ ओकर बिरसत ओकर भाइन के दिहऽ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "रउआ सभे … दिहऽ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर बिरसत"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ओकर बिरसत"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ओकर भाइन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:23.751298648Z",
+  "model": "glm-5.3"
+}

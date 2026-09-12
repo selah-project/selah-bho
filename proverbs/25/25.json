@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "थकल जिय के ऊपर ठंडा पानी, आ दूर देश से अच्छा खबर।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ठंडा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जिय"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "थकल"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "आ खबर"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश से"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:00.659431867Z",
+  "model": "glm-5.3"
+}

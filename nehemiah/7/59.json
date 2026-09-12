@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "शेफत्याह के लइका, चत्तील के लइका, पोखेरेत-हच्चेबायिम के लइका, आमोन के लइका।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शेफत्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "चत्तील"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "पोखेरेत"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "हच्चेबायिम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "आमोन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:40.145136133Z",
+  "model": "glm-5.3"
+}

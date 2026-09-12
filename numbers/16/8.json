@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "आ मूसा कोरह से कहलन: “सुनऽ एही, ए लेवी के बेटा सभे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ … कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "एही"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सभे"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    }
+  ],
+  "timestamp": "2026-09-11T18:18:31.456891983Z",
+  "model": "glm-5.3"
+}

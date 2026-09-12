@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ उनकर गिने हुए लोग आपन परिवारन अनुसार तीन हजार आ दू सौ भए।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनकर गिने हुए लोग"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "आपन परिवारन अनुसार"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आ दू सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:11:49.665686320Z",
+  "model": "glm-5.3"
+}

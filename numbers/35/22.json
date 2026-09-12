@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "आ अगर बिना दुश्मनी के अचानक ओकरा धक्का देलक, अवा बिना चाल के ओकरा ऊपर कवनो सामान फेंक देलक,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "दुश्मनी के"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "धक्का देलक"
+    },
+    {
+      "surface": "או",
+      "gloss": "अवा"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "फेंक देलक"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "सामान"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "चाल के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:28:07.169005058Z",
+  "model": "glm-5.3"
+}

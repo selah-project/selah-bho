@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 44,
+  "translation": "उठऽ! हमनी के सहायता करऽ, आ हमनी के छुड़ा ले — तोहार हेसेद के खातिर।",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "सहायता"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी के"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "आ छुड़ा ले"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के खातिर"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तोहार हेसेद"
+    }
+  ],
+  "timestamp": "2026-09-11T21:37:53.629094197Z",
+  "model": "glm-5.3"
+}

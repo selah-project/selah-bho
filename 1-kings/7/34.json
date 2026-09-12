@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ एक ठाँठ के चारि कोना पर चारि कंधा रहलें; ठाँठ से ही ओकर कंधा ⟨बाड़ें⟩।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "आ चारि"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "कंधा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चारि"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "कोना"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "ठाँठ के"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से ही"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "ठाँठ"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "ओकर कंधा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:35:55.062525939Z",
+  "model": "glm-5.3"
+}

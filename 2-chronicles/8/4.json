@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ ⟨את⟩ तदमोर झाड़ी-बन में बनवलन, आ ⟨את⟩ सब जिनगही सहरऽन जवन ऊ हमात में बनवले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तदमोर"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "तदमोर"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "झाड़ी-बन में"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "सब जिनगही सहरऽन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "सहरऽन"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "जिनगही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनवले रहलें"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "हमात में"
+    }
+  ],
+  "timestamp": "2026-09-11T23:05:48.616766823Z",
+  "model": "glm-5.3"
+}

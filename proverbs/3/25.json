@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "अचानक के डर से मत डरबू, आ बुरा लोगन के उजाड़ी से ना, जबऊ आवेला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरबू"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "डर से"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक के"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "आ उजाड़ी"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बुरा लोगन के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ऊ आवेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:20.287803523Z",
+  "model": "glm-5.3"
+}

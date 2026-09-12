@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "हमनी का मुंडा के ताज गिर गइल — हाय हमनी का, काहे कि हमनी का पाप कइली।",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "गिर गइल"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ताज"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "हमनी का मुंडा के"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमनी का"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "पाप कइली"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:22.480649876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "उठऽ, काहेकि बात रउआ पर बा आ हमनी का रउआ के साथे बानी; मजबूत होके करऽ।",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "रउआ पर"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "आ हमनी का"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "रउआ के साथे"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "मजबूत होके"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "करऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:45:04.468676890Z",
+  "model": "glm-5.3"
+}

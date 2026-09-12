@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "का सोहन बाड़ें तोहार डेरा, याकोब, तोहार बस्ती सभ, इस्राएल!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "सोहन बाड़ें"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "तोहार डेरा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "तोहार बस्ती सभ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:34.798983168Z",
+  "model": "glm-5.3"
+}

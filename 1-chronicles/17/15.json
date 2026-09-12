@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "ए सब बात के अनुसार आ ए पूरा दर्शन के अनुसार नातन दाऊद से एहने कहलन।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "अनुसार ए सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सब"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "आ अनुसार ए पूरा"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:27.221605358Z",
+  "model": "glm-5.3"
+}

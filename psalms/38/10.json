@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "अदोनाय, हमार सारा चाहत रउआ के सामने बा, आ हमार आह रउआ से छिपल नइखे।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "रउआ के सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "हमार चाहत"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "आ हमार आह"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "रउआ से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "छिपल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:52.582925449Z",
+  "model": "glm-5.3"
+}

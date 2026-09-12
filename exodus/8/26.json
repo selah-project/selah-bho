@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ मूसा फराऊन के साथ से बाहर निकललन आ यहवे से बिनती कइलन।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आ निकललन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "के साथ से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फराऊन"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "आ बिनती कइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:41:17.714789555Z",
+  "model": "glm-5.3"
+}

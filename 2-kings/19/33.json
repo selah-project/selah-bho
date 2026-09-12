@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "जेतना रास्ता से ऊ आवल, ओही रास्ता से ऊ लौट जाई, आ एही नगर में ऊ ना आई — यहवे के कथन बा।",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "जेतना रास्ता से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेतना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ऊ आवल"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओही से"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ऊ लौट जाई"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ एही नगर में"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एही"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ऊ आई"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:56:32.609532850Z",
+  "model": "glm-5.3"
+}

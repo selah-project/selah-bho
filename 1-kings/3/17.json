@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ एक औरत कहली, “बिनती ह, मोर स्वामी, हम आ ई औरत एके घर में रहत रहीं, आ हम ओकरे संगे घरे बच्चा जनली।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "कहली"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בי",
+      "gloss": "बिनती ह"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "मोर स्वामी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "आ ई औरत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "रहत रहीं"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "जनली"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकरे संगे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:34:44.058678251Z",
+  "model": "glm-5.3"
+}

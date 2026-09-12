@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "हाय ओकरा, जे पिता से कहेला, “का जनमऽ?” आ माई से, “का जनम देलऽ?”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "पिता से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "जनमऽ"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "आ माई से"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "जनम देलऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:14:55.105180521Z",
+  "model": "glm-5.3"
+}

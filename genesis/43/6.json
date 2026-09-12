@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 43,
+  "translation": "आ इस्राएल कहलन: ए काबर रउआ लोग हमार बुरा कइलऽ, कि ओ मनई के बतावल कि रउआ लोग के अउरा भाई बा?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ए काबर"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "बुरा कइलऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "बतावल"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ओ मनई के"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ लोग के"
+    },
+    {
+      "surface": "אח",
+      "gloss": "अउरा भाई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:17:22.217120273Z",
+  "model": "glm-5.3"
+}

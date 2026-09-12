@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ज़बूलून खातिर — एलिआब, खेलोन के बेटा।",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ज़बूलून खातिर"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "खेलोन के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:13.181189856Z",
+  "model": "glm-5.3"
+}

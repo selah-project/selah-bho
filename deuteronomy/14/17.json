@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "आ कात, आ ⟨את⟩ गिद्ध, आ ⟨את⟩ शलाख —",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "आ कात"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "गिद्ध"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "गिद्ध"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शलाख"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "शलाख"
+    }
+  ],
+  "timestamp": "2026-09-11T18:36:29.963815690Z",
+  "model": "glm-5.3"
+}

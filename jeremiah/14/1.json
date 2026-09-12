@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 14,
+  "translation": "जवन यहवे के बचन यिर्मियाहू ला बाद-सूखा के बात पर आइल।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भऽ गइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "बाद-सूखा"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:31.085292922Z",
+  "model": "glm-5.3"
+}

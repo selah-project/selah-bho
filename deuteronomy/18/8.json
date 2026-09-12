@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "भाग जइसन भाग ऊ खाइहें, ऊकर बेचल चीज के अलावा, पिता-पुरखा सभ के संगे।",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "जइसन भाग"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाइहें"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलावा"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ऊकर बेचल चीज"
+    },
+    {
+      "surface": "על",
+      "gloss": "के संगे"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "पिता-पुरखा सभ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:38:55.053578509Z",
+  "model": "glm-5.3"
+}

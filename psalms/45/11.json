@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "“सुन, बिटिया, आ देख, अपना कान झुका; अपना जनता आ अपना पिता के घर के बिसरा जा।",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बिटिया"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "आ देख"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "झुका"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "अपना कान"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "बिसरा जा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "अपना जनता"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ … घर"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "अपना पिता के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:38:19.700645199Z",
+  "model": "glm-5.3"
+}

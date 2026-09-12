@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 101,
+  "translation": "बेकार बात हम अपना आँखी के आगू ना रखब; भटकल लोग के काम से हम घृणा करेली; ऊ हमरा से ना चिपकेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "रखब"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखी के"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बेकार"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "भटकल लोग के"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "घृणा करेली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "चिपकेला"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हमरा से"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:53.663463754Z",
+  "model": "glm-5.3"
+}

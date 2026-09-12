@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आशेर के गोत्र से सेतूर, मीकाएल के बेटा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर के"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "सेतूर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "मीकाएल के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:31.985653562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 45,
+  "translation": "आ ओही दिन नासी आपन खातिर आ पूरा धरती के जनता खातिर पापबलि के एगो बैल कइलन।",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओही"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "आ खातिर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापबलि"
+    }
+  ],
+  "timestamp": "2026-09-11T21:06:26.693568183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "आ रउआ के लाश आकास के सब चिरईन आ धरती के पशुन खातिर खाना बन जाई, आ केहू ना ओकरा भगावे।",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "बन जाई"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "रउआ के लाश"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चिरईन"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकास के"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "आ पशुन खातिर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ केहू ना"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "भगावे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:25:43.159639191Z",
+  "model": "glm-5.3"
+}

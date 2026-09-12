@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "एगो बुराई बा जवन हम धूर्मी के नीचे देखलनी, आ ऊ मनुअऽन के ऊपर भारी बा।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "एगो बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलनी"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "धूर्मी के"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "आ भारी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुअऽन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:31:18.174303213Z",
+  "model": "glm-5.3"
+}

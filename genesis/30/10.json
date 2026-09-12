@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ जिल्पा, लिआ के दासी, याकोब खातिर एगो बेटा के जनम देली।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जनम देली"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "जिल्पा"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लिआ के"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब खातिर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एगो बेटा"
+    }
+  ],
+  "timestamp": "2026-09-11T17:24:33.698751990Z",
+  "model": "glm-5.3"
+}

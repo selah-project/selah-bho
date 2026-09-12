@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 33:9",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ भई, मोशे के डेरा में आवे पर बादर के खम्भा उतरल आ डेरा के दुआर पर खड़ा भइल, आ ऊ मोशे से बात कइलन।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ भई"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "के आवे पर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "डेरा में"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरल"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "खम्भा"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादर के"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "आ खड़ा भइल"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "दुआर पर"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "डेरा के"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आ बात कइलन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:52:49.372092538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ ओ ओहिजे एक बेदी खड़ा कइलन आ ओकरा एल एलोहे इस्राएल नाउँ दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "खड़ा कइलन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बेदी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "नाउँ दिहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:28:09.409043019Z",
+  "model": "glm-5.3"
+}

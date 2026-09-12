@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 97,
+  "translation": "ओकर बिजुरी सभ दुनिया के उजियारलनी; धरती देखली आ काँप गई।",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "उजियारलनी"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "ओकर बिजुरी सभ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "दुनिया के"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "देखली"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "आ काँप गई"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:32.718814847Z",
+  "model": "glm-5.3"
+}

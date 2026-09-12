@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 28:12",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "हे आदमी के बेटा, त्सोर के राजा पर कीना उठा, आ ओकरा से कह: अदोनाय यहवे एना कहेला — तूँ माप के मोहर बा, ज्ञान से भरल, आ सुंदरता में सिद्ध।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी के"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "कीना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "आ कह"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "मोहर"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "माप के"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरल"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान से"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "सिद्ध"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "सुंदरता में"
+    }
+  ],
+  "timestamp": "2026-09-11T20:58:40.756812048Z",
+  "model": "glm-5.3"
+}

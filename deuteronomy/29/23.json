@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ सब जाति कहिहें — यहवे एह धरती से अइसन काहे कइलन? एह बड़ा क्रोध के भड़कावट का बा?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "आ कहिहें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "अइसन"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "एह धरती से"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "एह"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "भड़कावट"
+    },
+    {
+      "surface": "האף",
+      "gloss": "क्रोध के"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "एह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:43:26.255511369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 112,
+  "translation": "ओकर मन टिकल बा, ऊ ना डरेला, जब ले ऊ आपन दुश्मनन के देख ना लेवेला।",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "टिकल"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ओकर मन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "डरेला"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब ले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देख लेवेला"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "आपन दुश्मनन के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:10.655126021Z",
+  "model": "glm-5.3"
+}

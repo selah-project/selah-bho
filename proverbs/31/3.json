@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 31,
+  "translation": "आपन बल औरतन के ना देबू, आ आपन रस्ता ओकरा ना देबू जवन राजा सभे के मेटावेला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देबू"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "औरतन के"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "आपन बल"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "आ आपन रस्ता"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "मेटावे खातिर"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "राजा सभे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:09:17.906136109Z",
+  "model": "glm-5.3"
+}

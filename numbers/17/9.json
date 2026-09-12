@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ यहवे मोशे के ओर बोललन, कहेला के—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "आ ... बोललन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला के—"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:21.925649035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "हिया के बुद्धिमान ⟨के⟩ समझदार कहाला, आ होठ के मिठास सिखावा बढ़ावेला।",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "बुद्धिमान के"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "कहाला"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "आ मिठास"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "होठ के"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "बढ़ावेला"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "सिखावा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:03:44.774233436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 135,
+  "translation": "जाति सभे के मूरत चाँदी आ सोना के बाड़ी — मनुख के हाथ के बनावल।",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "मूरत"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जाति सभे के"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "आ सोना"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "बनावल"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथ के"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुख के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:56:07.209227663Z",
+  "model": "glm-5.3"
+}

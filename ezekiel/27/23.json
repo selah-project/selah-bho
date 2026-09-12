@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "हारान, कन्ने आ अदेन, शेबा के बेपारी — अस्सूर आ किल्मद तोहार बेपारी रहलें।",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "आ कन्ने"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "आ अदेन"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "बेपारी"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबा के"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूर"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "आ किल्मद"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "तोहार बेपारी"
+    }
+  ],
+  "timestamp": "2026-09-11T20:58:32.549128081Z",
+  "model": "glm-5.3"
+}

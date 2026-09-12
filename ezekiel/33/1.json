@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "आ यहवे के बात हमरा लग आइल, कहेला —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा लग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला —"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:42.079063990Z",
+  "model": "glm-5.3"
+}

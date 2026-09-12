@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ऊ यहवे के सौंह खाइलन — तेज आवाज से, जयकारा से, आ बिगुल से आ शोफार से।",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "सौंह खाइलन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "आवाज से"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "जयकारा से"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "बिगुल से"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "शोफार से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:05.319980228Z",
+  "model": "glm-5.3"
+}

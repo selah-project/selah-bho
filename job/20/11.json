@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 20:11",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "ओकर हड्डी जवानी से भरल रहले, आ ओकर संगे धूरि पर लेटेले।",
+  "tokens": [
+    {
+      "surface": "עצמותיו",
+      "gloss": "ओकर हड्डी"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरल रहले"
+    },
+    {
+      "surface": "עלומו",
+      "gloss": "जवानी से"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "आ ओकर संगे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरि"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "लेटेले"
+    }
+  ],
+  "timestamp": "2026-09-11T22:15:30.490877686Z",
+  "model": "glm-5.3"
+}

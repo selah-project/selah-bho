@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ मूसा कहलन: “ठीके कहने रउआ — हम ⟨कबो ना⟩ अब रउआ के मुँह देखब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ठीके"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कहने रउआ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "जोड़ब"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब कबो"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "देखब"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "रउआ के मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T17:40:18.012252636Z",
+  "model": "glm-5.3"
+}

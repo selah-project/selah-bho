@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "सराहनीय यहवे के हम पुकारत हँ, आ हमार दुश्मनन से हम बच जात हँ।",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "सराहनीय"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "पुकारत हँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "आ से"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "हमार दुश्मनन"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "बच जात हँ"
+    }
+  ],
+  "timestamp": "2026-09-11T21:30:46.381622044Z",
+  "model": "glm-5.3"
+}

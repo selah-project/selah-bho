@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "बल्कि तूँ हमार देस आ हमार जनम-भूमि कीं जाहऽ, आ हमार बेटा — इसहाक — खातिर गोरी लेआ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कीं"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "हमार देस"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "हमार जनम-भूमि कीं"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जाहऽ"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "आ लेआ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "गोरी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "हमार बेटा खातिर"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "इसहाक"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:41.253566321Z",
+  "model": "glm-5.3"
+}

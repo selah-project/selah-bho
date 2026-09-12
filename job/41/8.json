@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 41,
+  "translation": "एक दूसरा से जुड़ल बा, आ हवा भी इनहन के बीच ना घुसेले।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "दूसरा से"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "जुड़ल बा"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "आ हवा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "घुसेले"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "इनहन के बीच"
+    }
+  ],
+  "timestamp": "2026-09-11T22:21:42.707797881Z",
+  "model": "glm-5.3"
+}

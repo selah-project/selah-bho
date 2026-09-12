@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "यूसुफ फलदाय डार ह — झरना के पास फलदाय डार; ओकर टहनी दीवार पर चढ़े ला।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फलदाय"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फलदाय"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עין",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "टहनी"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "चढ़े ला"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שור",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:36.752499277Z",
+  "model": "glm-5.3"
+}

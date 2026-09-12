@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ऊ अकास के पटल में प्रकास-पिंड रहला, धरती पर प्रकास दिये खातिर; आ अइसने भय।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "आ ऊ रहला"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "प्रकास-पिंड"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "पटल में"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "अकास के"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "प्रकास दिये खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भय"
+    },
+    {
+      "surface": "כן",
+      "gloss": "अइसने"
+    }
+  ],
+  "timestamp": "2026-09-11T17:14:25.407183142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "हे मानव के बेटा, अपना मुँह अम्मोन के बेटा सभ के ओर धर आ ऊ सभ पर भविष्यवाणी कर।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानव"
+    },
+    {
+      "surface": "שים",
+      "gloss": "धर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहार मुँह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "आ भविष्यवाणी कर"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ऊ सभ पर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:57:19.185429644Z",
+  "model": "glm-5.3"
+}

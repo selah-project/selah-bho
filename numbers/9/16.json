@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "एहने सदा रहल: बादल ओकरा ढकले, आ रात के आग के रूप।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ओकरा ढकले"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "आ रूप"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:35.420738355Z",
+  "model": "glm-5.3"
+}

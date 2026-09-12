@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 72,
+  "translation": "ऊ गिरे बरसात नियन काटल घास पर, बूँदाबारी नियन धरती के सींचत।",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "ऊ गिरे"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "बरसात नियन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גז",
+      "gloss": "काटल घास"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "बूँदाबारी नियन"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "सींचत (बरसैत)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:43:27.423347808Z",
+  "model": "glm-5.3"
+}

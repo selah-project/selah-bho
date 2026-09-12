@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "एहि के हम हमारा मन में फेरौलियन, एही से हमें आस बा।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "एहि"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "फेरौलियन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमारा मन"
+    },
+    {
+      "surface": "על",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "आस बा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:19.220818675Z",
+  "model": "glm-5.3"
+}

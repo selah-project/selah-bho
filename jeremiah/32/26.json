@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 32,
+  "translation": "आ यहवे के बचन यरमयाहू के पास आइल, कहेला —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यरमयाहू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला —"
+    }
+  ],
+  "timestamp": "2026-09-11T20:36:09.239071003Z",
+  "model": "glm-5.3"
+}

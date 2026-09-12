@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ शाऊल ⟨את⟩ मीकल, अपन बिटिया, दाऊद के औरत के पलती के दइलन, जे लायिश के बेटा रहलन, गल्लीम के।",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "आ शाऊल"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मीकल"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "मीकल"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "अपन बिटिया"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "पलती के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "लायिश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "गल्लीम के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:18:20.623535453Z",
+  "model": "glm-5.3"
+}

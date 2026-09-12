@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "का रउआ के एल नियर बाहु बा, आ का रउआ ओकरे नियर स्वर से गरज सकेला?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "का"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बाहु"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "एल नियर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "स्वर से"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "ओकरे नियर"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "गरज सकेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:20:55.234106661Z",
+  "model": "glm-5.3"
+}

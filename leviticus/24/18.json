@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ जे पशु-नफश के मारेला, ओकर भरपाई करेला — नफश के बदला नफश।",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "आ जे मारेला"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु-"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ओकर भरपाई करेला"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदला"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफश"
+    }
+  ],
+  "timestamp": "2026-09-11T18:07:59.461778169Z",
+  "model": "glm-5.3"
+}

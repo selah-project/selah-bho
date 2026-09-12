@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 13:2",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "आ एगो आदमी रहलें जोरा के, दानी के कुनबा से, ओकर नाउ मनोह; आ ओकर औरत बाँझ रहल आ ओ जनमले ना।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "מצרעה",
+      "gloss": "जोरा के"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "कुनबा से"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "दानी"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ओकर नाउ"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मनोह"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ओकर औरत"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "बाँझ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनमले"
+    }
+  ],
+  "timestamp": "2026-09-11T19:01:09.136905856Z",
+  "model": "glm-5.3"
+}

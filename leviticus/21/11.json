@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ कवनो मरल जिया के पासो ना जाय; आपन पिता चाहे माता खातिरो ना अशुद्ध होखे।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के पास"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "जिया"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "जाय"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "आपन पिता खातिर"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "आ माता खातिरो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध होखे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:06:35.822973737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ यहोशुआ गन्दा कपड़ा पहिनले रहलें, आ ऊ फरिश्ता के आगे खड़ा रहलें।",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "आ यहोशुआ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहलें"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "पहिनले"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "कपड़ा"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "गन्दा"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "आ खड़ा रहलें"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "फरिश्ता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:39:48.731827918Z",
+  "model": "glm-5.3"
+}

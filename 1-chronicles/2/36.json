@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अत्तय के ⟨את⟩ नातन जनम भइल, आ नातन के ⟨את⟩ ज़ाबाद जनम भइल।",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "आ अत्तय"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "के जनम भइल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नातन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातन"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "आ नातन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "के जनम भइल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ज़ाबाद"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ज़ाबाद"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:06.504488357Z",
+  "model": "glm-5.3"
+}

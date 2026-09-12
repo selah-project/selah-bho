@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ सगूब ⟨את⟩ याइर के जनम दिहलन, आ ओकरा गिलाद के धरती में बाईस आ तीन — तेइस — नगर भेल।",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "आ सगूब"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याइर"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याइर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ भेल"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बाईस"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती में"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:35.196066556Z",
+  "model": "glm-5.3"
+}

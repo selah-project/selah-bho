@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 114,
+  "translation": "हे समुंदर, तोहार का भइल जे तूँ भागल? हे यर्देन, तूँ काहे पाछाँहि मुड़ गइल?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का भइल"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार"
+    },
+    {
+      "surface": "הים",
+      "gloss": "हे समुंदर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "भागल"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "हे यर्देन"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "मुड़ गइल"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "पाछाँहि"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:29.283535982Z",
+  "model": "glm-5.3"
+}

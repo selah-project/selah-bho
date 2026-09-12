@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ ऊ जबाब देवेलन आ कहेलन: “हमनी के हाथ ए ⟨את⟩ खून ना ढारलन, आ हमनी के आँखि ओकरा ना देखलन।”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "जबाब देवेलन"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "आ कहेलन"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "हमनी के हाथ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ढारलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खून"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ए"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "आ हमनी के आँखि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखलन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:39:07.512179788Z",
+  "model": "glm-5.3"
+}

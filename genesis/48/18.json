@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ योसेफ़ आपन पिता से कहलन: “ना एहन, पिता, कारण ईहें बड़ बेटा बा; रउआ आपन दहिना हाथ एकर सिर पर रखऽ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन पिता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "כן",
+      "gloss": "एहन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ईहें"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "बड़ बेटा"
+    },
+    {
+      "surface": "שים",
+      "gloss": "रखऽ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "आपन दहिना हाथ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "एकर सिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:05.778659844Z",
+  "model": "glm-5.3"
+}

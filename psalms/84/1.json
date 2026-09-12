@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 84,
+  "translation": "मुखिया खातिर, गित्तीत पर, कोरह के लरिकन के, एगो गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गित्तीत"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लरिकन के"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एगो गीत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:36.012820383Z",
+  "model": "glm-5.3"
+}

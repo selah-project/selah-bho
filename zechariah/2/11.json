@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "हो, सियोन, बच के भाग जाउ, ओ जे बेबिल के बिटिया के संग रहे वाली बानी!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "बच के भाग जाउ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "रहे वाली"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बिटिया"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बेबिल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:24:09.613949411Z",
+  "model": "glm-5.3"
+}

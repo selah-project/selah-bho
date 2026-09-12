@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "खोलहाँ लिबनोन (लेबनान), तोर दुआर, कि आगि तोर देवदारन के खा जाय।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोलहाँ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लिबनोन (लेबनान)"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "तोर दुआर"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "आ खा जाय"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगि"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "तोर देवदारन में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:39.365758290Z",
+  "model": "glm-5.3"
+}

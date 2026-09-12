@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ रउआ सभे हियार रहब, आ रउआ के हाथ ढीला ना होखत, काहेकि रउआ के काम खातिर इनाम बा।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "आ रउआ सभे"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "हियार रहब"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ... ना"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ढीला होखत"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "रउआ के हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "इनाम"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "रउआ के काम खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:07:40.617325341Z",
+  "model": "glm-5.3"
+}

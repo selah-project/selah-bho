@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "कहीं — धरमी के बिषय में कि भलाई ⟨बा⟩, काहें कि होकर काम के फल ओ खाई।",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "कहीं"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी के बिषय में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहें कि"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "होकर काम के"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाई"
+    }
+  ],
+  "timestamp": "2026-09-11T19:59:57.500431931Z",
+  "model": "glm-5.3"
+}

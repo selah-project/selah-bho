@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ बेइत-हाअरावाह आ त्सेमाराइम आ बेइत-एल।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "आ बेइत"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "हाअरावाह"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "आ त्सेमाराइम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "आ बेइत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:29.235649097Z",
+  "model": "glm-5.3"
+}

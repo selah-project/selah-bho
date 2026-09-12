@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 19:3",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ ओकर बच्चा में से एगो बड़ भऽ गइल — जुवान शेर बनल, शिकार फाड़े सीखलस, मनई खाइलस।",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "बड़ भऽ गइल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एगो"
+    },
+    {
+      "surface": "מגריה",
+      "gloss": "ओकर बच्चा में से"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "जुवान शेर"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनल"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "सीखलस"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "फाड़े"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाइलस"
+    }
+  ],
+  "timestamp": "2026-09-11T20:54:20.761163898Z",
+  "model": "glm-5.3"
+}

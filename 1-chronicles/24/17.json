@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "इक्कीसवाँ याखीन खातिर, बाईसवाँ गमूल खातिर।",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "याखीन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "गमूल खातिर"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "आ बीस"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:59.070576313Z",
+  "model": "glm-5.3"
+}

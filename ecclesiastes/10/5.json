@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "एक बुराई हम धूरिया के नीचे देखलिए — के भूल नियर, जवन शासक के सामने से निकलेला।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "बाटे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखलिए"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "धूरिया के"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "भूल नियर"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "जवन निकलेला"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "शासक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:09.089731814Z",
+  "model": "glm-5.3"
+}

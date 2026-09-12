@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ इसरायल के राजा कहिन: मीखायहू के ⟨את⟩ ले जाउ आ ओका नगर के सरदार आमोन आ राजा के बेटा योआश के ओर वापिस कर दिउ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहिन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ले जाउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मीखायहू"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "मीखायहू"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "वापिस कर दिउ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "आमोन"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ…के ओर"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:08:11.600156442Z",
+  "model": "glm-5.3"
+}

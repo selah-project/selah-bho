@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "जुट जाउ आ सुनू, याकोब के बेटा; आ सुनू आपन पिता यिसराएल के।",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "जुट जाउ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "आ सुनू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "आ सुनू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(के बात)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसराएल"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "आपन पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:49.821820925Z",
+  "model": "glm-5.3"
+}

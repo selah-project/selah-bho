@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 42,
+  "translation": "ए बहरे लोग, सुनऽ! आ ए अँधरा लोग, देखे खातिर ताकऽ!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "ए बहरे लोग"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "आ ए अँधरा लोग"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "ताकऽ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:32:41.195514903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "ओकर मुँह के बातन के सुरुआत मूर्खता बा, आ ओकर मुँह के अन्त बुरा पागलपन बा।",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "सुरुआत"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन के"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ओकर मुँह के"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "आ अन्त"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ओकर मुँह के"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "पागलपन"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:53.948692859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "चखऽ आ देखऽ कि यहवे भला बा; ओ बड़का मरद भाग्यमान बा जे ओही में शरण लेला।",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "चखऽ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "भाग्यमान"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ओ बड़का मरद"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "शरण लेला"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओही में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:21.579443492Z",
+  "model": "glm-5.3"
+}

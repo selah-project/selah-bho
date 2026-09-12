@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "आ जब राजा ⟨את⟩ तौरात के बातन के सुनलन, त ऊ ⟨את⟩ आपन कपड़ा फाड़ लिहलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ जब भल"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तौरात के बातन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन के"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तौरात"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "फाड़ लिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आपन कपड़ा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आपन कपड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:15:04.150892783Z",
+  "model": "glm-5.3"
+}

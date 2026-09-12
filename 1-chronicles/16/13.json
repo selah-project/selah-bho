@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "हे इसरायल के बियारू, ओकर सेवक, हे याकोब के लरिका, ओकर चुनल लोग!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "बियारू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायल"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ओकर सेवक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ओकर चुनल लोग"
+    }
+  ],
+  "timestamp": "2026-09-11T22:57:29.014739948Z",
+  "model": "glm-5.3"
+}

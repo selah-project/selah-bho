@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हूर ⟨את⟩ ऊरी के जनम दिहलस, आ ऊरी ⟨את⟩ बेत्सलेल के जनम दिहलस।",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "आ हूर"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊरी"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ऊरी"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "आ ऊरी"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जनम दिहलस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेत्सलेल"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "बेत्सलेल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:52:12.466520173Z",
+  "model": "glm-5.3"
+}

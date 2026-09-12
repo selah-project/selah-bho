@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "तूँ ⟨את⟩ पसह के बधे के नइखे सकऽ, अपना दुआरन में से कवनो एक में, जवन यहवे तोर एलोहीम तोहार के देवेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "सकऽ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "बधे के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पसह"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसह"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "कवनो एक में"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "अपना दुआरन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोर एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोहार के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:37:52.843480434Z",
+  "model": "glm-5.3"
+}

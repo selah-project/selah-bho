@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 109,
+  "translation": "काहेकि दुष्ट के मुँह आ छल के मुँह हमरे ऊपर खोलले बाड़ें; ⟨את⟩ हमसे झूठ के जीभ से बोलले।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट के"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "आ मुँह"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल के"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "हमरे ऊपर"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "खोलले बाड़ें"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोलले"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमसे"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:31.303394782Z",
+  "model": "glm-5.3"
+}

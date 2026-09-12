@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "हमनी का आपन रस्तन के जाँच करे ता आ छान करे ता आ यहवे के ओर लौट जाए ता।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "जाँच करे ता"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "आपन रस्तन के"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "आ छान करे ता"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "आ लौट जाए ता"
+    },
+    {
+      "surface": "עד",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.231957725Z",
+  "model": "glm-5.3"
+}

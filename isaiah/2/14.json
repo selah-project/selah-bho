@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ सबहन ऊँच पहाड़न के ऊपर, आ सबहन उठावल टीलन के ऊपर।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबहन"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़न"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ऊँच"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबहन"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "टीलन"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "उठावल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:58:52.277020713Z",
+  "model": "glm-5.3"
+}

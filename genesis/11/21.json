@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ रेऊ जियलन, ⟨את⟩ सरूग के जनम देले के बाद सात आ दू सौ बरिस, आ लइका-लइकी के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "आ जियलन"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेऊ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जनम देले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सरूग"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "सरूग"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "आ दू सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "आ जनम दिहलन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "लइका"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "आ लइकी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:17:18.775538690Z",
+  "model": "glm-5.3"
+}

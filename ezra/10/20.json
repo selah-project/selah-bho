@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "आ इम्मेर के बेटान में से: हनानी आ जेबद्याह।",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "आ … के बेटान में से"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हनानी"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "आ जेबद्याह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:44:38.872089309Z",
+  "model": "glm-5.3"
+}

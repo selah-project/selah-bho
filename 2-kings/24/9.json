@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ ऊ यहवे के नींह में बुराई कइलन, ओहुन सब चीज जवन ओकर पिता कइले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "आ कइलन"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "के नींह में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ओहुन सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कइले"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ओकर पिता"
+    }
+  ],
+  "timestamp": "2026-09-11T23:31:14.741040863Z",
+  "model": "glm-5.3"
+}

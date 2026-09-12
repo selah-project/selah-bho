@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "बुद्धि के रास्ता से भटकल आदमी रेफाइम के सभा में आराम करेला (मुर्दा सभा में)।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "भटकल"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "रास्ता से"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "बुद्धि के"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभा में"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइम के"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "आराम करेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:02.483812911Z",
+  "model": "glm-5.3"
+}

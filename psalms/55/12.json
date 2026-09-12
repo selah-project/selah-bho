@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 55,
+  "translation": "बरबादी ओकर भीतर ⟨बा⟩, आ ओकर चौराहा से दबाव आ धोखा ना हटेला।",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "बरबादी"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ओकर भीतर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "हटेला"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "ओकर चौराहा से"
+    },
+    {
+      "surface": "תך",
+      "gloss": "दबाव"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "आ धोखा"
+    }
+  ],
+  "timestamp": "2026-09-11T21:39:56.837737152Z",
+  "model": "glm-5.3"
+}

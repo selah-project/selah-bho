@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "अहरोन वेदी के लगे गइलन, आ ⟨את⟩ परजा के ओ पोड़ा के हत्या कइलन जवन ओकर खातिर पाप-बलि रहे।",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "लगे गइलन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "हत्या कइलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पोड़ा के"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "पोड़ा"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पाप-बलि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकर खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T18:00:27.889631422Z",
+  "model": "glm-5.3"
+}

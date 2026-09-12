@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "का कि एहने कहलन यहवे: काँपै के आवाज हमनी का सुनली बा — डर, आ शांति नइखे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "का कि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "काँपै के"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "हमनी का सुनली"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "डर"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ ... नइखे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांति"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:51.889711578Z",
+  "model": "glm-5.3"
+}

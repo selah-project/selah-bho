@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ ऊ ⟨את⟩ ओकर नाँव योसेफ रखली, कहत: यहवे हमका आउरितो एगो बेटा देहें।",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "रखली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर नाँव"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ओकर नाँव"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "देहें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "आउरितो एगो"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:22.568766467Z",
+  "model": "glm-5.3"
+}

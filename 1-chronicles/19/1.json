@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ एकरे बाद भऽ, कि नाखश, बनी अम्मोन के राजा, मर गइलन, आ ओकर बेटा ओकर जगह राजा भइलन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भऽ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "एकरे बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "आ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर गइलन"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाखश"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राजा भइलन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ओकर जगह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:20.940216676Z",
+  "model": "glm-5.3"
+}

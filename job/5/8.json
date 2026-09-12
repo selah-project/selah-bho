@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "बाकिर हम एल के खोजब आ एलोहीम के आगे हमनी के बात रखब।",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "खोजब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ … के आगे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "रखब"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "हमनी के बात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:11:26.947200776Z",
+  "model": "glm-5.3"
+}

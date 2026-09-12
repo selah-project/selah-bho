@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "ई बात भी बुद्धिमान लोगन खातिर बा — मुकदमा में मुह देख के फैसला करना नीक ना बा।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई बात"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "बुद्धिमान लोगन खातिर"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "देख के पहिचानल"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "मुकदमा में"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:38.643157764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "घमंडी, अकड़ू — मजाक उड़ाए वाला एकर नाँव बा, जउन घमंड के रोश में काम करेला।",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "घमंडी"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "अकड़ू"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "मजाक उड़ाए वाला"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "एकर नाँव"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "काम करेला"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "रोश में"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "घमंड के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:41.306300263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ओकर बाद गब्बय, सल्लय — नौ सौ बीस आ अठा।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "आ ओकर बाद"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "गब्बय"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "सल्लय"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ अठा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:50:03.315981530Z",
+  "model": "glm-5.3"
+}

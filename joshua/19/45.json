@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "आ यिहुद, आ बनी-बेरक, आ गत-रिम्मोन।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "आ यिहुद"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ बनी"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "बेरक"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "आ गत"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:53:48.776670618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ त्सोर आपन खातिर गढ़ बनवलस, चाँदी के धूलि नियर जमोलस आ सोना गली के कीचड़ नियर।",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "आ ... बनवलस"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "गढ़"
+    },
+    {
+      "surface": "לה",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "आ जमोलस"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "धूलि नियर"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "आ सोना"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "कीचड़ नियर"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गली के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:25:14.732178293Z",
+  "model": "glm-5.3"
+}

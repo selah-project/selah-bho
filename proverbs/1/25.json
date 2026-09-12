@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ रउआ सभे मोर सलाह के सब त्याग कइले, आ मोर फटकार के ना मानले।",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "त्याग कइले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "मोर सलाह"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "आ मोर फटकार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "मानले"
+    }
+  ],
+  "timestamp": "2026-09-11T21:59:45.920735238Z",
+  "model": "glm-5.3"
+}

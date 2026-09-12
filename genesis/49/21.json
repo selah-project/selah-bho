@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 49,
+  "translation": "नाफ्ताली मुकइल हिरनी बाड़ी — ऊ सुंदर बात देवए वाली।",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "हिरनी"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "मुकइल"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "देवए वाली"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "सुंदर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:36:36.752278014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "काहे कि रसे में खुसी करे वाला एल तूँ नइखस; बुराई तोहार संग बसेले ना।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "खुसी करे वाला"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "रसे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "तोहार संग बसेले"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:01.158544526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "इसरायेल के बेटा सभ रामसेस से कूच कइलन आ सुक्कोत में डेरा डाललन।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "कूच कइलन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटा सभ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसरायेल"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "रामसेस से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा डाललन"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "सुक्कोत में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:27:44.187282749Z",
+  "model": "glm-5.3"
+}

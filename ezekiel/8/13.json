@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ऊ हम से कहलन, “फेर लवा — तू ओकरा से बड़ी तोआवन देखबू, जवन ई लोग करत बाड़ें।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लवा"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देखबू"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "तोआवन"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ई लोग"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "करत बाड़ें"
+    }
+  ],
+  "timestamp": "2026-09-11T20:50:41.970605987Z",
+  "model": "glm-5.3"
+}

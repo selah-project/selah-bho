@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "धरमी के मुँह समझदारी उगावेला, आ उलट-सीध जीभ काट दिहल जाल।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "के मुँह"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "उगावेला"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "समझदारी"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "आ जीभ"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "उलट-सीध"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "काट दिहल जाल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:17.440552731Z",
+  "model": "glm-5.3"
+}

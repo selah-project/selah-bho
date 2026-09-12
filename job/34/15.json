@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "त सब देह एक साथ दम तोड़ देहे, आ मनुष्य धूरि में फिर जाए।",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "दम तोड़ देहे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एक साथ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "आ मनुष्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूरि"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फिर जाए"
+    }
+  ],
+  "timestamp": "2026-09-11T22:19:51.081806436Z",
+  "model": "glm-5.3"
+}

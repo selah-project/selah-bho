@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 98,
+  "translation": "नदी सभे ताली बजावें, पहाड़ सभे एकसाथ खुशी से गावें।",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "नदी सभे"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ताली बजावें"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली (ताली)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ सभे"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "खुशी से गावें"
+    }
+  ],
+  "timestamp": "2026-09-11T21:49:28.503394339Z",
+  "model": "glm-5.3"
+}

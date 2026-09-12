@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "धर्मिकता आ न्याय से मोहित — यहवे के हेसेद से धरती भरल बा।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "मोहित"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धर्मिकता"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "आ न्याय"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरल बा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:18.342123852Z",
+  "model": "glm-5.3"
+}

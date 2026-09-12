@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "छह गो चीज यहवे से घिन करावेला आ सात गो ओकर नफ्फस के घिनौना बाड़ी सन।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "छह गो चीज"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ई सभे"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "घिन करावेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ सात गो"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "घिनौना बात"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ओकर नफ्फस के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:00.227589498Z",
+  "model": "glm-5.3"
+}

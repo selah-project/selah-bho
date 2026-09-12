@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "बेइन्साफी के खजाना कामे ना आवेला, बाकिर दाइती मउत से बचावेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "कामे आवेला"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "खजाना"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बेइन्साफी"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आ दाइती"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "बचावेला"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मउत से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:03.599126790Z",
+  "model": "glm-5.3"
+}

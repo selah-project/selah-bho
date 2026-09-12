@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ जउँ ऊ दू बेर हजार बरिस जियता आ भलाई ना देखलन — का सभे एकही जगह के ना जालें?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "आ जउँ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "जियता"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "दू बेर"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "आ भलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखलन"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का ... के ना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एकही"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सभे"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जालें"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:50.759803840Z",
+  "model": "glm-5.3"
+}

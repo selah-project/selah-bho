@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 23:32",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "एल्याहबा शाल्बोनी; याशेन के बेटासभे — यहोनातान।",
+  "tokens": [
+    {
+      "surface": "אליחבא",
+      "gloss": "एल्याहबा"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "शाल्बोनी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटासभे"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "याशेन"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:55.921647629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ आदमी झुक गइल, आ मनुख नीच भऽ गइल — एही कारण ऊ लोगन के क्षमा मत करऽ।",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "आ झुक गइल"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "आ नीच भऽ गइल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुख"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "क्षमा करऽ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ऊ लोगन के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:58:25.442363849Z",
+  "model": "glm-5.3"
+}

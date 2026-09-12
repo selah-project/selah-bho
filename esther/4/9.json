@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ हतक आइल आ एस्तेर के मार्दाखय के बातन के ⟨את⟩ बतावलन।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हतक"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतावलन"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "एस्तेर के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बातन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातन"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्दाखय के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:58:06.548509010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "गज्जाम के लइका, उज्जा के लइका, पासेयाह के लइका।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "गज्जाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्जा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पासेयाह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.414482325Z",
+  "model": "glm-5.3"
+}

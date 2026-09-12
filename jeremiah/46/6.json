@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 46,
+  "translation": "फुर्तीला मनई भागे ना, बलवान बचे ना; उत्तर दिसा में फरात नदी के किनारे ऊ लोग लड़खड़ाइल आ गिर गइल।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भागे"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "फुर्तीला मनई"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "बचे"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "उत्तर दिसा में"
+    },
+    {
+      "surface": "על",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "יד",
+      "gloss": "बगल"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फरात"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "लड़खड़ाइल"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "आ गिर गइल"
+    }
+  ],
+  "timestamp": "2026-09-11T20:41:04.863887656Z",
+  "model": "glm-5.3"
+}

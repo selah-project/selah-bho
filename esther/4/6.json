@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ हताख मोर्दिख़ाई के पास निकललन, नगर के चौक में, जे राजा के द्वार के सामने रहल।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "आ निकललन"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हताख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मोर्दिख़ाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "चौक"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "שער",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:33:25.872383422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "आ अइसन होखी — जब हम धरती के ऊपर बादल लिआवली, तऽ कमान बादल में देखाई पड़ी।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ अइसन होखी"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "जब हम लिआवली"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "तऽ देखाई पड़ी"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "कमान"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादल में"
+    }
+  ],
+  "timestamp": "2026-09-11T17:16:21.409197675Z",
+  "model": "glm-5.3"
+}

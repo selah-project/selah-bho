@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "याला के लइका, दारकोन के लइका, गिद्देल के लइका।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "याला"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "दारकोन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के लइका"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "गिद्देल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:40.144976651Z",
+  "model": "glm-5.3"
+}

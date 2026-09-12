@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "मोरा ⟨את⟩ ऊ बढ़ावले आ अँधियार में घसीटलन, उजियार में ना।",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "मोरा ⟨את⟩",
+      "marks": "ऊ बढ़ावले (मोरा)"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "बढ़ावले"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "घसीटलन"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँधियार में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उजियार में"
+    }
+  ],
+  "timestamp": "2026-09-11T22:26:39.621074909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "काहे कि अब रउआ सभे ⟨एकदम⟩ ना रह गए; रउआ दहशत के देखले बानी आ डर गए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "रह गए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "देखले बानी"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "दहशत"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "डर गए"
+    }
+  ],
+  "timestamp": "2026-09-11T22:10:37.298801850Z",
+  "model": "glm-5.3"
+}

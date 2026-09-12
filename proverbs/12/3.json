@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "बेइनसाफी से मनखे टिक ना पावेला, बाकिर धरमी लोगन के जड़ा कबो ना डोलेला।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "टिक पावेला"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनखे"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "बेइनसाफी से"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "बाकिर जड़ा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धरमी लोगन के"
+    },
+    {
+      "surface": "בל",
+      "gloss": "कबो"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ना डोलेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:51.001610113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 22:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ एह बात सभ के बाद अवराहाम के बतावल गइल: “देखऽ, मिलकाहो बेटा जनले रउआ के भाई नाहोर के।”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बात सभ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "एह"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतावल गइल"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "अवराहाम के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहऽ के"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जनले"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "मिलकाह"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ओहो"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "नाहोर के"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "रउआ के भाई"
+    }
+  ],
+  "timestamp": "2026-09-11T23:16:55.880969251Z",
+  "model": "glm-5.3"
+}

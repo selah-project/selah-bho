@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ हम संदेशवाहन भेजलियन केदेमोत के जंगल से सीहोन खसबोन के राजा के ओर, शान्ति के बात कहिते —",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "आ हम संदेशवाहन भेजलियन"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "संदेशवाहन"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "जंगल से"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "केदेमोत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "सीहोन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "खसबोन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहिते"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:21.252558723Z",
+  "model": "glm-5.3"
+}

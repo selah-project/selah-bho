@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "काबर कि ऊ योबेल बा — पबितर रही रउआ खातिर; खेत से रउआ ओकर उपज ⟨את⟩ खाब।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काबर कि"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "योबेल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबितर"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "रही"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ खातिर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "रउआ खाब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओकर उपज"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ओकर उपज"
+    }
+  ],
+  "timestamp": "2026-09-11T18:09:07.251922305Z",
+  "model": "glm-5.3"
+}

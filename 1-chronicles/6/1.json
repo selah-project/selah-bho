@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "लेवी के बेटा गेरशोम, केहात आ मरारी रहलें।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेरशोम"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "आ मरारी"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:28.126099921Z",
+  "model": "glm-5.3"
+}

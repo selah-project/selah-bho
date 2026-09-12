@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 13,
+  "translation": "तऽ ऊ दूसर रस्ता से चलल गइल, आ ओह रस्ता से फेर ना लवटल जेह रस्ता से ऊ बेइत एल में आइल रहल।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चलल गइल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता से"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फेर लवटल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रस्ता से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेह"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओहि में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:41:02.019427659Z",
+  "model": "glm-5.3"
+}

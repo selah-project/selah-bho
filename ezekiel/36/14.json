@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 36:14",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "एही से रउआ आगू मनुष्य के ना खाबऽ, आ आपन जातिन के आगू ना गिराबऽ — अदोनाय यहवे के वचन।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "एही से"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "खाबऽ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "आ आपन जातिन के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תכשלי",
+      "gloss": "गिराबऽ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगू"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:26.949481068Z",
+  "model": "glm-5.3"
+}

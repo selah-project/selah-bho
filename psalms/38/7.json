@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 38,
+  "translation": "हम टेढ़ा भइनी, बहुते झुक गइनी; दिन भर हम शोक मनावत टुरलीं।",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "हम टेढ़ा भइनी"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "झुक गइनी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    },
+    {
+      "surface": "כל",
+      "gloss": "भर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "शोक मनावत"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "हम टुरलीं"
+    }
+  ],
+  "timestamp": "2026-09-11T21:36:48.391146029Z",
+  "model": "glm-5.3"
+}

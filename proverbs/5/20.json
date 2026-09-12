@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ काहें, हमार लइका, तूँ पराई औरत में भटकत बानी, आ कुनरही के गोद लपेटेला?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "आ काहें"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "भटकत बानी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हमार लइका"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "पराई औरत में"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "आ … लपेटेला"
+    },
+    {
+      "surface": "חק",
+      "gloss": "गोद"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "कुनरही के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:30.872534933Z",
+  "model": "glm-5.3"
+}

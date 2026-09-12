@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "पहिला दिन पबितर बेठक होखे; कवनो सेवा-काम रउआ सभे ना करब।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "(पहिला) दिन"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिला"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "बेठक"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पबितर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कवनो (सब)"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-काम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "रउआ सभे करब"
+    }
+  ],
+  "timestamp": "2026-09-11T18:24:32.898992006Z",
+  "model": "glm-5.3"
+}

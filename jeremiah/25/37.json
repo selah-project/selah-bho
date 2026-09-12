@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "आ सुख-चारागाह सुन्न हो गइलें यहवे के गुस्सा के भड़काव के आगू से।",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "आ सुन्न हो गइलें"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "चारागाह"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "सुख के"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के आगू से"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "भड़काव"
+    },
+    {
+      "surface": "אף",
+      "gloss": "गुस्सा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T20:31:30.758619572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ ऊ कहलनस, “तूँ का कइलऽ? तोहार भाई के खून के आवाज हमरा ओर धरती से चीख रहल बा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलनस"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "खून"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तोहार भाई के"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "चीख रहल बा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरा ओर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:34.897049334Z",
+  "model": "glm-5.3"
+}

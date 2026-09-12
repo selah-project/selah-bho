@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "पत्थर फेंकवले के समय, आ पत्थर जुटावे के समय; गले लगावे के समय, आ गले लगावे से दूर रहे के समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फेंकवले के"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "जुटावे के"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "गले लगावे के"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "आ समय"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "दूर रहे के"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "गले लगावे से"
+    }
+  ],
+  "timestamp": "2026-09-11T22:28:40.907409269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "⟨जब⟩ कवनो धरमी आपन धरमीपन से फेरेला आ अन्याय करेला, त ऊ ओही में मरी जाई।",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "⟨जब⟩ फेरेला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धरमी"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "आपन धरमीपन से"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "आ करेला"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "त मरी जाई"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ओही में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:00:50.218771305Z",
+  "model": "glm-5.3"
+}

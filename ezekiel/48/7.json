@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 48,
+  "translation": "आ रउबेन के सीमा के ऊपर, पूरुब के किनारा से ले के पछिम के किनारा ले, यहूदा खातिर एक हिस्सा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "आ … के ऊपर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउबेन"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "के किनारा से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूरुब"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले के … ले"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पछिम"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-09-11T21:07:40.632766757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ ऊ धन बुरा मेहनत में बरबाद हो जाला, आ ऊ लरिका जनम देला, आ ओकर हाथ में कुछो नइखे।",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "बरबाद हो जाला"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ऊ धन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "मेहनत में"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "जनम देला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "लरिका"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "आ नइखे"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ओकर हाथ में"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछो"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:09.462265401Z",
+  "model": "glm-5.3"
+}

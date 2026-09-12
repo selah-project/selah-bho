@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "अनातोत के आदमी सौ बीस आ आठ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के आदमी"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आ आठ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:48:25.201173848Z",
+  "model": "glm-5.3"
+}

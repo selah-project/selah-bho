@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "जउन अन्याय बोएला ऊ बिगाड़ के काटेला, आ ओकर क्रोध के डंडा नष्ट हो जाई।",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "बोएला"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "काटेला"
+    },
+    {
+      "surface": "און",
+      "gloss": "बिगाड़"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "आ डंडा"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ओकर क्रोध के"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "नष्ट हो जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:49.573390462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ होखे कि जब तूँ ओ धरती में आबब जौन यहवे तोर एलोहीम तोरा विरासत में देवेला, आ तूँ ओकरा बस लेब आ ओकरा में रहब।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "आ होखे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "तूँ आबब"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओ धरती"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जौन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तोर एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देवेला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "विरासत में"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "आ ओकरा बस लेब"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "आ रहब"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ओकरा में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:25.835796616Z",
+  "model": "glm-5.3"
+}

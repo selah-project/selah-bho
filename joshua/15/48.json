@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ पहाड़ में: शमीर, आ यत्तीर, आ सोकोह।",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "आ पहाड़ में"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "शमीर"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "आ यत्तीर"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "आ सोकोह"
+    }
+  ],
+  "timestamp": "2026-09-11T18:52:21.544782109Z",
+  "model": "glm-5.3"
+}

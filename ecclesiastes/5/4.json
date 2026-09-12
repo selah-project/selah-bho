@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "एकरा से बढ़िया ई बा कि रउआ नेदर ना करऽ, नेदर क के फेर पूरा ना करे से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़िया"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ई कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "नेदर करऽ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "नेदर क के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "पूरा करे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:29:46.587415282Z",
+  "model": "glm-5.3"
+}

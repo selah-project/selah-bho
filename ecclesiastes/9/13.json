@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 9,
+  "translation": "एहो हम देखले बानी चतुराई के, सूर्य के नीचे; आ ऊ हमार निहात बड़ लागल।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "एहो"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "हम देखले बानी"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "चतुराई के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य के"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "आ बड़"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमार निहात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:28.351512639Z",
+  "model": "glm-5.3"
+}

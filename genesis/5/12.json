@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 5,
+  "translation": "आ केनान सत्तर बरिस जिइलन, आ ⟨את⟩ महललेल के जनम दिहलन।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिइलन"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "बरिस"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जनम दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महललेल"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललेल"
+    }
+  ],
+  "timestamp": "2026-09-11T17:13:47.881822486Z",
+  "model": "glm-5.3"
+}

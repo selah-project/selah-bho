@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "आ याकोब राहेल के बतावलन कि ऊ ओकर बाप के भाई बा, आ कि ऊ रिबका के बेटा बा; तब ऊ दौरली आ आपन बाप के बतावली।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "आ बतावलन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "राहेल के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ओकर बाप के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "आ कि"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "रिबका"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बा"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "दौरली"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "बतावली"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "आपन बाप के"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:17.252242489Z",
+  "model": "glm-5.3"
+}

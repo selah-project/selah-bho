@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "रिश्वत ⟨बा⟩ ओकर मालिक के आँखन में अनोखा पत्थर; जिधरहू ऊ मुड़ेला, ओकर बिछई सफल होखेला।",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनोखा (मोहक)"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "रिश्वत"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखन में"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ओकर मालिक के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ओर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "मुड़ेला"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "सफल होखेला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:04:29.130197514Z",
+  "model": "glm-5.3"
+}

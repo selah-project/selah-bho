@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "देखऽ, हम रउआ सभे के ओर नबी एलियाह के ⟨את⟩ पठाब, यहवे के ओ बड़ आ डरावना दिन के आवे से पहिले।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठाब"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे के ओर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नबी एलियाह के"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "एलियाह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "से पहिले"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "आ डरावना"
+    }
+  ],
+  "timestamp": "2026-09-11T21:28:00.099956763Z",
+  "model": "glm-5.3"
+}

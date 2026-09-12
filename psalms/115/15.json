@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 115,
+  "translation": "रउआ सभे यहवे से बरकत वाला बानी — ⟨ऊ⟩ जे अकास आ धरती बनावेलन।",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "बरकत वाला"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "रउआ सभे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनावेलन"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आ धरती"
+    }
+  ],
+  "timestamp": "2026-09-11T21:52:57.698215937Z",
+  "model": "glm-5.3"
+}

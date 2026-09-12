@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "बाकिर ओकर मुँड़ा के बाल, जइसन ओ मुँड़वाइल गइल रहे, फेर से बढ़े लागलें।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "लागल"
+    },
+    {
+      "surface": "שער",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ओकर मुँड़ा के"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "बढ़े"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "मुँड़वाइल गइल रहे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:03:22.922394011Z",
+  "model": "glm-5.3"
+}

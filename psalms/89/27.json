@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "ऊ हमरा पुकारेला: “तूँ हमार पिता बऽ, हमार एल आ हमार बचाव के चट्टान।”",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "हमरा पुकारेला"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "हमार पिता"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तूँ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमार एल"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "आ चट्टान"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "हमार बचाव के"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:22.345568536Z",
+  "model": "glm-5.3"
+}

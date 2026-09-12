@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "श्रापित होवे ऊ जे बेरूल लेकेला निर्दोष खून के जान मारे खातिर; आ पूरा जनता कहेला — आमीन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "श्रापित होवे"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेकेला"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "बेरूल"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "मारे खातिर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जान"
+    },
+    {
+      "surface": "דם",
+      "gloss": "खून"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निर्दोश"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमीन"
+    }
+  ],
+  "timestamp": "2026-09-11T18:42:24.309391805Z",
+  "model": "glm-5.3"
+}

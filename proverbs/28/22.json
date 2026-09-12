@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "धन के खातिर घबरायल मनुका बुरी आँख वाला होखेला, आ ऊ ना जानेला कि कंगाली ओकरा पर आ जाई।",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "घबरायल"
+    },
+    {
+      "surface": "להון",
+      "gloss": "धन के खातिर"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुका"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख वाला"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेला"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "कंगाली"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "आ जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:15.563057239Z",
+  "model": "glm-5.3"
+}

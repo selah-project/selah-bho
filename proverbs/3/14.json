@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "काहे कि ओकर बेपार चाँदी के बेपार से बेसी बा, आ ओकर कमाई सुद्ध सोना से।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बेसी (नीक) बा"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "ओकर बेपार"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "बेपार"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी के"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "आ सुद्ध सोना से"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ओकर कमाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:11.186176165Z",
+  "model": "glm-5.3"
+}

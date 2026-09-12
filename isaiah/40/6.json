@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 40,
+  "translation": "कवनो आवाज ⟨कहेले⟩ — पुकारऽ! आ ऊ कहलन — हम का पुकारीं? सारा देह घास ह, आ ओकर सगरी हेसेद खेत के फूल नियर बा।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेले"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "पुकारऽ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ ... कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "हम पुकारीं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "देह"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घास"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "आ सगरी"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "फूल नियर"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-09-11T20:12:30.693004702Z",
+  "model": "glm-5.3"
+}

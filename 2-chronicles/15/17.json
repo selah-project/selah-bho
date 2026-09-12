@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ ऊँचा पूजा-थान (बामोत) इस्राएल से हटेनई बाकिर असा के हिया ओकर सगरी दिन भर पूरा रहल।",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "आ ऊँचा पूजा-थान (बामोत)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "हटेनई"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इस्राएल से"
+    },
+    {
+      "surface": "רק",
+      "gloss": "बाकिर"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हिया"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "असा के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहल"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सगरी"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ओकर दिन भर"
+    }
+  ],
+  "timestamp": "2026-09-11T23:06:43.589070749Z",
+  "model": "glm-5.3"
+}

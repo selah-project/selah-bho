@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ दाविद गाद के बात के माने चढ़ गइल, जवन ऊ यहवे के नाँव में कहले रहलें।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "आ चढ़ गइल"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "बात के माने"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहले रहलें"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाँव में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:46.639897245Z",
+  "model": "glm-5.3"
+}

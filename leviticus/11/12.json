@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "जेकरा पानी में पंखड़ी आ खपरैल नइखे, ऊ रउआ सभे खातिर घिनावन बा।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जेकरा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पंखड़ी"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "आ खपरैल"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानी में"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घिनावन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ बा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभे खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:59:52.575010606Z",
+  "model": "glm-5.3"
+}

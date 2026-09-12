@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "राजा शलोमो लेबानोन के गाछन से आपन खातिर पालकी बनवलन।",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "पालकी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "गाछन से"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "लेबानोन के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:22:36.929448512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 15,
+  "translation": "आ यहवे मूसा से कहलन, के कहऽ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूसा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "के कहऽ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:14.229905432Z",
+  "model": "glm-5.3"
+}

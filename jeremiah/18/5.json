@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ यहवे के बचा हमरे लग आइल, कहेला खातिर:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ … आइल"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बचा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "हमरे लग"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "कहेला खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T20:30:11.786144681Z",
+  "model": "glm-5.3"
+}

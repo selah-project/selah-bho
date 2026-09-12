@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 17:19",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ उननी के ओताहे मिलन-तम्बू में रखब, गवाही के सामने, जहाँ हम रउआ सभ से मिलब आवऽ।",
+  "tokens": [
+    {
+      "surface": "והנחתם",
+      "gloss": "आ रखब"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन-"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "मिलब आवऽ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "रउआ सभ से"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ओताहे"
+    }
+  ],
+  "timestamp": "2026-09-11T18:19:35.430443740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "साल में तीन बेर तोहार सब नर यहवे मालिक के आमने परत होखेलन।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन बेर"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "साल में"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "परत होखेलन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "तोहार नर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के आमने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आमने"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "मालिक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:47:00.017168798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 27,
+  "translation": "तोहार खातिर हमार मन कहल: ओकर मुह खोजऽ; ⟨את⟩ तोहार मुह, हे यहवे, हम खोजब।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "तोहार खातिर"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "हमार मन"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोजऽ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मुह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तोहार मुह"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तोहार मुह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "खोजब"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:30.876037226Z",
+  "model": "glm-5.3"
+}

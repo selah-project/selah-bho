@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "ई सब नबुकदनेत्सर राजा के ऊपर पहुँचल।",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ई सब"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "पहुँचल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "नबुकदनेत्सर"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:36:52.057760882Z",
+  "model": "glm-5.3"
+}

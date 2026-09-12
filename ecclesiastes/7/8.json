@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "कवनो बात के अंत ओकर सुरुआत से नीक बा; धीरज वाला मन ऊँच घमंड वाला मन से नीक बा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "अंत"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कवनो बात के"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "ओकर सुरुआत से"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "नीक"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "धीरज वाला"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ऊँच घमंड वाला … से"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "मन"
+    }
+  ],
+  "timestamp": "2026-09-11T22:30:24.406625606Z",
+  "model": "glm-5.3"
+}

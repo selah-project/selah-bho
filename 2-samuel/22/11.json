@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "आ ऊ करूब पर सवार भइलन आ उड़लन, आ ऊ हवा के पँख पर दिखालन।",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "सवार भइलन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "उड़लन"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "दिखालन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "पँख"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा के"
+    }
+  ],
+  "timestamp": "2026-09-11T19:28:57.946762040Z",
+  "model": "glm-5.3"
+}

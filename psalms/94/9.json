@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 94,
+  "translation": "जवन ⟨हे⟩ कान रोपेला, का ऊ ना सुनी? जवन आँखि गढ़ेला, का ऊ ना देखी?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "रोपेला"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का ना"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "गढ़ेला"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँखि"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का ना"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "देखी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:02.464493765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "आ बिल्हा — राहेल के दासी — फेर गर्भवती भइली आ याकोब खातिर दुसरा बेटा के जनम दिहली।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भइली"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जनम दिहली"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुसरा"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोब खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T17:25:47.466070114Z",
+  "model": "glm-5.3"
+}

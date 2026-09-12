@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ यहवे एगो बड़ मछरी मिलाइलन योना के निगले खातिर, आ योना ⟨את⟩ ओ मछरी के पेट में तीन दिन आ तीन रात रहलन।",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "मिलाइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דג",
+      "gloss": "मछरी"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "निगले खातिर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योना"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ रहलन"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "पेट में"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ओ मछरी के"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "आ तीन"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "रात"
+    }
+  ],
+  "timestamp": "2026-09-11T21:18:05.301377089Z",
+  "model": "glm-5.3"
+}

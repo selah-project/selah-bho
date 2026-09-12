@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 34,
+  "translation": "बुराई दुष्ट के मार देले, आ धर्मी के द्वेष करे वाला दोषी होखी।",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "मार देले"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "आ द्वेष करे वाला"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "दोषी होखी"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:07.619294573Z",
+  "model": "glm-5.3"
+}

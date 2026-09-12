@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "काहेकि एहने यहवे कहेलें: तोहार घाव असाध्य बा, तोहार चोट कराह वाली बा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "काहेकि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "एहने"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेलें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "असाध्य"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "तोहार घाव"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "कराह वाली"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "तोहार चोट"
+    }
+  ],
+  "timestamp": "2026-09-11T20:34:16.116243621Z",
+  "model": "glm-5.3"
+}

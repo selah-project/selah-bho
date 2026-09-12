@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "आ ऊ जगह के नाँव ओकरा तबएरा (जराव) धरावल गइल, काहे कि यहवे के आगी ऊ लोग में भड़कल रहल।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "धरावल गइल"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाँव"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ऊ जगह के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "तबएरा (जराव)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "भड़कल रहल"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ऊ लोग में"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-09-11T18:16:11.139757026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 3:14",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ ऊ ⟨את⟩ पर्दा बनवलन — नीला अरगवानी लाल कर्मिल आ महीन सनी के; आ ओकरा पर करूबिम चढ़वलन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीला"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "अरगवानी"
+    },
+    {
+      "surface": "וכרמיל",
+      "gloss": "लाल कर्मिल"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "महीन सनी के"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढ़वलन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ओकरा पर"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करूबिम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:02:59.950923992Z",
+  "model": "glm-5.3"
+}

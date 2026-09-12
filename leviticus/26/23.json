@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 26,
+  "translation": "आ अगर ए सब बात से रउआ हमार द्वारा ताड़ना ना पावब, आ हमार साथे विरोध में चलब।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "ए सब बात से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "ताड़ना पावब"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमार द्वारा"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "चलब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमार साथे"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "विरोध में"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:01.430036787Z",
+  "model": "glm-5.3"
+}

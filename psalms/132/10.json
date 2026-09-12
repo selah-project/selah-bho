@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 132,
+  "translation": "रउआ के सेवक दाऊद के खातिर रउआ के माशीअख के चेहरा मत फेरबू।",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "खातिर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "रउआ के सेवक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "फेरबू"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरा"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "रउआ के माशीअख"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:41.678793004Z",
+  "model": "glm-5.3"
+}

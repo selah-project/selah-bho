@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "एलोहीम धर्मी न्यायाधीश बा, आ एल हर दिन क्रोधित रहेला।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "न्यायाधीश"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "आ एल"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "क्रोधित रहेला"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-09-11T21:27:36.641419646Z",
+  "model": "glm-5.3"
+}

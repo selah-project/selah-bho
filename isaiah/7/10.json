@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ यहवे फेर से आखाज से बात कइलन, कहलन —",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "फेर से ... कइलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात कइलन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आखाज"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहलन"
+    }
+  ],
+  "timestamp": "2026-09-11T20:00:37.707507727Z",
+  "model": "glm-5.3"
+}

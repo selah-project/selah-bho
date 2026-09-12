@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ई सब बात, जवन हम आज रउआ के हुकुम देत बानी, ऊ रउआ के दिल पर रहे।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "आ ऊ रहे"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ई सब बात"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जवन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "रउआ के हुकुम देत बानी"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "रउआ के दिल"
+    }
+  ],
+  "timestamp": "2026-09-11T18:30:56.555111853Z",
+  "model": "glm-5.3"
+}

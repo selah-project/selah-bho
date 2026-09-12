@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ ओहि नगर के नामो हमोना (भीड़) रही। तहें से ऊ ओहि धरती के शुद्ध कर लेत।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "आ ... पन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "हमोना (भीड़)"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "शुद्ध कर लेत"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ओहि धरती के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:02:57.025763880Z",
+  "model": "glm-5.3"
+}

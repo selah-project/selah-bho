@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 83,
+  "translation": "गेबाल, आ अम्मोन, आ अमालेक; पलिश्ती लोग सोर के रहईया सभ के संग।",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "गेबाल"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "आ अम्मोन"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "आ अमालेक"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "पलिश्ती लोग"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "रहईया सभ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "सोर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:45:43.961298420Z",
+  "model": "glm-5.3"
+}

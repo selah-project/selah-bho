@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ शमुएल के बेटा: पहिला-जन्मल बास्नी, आ अबिया।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "पहिला-जन्मल"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "बास्नी"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "आ अबिया"
+    }
+  ],
+  "timestamp": "2026-09-11T22:53:58.999689237Z",
+  "model": "glm-5.3"
+}

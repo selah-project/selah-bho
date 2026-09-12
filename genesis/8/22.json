@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "जबतक धरती रहेला, ओकर सारा दिन ले बिजारो आ कटनी, ठंडा आ गरमी, ग्रीष्म आ सरदी, दिन आ रात — ना रुकिहें।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जबतक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "धरती के"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बिजारो"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "आ कटनी"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "आ ठंडा"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "आ गरमी"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "आ ग्रीष्म"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "आ सरदी"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "आ दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आ रात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "रुकिहें"
+    }
+  ],
+  "timestamp": "2026-09-11T17:15:43.443665777Z",
+  "model": "glm-5.3"
+}

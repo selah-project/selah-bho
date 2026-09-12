@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 96,
+  "translation": "सोभा आ महिमा ओकरे सामने; बल आ सोंदर्य ओकर पबितर-घर में।",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "सोभा"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "आ महिमा"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ओकरे सामने"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "आ सोंदर्य"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "ओकर पबितर-घर में"
+    }
+  ],
+  "timestamp": "2026-09-11T21:48:27.706573695Z",
+  "model": "glm-5.3"
+}

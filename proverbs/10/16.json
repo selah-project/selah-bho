@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "धर्मी के काम जिनगी खातिर बा; बुरा के कमाई पाप खातिर बा।",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी के"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "जिनगी खातिर"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "कमाई"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "बुरा के"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप खातिर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:10.696724952Z",
+  "model": "glm-5.3"
+}

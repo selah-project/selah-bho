@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "एही से ओ जगह के नाम बेअर-शेबा (सात के बेअर या शपथ के बेअर) पड़ल, कारण कि ओहिजे दुनों शपथ खइलन।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "एही"
+    },
+    {
+      "surface": "כן",
+      "gloss": "से"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "नाम पड़ल"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ओ जगह के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ओ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेअर-शेबा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "(सात\/शपथ)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण कि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ओहिजे"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "शपथ खइलन"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुनों"
+    }
+  ],
+  "timestamp": "2026-09-11T17:21:26.509258516Z",
+  "model": "glm-5.3"
+}

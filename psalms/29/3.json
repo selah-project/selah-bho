@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 29,
+  "translation": "यहवे के आवाज पानीउपर ⟨बा⟩; महिमा के एल गरजलन; यहवे ढेर पानीउपर ⟨बाड़ें⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "उपर"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गरजलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "उपर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-09-11T21:34:07.971209656Z",
+  "model": "glm-5.3"
+}

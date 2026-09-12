@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "बेकार मनई, अवन के मनई, ओहि टेढ़ मुँह ले चलेला।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बेकार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनई"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवन के"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चलेला"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "टेढ़"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    }
+  ],
+  "timestamp": "2026-09-11T22:00:54.645379749Z",
+  "model": "glm-5.3"
+}

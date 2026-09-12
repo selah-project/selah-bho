@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 35,
+  "translation": "ऊ लोग हमरे भलाई के बदले बुराई चुकावेलें, हमर नफशी के बिछोह।",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "हमरे चुकावेलें"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "बिछोह"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "हमर नफशी के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:35:26.086911622Z",
+  "model": "glm-5.3"
+}

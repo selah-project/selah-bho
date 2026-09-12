@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 16,
+  "translation": "का आदमी आपन खातिर एलोहीम (मूरत) बनावेला, आ ऊ एलोहीम नइखन?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "का बनावेला"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आपन खातिर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "आ ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-09-11T20:28:09.622147810Z",
+  "model": "glm-5.3"
+}

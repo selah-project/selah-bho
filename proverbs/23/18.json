@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "कारण एगो अंत जरूर बा, आ तोर आसा ना काटल जाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जरूर"
+    },
+    {
+      "surface": "יש",
+      "gloss": "बा"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "एगो अंत"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "आ तोर आसा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "काटल जाई"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:55.898532023Z",
+  "model": "glm-5.3"
+}

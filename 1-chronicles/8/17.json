@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "आ ज़बद्याह, आ मशुल्लाम, आ हिज़्की, आ हाबेर।",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "आ ज़बद्याह"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "आ मशुल्लाम"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "आ हिज़्की"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "आ हाबेर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.917559823Z",
+  "model": "glm-5.3"
+}

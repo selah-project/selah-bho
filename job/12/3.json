@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "हमरो एहो मन बा, रउआ सभे नियरे; हम रउआ सभे से गिरल नइखी; आ ⟨את⟩ कवनो अइसन नइखे जइसन ई सब बात बा।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "एहो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरो"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "रउआ सभे नियरे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिरल"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "रउआ सभे से"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कवनो"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कवनो"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जइसन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई सब बात"
+    }
+  ],
+  "timestamp": "2026-09-11T23:43:05.195768789Z",
+  "model": "glm-5.3"
+}

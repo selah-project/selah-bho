@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "ओकर गिनती, दान के गोत्र खातिर, दू आ साठ हजार आ सात सौ रहल।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ओकर गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र खातिर"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "आ साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "आ सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T18:10:51.030696027Z",
+  "model": "glm-5.3"
+}

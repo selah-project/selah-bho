@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "शिमी के बेटा — शलोमोत आ खजिएल आ हारान, तीन गो। ई लादान के पिता-घर सभ के मुखिया रहलें।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "शलोमोत"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "आ खजिएल"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "आ हारान"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन गो"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "पिता-घर सभ के"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "लादान के"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:55.972257441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 22:19",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "ऊ लोग हमरा संकट के दिन में आगे आइल; आ यहवे हमरा टेक भइल।",
+  "tokens": [
+    {
+      "surface": "יקדמני",
+      "gloss": "हमरा आगे आइल"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "हमरा संकट"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आ … भइल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משען",
+      "gloss": "टेक"
+    },
+    {
+      "surface": "לי",
+      "gloss": "हमरा"
+    }
+  ],
+  "timestamp": "2026-09-11T19:31:40.438006024Z",
+  "model": "glm-5.3"
+}

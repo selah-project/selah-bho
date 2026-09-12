@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "bho",
+  "chapter": 10,
+  "translation": "बानी के बेटा सभे के मुला माअदय, अमराम आ उएल।",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "के बेटा सभे के मुला"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "माअदय"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "आ उएल"
+    }
+  ],
+  "timestamp": "2026-09-11T22:44:18.384437614Z",
+  "model": "glm-5.3"
+}

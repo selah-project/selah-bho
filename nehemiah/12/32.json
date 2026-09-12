@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ इनकरा पाछे होशेया चललन आ यहूदा के सरदारन के आधा हिस्सा।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "चललन"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "पाछे"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "होशेया"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "आ आधा हिस्सा"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारन"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-09-11T23:46:36.456216189Z",
+  "model": "glm-5.3"
+}

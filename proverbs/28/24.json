@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "जउन आपन बाप आ आमा के लूटेला आ कहेला “कवनो अपराध नइखे”, ऊ मनुका के बिगाड़े वाला के संगी होखेला।",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "लूटेला"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आपन बाप"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "आ आमा"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "आ कहेला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "संगी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मनुका के"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "बिगाड़े वाला"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:15.563320975Z",
+  "model": "glm-5.3"
+}

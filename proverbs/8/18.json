@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 8,
+  "translation": "धन आ मान-इज्जत हमरा संग ⟨את⟩ बाड़ें; पुरान-पुरान खजाना आ सजाई(-परचा)।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "आ मान-इज्जत"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "हमरा संग"
+    },
+    {
+      "surface": "הון",
+      "gloss": "खजाना"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "पुरान-पुरान"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "आ सजाई(-परचा)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:01:44.964249587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 1:31",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "एही से ऊ लोग आपन राह के फल खाइहें, आ आपन युक्तिन से ऊ सभे भर जाईहें।",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "खाइहें"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "आपन राह के"
+    },
+    {
+      "surface": "וממעצתיהם",
+      "gloss": "आ आपन युक्तिन से"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "भर जाईहें"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:46.278680166Z",
+  "model": "glm-5.3"
+}

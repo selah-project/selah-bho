@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 19,
+  "translation": "ऊ सो गइल आ एक रोतम गाछ के नीचे सुत के निदरावन कइलन; आ देखऽ — एक दूत ओकरा छुअलन आ ओकरा से कहलन: “उठ, खाओ।”",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "सो गइल"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "निदरावन कइलन"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "रोतम गाछ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "आ देखऽ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "छुअलन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकरा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "खाओ"
+    }
+  ],
+  "timestamp": "2026-09-11T19:44:05.644244739Z",
+  "model": "glm-5.3"
+}

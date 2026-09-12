@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "bho",
+  "chapter": 3,
+  "translation": "आ पवित्र-पवित्र के घर में ऊ करुबिम दू गो बनवलन, तराश के काम, आ ऊ ⟨את⟩ ओ सभे के सोना से मढ़लन।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनवलन"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्र सभ के"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करुबिम"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दू"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "तराश"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "मढ़लन"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ओ सभे (करुबिम दू गो)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना से"
+    }
+  ],
+  "timestamp": "2026-09-11T23:03:19.028264142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "आ बेरिया के बेटा: हेबेर आ मल्कीएल — ऊ बिर्जावित के पिता रहलें।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ ... के बेटा"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बेरिया"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "हेबेर"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "मल्कीएल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "के पिता"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "बिर्जावित"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:42.712444852Z",
+  "model": "glm-5.3"
+}

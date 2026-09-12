@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "आ परोह अबराम के पुकारलन आ कहलन, “का ई कइलऽ बा मोरा लागे? काहे ना बतवलऽ मोरा लागे कि ऊ रउरा घरवाही बाड़ी?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारलन"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परोह"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "अबराम के"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ई"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "कइलऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरा लागे"
+    },
+    {
+      "surface": "למה",
+      "gloss": "काहे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "बतवलऽ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मोरा लागे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "रउरा घरवाही"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "बाड़ी"
+    }
+  ],
+  "timestamp": "2026-09-11T17:18:14.954502540Z",
+  "model": "glm-5.3"
+}

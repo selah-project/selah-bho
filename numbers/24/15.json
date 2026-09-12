@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 24:15",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ ऊ आपन मसल उठइलन आ कहलन: बिलाम बेओर के बेटा के वचन, आ ओ मनुख के वचन जेकर आँख खुलल —",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठइलन"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "आपन मसल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन (भविष्यवाणी)"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बेओर"
+    },
+    {
+      "surface": "ונאם",
+      "gloss": "आ वचन"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ओ मनुख"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "खुलल"
+    },
+    {
+      "surface": "העין",
+      "gloss": "आँख"
+    }
+  ],
+  "timestamp": "2026-09-11T18:22:24.966394356Z",
+  "model": "glm-5.3"
+}

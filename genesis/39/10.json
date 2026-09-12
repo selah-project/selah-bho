@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 39,
+  "translation": "आ भइल, जब ऊ योसेफ से दिन-ब-दिन बोले, त ऊ ओकर ना मानले — ओकर संग सोए खातिर ना, ओकर संग रहे खातिर।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "आ भइल"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "जब ऊ बोले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "आ ना"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "मानले"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ओकर कथा"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "सोए खातिर"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "ओकर बगल में"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "रहे खातिर"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ओकर संग"
+    }
+  ],
+  "timestamp": "2026-09-11T17:30:36.487236592Z",
+  "model": "glm-5.3"
+}

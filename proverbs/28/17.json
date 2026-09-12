@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 28,
+  "translation": "मनुष्य जवन खून के नाप से दबावल बा, गड्ढा ले भागेला; केहू ओकर सहारा ना देवे।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "दबावल बा"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून के नाप से"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ले"
+    },
+    {
+      "surface": "בור",
+      "gloss": "गड्ढा"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भागेला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "सहारा देवे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ओकर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:08:30.358947032Z",
+  "model": "glm-5.3"
+}

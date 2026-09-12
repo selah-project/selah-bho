@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "कइसने हम एकले रउआ के कठिनाई आ रउआ के बोझ आ रउआ के झगड़ा उठावी?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कइसने"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठावी"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "हम एकले"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "रउआ के कठिनाई"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "आ रउआ के बोझ"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "आ रउआ के झगड़ा"
+    }
+  ],
+  "timestamp": "2026-09-11T18:29:00.470959527Z",
+  "model": "glm-5.3"
+}

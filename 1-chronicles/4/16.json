@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ येहल्लेलेल के बेटा रहलें: जिफ, जिफा, तिर्या आ असरेल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "येहल्लेलेल"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "आ जिफा"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "तिर्या"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "आ असरेल"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:15.715055508Z",
+  "model": "glm-5.3"
+}

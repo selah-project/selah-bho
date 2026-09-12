@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 128,
+  "translation": "रउआ के हाथ के मेहनत के फल रउआ खाब, रउआ भागा रहे, आ रउआ के भला होखे।",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "मेहनत के फल"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "रउआ के हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "काहे कि"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "रउआ खाब"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "रउआ भागा रहे"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "आ भला"
+    },
+    {
+      "surface": "לך",
+      "gloss": "रउआ के"
+    }
+  ],
+  "timestamp": "2026-09-11T21:55:39.715844779Z",
+  "model": "glm-5.3"
+}

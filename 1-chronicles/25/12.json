@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 25,
+  "translation": "पाँचवाँ नतन्याहू — ओकर बेटा आ ओकर भाई, बारह।",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचवाँ"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "नतन्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ओकर बेटा"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "आ ओकर भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह (दू)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:42.045321228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 18,
+  "translation": "आ यहवे कहलन: सदोम आ अमोरा के चीख बड़ बाड़ी, कारण इनहन के पाप बहुते भारी बा।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "चीख"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "आ अमोरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़ बाड़ी"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "आ इनहन के पाप"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "भारी बा"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुते"
+    }
+  ],
+  "timestamp": "2026-09-11T17:20:22.125004670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 30,
+  "translation": "कुंआनि — अइसन जाति जेकर ताकत नइखे, फिरउ ऊ गरमी में आपन खाना तैयार कइलें।",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "कुंआनि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नइखे"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ताकत"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "तैयार कइलें"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "गरमी में"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "आपन खाना"
+    }
+  ],
+  "timestamp": "2026-09-11T22:07:37.488739004Z",
+  "model": "glm-5.3"
+}

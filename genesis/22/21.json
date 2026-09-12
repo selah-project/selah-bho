@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "⟨את⟩ उत्स ओकर पहिला-जनम, आ ⟨את⟩ बूज ओकर भाई, आ ⟨את⟩ कमुएल, अराम के पिता।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उत्स"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ओकर पहिला-जनम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "बूज"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बूज"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ओकर भाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "आ ⟨את⟩",
+      "marks": "कमुएल"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "कमुएल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-09-11T17:22:00.628903858Z",
+  "model": "glm-5.3"
+}

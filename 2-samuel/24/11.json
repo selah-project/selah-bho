@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "आ दाऊद भोरे उठलें, आ यहवे के बचन गाद नबी — दाऊद के देखनिहार — ला आइल, कहेला —",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठलें"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "भोरे"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "आ बचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आइल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ला"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखनिहार"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहेला"
+    }
+  ],
+  "timestamp": "2026-09-11T19:32:33.090924273Z",
+  "model": "glm-5.3"
+}

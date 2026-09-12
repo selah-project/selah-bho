@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 17:14",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 17,
+  "translation": "आ हम ओका हमर घर में आ हमर राज में सदा ला खड़ा करब; आ ओकर गद्दी सदा ला टिकल रहेला।",
+  "tokens": [
+    {
+      "surface": "והעמדתיהו",
+      "gloss": "आ हम ओका खड़ा करब"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "हमर घर में"
+    },
+    {
+      "surface": "ובמלכותי",
+      "gloss": "आ हमर राज में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "आ ओकर गद्दी"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहेला"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "टिकल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदा ला"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:27.221380507Z",
+  "model": "glm-5.3"
+}

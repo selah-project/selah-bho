@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 22,
+  "translation": "लरिका के ओकर रास्ता के मुताबिक टटोलऽ; तबहूँ जब ऊ बूढ़ा होखेला, ओहिसे ओकर हटेला ना।",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "टटोलऽ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "लरिका के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के मुताबिक"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ओकर रास्ता"
+    },
+    {
+      "surface": "גם",
+      "gloss": "तबहूँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "बूढ़ा होखेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "हटेला"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ओहिसे"
+    }
+  ],
+  "timestamp": "2026-09-11T22:05:49.573131456Z",
+  "model": "glm-5.3"
+}

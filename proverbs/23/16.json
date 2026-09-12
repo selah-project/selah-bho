@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 23,
+  "translation": "आ हमार गुर्दा खुसी से उछलत जब तोहार ओठ सीध बात बोलेलें।",
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "आ खुसी से उछलत"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "हमार गुर्दा"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "जब बोलेलें"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "तोहार ओठ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सीध बात"
+    }
+  ],
+  "timestamp": "2026-09-11T22:06:32.534331Z",
+  "model": "glm-5.3"
+}

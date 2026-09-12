@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 65,
+  "translation": "मुखिया खातिर, मिज़्मोर, दाऊद खातिर, गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुखिया खातिर"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़्मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद खातिर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-09-11T21:41:31.321419077Z",
+  "model": "glm-5.3"
+}

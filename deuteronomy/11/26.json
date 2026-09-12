@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "bho",
+  "chapter": 11,
+  "translation": "देखऽ, हम आज रउआ सभे के आगे आशीस आ अभिशाप रखत बानी।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखऽ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखत बानी"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "रउआ सभे के आगे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "आशीस"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "आ अभिशाप"
+    }
+  ],
+  "timestamp": "2026-09-11T18:34:58.422156301Z",
+  "model": "glm-5.3"
+}

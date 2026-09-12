@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 24,
+  "translation": "उज्जीएल के बेटा सभ में: मीखा; मीखा के बेटा सभ में: शामूर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा सभ में"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जीएल"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटा सभ में"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "शामूर"
+    }
+  ],
+  "timestamp": "2026-09-11T22:59:39.354756160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "आ ऊ दूत लोग ओकरा लग वापस आइल; ऊ ओकरा सभे के कहलन, “का बा ई कि रउआ सभे लौट आईल ह?”",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "लौट आइल"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "दूत लोग"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा लग"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहलन"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ओकरा सभे के"
+    },
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ई"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "लौट आईल"
+    }
+  ],
+  "timestamp": "2026-09-11T19:47:26.641603900Z",
+  "model": "glm-5.3"
+}

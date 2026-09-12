@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "bho",
+  "chapter": 12,
+  "translation": "जायज लोगन के सोच-विचार न्याय होला; बदकार लोगन के चालाकी धोखा।",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "सोच-विचार"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "जायज लोगन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "चालाकी"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "बदकार लोगन"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:02:42.180752274Z",
+  "model": "glm-5.3"
+}

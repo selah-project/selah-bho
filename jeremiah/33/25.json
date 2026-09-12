@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 33,
+  "translation": "एहना कहेला यहवे: अगर हमार समझौता दिन आ रात के ⟨साथ⟩ ना रहेला, ⟨त⟩ अकास आ धरती के रिवाज हम ना रखलहुँ —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "एहना"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहेला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "हमार समझौता"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "आ रात"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "रिवाज"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "अकास"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "आ धरती"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "रखलहुँ"
+    }
+  ],
+  "timestamp": "2026-09-11T20:36:17.205140796Z",
+  "model": "glm-5.3"
+}

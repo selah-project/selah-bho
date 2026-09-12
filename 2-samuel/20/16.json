@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 20:16",
+  "book": "2-samuel",
+  "lang": "bho",
+  "chapter": 20,
+  "translation": "तऽ एक चतुर औरत सहर से पुकारली: “सुनऽ, सुनऽ! कहऽ जरा योआब से — एहिजा नजदीक आवऽ, आ हम तोहार से बात करब।”",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "पुकारली"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "औरत"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनऽ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहऽ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "जरा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "नजदीक आवऽ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "एहिजा ले"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "एहिजा"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "बात करब"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तोहार से"
+    }
+  ],
+  "timestamp": "2026-09-11T19:30:03.407520815Z",
+  "model": "glm-5.3"
+}

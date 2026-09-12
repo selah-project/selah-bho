@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "तूँ सभे यहवे के बिरुद्ध का कुचल-मंतना करऽ? ऊ पूरा नास करेला; संकट दुसरा बेरा ना उठेला।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "का"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "कुचल-मंतना करऽ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "बिरुद्ध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "पूरा नास"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करेला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ना"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "उठेला"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "दुसरा बेरा"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट"
+    }
+  ],
+  "timestamp": "2026-09-11T21:19:56.429474864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "bho",
+  "chapter": 2,
+  "translation": "आ अगर रउआ के करबान तवा पर मन्चा होखे, त ऊ तेल में मिलावल सोलत के मत्जा होखे।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "आ अगर"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मन्चा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "तवा"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "रउआ के करबान"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "सोलत"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "मिलावल"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल में"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "मत्जा"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होखे"
+    }
+  ],
+  "timestamp": "2026-09-11T17:56:41.638753145Z",
+  "model": "glm-5.3"
+}

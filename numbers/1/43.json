@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 1:43",
+  "book": "numbers",
+  "lang": "bho",
+  "chapter": 1,
+  "translation": "उनकर गिनती, नाफ़्ताली के फर्का में, तिरपन हजार आ चार सौ रहल।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनकर गिनती"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "के फर्का में"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ़्ताली"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "आ पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "आ चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-09-11T23:23:24.287657419Z",
+  "model": "glm-5.3"
+}

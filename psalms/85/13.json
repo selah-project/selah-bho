@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 85,
+  "translation": "निश्चित रूप से यहवे भलाई देहें, आ हमनी के धरती आपन फसल देही।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "निश्चित रूप से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देहें"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "आ हमनी के धरती"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देही"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "आपन फसल"
+    }
+  ],
+  "timestamp": "2026-09-11T21:46:23.932105264Z",
+  "model": "glm-5.3"
+}

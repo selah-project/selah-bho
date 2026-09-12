@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 21,
+  "translation": "आ अरनान मुड़लें आ ⟨את⟩ दूत के देखलन; आ ओकर चारि बेटा ओकर संग छिपल रहलें; आ अरनान गहूँ दौह रहलें।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "मुड़लें"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अरनान"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "आ देखलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दूत के"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "आ चारि"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ओकर संग"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "छिपल रहलें"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "आ अरनान"
+    },
+    {
+      "surface": "דש",
+      "gloss": "दौह रहलें"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "गहूँ"
+    }
+  ],
+  "timestamp": "2026-09-11T22:58:46.640045365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 36,
+  "translation": "आ मीकायाहू — गमर्याहू, शाफान के बेटा, के बेटा — किताब के ऊपर से यहवे के सब ⟨את⟩ बात सुनलन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुनलन"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "मीकायाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "गमर्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "शाफान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बात"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "किताब"
+    }
+  ],
+  "timestamp": "2026-09-11T20:37:22.164348244Z",
+  "model": "glm-5.3"
+}

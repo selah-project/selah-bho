@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 7,
+  "translation": "त्सोफख के बेटा: सुख, आ हर्नेफेर, आ शुआल, आ बेरी, आ यिमरा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटा"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोफख"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "सुख"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "आ हर्नेफेर"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "आ शुआल"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "आ बेरी"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "आ यिमरा"
+    }
+  ],
+  "timestamp": "2026-09-11T22:54:07.218637428Z",
+  "model": "glm-5.3"
+}

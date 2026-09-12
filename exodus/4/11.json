@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ यहवे ओकरा से कहलन: “कोन आदमी खातिर मुँह रखलन? अथवा कोन गूँगा बनावेला, अथवा बहरा, अथवा देखै वाला, अथवा अँधा? का हम नइखी यहवे?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "आ कहलन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ओकरा से"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "रखलन"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "आदमी खातिर"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कोन"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "बनावेला"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "गूँगा"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बहरा"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "देखै वाला"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अँधा"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "का नइखी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-09-11T23:19:16.593709069Z",
+  "model": "glm-5.3"
+}

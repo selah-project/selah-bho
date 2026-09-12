@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ चालीस आमहा के रहे ऊ घर — ऊ ही हेइखाल, ओकरे आगे।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "आ चालीस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "आमहा में"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "हेइखाल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ओकरे आगे"
+    }
+  ],
+  "timestamp": "2026-09-11T19:36:08.493400648Z",
+  "model": "glm-5.3"
+}

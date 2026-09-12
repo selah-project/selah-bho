@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "bho",
+  "chapter": 6,
+  "translation": "आ ऊ लोग ⟨את⟩ हमार जनता के टूट के एकदम आहे-आहे भर दिहलन, कहित — शलोम, शलोम! बाकिर शलोम नइखे।",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "भर दिहलन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमार जनता के टूट"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूट"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "हमार जनता के"
+    },
+    {
+      "surface": "על",
+      "gloss": "एकदम"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "आहे-आहे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहित"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शलोम"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शलोम"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "बाकिर नइखे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शलोम"
+    }
+  ],
+  "timestamp": "2026-09-11T23:34:56.220048580Z",
+  "model": "glm-5.3"
+}

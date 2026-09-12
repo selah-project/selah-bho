@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "bho",
+  "chapter": 4,
+  "translation": "आ केनाज़ के बेटा लोग: ओतनीएल आ सेरायाह; आ ओतनीएल के बेटा: हथत।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा लोग"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "केनाज़"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओतनीएल"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "आ सेरायाह"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "आ … के बेटा"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओतनीएल"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "हथत"
+    }
+  ],
+  "timestamp": "2026-09-11T23:47:09.955301416Z",
+  "model": "glm-5.3"
+}

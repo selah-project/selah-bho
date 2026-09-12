@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 89,
+  "translation": "धन्य बाड़ें यहवे सदा ले। सच, आ सच।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य बाड़ें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा ले"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "सच"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "आ सच"
+    }
+  ],
+  "timestamp": "2026-09-11T21:47:39.889673131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "bho",
+  "chapter": 114,
+  "translation": "अदोनाय के सामने से धरती, काँपऽ, याकोब के एलोअह के सामने से!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "काँपऽ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-09-11T23:41:29.388900394Z",
+  "model": "glm-5.3"
+}
