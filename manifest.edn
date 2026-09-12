@@ -1,0 +1,109 @@
+#:rendering{:label "भोजपुरी",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-11", :to "2026-09-12"},
+            :id "bho.v1",
+            :catalog {:ui nil},
+            :license "CC BY-SA 4.0 (The Selah Bhojpuri Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23208, "glm-5.3-flash" 5},
+             :tiers {"glm-5.2" 23208, "glm-5.3" 5},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/bho.md",
+             :rails-commit "42eeb1a1",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "अदोनाय",
+              "אל" "एल",
+              "אלהים" "एलोहीम",
+              "אלוה" "एलोअह",
+              "יה" "याह",
+              "יהוה" "यहवे",
+              "שדי" "शद्दय"},
+             :open-questions
+             ["B1 proper-name transliteration unnormalized in every book (Solomon 5 forms, David 3, Moses 3, Israel 6, Saul 12) — Hebrew-faithful and Hindi-tradition forms coexist"
+              "B2 Maithili/Magahi neighbour bleed the rails never named — Isa 53:5 entirely Maithili morphology; गेल 53 / भेल 40 / लागि 20 in flows"
+              "B3 ארץ split: धरती 88% / देस 7% / देश 3% — sense-tracking, ungoverned"
+              "B4 Aramaic God-word 6 forms inside Daniel"
+              "B5 अलहीम→देवता at foreign-god seats (~45 rows) — posture per zh precedent"
+              "B6-on remainder (bho-tekoa-report.md tally)"]},
+            :status :live,
+            :adjudication
+            {:chair 70,
+             :first :indenture-diaspora-belt,
+             :polarity :devanagari-guarded,
+             :seal
+             {:et-flow 11866,
+              :yat 0,
+              :narak 0,
+              :verses 23213,
+              :thermometer [0 0 0],
+              :aleph-tav [],
+              :latin 0,
+              :empty-glosses [2 2],
+              :yahweh-name-seat [6828 6828],
+              :et-row 11866,
+              :spine-vs-en [23213 23213],
+              :stray-hebrew 0,
+              :erasure [0 0 0 0 0]},
+             :tekoa
+             {:verdict
+              "DOES NOT SEAT - one mechanical repair pass away; discharged",
+              :headline
+              "the chair declared hazard did not fire - the Hindi thermometer reads zero; only 5 verses of 23,213 are actually written in Hindi",
+              :class-a-applied 1400,
+              :class-b-filed 12,
+              :report
+              "data/experiments/bho-seating/bho-tekoa-report.md"},
+             :cruxes
+             ["HINDI GUARD HELD - thermometer 0/0/0, no ergative, copula बा, first person हम; 5 Hindi verses re-pressed"
+              "homoglyph plague: 368 Devanagari letters replaced by look-alike Hebrew chars incl the presentation block - reversed by whitelist table; 60 corrupted markers normalized"
+              "surface-corruption class: 6,178 surfaces restored from the floor (points, half-transliterations, glosses in the surface field) - invisible to token-count checks; exposed a FLOOR defect (pointed surfaces at Deut 22:18 + Jer 15:6, fixed upstream)"
+              "THE CENTER VERSE: Lev 8:35 came out as -so that you will have no meaning-; now says what the Hebrew says: that you die not"
+              "חשך glossed light (अँजोर) at ~24 noun seats - cured to the अँधियार family"
+              "the seventy stayed seventy: ~20 numeral drifts restored (Jeremiah 70 years, the 62 weeks, the 127 provinces kept as lawful additive collapse)"
+              "1sg-1pl person drift: 218 glosses + 167 flows repaired with a 1pl guard"
+              "Dan 3:12 SEVENTEENTH - יתהון bare pronoun ओकनी के per siblings"
+              "lit 13:15, burned by 19:45, sealed same day - the fastest chair"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-bho",
+              :ref "v1-final",
+              :commit "cf1683cd",
+              :tags ["v1-final"],
+              :branches ["main"]},
+             :parents []},
+            :lang :bho}
